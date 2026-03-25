@@ -1,5 +1,12 @@
-
 # 🚗 Car Drag Race QA Dataset (SQuAD Format)
+
+---
+
+# 🚨🚨🚨 MORE CODE COMING SOON 🚨🚨🚨
+
+## ⚠️ Additional parts of this project will be uploaded as I get time. Stay tuned for updates!
+
+---
 
 This repository contains a fully custom-built Question Answering (QA) dataset focused on **car drag race data**, designed for fine-tuning BERT-based models (e.g., RoBERTa, BERT, DistilBERT).
 
@@ -137,4 +144,3 @@ Contributions, ideas, and improvements are welcome!
 ## 📬 Contact
 
 If you’re working on QA systems, NLP, or automotive datasets, feel free to connect or contribute.
-
