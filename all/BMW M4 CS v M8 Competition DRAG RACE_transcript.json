@@ -1,0 +1,1504 @@
+{
+  "data": [
+    {
+      "title": "BMW M4 CS v M8 Competition DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw m4 cs v m8 competition drag race _ transcript what will win in a drag race between a bmw m8 competition and a bmw m4 cs? well, we ' re going to find out by racing them over the standing quarter mile. i ' m matt watson. you ' re watching car wow. bmw m4 cs has a 3 l twinturbo straight 6, 550 horsepower, 650 new m of torque, all - wheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 1, 760 kg and costs from £117, 000. the bmw m8 competition has a 4.4 l twinturbo v8, 625 horsepower, 750 n meters of torque, all - wheel drive, and an 8 - speed automatic gearbox, also with launch control. it weighs 1, 975 kg and costs from 137, 000. hey, nick. you all right? that ' s all i heard. anyway, two bmws, the flagship of the bmw mrange. yeah. yeah. is that, for one of a better word, flagship proper m car. though to be fair, i think this could be the flagship proper m car because this m4 cs is just so good. it ' s going to be interesting to see what happens with this drag race. you got more power, you got more torque, but you got more weight. i know those things launch like crazy, but this thing launches like crazy. i ' m down two cylinders, but i ' m not sure it ' s going to matter. i think it sounds better than your car anyway. have a listen. [ music ] oh yeah. sometimes less is more. definitely is the case with this particular car. what ' s your bet? do you reckon you ' re going to win or i ' m going to win? i think i ' m going to win. oh, confident. i think i ' m going to win. should we find out? oh, before we do, if you ' re thinking about selling your car, you can do it through carway. you just upload photos of your car, brief description, then dealers all across the country will bid on your car. let ' s go with the race. three, two, [ music ] [ applause ] one. ah, what ' s going on? how is that so far [ applause ] ahead? this just absolutely took off. it is brutal. [ applause ] this shouldn '",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_1",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twinturbo straight 6,",
+                  "answer_start": 264
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_1",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twinturbo straight 6,",
+                  "answer_start": 264
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_1",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twinturbo straight 6,",
+                  "answer_start": 264
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_1",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 266
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_1",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 266
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_1",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 266
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_1",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 horsepower,",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_1",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 horsepower,",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_1",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 horsepower,",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_1",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,760 kg",
+                  "answer_start": 417
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_1",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,760 kg",
+                  "answer_start": 417
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_1",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,760 kg",
+                  "answer_start": 417
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_1",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 new m of torque,",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_1",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 new m of torque,",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_1",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 new m of torque,",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_1",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 357
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_1",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 357
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_1",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 357
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_1",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_1",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_1",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_1",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twinturbo V8,",
+                  "answer_start": 479
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8 Competition_1",
+              "question": "What is the engine type of M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twinturbo V8,",
+                  "answer_start": 479
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8_1",
+              "question": "What is the engine type of M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twinturbo V8,",
+                  "answer_start": 479
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_1",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 479
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8 Competition_1",
+              "question": "What is the engine capacity of M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 479
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8_1",
+              "question": "What is the engine capacity of M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 479
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_1",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "625 horsepower,",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8 Competition_1",
+              "question": "What is the horsepower of M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "625 horsepower,",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8_1",
+              "question": "What is the horsepower of M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "625 horsepower,",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_1",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,975 kg",
+                  "answer_start": 633
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8 Competition_1",
+              "question": "What is the weight of M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,975 kg",
+                  "answer_start": 633
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8_1",
+              "question": "What is the weight of M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,975 kg",
+                  "answer_start": 633
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_1",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 N meters of torque,",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8 Competition_1",
+              "question": "What is the torque of M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 N meters of torque,",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8_1",
+              "question": "What is the torque of M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 N meters of torque,",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_1",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 359
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8 Competition_1",
+              "question": "What is the gearbox in the M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 359
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8_1",
+              "question": "What is the gearbox in the M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 359
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_1",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8 Competition_1",
+              "question": "What is the quarter mile time of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8_1",
+              "question": "What is the quarter mile time of M8?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "t be happening. [ applause ] how was that, nick? you were a bit behind me on the launch and you stayed well behind. so, i ' ve got everything off here. should be launching as it should. launch controllers engaged and apparently working perfectly, but it just feels like i ' m just not getting all the power this engine can deliver in first gear. try brake boosting it. i think we have a winner. that was much better. okay, do you know what? i ' ll do your best. three out of five. just to give you enough scope to pick the right way to launch that car. yeah, deal. fair enough. 3 2 [ music ] 1. it ' s [ applause ] closer. come on, eddie. come on. [ music ] this is just bullet [ applause ] though just not not having it. are we? was that better? it ' s better and it ' s it ' s launching but i don ' t know if it ' s just 140 50 kilos that this weighs more than yours does but it doesn ' t get off the line as quickly. this is so quick. i said best three out of five. so you got one more race. see if you can do better. three, two, one. [ music ] close off the line. oh, it ' s [ applause ] close. oh, got [ applause ] him. now he ' s got me. he ' s blooming. got me. look at that thing go. this is just quicker. i had you off the line there, i think. let me just check with the stewards. stewart, was that launch okay? that launch was perfect. it was fine. there we go. i think i ' ve got the knack. now, what you need to do is engage launch control. let it rev up to 3, 000 and then immediately lift off the brake as it ' s still building boost. that ' s what makes this car launch the best. do you reckon we do one more? three, two, one. oh, i was a bit slow off the line there. come [ applause ] on. i ' m coming past though. oh, but it ' s when he ' s going to win. no. bye - bye. oh, nick, that was just so close. that was you beat me off the line, but somehow this car just pulled past you. yeah, i",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_409",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_409",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_409",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_409",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_409",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_409",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_409",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_409",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_409",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_409",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_409",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_409",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_409",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_409",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_409",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_409",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_409",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_409",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_409",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_409",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_409",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_409",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8 Competition_409",
+              "question": "What is the engine type of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8_409",
+              "question": "What is the engine type of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_409",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8 Competition_409",
+              "question": "What is the engine capacity of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8_409",
+              "question": "What is the engine capacity of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_409",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8 Competition_409",
+              "question": "What is the horsepower of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8_409",
+              "question": "What is the horsepower of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_409",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8 Competition_409",
+              "question": "What is the weight of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8_409",
+              "question": "What is the weight of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_409",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8 Competition_409",
+              "question": "What is the torque of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8_409",
+              "question": "What is the torque of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_409",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8 Competition_409",
+              "question": "What is the gearbox in the M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8_409",
+              "question": "What is the gearbox in the M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_409",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8 Competition_409",
+              "question": "What is the quarter mile time of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8_409",
+              "question": "What is the quarter mile time of M8?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "had everything there. i had all the power, all the torque. i had a great launch. there was nothing i could do. you just walked past. unfortunately, this is just quicker. this is insanely fast. yeah, i ' ve got to give it to you. that thing ' s the whole package, isn ' t it? wow. so then what exactly happened? well, the slow motion action replay reveals that the m4 cs1, though both cars completed the standing quarter mile in an impressive 10. 8 seconds. before our next race, a little message that could well help you if you ' re looking to buy a used car, bike, or van anytime soon. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this bmw 3 series on car vertical. it ' s got green ticks for odometer and finance, but a damage warning. why? it was previously involved in an accident and was a cat write off. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carow for 20 % off or by following the link in the description. now, back to the race. right now, we have a rolling race from 50 mph. the cars are in their most relaxed setting. so, efficient mode for the engine. we ' re in automatic mode with like the least aggressive changes. we ' re going to race over the half mile from 50 mph. i ' m going to call it in. see what happens. actually, before we do that, if you want to see a crazy saving on one of these cars through car, it ' s completely bonkers. click on the pop out banner up there or scan the qr code on screen now because i found an amazing offer through carw one of these two bmws. it ' ll blow your mind. right, let ' s race. three, two, one, go. come on, mate. kick down. there we [ music ] go. now the mh have come [ music ] [ applause ] past. it ' s not coming past at [ applause ] all. oh, and i have a horrible feeling it ' s going to stay ahead, too. whoa. well, nick, it ' s quite",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_826",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_826",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_826",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_826",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_826",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_826",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_826",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_826",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_826",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_826",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_826",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_826",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_826",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_826",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_826",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_826",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_826",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_826",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_826",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_826",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_826",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_826",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8 Competition_826",
+              "question": "What is the engine type of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8_826",
+              "question": "What is the engine type of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_826",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8 Competition_826",
+              "question": "What is the engine capacity of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8_826",
+              "question": "What is the engine capacity of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_826",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8 Competition_826",
+              "question": "What is the horsepower of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8_826",
+              "question": "What is the horsepower of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_826",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8 Competition_826",
+              "question": "What is the weight of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8_826",
+              "question": "What is the weight of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_826",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8 Competition_826",
+              "question": "What is the torque of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8_826",
+              "question": "What is the torque of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_826",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8 Competition_826",
+              "question": "What is the gearbox in the M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8_826",
+              "question": "What is the gearbox in the M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_826",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8 Competition_826",
+              "question": "What is the quarter mile time of M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8_826",
+              "question": "What is the quarter mile time of M8?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "close, but really it should have been quite close, but the other way round when you think about the positioning of these cars in the bmw range. yeah, but weirdly once we got to, you know, silly speeds 150 plus, i have a feeling this was pulling on your car. so, once we start in third, full beans mode, i might have you. uh, maybe, maybe not. we ' ll find out. now we have another rolling race from 50 mph. this time in full attack mode and a roll on in third gear. okay, let ' s do it. three, two, one, go. come on, [ music ] [ applause ] emmy. got to get him this time. he ' s not going to have me. is he coming back now? oh, it ' s ever so close. a little bit narrow. maybe too little, too late. i think this m4 cs is one of those cars where bmws are completely downplaying the numbers. and if we got this on a dyno, it ' s doing well over the claimed horsepower. yeah, absolutely. i mean, i think we ' ve had an m8. sorry, we ' ve had an m5 on the dyno and that was definitely the case. so, who ' s to say? maybe we need to do that. i mean, that ' s got over 600 horsepower, but this is driving like it ' s got 600 horsepower. it really is. what do you reckon? do you think bmw are telling lies about the actual horsepower from this cs? right, final challenge. let ' s do it. brake test. if you ' d rather watch another drag race, click on the pop out b up there or scan the qr code on screen now. if you want to see which of these cars will break in the shortest distance, stay here cuz we ' re going to do it now. 100 miles an hour full emergency stop at the line. i ' m going to get closer to really jab that brake pedal super hard. here comes the line. oh yeah. oh my god, this car stops like crazy. i ' m so impressed with this cs. it ' s just does everything so very well. it makes you wonder why on earth you ' d have the m8. um, maybe you ' ve just got a big garage to fill. i don ' t know. uh, this",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_1241",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_1241",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_1241",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_1241",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_1241",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_1241",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_1241",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_1241",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_1241",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_1241",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_1241",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_1241",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_1241",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_1241",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_1241",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_1241",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_1241",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_1241",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_1241",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_1241",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_1241",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_1241",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8 Competition_1241",
+              "question": "What is the engine type of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8_1241",
+              "question": "What is the engine type of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_1241",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8 Competition_1241",
+              "question": "What is the engine capacity of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8_1241",
+              "question": "What is the engine capacity of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_1241",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8 Competition_1241",
+              "question": "What is the horsepower of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8_1241",
+              "question": "What is the horsepower of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_1241",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8 Competition_1241",
+              "question": "What is the weight of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8_1241",
+              "question": "What is the weight of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_1241",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8 Competition_1241",
+              "question": "What is the torque of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8_1241",
+              "question": "What is the torque of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_1241",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8 Competition_1241",
+              "question": "What is the gearbox in the M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8_1241",
+              "question": "What is the gearbox in the M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_1241",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8 Competition_1241",
+              "question": "What is the quarter mile time of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8_1241",
+              "question": "What is the quarter mile time of M8?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "is a less divisive looking car, but yeah, that m4 cs is, like i said, it ' s the whole package, isn ' t it? this looks better as well. it it is the whole package. now, if you want to compare these cars qu times to everything else we ' ve ever drag raced, just click on the car logo. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_1653",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_1653",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_M4 CS_1653",
+              "question": "What is the engine type of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_1653",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_1653",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_M4 CS_1653",
+              "question": "What is the engine capacity of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_1653",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_1653",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_M4 CS_1653",
+              "question": "What is the horsepower of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_1653",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_1653",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_M4 CS_1653",
+              "question": "What is the weight of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_1653",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_1653",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_M4 CS_1653",
+              "question": "What is the torque of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_1653",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_1653",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_M4 CS_1653",
+              "question": "What is the gearbox in the M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_1653",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_1653",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_M4 CS_1653",
+              "question": "What is the quarter mile time of M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_1653",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8 Competition_1653",
+              "question": "What is the engine type of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_M8_1653",
+              "question": "What is the engine type of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_1653",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8 Competition_1653",
+              "question": "What is the engine capacity of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_M8_1653",
+              "question": "What is the engine capacity of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_1653",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8 Competition_1653",
+              "question": "What is the horsepower of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_M8_1653",
+              "question": "What is the horsepower of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_1653",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8 Competition_1653",
+              "question": "What is the weight of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_M8_1653",
+              "question": "What is the weight of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_1653",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8 Competition_1653",
+              "question": "What is the torque of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_M8_1653",
+              "question": "What is the torque of M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_1653",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8 Competition_1653",
+              "question": "What is the gearbox in the M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_M8_1653",
+              "question": "What is the gearbox in the M8?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_1653",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8 Competition_1653",
+              "question": "What is the quarter mile time of M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_M8_1653",
+              "question": "What is the quarter mile time of M8?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

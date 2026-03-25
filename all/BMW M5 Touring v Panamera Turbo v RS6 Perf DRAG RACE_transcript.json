@@ -1,0 +1,3851 @@
+{
+  "data": [
+    {
+      "title": "BMW M5 Touring v Panamera Turbo v RS6 Perf DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw m5 touring v panamera turbo v rs6 perf drag race _ transcript what will win in a drag race between an audi rs6 performance, a porsche panamera turbo se hybrid, and a bmw m5 touring? well, we ' re going to find out cuz i ' m going to race them over the stunning quarter mile. i ' m matt watson, and you ' re watching car wow. [ music ] so, let me tell you about this rs6. we got a 4 l twin turbo v8 driving all four wheels via an 8 - speed automatic gearbox with launch control. so, we ' ve got 630 horsepower, 850 new meters of torque, and this thing weighs in at 2. 1 tons. cost rew, 000. let ' s find out about the porsche from its driver. rory, tell me all about your porsche. hey, matt. yeah, my porsche is the panamera turbo se hybrid, so it ' s kind of top of the tree. got the most power here. i think it ' s 782 horsepower, the same torque as the bmw over there. so, i ' ve got 1, 000 newton meters. i think i ' m a bit lighter than the bmw by about 100 kilograms, but i ' m obviously a lot heavier than you. so, on balance, i think i probably should win. but i know that those audi ' s are actually really good at launching, especially that performance rs6. so, so what is the weight of your car? so, my car is about 2, 360 kilos. what ' s the battery capacity of the bmw and of the porsche? the porsche palamera turbo se hybrid has a 25. 9 kwh battery. and the bmw 18. 6 6 kw hybrid battery. so, the porsche has a bigger battery yet it weighs 100 kilos less. i know. what are those physics? okay. what is the price of the porsche, though? i got a feeling it ' s going to be quite a lot more expensive. yeah. so, this is the thing i can ' t really get my head around. so, this car starts at 175, 000. the bmw starts at 117, 000. and when yours was on sale, which only went off sale like last year, it was $ 120, 000. but the one i ' m sat in here, this panamera, is 195 grand. better bloody win then",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_1",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_1",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_1",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_1",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_1",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_1",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_1",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_1",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_1",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_1",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_1",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_1",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_1",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.1 tons.",
+                  "answer_start": 571
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_1",
+              "question": "What is the weight of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.1 tons.",
+                  "answer_start": 571
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_1",
+              "question": "What is the weight of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.1 tons.",
+                  "answer_start": 571
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_1",
+              "question": "What is the weight of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.1 tons.",
+                  "answer_start": 571
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_1",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new meters of torque,",
+                  "answer_start": 514
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_1",
+              "question": "What is the torque of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new meters of torque,",
+                  "answer_start": 514
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_1",
+              "question": "What is the torque of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new meters of torque,",
+                  "answer_start": 514
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_1",
+              "question": "What is the torque of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new meters of torque,",
+                  "answer_start": 514
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_1",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 435
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_1",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 435
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_1",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 435
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_1",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 435
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_1",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_1",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_1",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_1",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_1",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "782 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_1",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "782 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_1",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "782 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_1",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "782 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_1",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "782 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_1",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,360 kilos.",
+                  "answer_start": 1233
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_1",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,360 kilos.",
+                  "answer_start": 1233
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_1",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,360 kilos.",
+                  "answer_start": 1233
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_1",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,360 kilos.",
+                  "answer_start": 1233
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_1",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,360 kilos.",
+                  "answer_start": 1233
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_1",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 Newton meters.",
+                  "answer_start": 893
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_1",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 Newton meters.",
+                  "answer_start": 893
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_1",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 Newton meters.",
+                  "answer_start": 893
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_1",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 Newton meters.",
+                  "answer_start": 893
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_1",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 Newton meters.",
+                  "answer_start": 893
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_1",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_1",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_1",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_1",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_1",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_1",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_1",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_1",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_1",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_1",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_1",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8,",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8,",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8,",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_1",
+              "question": "What is the engine type of M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8,",
+                  "answer_start": 384
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_1",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_1",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_1",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_1",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower",
+                  "answer_start": 820
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_1",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_1",
+              "question": "What is the weight of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_1",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_1",
+              "question": "What is the torque of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_1",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 437
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 437
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 437
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_1",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 437
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_1",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_1",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". let ' s move on to the bmw. so, go on, tommy. give us a stats. so, the bmw m5 touring that i ' m in today has 727 horsepower and 1, 000 new m of torque. 8 - speed automatic gearbox, 4.4 l twin turbo v8, four - wheel drive, and it weighs in at 2. 5 tons. and as roy has already said, it costs from £17, 000, which actually when you think about all the gadgetry on board, it ' s decent, isn ' t it? that price. the price isn ' t bad. it ' ll be an interesting race. obviously, the panamera has a pdk gearbox. you have a zf8 speed, and i also have a zf8 speed, which isn ' t like the snappiest gearbox in the world. so, i think the shifts is where the panamera is probably going to have us. oh, mate, i tell you what, you came back then, you came back strong with some like some proper car geek facts there. well done, tommy. are you going to come back strong in the race or are you going to just like lead from the front? we ' re going to find out in a moment. before then though, we ' re going to do the customary car sound check. so, i ' m going to rev up my audi and introduce you all to the famous audi soft limiter. they love a soft limiter over at audi. he started revving it yet. windows down, guys. windows down. is there anything? nothing. yeah. there we go. i can ' t hear it. go and do yours then, rory. should i do launch control? yeah, it ' s not a dual clutch launch control. you can do it. and let ' s um have a win for the bmw then, tommy. one nil to the bmw. okay. now, if you ' re thinking about buying a new car cuz you want something sexy like one of these and you need to sell your old car, you can do it through car. it ' s super easy. you just upload some photos, give a brief description, and dealers all across the country will bid on your car. if you want to do that right now, click on the pop out banner or scan the qr code or find the link in the description. just keep",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_406",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_406",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_406",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_406",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_406",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_406",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_406",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_406",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_406",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_406",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_406",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_406",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_406",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_406",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_406",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_406",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_406",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_406",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_406",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_406",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_406",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_406",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_406",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_406",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_406",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_406",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_406",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_406",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_406",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_406",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_406",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_406",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_406",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_406",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_406",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_406",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_406",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_406",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_406",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_406",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_406",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_406",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_406",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_406",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "PDK gearbox.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_406",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "PDK gearbox.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_406",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "PDK gearbox.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_406",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "PDK gearbox.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_406",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "PDK gearbox.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_406",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_406",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_406",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_406",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_406",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_406",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_406",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_406",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_406",
+              "question": "What is the engine type of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_406",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_406",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_406",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_406",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 184
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_406",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_406",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_406",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_406",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_406",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 tons.",
+                  "answer_start": 248
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_406",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 tons.",
+                  "answer_start": 248
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_406",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 tons.",
+                  "answer_start": 248
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_406",
+              "question": "What is the weight of M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 tons.",
+                  "answer_start": 248
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_406",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new m of torque.",
+                  "answer_start": 134
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_406",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new m of torque.",
+                  "answer_start": 134
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_406",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new m of torque.",
+                  "answer_start": 134
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_406",
+              "question": "What is the torque of M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new m of torque.",
+                  "answer_start": 134
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_406",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_406",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_406",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_406",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_406",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_406",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_406",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_406",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "that in your memory for when you do sell your car if you ' re not thinking about selling right now. and you can just google help me carow and then you can just go straight there. i ' ve got a special page set up where me and my team will help you sell your car and get a good price for it. i ' m ready whenever everyone else is ready. three, two, one. god, that porsche is quick. [ applause ] oh my goodness. that is a lot faster than this. blime me. there ' s your extra 55 grand. [ applause ] oh. oh, i ' m coming back at the audi. that bmw is coming back. i ' m coming back at the audi. i ' m coming back at the audi. [ applause ] i got good launch. it ' s a quattro allwheel drive. great launches, but that porsche just walked past. yeah, it kind of feels that ' s where the money is, isn ' t it really? that was so much faster. there wasn ' t much of a race, but i didn ' t really see who won between the audi and the bmw in the end. it was definitely the audi, but the bmw was closing the gap, wasn ' t it? yeah, it started to. i think we all got a pretty good launch that time as well, so i don ' t know how that ' s going to change. should we try again? right, let ' s go again. do you like the color on the panamera, matt? yeah, it ' s beautiful, isn ' t it? it ' s quite interesting. we ' ve got some nice colored cars for a change. normally people who actually buy these cars, they just go like black or like silver, but we ' ve got blue, bronze, and red. make for a good thumbnail. 3 2 1. oh, tommy got a good launch. i got a good launch. oh my goodness, that porsche is fast. um, and the porsche is just too quick. he just beat me off the line, but there ' s nothing you can do. you struggled again then, tommy. i thought i left the line at the same time as everyone. it was just slow. there is a knack to launching those cuz yeah, you did launch about the same time as us. and i ' m actually going to get nick to drive it",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_810",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_810",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_810",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_810",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_810",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_810",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_810",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_810",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_810",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_810",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_810",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_810",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_810",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_810",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_810",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_810",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_810",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_810",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_810",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_810",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_810",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_810",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_810",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_810",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_810",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_810",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_810",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_810",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_810",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_810",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_810",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_810",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_810",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_810",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_810",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_810",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_810",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_810",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_810",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_810",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_810",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_810",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_810",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_810",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_810",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_810",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_810",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_810",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_810",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_810",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_810",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_810",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_810",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_810",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_810",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_810",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_810",
+              "question": "What is the engine type of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_810",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_810",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_810",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_810",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_810",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_810",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_810",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_810",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_810",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_810",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_810",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_810",
+              "question": "What is the weight of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_810",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_810",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_810",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_810",
+              "question": "What is the torque of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_810",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_810",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_810",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_810",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_810",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_810",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_810",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_810",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "because he knows there ' s there ' s a technique. you actually have to hold it on boost for the very shortest period of time ever. ah, you see, i didn ' t know that. let ' s see if i ' m right cuz nick ' s got this car tamed. i ' m just going to let him do one race. okay. 5 minutes later. so, nick, i ' m right, aren ' t i? in thinking you managed to understand. you ' re like the bmw m5 whisperer, aren ' t you? yeah. yeah. and uh and i can do all that despite having never driven this car before in my life. so, we ' ll see how this goes. oh, it wasn ' t you. who? it must have been sam. where ' s sam when you need him? i don ' t know. i guess i ' m just more committed to the role. okay, tommy. i might have to take it all back. i ' m just this is this is embarrassing for me. let ' s just um let ' s just see how it plays out. don ' t hold it on boost for very long. i feel like that ' s counterproductive cuz i tried that the second time and it didn ' t work. i don ' t know if that ' s right now. i ' m all confused. 3 2 1 oh, he did. oh, he did. oh, it ' s close. come on. hello. no, he ' s coming back. yes. yes. i forgotten about the porsche. that ' s gone. there we go. oh. [ applause ] i love the spoiler on the panamera. i got distracted with it. yes, you are the bmw whisperer. did tommy not beat you? no, he didn ' t. did you beat me? oh, yeah. yeah, definitely. oh, no. i don ' t think this car is going to go any quicker. we all launched pretty much together. i don ' t know. we ' ll call it on the line. i think you might have done. we ' re just going to say that ' s the end race. let ' s do it. yeah, fine by me. i totally forgot about the porsche. you weren ' t even in the race. you were in an earlier race. so then what exactly happened? well, the porsche",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_1231",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_1231",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_1231",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_1231",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_1231",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_1231",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_1231",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_1231",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_1231",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_1231",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_1231",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_1231",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_1231",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_1231",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_1231",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_1231",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_1231",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_1231",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_1231",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_1231",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_1231",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_1231",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_1231",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_1231",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_1231",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_1231",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_1231",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_1231",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_1231",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_1231",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_1231",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_1231",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_1231",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_1231",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_1231",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_1231",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_1231",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_1231",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_1231",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_1231",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_1231",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_1231",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_1231",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_1231",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_1231",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_1231",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_1231",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_1231",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_1231",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_1231",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_1231",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_1231",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_1231",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_1231",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1231",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1231",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_1231",
+              "question": "What is the engine type of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_1231",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1231",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1231",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_1231",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_1231",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1231",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1231",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_1231",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_1231",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1231",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1231",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_1231",
+              "question": "What is the weight of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_1231",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1231",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1231",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_1231",
+              "question": "What is the torque of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_1231",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1231",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1231",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_1231",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_1231",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1231",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1231",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_1231",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "won. it completed the standing quarter mile in 10. 8 seconds. the photo finish reveals that the bmw just beat the audi for both cars crossed the line in a time of 11. 4 seconds. um, so tommy, good to have you back. it ' s good to be back. how do you feel? this the same as i did before. to get it to launch well, you have to like pre - launch it. so, get it ready, put it in launch mode, come off, let the starter start, and then get back in launch mode. and then it like locks the car in. yeah, i think you don ' t have it on boost for very long. it ' s just like for a split second like go with it. otherwise, it kind of reduces boost. anyhow, what we ' re going to do now is just go into like normal driving mode. so, i think if you press your m1 button, it ' ll just go into just comfort setting or whatever. um, you do the same, rory. just go in whatever mode would be your comfort setting. i ' m going in comfort mode. automatic mode for the gearboxes. and then we ' re going to race from 50 mph over the half mile. i ' ll call it in. okay. 3 2 1 go. hybrid took off. oh my god, this is quick. oh, here we go. [ applause ] why isn ' t that porsche catching the bmw? come on, porsche. [ applause ] oh my god. what the hell is happening? what ' s happening? i can ' t believe i ' m losing. not being dropped by the porsche. what ' s going on, [ applause ] rory? it was almost like you forgot to race. yeah. i mean, we were quite neck and neck going off, but then genuinely it just left me for dead. i ' m like i ' m wondering whether in hybrid mode you actually have less power available than if i was in like sport plus because that bmw just beat me quite easily. i know. i thought you going to absolutely drop me but you well it did drop me a bit but not terribly. obviously the hybrid shot off with the electric power but wasn ' t quite what i was expecting. let ' s go fully sport mode and manual mode for the gearbox. okay, roll on third gear from 50 mph. let ' s have a go. 3 2 1 go.",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_1639",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_1639",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_1639",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_1639",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_1639",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_1639",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_1639",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_1639",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_1639",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_1639",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_1639",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_1639",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_1639",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_1639",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_1639",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_1639",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_1639",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_1639",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_1639",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_1639",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_1639",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_1639",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_1639",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_1639",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_1639",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_1639",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_1639",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_1639",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_1639",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_1639",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_1639",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_1639",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_1639",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_1639",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_1639",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_1639",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_1639",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_1639",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_1639",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_1639",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_1639",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_1639",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_1639",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_1639",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_1639",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_1639",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_1639",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_1639",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_1639",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 51
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_1639",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 51
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_1639",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 51
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_1639",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 51
+                }
+              ]
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_1639",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 51
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_1639",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1639",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1639",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_1639",
+              "question": "What is the engine type of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_1639",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1639",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1639",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_1639",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_1639",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1639",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1639",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_1639",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_1639",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1639",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1639",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_1639",
+              "question": "What is the weight of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_1639",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1639",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1639",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_1639",
+              "question": "What is the torque of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_1639",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1639",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1639",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_1639",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_1639",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1639",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1639",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_1639",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 167
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "where ' s the power? oh, this car is really quick. yeah, here we go. come on. now, the porsche is going now. and i feel like the porsche is about to come past. oh, hello, porsche. oh, come on. come on. come on. [ applause ] [ applause ] that was so interesting. again, obviously you two shot off and i thought the porsche was going to smash the bmw, but it was close, wasn ' t it? yeah. again, the bmw went off first and then i caught him more quickly and i did overtake him. i definitely had all of my available 782 horsepower that time and i did win, but these cars are actually quite close on a roll. yeah, because tommy in the drag race it wasn ' t like it was close at all. wonder if that ' s to do with like the porsche ' s gearbox or just porsches are just great at finding traction. if anyone wants to like provide any insight to that, that ' d be wonderful. i like didn ' t hear anything you said. it was just a load of bollocks to tell you the truth, tommy. did it feel fast? yeah, this feels this feels fast. i ' m not sure, but i was wondering what state of charge is the porsche at. oh, yeah. i ' ve got full battery cuz obviously it ' s charging itself up as we go. so, yeah, it ' s it ' s definitely as good as it can be. i thought it was going to walk me like i genuinely thought with the gearbox, with the battery, with the weight. i thought it was going to tear, but you came past me eventually. do you know what you two should do? you should have a electric only drag race. why not? right now, we have a brake test from 100 mph. when we reach line, full emergency stop. car that stops in the shortest distance wins. if you ' d rather watch another drag race with the new bmw m5, then click on the pop out banner or scan the qr code on screen now. if not, stay here for the brick test. uh, i wasn ' t expecting that. porsches normally win brake tests, but audi wins. one simple single victory for the audi. bmw actually did better than i thought it would. i think this is a weight helped you a lot. i ' m i ' m",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_2068",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_2068",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_2068",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_2068",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_2068",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_2068",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_2068",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_2068",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_2068",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_2068",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_2068",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_2068",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_2068",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_2068",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_2068",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_2068",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_2068",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_2068",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_2068",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_2068",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_2068",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_2068",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_2068",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_2068",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_2068",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_2068",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_2068",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_2068",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_2068",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_2068",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_2068",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_2068",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_2068",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_2068",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_2068",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_2068",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_2068",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_2068",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_2068",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_2068",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_2068",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_2068",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_2068",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_2068",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_2068",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_2068",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_2068",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_2068",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_2068",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_2068",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_2068",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_2068",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_2068",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_2068",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_2068",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_2068",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_2068",
+              "question": "What is the engine type of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_2068",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_2068",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_2068",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_2068",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_2068",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_2068",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_2068",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_2068",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_2068",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_2068",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_2068",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_2068",
+              "question": "What is the weight of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_2068",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_2068",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_2068",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_2068",
+              "question": "What is the torque of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_2068",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_2068",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_2068",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_2068",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_2068",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_2068",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_2068",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_2068",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "not sure what happened here. that porsche is doing everything you would not expect it to do today. just confusing. it ' s something to do with the color. surely, we ' re not finished yet because you need to do your electric only drag race. you up for it? let ' s do it. you ' re not allowed to let your petrol engine kick in. i ' m going to just drive along the side. are you okay? just to see what happens. three, two, one. hey, cheater. come on. [ applause ] no, no. clearly the electric powertrain on this car is just more efficient, more powerful. look at that. look at that. he ' s drinking a water. i was drinking all the way down the runway. so, yours was easier to keep in electric only mode. and rory, yours clearly wasn ' t. yeah, you got to feather it and then just get the little blue bars like a game. it ' s harder than actually doing a normal drag race by a long way. don ' t say that. doing drag racing um requires a lot of skill, rory. remember that. okay. sorry. yeah, we have spent hours with racing driver sam um to get where we are today. listen, tommy, thank you very much for coming along and driving the bmw and driving it so beautifully, especially in electric only mode. i love your work. anytime. anytime. listen, thanks very much for watching the video. if you want some other videos, click on the video windows. and if you want to compare these cars quarter mile times to everything else we ' ve ever drag raced, then just click on the car logo. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi RS6 performance_2490",
+              "question": "What is the engine type of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_2490",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_Audi_2490",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Type_RS6_2490",
+              "question": "What is the engine type of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi RS6 performance_2490",
+              "question": "What is the engine capacity of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_2490",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_Audi_2490",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Engine Capacity_RS6_2490",
+              "question": "What is the engine capacity of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi RS6 performance_2490",
+              "question": "What is the horsepower of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_2490",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_Audi_2490",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Horsepower_RS6_2490",
+              "question": "What is the horsepower of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi RS6 performance_2490",
+              "question": "What is the weight of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_2490",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_Audi_2490",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Weight_RS6_2490",
+              "question": "What is the weight of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi RS6 performance_2490",
+              "question": "What is the torque of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_2490",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_Audi_2490",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Torque_RS6_2490",
+              "question": "What is the torque of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi RS6 performance_2490",
+              "question": "What is the gearbox in the Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_2490",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_Audi_2490",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Gearbox_RS6_2490",
+              "question": "What is the gearbox in the RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi RS6 performance_2490",
+              "question": "What is the quarter mile time of Audi RS6 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_2490",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_Audi_2490",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 performance_Quarter Mile Time_RS6_2490",
+              "question": "What is the quarter mile time of RS6?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche Panamera Turbo SE hybrid_2490",
+              "question": "What is the horsepower of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_2490",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_2490",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Porsche_2490",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Horsepower_Panamera_2490",
+              "question": "What is the horsepower of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche Panamera Turbo SE hybrid_2490",
+              "question": "What is the weight of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_2490",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_2490",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Porsche_2490",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Weight_Panamera_2490",
+              "question": "What is the weight of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche Panamera Turbo SE hybrid_2490",
+              "question": "What is the torque of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_2490",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_2490",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Porsche_2490",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Torque_Panamera_2490",
+              "question": "What is the torque of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche Panamera Turbo SE hybrid_2490",
+              "question": "What is the gearbox in the Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_2490",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_2490",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Porsche_2490",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Gearbox_Panamera_2490",
+              "question": "What is the gearbox in the Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche Panamera Turbo SE hybrid_2490",
+              "question": "What is the quarter mile time of Porsche Panamera Turbo SE hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_2490",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_2490",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Porsche_2490",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Panamera Turbo SE hybrid_Quarter Mile Time_Panamera_2490",
+              "question": "What is the quarter mile time of Panamera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_2490",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_2490",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_2490",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_M5_2490",
+              "question": "What is the engine type of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_2490",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_2490",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_2490",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_M5_2490",
+              "question": "What is the engine capacity of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_2490",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_2490",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_2490",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_M5_2490",
+              "question": "What is the horsepower of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_2490",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_2490",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_2490",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_M5_2490",
+              "question": "What is the weight of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_2490",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_2490",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_2490",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_M5_2490",
+              "question": "What is the torque of M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_2490",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_2490",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_2490",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_M5_2490",
+              "question": "What is the gearbox in the M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_2490",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_2490",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_2490",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_M5_2490",
+              "question": "What is the quarter mile time of M5?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

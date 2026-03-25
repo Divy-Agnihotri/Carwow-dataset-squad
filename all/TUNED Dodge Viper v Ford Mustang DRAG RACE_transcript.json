@@ -1,0 +1,613 @@
+{
+  "data": [
+    {
+      "title": "TUNED Dodge Viper v Ford Mustang DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "tuned dodge viper v ford mustang drag race _ transcript what will win between a previous generation ford mustang gt that has been fitted with a supercharger and now has 850 horsepower or a fifth generation dodge viper gtc? well, we ' re going to find out cuz we ' re going to race them over the standing quarter mile. i ' m watson and you ' re watching car wow. the ford mustang cs850 has a 5 l supercharged v8 that normally makes 454 horsepower, but it has been tuned by clive sutton. upgrades include a whipple supercharger, intercooler, and a new exhaust. so, it now puts out 850 horsepower and 92 newton meters of torque. it sends all that power to the rear wheels via a six - speed manual gearbox, and the car weighs in at around 1, 900 kg. it cost 115, 000 when new, including all the upgrades. this dodge viper gtc has also been tuned. its 8. 4 4 l naturally aspirated v10 has a new exhaust. so rather than developing 654 horsepower, it now puts out 710 horsepower and 786 new m of torque. it sends his power to the rear wheels via a six - speed manual gearbox, and it weighs in at 1, 560 kg. it cost him around £7, 000 when new. do you know what? this mustang feels like an absolute beast. i ' m not even driving it. it just seems powerful. so too is the manual gear shift in it. so solid. a real nice tight shift, but it ' s got some absolute weight to it. let ' s find out about the viper from its driver, racing driver samuel. > > hello, sam. how ' s your slice of american pie? > > do you know what? i absolutely love the viper. it ' s such a cool car. > > oh, i love it, too. i especially like the fact you ' ve got a little nurburg ring sign your winglets. > > yeah, that gives it validation, doesn ' t it? > > it does. would you like to hoon that round the nurburg ring? i could think of nothing scarier. > > oh, most certainly not. > > what do you think ' s going to happen? both very powerful. one ' s naturally aspirated, the other ' s supercharged. i ' ve got more power and torque, but i ' ve",
+          "qas": [
+            {
+              "id": "Ford Mustang GT CS850_Engine Type_Ford Mustang GT CS850_1",
+              "question": "What is the engine type of Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L supercharged V8",
+                  "answer_start": 389
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang GT CS850_Engine Capacity_Ford Mustang GT CS850_1",
+              "question": "What is the engine capacity of Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 391
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang GT CS850_Horsepower_Ford Mustang GT CS850_1",
+              "question": "What is the horsepower of Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 horsepower",
+                  "answer_start": 169
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang GT CS850_Weight_Ford Mustang GT CS850_1",
+              "question": "What is the weight of Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,900 kg.",
+                  "answer_start": 738
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang GT CS850_Torque_Ford Mustang GT CS850_1",
+              "question": "What is the torque of Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "92 Newton meters of torque.",
+                  "answer_start": 598
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang GT CS850_Gearbox_Ford Mustang GT CS850_1",
+              "question": "What is the gearbox in the Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox,",
+                  "answer_start": 681
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang GT CS850_Quarter Mile Time_Ford Mustang GT CS850_1",
+              "question": "What is the quarter mile time of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Type_Dodge Viper GTC_1",
+              "question": "What is the engine type of Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L naturally aspirated V10",
+                  "answer_start": 850
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Capacity_Dodge Viper GTC_1",
+              "question": "What is the engine capacity of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Horsepower_Dodge Viper GTC_1",
+              "question": "What is the horsepower of Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "710 horsepower",
+                  "answer_start": 169
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Weight_Dodge Viper GTC_1",
+              "question": "What is the weight of Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,560 kg.",
+                  "answer_start": 1092
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Torque_Dodge Viper GTC_1",
+              "question": "What is the torque of Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "786 new m of torque.",
+                  "answer_start": 976
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Gearbox_Dodge Viper GTC_1",
+              "question": "What is the gearbox in the Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox,",
+                  "answer_start": 681
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Quarter Mile Time_Dodge Viper GTC_1",
+              "question": "What is the quarter mile time of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "got more weight and less skill. > > yeah, yours is more modern. you ' ve got launch control. i ' ve got 700 horsepower. you ' ve got what, 1500, something like that. something crazy. > > it ' s 850. hence the name of the car called the clifson 850 tuned by clive. launch control is sort of just it holds the revs up 4 and a half, which i could probably just do my foot anyway. and then i ' m just going to dump the clutch and see what happens. > > yeah, but it ' s the dumping of the clutch where that gets clever. i think it ' s cuz it, you know, you can just does it not? am i wrong? i don ' t know. > > i think it ' s just like a rev hold. i ' m sure people from america will be commenting now telling me, but i ' m pretty sure it just holds the revs. > > well, if it just dumps the clutch, then i take away my launch control argument. but yours is more modern with more power. so, yeah. > > okay. that ' s the book of excuses. now, just i heard it closing then after a brief reading from it. it ' s a very heavy book. anyway, before we um find out what actually happens, let ' s let ' s do a sound check cuz this is going to be epic. going to put my wind out down. [ music ] soft limits up at five. but it ' s this bit here. just that bit there. oh, so good. go on. do yours. > > on any other day, that would have won. > > it doesn ' t now. yeah. oh my god, that is so good. so, i love the gear shift in this. it ' s so big and waste. you ' ve driven this already, haven ' t you? you know what i mean? it ' s really precise, but really heavy. it ' s like you ' re wrestling the car. what ' s it like in that? it ' s very agricultural. it ' s a bit strange cuz the the shift is like slanted towards you. so, it ' s in a weird position for your body to change. it ' s not just bolt upright, but it feels quite good. it ' s precise. > > okay. right. hopefully,",
+          "qas": [
+            {
+              "id": "Ford Mustang GT CS850_Engine Type_Ford Mustang GT CS850_411",
+              "question": "What is the engine type of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Engine Capacity_Ford Mustang GT CS850_411",
+              "question": "What is the engine capacity of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Horsepower_Ford Mustang GT CS850_411",
+              "question": "What is the horsepower of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Weight_Ford Mustang GT CS850_411",
+              "question": "What is the weight of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Torque_Ford Mustang GT CS850_411",
+              "question": "What is the torque of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Gearbox_Ford Mustang GT CS850_411",
+              "question": "What is the gearbox in the Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Quarter Mile Time_Ford Mustang GT CS850_411",
+              "question": "What is the quarter mile time of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Type_Dodge Viper GTC_411",
+              "question": "What is the engine type of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Capacity_Dodge Viper GTC_411",
+              "question": "What is the engine capacity of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Horsepower_Dodge Viper GTC_411",
+              "question": "What is the horsepower of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Weight_Dodge Viper GTC_411",
+              "question": "What is the weight of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Torque_Dodge Viper GTC_411",
+              "question": "What is the torque of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Gearbox_Dodge Viper GTC_411",
+              "question": "What is the gearbox in the Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Quarter Mile Time_Dodge Viper GTC_411",
+              "question": "What is the quarter mile time of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "there ' s going to be no money shifts then. let ' s get on with this race. see what happens. what ' s your money on? > > i love the viper. viper ' s going to win. i ' m gonna give it everything i can. > > i think this is going to win. > > three, two, one. [ music ] it dropped. it ' s pulling it back in. maybe a bit. oh no. nice launch there, samuel. mine bogged a little bit off the line. > > yeah. you see, that ' s my um gripe with these launch controls in manuals. they don ' t give enough revs, i don ' t think. > > right. i ' m going to add more revs. let me go into launch control. rpm. okay. let ' s ratchet it up. i ' m going to do it five and a half now, not four and a half. give me another shot. > > i ' m tired. we ' ve had a great day. um, that ' s it really. viper one. oh, > > sam, you do have uh so there ' s hill hold in your settings and basically i was just talking to the owner. your brakes are slightly coming on on the gear changes. you might have felt it. and it ' s basically because it thinks that you ' re on a hill. so, it applies the brakes slightly. you can turn it off. > > all right. hey, can you get the adult to come over then? show me what that is. what? what do i need to push? > > we don ' t need you being any faster. > > setting. > > that is the weirdest thing. why would it do that though? why would it think, okay, i ' m going to put the the brake on a little bit between gear changes? why would it think what that was ever a good idea? > > because of the how hard it jerks when you shift gears. it thinks it ' s on a hill. and so that ' s why he turned on the brakes and then turns it back off again. > > editor, when you do this, put in the bit where vin diesel goes, it had so much torque. > > the chassis twisted coming off the line. > > see what i did there, matt? i did your job. you are",
+          "qas": [
+            {
+              "id": "Ford Mustang GT CS850_Engine Type_Ford Mustang GT CS850_830",
+              "question": "What is the engine type of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Engine Capacity_Ford Mustang GT CS850_830",
+              "question": "What is the engine capacity of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Horsepower_Ford Mustang GT CS850_830",
+              "question": "What is the horsepower of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Weight_Ford Mustang GT CS850_830",
+              "question": "What is the weight of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Torque_Ford Mustang GT CS850_830",
+              "question": "What is the torque of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Gearbox_Ford Mustang GT CS850_830",
+              "question": "What is the gearbox in the Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Quarter Mile Time_Ford Mustang GT CS850_830",
+              "question": "What is the quarter mile time of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Type_Dodge Viper GTC_830",
+              "question": "What is the engine type of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Capacity_Dodge Viper GTC_830",
+              "question": "What is the engine capacity of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Horsepower_Dodge Viper GTC_830",
+              "question": "What is the horsepower of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Weight_Dodge Viper GTC_830",
+              "question": "What is the weight of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Torque_Dodge Viper GTC_830",
+              "question": "What is the torque of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Gearbox_Dodge Viper GTC_830",
+              "question": "What is the gearbox in the Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Quarter Mile Time_Dodge Viper GTC_830",
+              "question": "What is the quarter mile time of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "redundant. can you drive both cars simultaneously, sam? as well, > > i definitely sound like a video. > > 3 2 1 come on. oh, we got him. [ music ] we got him. > > i uh had a bit of a misshift into third and i got a bit too much wheel spin, but you did a better job, i think, sir. > > actually, i think it went better with lower re. let ' s go again. do you know when i was saying to you, \" oh, the launch control doesn ' t do anything. \" i think i ' m wrong because i ' ve turned traction control off and it spins up its wheels now. that ' s it. i think it might get a better launch if i don ' t give it too much power, but get a bit more wheel spin because it was just bogging a bit. so, let ' s try this. > > 3 2 1 [ music ] > > come on. come on, girl. come on. come on. we got him. we beat the racing driver, sam. yes. [ music ] > > i take it all back. you were right. so, we both won. > > winner takes all. > > nah, let ' s leave it there. > > absolutely not. > > no, no, no, no, no, no, no. winner takes all. you know the rules. don ' t shake your head. > > i ' ll tell you what, sam. what we ' ll do is maybe at the end of the drag race, we might do it again. seeing as you mshifted in that one race, we ' ll call that as not a race. so, it ' s one each. and maybe at the moment, if i ' m feeling charitable, maybe at the end, we ' ll do another drag race. > > okay. deal. deal. > > so then what exactly happened? well, it was close, but the slow motion replay reveals that the ford won. both cars completed the standing / 4 mile in 12. 6 seconds. right now, we ' re going to have a rolling race and we ' re going to do a roll in in second gear. it ' s going to be around 40 mph. i ' ll call it in and we ' re going to race over the half mile. 3 2 1 go. i don",
+          "qas": [
+            {
+              "id": "Ford Mustang GT CS850_Engine Type_Ford Mustang GT CS850_1251",
+              "question": "What is the engine type of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Engine Capacity_Ford Mustang GT CS850_1251",
+              "question": "What is the engine capacity of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Horsepower_Ford Mustang GT CS850_1251",
+              "question": "What is the horsepower of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Weight_Ford Mustang GT CS850_1251",
+              "question": "What is the weight of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Torque_Ford Mustang GT CS850_1251",
+              "question": "What is the torque of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Gearbox_Ford Mustang GT CS850_1251",
+              "question": "What is the gearbox in the Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Quarter Mile Time_Ford Mustang GT CS850_1251",
+              "question": "What is the quarter mile time of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Type_Dodge Viper GTC_1251",
+              "question": "What is the engine type of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Capacity_Dodge Viper GTC_1251",
+              "question": "What is the engine capacity of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Horsepower_Dodge Viper GTC_1251",
+              "question": "What is the horsepower of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Weight_Dodge Viper GTC_1251",
+              "question": "What is the weight of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Torque_Dodge Viper GTC_1251",
+              "question": "What is the torque of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Gearbox_Dodge Viper GTC_1251",
+              "question": "What is the gearbox in the Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Quarter Mile Time_Dodge Viper GTC_1251",
+              "question": "What is the quarter mile time of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "' t know where to put that. oh dear. oh. oh, he ' s coming. he ' s coming. he ' s coming. come on, girl. come on, girl. [ music ] oh, he ' s coming. he ' s coming. he might be coming. i don ' t know. come on. come on. oh no. he ' s going to just do me. > > okay, sam, keep driving. i ' m just going to let my brakes cool a bit cuz this is a heavy car. did you hear that like kind of like scraping sound when you were braking? > > no, my front splitter was doing a lot of work. that was amazing. the gearing of this is so different to that. it ' s incredible. > > it ' s just bizarre. it ' s like i ' ve totally got him. no, i haven ' t got him. oh, yes. i think i ' ve definitely got him. no, i haven ' t got him, actually. > > but um i won. > > and you won. yeah. okay, let ' s do it again, but in a higher gear. okay. like a real light top gear from 50 mph. > > all right. i might come past you at the very end. > > hey, if you ' re liking this car, you can buy it now on clive sutton. okay, it ' s available. we ' ve got a link in the description of the video. head over there. it ' s quite an experience. so, you ' re having a little bit of kind of maintenance. > > just getting a couple of turns of wing. > > little less downforce. that should do the job. okay. so, this time we ' re going to race from 50. we ' ll get them into sixth gear and just roll on and see what happens. it ' s all about the torque. now, i found a great deal on a ford car. wow. if you want to find out what the car is and the deal, click on the pop out banner there or scan the qr code on screen. now, i ' m there. are you? you ready? this is bogging already. 3 2 1 go. what? i ' m not on boost. get some boost. > > that will be 8.4 l for you. i ' m not on",
+          "qas": [
+            {
+              "id": "Ford Mustang GT CS850_Engine Type_Ford Mustang GT CS850_1668",
+              "question": "What is the engine type of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Engine Capacity_Ford Mustang GT CS850_1668",
+              "question": "What is the engine capacity of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Horsepower_Ford Mustang GT CS850_1668",
+              "question": "What is the horsepower of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Weight_Ford Mustang GT CS850_1668",
+              "question": "What is the weight of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Torque_Ford Mustang GT CS850_1668",
+              "question": "What is the torque of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Gearbox_Ford Mustang GT CS850_1668",
+              "question": "What is the gearbox in the Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Quarter Mile Time_Ford Mustang GT CS850_1668",
+              "question": "What is the quarter mile time of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Type_Dodge Viper GTC_1668",
+              "question": "What is the engine type of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Capacity_Dodge Viper GTC_1668",
+              "question": "What is the engine capacity of Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8.4 L",
+                  "answer_start": 1710
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Horsepower_Dodge Viper GTC_1668",
+              "question": "What is the horsepower of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Weight_Dodge Viper GTC_1668",
+              "question": "What is the weight of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Torque_Dodge Viper GTC_1668",
+              "question": "What is the torque of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Gearbox_Dodge Viper GTC_1668",
+              "question": "What is the gearbox in the Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Quarter Mile Time_Dodge Viper GTC_1668",
+              "question": "What is the quarter mile time of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "boost. i need boost. more boost. am i getting boost? i ' m not even going to get boost. [ applause ] keep going after this. keep going, sam. this is the half mile. sam wins that. but look, now i ' m getting on boost. i ' m keep on going. there we go. finally. that took forever. matt, guess what revs i was at when you came past me? > > not a lot. 1, 900. > > that was proof there is no replacement for displacement. okay, brake test. no, none of your racing driver shenanigans. changing down. i haven ' t got the skills to do that. > > okay. > > i want you to be like a bucking bron. i want to see one hand in the air like that. > > have one hand in the air. okay. > > yeah, let ' s do it. come on. come on now. yeah. oh, mate. this just felt really heavy under braing. i think i pulled my hamstring. > > i won. > > yeah, you did win that. do you know what? this ain ' t over yet. i said i might let you have another drag race at the end of the video. let ' s do that. let ' s have another drag race. you know, you cocked at the gear change. i can ' t win on that kind of victory. i want a proper victory or i don ' t want to win at all. so, let ' s have another race. 3 2 1 oh, he ' s got me now. oh. got a racing driver sam there. yes. oh, he got me. what a legend. winner takes all and you took all. i wish i ' d done it, but i did. and that ' s that. oh, wonderful. thanks, buddy. team player. so then what exactly happened? well, the dodge won. it completed the standing quarter mile in 12. 3 seconds. the ford took 12. 6 seconds again.",
+          "qas": [
+            {
+              "id": "Ford Mustang GT CS850_Engine Type_Ford Mustang GT CS850_2077",
+              "question": "What is the engine type of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Engine Capacity_Ford Mustang GT CS850_2077",
+              "question": "What is the engine capacity of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Horsepower_Ford Mustang GT CS850_2077",
+              "question": "What is the horsepower of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Weight_Ford Mustang GT CS850_2077",
+              "question": "What is the weight of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Torque_Ford Mustang GT CS850_2077",
+              "question": "What is the torque of Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Gearbox_Ford Mustang GT CS850_2077",
+              "question": "What is the gearbox in the Ford Mustang GT CS850?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang GT CS850_Quarter Mile Time_Ford Mustang GT CS850_2077",
+              "question": "What is the quarter mile time of Ford Mustang GT CS850?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.6 seconds",
+                  "answer_start": 1526
+                }
+              ]
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Type_Dodge Viper GTC_2077",
+              "question": "What is the engine type of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Engine Capacity_Dodge Viper GTC_2077",
+              "question": "What is the engine capacity of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Horsepower_Dodge Viper GTC_2077",
+              "question": "What is the horsepower of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Weight_Dodge Viper GTC_2077",
+              "question": "What is the weight of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Torque_Dodge Viper GTC_2077",
+              "question": "What is the torque of Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Gearbox_Dodge Viper GTC_2077",
+              "question": "What is the gearbox in the Dodge Viper GTC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Dodge Viper GTC_Quarter Mile Time_Dodge Viper GTC_2077",
+              "question": "What is the quarter mile time of Dodge Viper GTC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.3 seconds.",
+                  "answer_start": 1497
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

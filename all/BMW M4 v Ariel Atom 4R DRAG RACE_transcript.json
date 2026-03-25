@@ -1,0 +1,1749 @@
+{
+  "data": [
+    {
+      "title": "BMW M4 v Ariel Atom 4R DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw m4 v ariel atom 4r drag race _ transcript what will happen in a drag race between a bmw m4 competition and an aerial atom 4r? well, i ' m going to find out by racing them over the standing quarter mile. i ' m matt watson. you ' re watching car wow. the atom 4r has a 2 l turbocharged 4 - cylinder engine with 406 horsepower, 500 nm of torque, rear wheel drive, and a six - speed sequential gearbox with launch control. it weighs 665 kg and cost from around £80, 000. the bmw m4 competition has a 3 liter twin turbo straight 6, 530 horsepower, 650 newton meters, all - wheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 1, 775 kg and cost from £91, 000. hey, sam. you all right? hello, bud. you look a spaceship type thing. what ' s going on? well, i ' m wondering what ' s going on as well because i think this is the wrong way round. they ' ve given us the wrong cars. surely i should be in the easy to launch automatic four - wheel drive passenger car and you should be in the racing car that ' s rear wheel drive and got a lot of power and is a bit scary. yeah, but this has got a testicle shelf and i always insist on a testicle shelf. so, i ' m happy again. i ' m going to need some big bollocks to drive this thing cuz it can be quite larry. shall we start our cars? we both have push button starts, don ' t we? [ music ] though. mine sending weird vibrations through my bottom. how about yours? a little bit more of a hum than a vibration. look at that vibrating. i could clean my teeth a bit. so, what do you think is going to happen? do you think you ' re going to win? um, yes. i do think i ' m going to win. i like your confidence. i think i ' m going to win. what do you think? i disagree. okay, good chat. should we do a rev test? i ' ll rev first. i think i ' ll win this. [ music ] i can hear you blow off, so that ' s nice. yeah, i like a blowoff. go. that ' s nice, dude. you know what? i '",
+          "qas": [
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial Atom 4R_1",
+              "question": "What is the engine type of aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder engine",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_Atom 4R_1",
+              "question": "What is the engine type of Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder engine",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial_1",
+              "question": "What is the engine type of aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder engine",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial Atom 4R_1",
+              "question": "What is the engine capacity of aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 271
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_Atom 4R_1",
+              "question": "What is the engine capacity of Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 271
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial_1",
+              "question": "What is the engine capacity of aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 271
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial Atom 4R_1",
+              "question": "What is the horsepower of aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "406 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_Atom 4R_1",
+              "question": "What is the horsepower of Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "406 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial_1",
+              "question": "What is the horsepower of aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "406 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial Atom 4R_1",
+              "question": "What is the weight of aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "665 kg",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_Atom 4R_1",
+              "question": "What is the weight of Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "665 kg",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial_1",
+              "question": "What is the weight of aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "665 kg",
+                  "answer_start": 433
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial Atom 4R_1",
+              "question": "What is the torque of aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 Nm of torque,",
+                  "answer_start": 329
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_Atom 4R_1",
+              "question": "What is the torque of Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 Nm of torque,",
+                  "answer_start": 329
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial_1",
+              "question": "What is the torque of aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 Nm of torque,",
+                  "answer_start": 329
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial Atom 4R_1",
+              "question": "What is the gearbox in the aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed sequential gearbox with launch control.",
+                  "answer_start": 375
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_Atom 4R_1",
+              "question": "What is the gearbox in the Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed sequential gearbox with launch control.",
+                  "answer_start": 375
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial_1",
+              "question": "What is the gearbox in the aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed sequential gearbox with launch control.",
+                  "answer_start": 375
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial Atom 4R_1",
+              "question": "What is the quarter mile time of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_Atom 4R_1",
+              "question": "What is the quarter mile time of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial_1",
+              "question": "What is the quarter mile time of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 competition_1",
+              "question": "What is the engine type of BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter twin turbo straight 6,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 Competition_1",
+              "question": "What is the engine type of BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter twin turbo straight 6,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter twin turbo straight 6,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_M4_1",
+              "question": "What is the engine type of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter twin turbo straight 6,",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 competition_1",
+              "question": "What is the engine capacity of BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter",
+                  "answer_start": 500
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 Competition_1",
+              "question": "What is the engine capacity of BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter",
+                  "answer_start": 500
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter",
+                  "answer_start": 500
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_M4_1",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 liter",
+                  "answer_start": 500
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 competition_1",
+              "question": "What is the horsepower of BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "530 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 Competition_1",
+              "question": "What is the horsepower of BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "530 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "530 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_M4_1",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "530 horsepower,",
+                  "answer_start": 313
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 competition_1",
+              "question": "What is the weight of BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,775 kg",
+                  "answer_start": 654
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 Competition_1",
+              "question": "What is the weight of BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,775 kg",
+                  "answer_start": 654
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,775 kg",
+                  "answer_start": 654
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Weight_M4_1",
+              "question": "What is the weight of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,775 kg",
+                  "answer_start": 654
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 competition_1",
+              "question": "What is the torque of BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 Newton meters,",
+                  "answer_start": 547
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 Competition_1",
+              "question": "What is the torque of BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 Newton meters,",
+                  "answer_start": 547
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 Newton meters,",
+                  "answer_start": 547
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Torque_M4_1",
+              "question": "What is the torque of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 Newton meters,",
+                  "answer_start": 547
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 competition_1",
+              "question": "What is the gearbox in the BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 594
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 Competition_1",
+              "question": "What is the gearbox in the BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 594
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 594
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_M4_1",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 594
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 competition_1",
+              "question": "What is the quarter mile time of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 Competition_1",
+              "question": "What is the quarter mile time of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_M4_1",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "d like to put that engine into this. the revs, it feels like this has got a massive flywheel in it. the revs take ages to go up and down. probably has a big dirty flywheel. this one doesn ' t. [ music ] that ' s got a 10 ppiece flywheel there. yeah, that ' s really good. right, i ' m going to put my helmet on. while i ' m doing that, you um play with your helmet. the crew ' s got my helmet safe and sound. sam ' s got a detachable helmet. you heard it here first. if you like drag races, we started a new channel, carw drags. go check it out. what we put on there is condensed version of our best drag races. so, if you can ' t be able to all this waffle, you can just watch the normal drag races over there in condensed format. it ' s a lot of fun. so, go over there, subscribe to that. some exciting content going on there [ music ] soon. come on. beauty. no. [ music ] no, [ music ] no. i thought you were going to have me there, sam. i morally won. i beat you off the line and the majority of the quarter mile i won and then i think i was reeling you back in towards the end. so overall in a block of four i won. um can i have another chance at um winning the majority of the race? i i don ' t know. best two out of three. yeah, i ' ll give you another goal to have a try try and win. that ' s no problem. bizarre bizarre logic of [ music ] sam. come on. [ music ] [ music ] did you win again? that was closer, but i still won. oh, let ' s do the thing. so then what exactly happened? well, the aerial won. it completed the standing / 4 mile in 11. 1 seconds. the bmw took 11. 2 seconds. before our next race, a little message that could well help you if you ' re looking to buy a used car, bike, or van anytime soon. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this bmw 3 series on car vertical. it '",
+          "qas": [
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial Atom 4R_415",
+              "question": "What is the engine type of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_Atom 4R_415",
+              "question": "What is the engine type of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial_415",
+              "question": "What is the engine type of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial Atom 4R_415",
+              "question": "What is the engine capacity of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_Atom 4R_415",
+              "question": "What is the engine capacity of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial_415",
+              "question": "What is the engine capacity of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial Atom 4R_415",
+              "question": "What is the horsepower of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_Atom 4R_415",
+              "question": "What is the horsepower of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial_415",
+              "question": "What is the horsepower of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial Atom 4R_415",
+              "question": "What is the weight of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_Atom 4R_415",
+              "question": "What is the weight of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial_415",
+              "question": "What is the weight of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial Atom 4R_415",
+              "question": "What is the torque of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_Atom 4R_415",
+              "question": "What is the torque of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial_415",
+              "question": "What is the torque of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial Atom 4R_415",
+              "question": "What is the gearbox in the aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_Atom 4R_415",
+              "question": "What is the gearbox in the Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial_415",
+              "question": "What is the gearbox in the aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial Atom 4R_415",
+              "question": "What is the quarter mile time of aerial Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.1 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_Atom 4R_415",
+              "question": "What is the quarter mile time of Atom 4R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.1 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial_415",
+              "question": "What is the quarter mile time of aerial?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.1 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 competition_415",
+              "question": "What is the engine type of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 Competition_415",
+              "question": "What is the engine type of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW_415",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_M4_415",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 competition_415",
+              "question": "What is the engine capacity of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 Competition_415",
+              "question": "What is the engine capacity of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW_415",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_M4_415",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 competition_415",
+              "question": "What is the horsepower of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 Competition_415",
+              "question": "What is the horsepower of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW_415",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_M4_415",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 competition_415",
+              "question": "What is the weight of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 Competition_415",
+              "question": "What is the weight of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW_415",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_M4_415",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 competition_415",
+              "question": "What is the torque of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 Competition_415",
+              "question": "What is the torque of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW_415",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_M4_415",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 competition_415",
+              "question": "What is the gearbox in the BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 Competition_415",
+              "question": "What is the gearbox in the BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW_415",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_M4_415",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 competition_415",
+              "question": "What is the quarter mile time of BMW M4 competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 Competition_415",
+              "question": "What is the quarter mile time of BMW M4 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW_415",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_M4_415",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 1556
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "s got green ticks for odometer and finance, but a damage warning. why? it was previously involved in an accident and was a cat write off. you ' d never have known that without a car history check. so when buying a used car, bike or van, run a car vertical report using code carow for 20 % off or by following the link in the description. now back to the race. we ' re going have a rolling race and we ' re going to roll in just about 10 mph in first. will ' s going to count us in 3 2 1 go. and then we ' re going to race over the quart mile and the half mile. now, if you want to check out the latest offers on the bmw m4, found a good offer through carwag. click on the pop out there or scan the qr code on screen now to see what the offer is and the spec of the m4 i ' ve gone for. is this to assist you in the reaction time stuff, matt? is that what ' s is it going to help you? i just like to be nearer to will. hi. [ music ] wow. wow. holy [ applause ] [ music ] okay, that was that. yeah, big difference. you can call the next race. what do you want to do? this didn ' t like that first gear. it was all out of sync. so, i think like a third gear roll on, i think, to the half mile might give this a better shot. we got an itchy head. scratched it with the helmet. 3 2 1 go. [ music ] it ' s coming back. yeah, that was closer. i took off and then it was just level the whole way. this was actually reeling you back in, but once you ' re going north of 150, 160, it ' s kind of irrelevant, isn ' t it? i did put this into two wheel drive as well to try and get some lack of drivetrain resistance as well. i ' m not sure if that helped you. might have been a bad idea. you just want to be too clever for your own good. anyway, let ' s do a brake test. if you ' d rather watch another drag race with some crazy sports cars, then click on the pop - up ban or scan the qr code on screen. do you want to see what happens here? this could be a",
+          "qas": [
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial Atom 4R_834",
+              "question": "What is the engine type of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_Atom 4R_834",
+              "question": "What is the engine type of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial_834",
+              "question": "What is the engine type of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial Atom 4R_834",
+              "question": "What is the engine capacity of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_Atom 4R_834",
+              "question": "What is the engine capacity of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial_834",
+              "question": "What is the engine capacity of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial Atom 4R_834",
+              "question": "What is the horsepower of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_Atom 4R_834",
+              "question": "What is the horsepower of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial_834",
+              "question": "What is the horsepower of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial Atom 4R_834",
+              "question": "What is the weight of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_Atom 4R_834",
+              "question": "What is the weight of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial_834",
+              "question": "What is the weight of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial Atom 4R_834",
+              "question": "What is the torque of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_Atom 4R_834",
+              "question": "What is the torque of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial_834",
+              "question": "What is the torque of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial Atom 4R_834",
+              "question": "What is the gearbox in the aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_Atom 4R_834",
+              "question": "What is the gearbox in the Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial_834",
+              "question": "What is the gearbox in the aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial Atom 4R_834",
+              "question": "What is the quarter mile time of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_Atom 4R_834",
+              "question": "What is the quarter mile time of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial_834",
+              "question": "What is the quarter mile time of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 competition_834",
+              "question": "What is the engine type of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 Competition_834",
+              "question": "What is the engine type of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW_834",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_M4_834",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 competition_834",
+              "question": "What is the engine capacity of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 Competition_834",
+              "question": "What is the engine capacity of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW_834",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_M4_834",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 competition_834",
+              "question": "What is the horsepower of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 Competition_834",
+              "question": "What is the horsepower of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW_834",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_M4_834",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 competition_834",
+              "question": "What is the weight of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 Competition_834",
+              "question": "What is the weight of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW_834",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_M4_834",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 competition_834",
+              "question": "What is the torque of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 Competition_834",
+              "question": "What is the torque of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW_834",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_M4_834",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 competition_834",
+              "question": "What is the gearbox in the BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 Competition_834",
+              "question": "What is the gearbox in the BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW_834",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_M4_834",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 competition_834",
+              "question": "What is the quarter mile time of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 Competition_834",
+              "question": "What is the quarter mile time of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW_834",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_M4_834",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "chance for sam to redeem himself. um, to stay, stay, and watch. [ music ] who wouldn ' t you? me. oh, that ' s close. who won that? i ' m sitting further back, but i might be longer than you. i think the back of my car is further back than yours, is it not? but my bottom is this side of the line. your bottom ' s forward that line. yeah. you get out cuz i can ' t get out. i think i ' ve won. you do it from the front of the car. you could have a bloody train, my friend, and say you won cuz your ass is back up there. it ' s the front. this is longer. i ' m seeing which back of the car is further forwards. it ' s the front of the who ' s one. it ' s so competitive. i ' m much longer than you. yeah. yeah. this is why i ' m looking at the back. i ' m trying to see who ' s further forward. i ' m you ' re further forwards. i don ' t know. the front of your car is ahead of my okay. all i know is that ' s 75 tons. okay. and you ' re in a milk bottle. but when you measure it, right, you know, when like you ' re talking about braking, what what hits the what would hit something? the back of your car. well, the back of your car might if you ' re going really really quickly. yeah. but the front of your car is what hits something, but it ' s longer. no, the backs are level, but you you ' re braking when your nose touches the line. that ' s when your braking starts. and i start i start braking when my nose touches the line. so, it ' s how far it goes. okay. granted, fine. that ' s 75 tons. okay, you won. thank you morally. anyway, listen. i hope you enjoyed the video. if you did, give it a like. let me know. does sam always have to cheat or do i always have to have the fastest car? which one ' s which or is it is it both? also, if you want to compare these cars quite a mile times to everything else we ' ve ever drag race, click on the carw logo now to check out the carw drag",
+          "qas": [
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial Atom 4R_1265",
+              "question": "What is the engine type of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_Atom 4R_1265",
+              "question": "What is the engine type of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial_1265",
+              "question": "What is the engine type of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial Atom 4R_1265",
+              "question": "What is the engine capacity of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_Atom 4R_1265",
+              "question": "What is the engine capacity of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial_1265",
+              "question": "What is the engine capacity of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial Atom 4R_1265",
+              "question": "What is the horsepower of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_Atom 4R_1265",
+              "question": "What is the horsepower of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial_1265",
+              "question": "What is the horsepower of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial Atom 4R_1265",
+              "question": "What is the weight of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_Atom 4R_1265",
+              "question": "What is the weight of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial_1265",
+              "question": "What is the weight of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial Atom 4R_1265",
+              "question": "What is the torque of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_Atom 4R_1265",
+              "question": "What is the torque of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial_1265",
+              "question": "What is the torque of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial Atom 4R_1265",
+              "question": "What is the gearbox in the aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_Atom 4R_1265",
+              "question": "What is the gearbox in the Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial_1265",
+              "question": "What is the gearbox in the aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial Atom 4R_1265",
+              "question": "What is the quarter mile time of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_Atom 4R_1265",
+              "question": "What is the quarter mile time of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial_1265",
+              "question": "What is the quarter mile time of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 competition_1265",
+              "question": "What is the engine type of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 Competition_1265",
+              "question": "What is the engine type of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW_1265",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_M4_1265",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 competition_1265",
+              "question": "What is the engine capacity of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 Competition_1265",
+              "question": "What is the engine capacity of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW_1265",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_M4_1265",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 competition_1265",
+              "question": "What is the horsepower of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 Competition_1265",
+              "question": "What is the horsepower of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW_1265",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_M4_1265",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 competition_1265",
+              "question": "What is the weight of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 Competition_1265",
+              "question": "What is the weight of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW_1265",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_M4_1265",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 competition_1265",
+              "question": "What is the torque of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 Competition_1265",
+              "question": "What is the torque of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW_1265",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_M4_1265",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 competition_1265",
+              "question": "What is the gearbox in the BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 Competition_1265",
+              "question": "What is the gearbox in the BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW_1265",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_M4_1265",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 competition_1265",
+              "question": "What is the quarter mile time of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 Competition_1265",
+              "question": "What is the quarter mile time of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW_1265",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_M4_1265",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "race leader. i ' ve got to say it. check out the carwo drag race leaderboard. thanks for watching. i ' ll see you next time.",
+          "qas": [
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial Atom 4R_1686",
+              "question": "What is the engine type of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_Atom 4R_1686",
+              "question": "What is the engine type of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Type_aerial_1686",
+              "question": "What is the engine type of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial Atom 4R_1686",
+              "question": "What is the engine capacity of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_Atom 4R_1686",
+              "question": "What is the engine capacity of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Engine Capacity_aerial_1686",
+              "question": "What is the engine capacity of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial Atom 4R_1686",
+              "question": "What is the horsepower of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_Atom 4R_1686",
+              "question": "What is the horsepower of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Horsepower_aerial_1686",
+              "question": "What is the horsepower of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial Atom 4R_1686",
+              "question": "What is the weight of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_Atom 4R_1686",
+              "question": "What is the weight of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Weight_aerial_1686",
+              "question": "What is the weight of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial Atom 4R_1686",
+              "question": "What is the torque of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_Atom 4R_1686",
+              "question": "What is the torque of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Torque_aerial_1686",
+              "question": "What is the torque of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial Atom 4R_1686",
+              "question": "What is the gearbox in the aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_Atom 4R_1686",
+              "question": "What is the gearbox in the Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Gearbox_aerial_1686",
+              "question": "What is the gearbox in the aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial Atom 4R_1686",
+              "question": "What is the quarter mile time of aerial Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_Atom 4R_1686",
+              "question": "What is the quarter mile time of Atom 4R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ariel Atom 4R_Quarter Mile Time_aerial_1686",
+              "question": "What is the quarter mile time of aerial?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 competition_1686",
+              "question": "What is the engine type of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW M4 Competition_1686",
+              "question": "What is the engine type of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_BMW_1686",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Type_M4_1686",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 competition_1686",
+              "question": "What is the engine capacity of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW M4 Competition_1686",
+              "question": "What is the engine capacity of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_BMW_1686",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Engine Capacity_M4_1686",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 competition_1686",
+              "question": "What is the horsepower of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW M4 Competition_1686",
+              "question": "What is the horsepower of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_BMW_1686",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Horsepower_M4_1686",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 competition_1686",
+              "question": "What is the weight of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW M4 Competition_1686",
+              "question": "What is the weight of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_BMW_1686",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Weight_M4_1686",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 competition_1686",
+              "question": "What is the torque of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW M4 Competition_1686",
+              "question": "What is the torque of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_BMW_1686",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Torque_M4_1686",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 competition_1686",
+              "question": "What is the gearbox in the BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW M4 Competition_1686",
+              "question": "What is the gearbox in the BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_BMW_1686",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Gearbox_M4_1686",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 competition_1686",
+              "question": "What is the quarter mile time of BMW M4 competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW M4 Competition_1686",
+              "question": "What is the quarter mile time of BMW M4 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_BMW_1686",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 Competition_Quarter Mile Time_M4_1686",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

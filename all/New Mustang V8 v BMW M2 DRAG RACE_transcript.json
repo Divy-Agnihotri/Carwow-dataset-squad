@@ -1,0 +1,738 @@
+{
+  "data": [
+    {
+      "title": "New Mustang V8 v BMW M2 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new mustang v8 v bmw m2 drag race _ transcript what will win in a drag race between an american v8 and a european six - cylinder? well, we ' re going to find out because i ' m going to drag race this us imported new mustang gt against the bmw m2 across the standing quarter mile. i ' m out watson and you ' re watching car wow. the bmw m2 has a 3 l twin turbo straight 6 that puts out 480 horsepower and 600 new m of torque. it sends power to the rear wheels via an 8 - speed automatic gearbox and the car weighs 1, 85 kg. the m2 costs from £63, 000. the ford mustang has a 5 l naturally aspirated v8 which normally in the uk puts out 453 horsepower and 540 new m of torque, but this american spec car actually has 486 horsepower and 567 new m of torque, sending power to the rear wheels. the car weighs in at 1. 7 tons. in the us, you would pay around £45, 000 for this mustang, which translates to £35, 000. in the uk, the mustang actually costs £56, 000. right. and sam, so we ' ve basically got similar horsepower. we both got automatic gearboxes. we weigh a similar amount. what do you think ' s going to happen? i mean, a little bit loose on the automatic gearboxes each, but we ' re skipping that. everyone say, \" oh, they ' re a straight line machine. \" well, we ' re about to do straight line. so, what ' s the argument going to be after that? let ' s see. you sound like a man who ' s not that keen on american muscle cars. no, you ' re wrong. my dream car is um well, it ' s a fake car, but it ' s eleanor from gone in 60 seconds. that ' s my dream. so, no, i am a big fan. and the noise of this has already won, i think. yeah. you see, sam, that car has been lent to us by a chap called dylan. he ' s in the us air force. so, he ' s had it imported over from the states so he can drive it around cuz he doesn ' t want to drive any of our british cars, you know, with the petrol particulate filters because the mustangs that you get in the uk don ' t sound like the ones that",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_1",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight 6",
+                  "answer_start": 343
+                }
+              ]
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_1",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 345
+                }
+              ]
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_1",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "480 horsepower",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_1",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,85 kg.",
+                  "answer_start": 516
+                }
+              ]
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_1",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 new m of torque.",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_1",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 470
+                }
+              ]
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_1",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_1",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L naturally aspirated V8",
+                  "answer_start": 572
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_1",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_1",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "486 horsepower",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_1",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1.7 tons.",
+                  "answer_start": 813
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_1",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "567 new m of torque,",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_1",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "you get in the us because they ' re just stifled by all our regulations. sam, can you just rev up that engine? let ' s have a listen to that. that is the sound of freedom. now, i ' m going to rev up my european oh gosh. no, i ' m not. i ' m in drive. i ' m going to rev up my european car. you ready? [ music ] i ' m getting a lot of noise in the cabin, but that ' s being played to the speakers. okay. what i want you to do now, sam, is rev your car while i ' m revving mine. and i ' m sure you ' re going to drown out the sound of mine. [ music ] easy win for you. what might not be so easy is the drag race because i ' ve got launch control and bizarrely with the mustang i know that the manual has launch control but the automatic doesn ' t. i know. figure that out. right. i don ' t get it. someone made a typo, didn ' t they? in like the product description. where is this plane going to land on us? no, they used the um white line as a a fake landing idea. okay, it ' s not landing on us. that ' s good. so, we going with this race then? could we just check with the is this a fly off handbrake in this car? um, and just to make sure it ' s definitely off. my experience of that mustang is it ' s not a flyoff handbrake. it ' s a normal handbrake. okay. well, it ' s not working like a normal handbrake. it ' s working like a flyoff handbrake. my experience of that car is that it ' s a flyoff handbrake. it ' s not a normal handbrake. more professional journalism from matthew. 3 2 1 killed him off the line. he ' s even racing. has he stopped? [ music ] [ applause ] what happened? nothing. you won. but we ' ve got the same power. so, when you leave traction in halfway house, it just kind of holds and short shifts and does all kind of funny things. if you do it in manual and leave it in halfway house with traction halfway on, it does a weird it like holds its revs. it ' s just got a very light",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_425",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_425",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_425",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_425",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_425",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_425",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_425",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_425",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_425",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_425",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_425",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_425",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_425",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "loose rear. you were so slow that i think i jumped. i ' m going to try it in d and see if that can do with anything better. if you can ' t do any better, i want a discount on your invoice. you need to pay me first before you can be asking for discounts. matthew, have we got any other slower cars? this is just a white wash. what about that other bmw? that one there that ' s like a 4x4. what ' s that? sam ' s personal car. what is your personal car, sam? yes, it is. matthew, is it an x3 m40i? you are literally the worst journalist i ' ve ever met in my life. how could that possibly? you couldn ' t have got that more wrong. oh, it ' s an x5, isn ' t it? yes. at least i didn ' t say it was a mercedes. been worse. if you do poorly again, i want to beat you with your own car. what you want to get in my car? but let ' s just do one more of these first. three, two, one. oh, [ music ] i had a worse start then, but it doesn ' t matter. wow. [ music ] my god. [ music ] [ applause ] your initial launch and timing was all fine, sam. they ' re pretty much the same horsepower. yeah, this is it ' s even like i ' ve got the traction that like i said halfway on almost fully on and it ' s just floating. should we just do a rolling race with these just just for a laugh? you ' re going to get though, aren ' t you? i don ' t know. once this was going, it was quite fast. it ' s just the initial bit. now, we ' re going to race sam ' s own personal car against the mustang a little later in this video. first, though, we ' re going to do a roll into a quarter mile race. so, we ' re going to roll in about 10 miles an hour. will start us and then we ' ll race to the quarter mile. see if the mustang can do better when it ' s not struggling so much to put its power down. or maybe it will struggle just as much. we ' ll find out. three, two, one. oh, this turbo lag. [ applause ] oh",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_843",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_843",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_843",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_843",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_843",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_843",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_843",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_843",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_843",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_843",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_843",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_843",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_843",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ", turbo lag was real there. flo, nothing happened. he took off and here we go. turbo torque now. [ music ] so, to be fair on this, maybe it ' s a bit of driver error, but the gearbox when you have it in manual, it ' s weird. like, you pull and nothing happens and then it holds and then it changes and it ' s a bit strange. by strange, do you mean? no. i love these cars. definitely not. i don ' t know. it doesn ' t shift up itself, you know, like in anything else if you do it. but it ' s annoying. get let me on the way back. let me try and figure it out. and i want one more go at that. that ' s it. that ' s what you want. look at that. all right. i figured it out. i got it. i got it. i got it. okay. right. don ' t worry, americans. right. don ' t worry. sam ' s got it. and he could be in with a shout this time because he took off really well. he ' s just his gear changes were so lame. 3 2 1. this went sideways a bit. oh, it ' s closer. that ' s better. it ' s got the hang of it now. woohoo. oh, that is good. [ music ] [ applause ] oh, yes. yeah, that ' s much better, isn ' t it? that is close. yeah, but it ' s it ' s like playing a video game. you have to get it right every time. do you know what? i take it all back actually when you ' re using it properly and you know what to do with it. sounds good. goes really well. what was going wrong before? well, it red lines at 7 and 12, right? yeah. but you have to change just after seven cuz it jumps when you change gear for the cut. okay. but if if it hits the limiter, it stays there for ages. okay. but you can ' t if you shift before seven, you ' ll be slow. yes. so it ' s it ' s like a game. so you did it wrong before. definitely. okay. did you ever play that golf game on pc where you click the mouse twice and it goes up and around and you click it again",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_1265",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_1265",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_1265",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_1265",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_1265",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_1265",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_1265",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_1265",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_1265",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_1265",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_1265",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_1265",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_1265",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "to make to make you hit the ball straight? no. okay. that ' s what that ' s like. good. there ' s a line. it ' s like a thing i don ' t know. yeah. i wasn ' t watching the the road at all. while i was watching the little line, i was trying to hit the paddle on the line. okay, let ' s try second gear roll on 30 mph. okay, it ' s going to be close this. it ' s going to be close. i take it all back. i ' m liking that now. and a that ' s what the americans do with european causes is that their engines like they ' re trying to do smaller with loads of power and they ' re super complex and especially when they use vehicles, they go wrong all the time. that 5 l, it ' s just going to work and work and work and work and work. and if something does go wrong, it ' s not going to be as complex or as problematic to fix as something like this. if you ' re changing your car, then you got to check out car wow. because there ' s nothing quite like knowing that you ' re getting a great price, both when selling your old car and finding a new one. carw makes all the stuff that ' s hard work about car changing, like the haggling, the no - shows, and the nasty surprises a thing of the past. life changing. now, if you want to go to car wow right now, i ' ve put a link in the description of this video and the pin comment. alternatively, you can click on the pop out banner ping in the top right hand corner of the screen now or scan the qr code on screen using your mobile phone to go directly there. car change car. wow. let ' s do it then. roll on. let ' s do a half mile. 30. get on me, mate. 3 2 1 go. come on. oh, hello. what ' s going to happen now? and now it ' s gapping. just start to pull. oh. [ music ] oh wow. that ' s like you misshifted. that is [ applause ] so that was really close. it was. did you miss shift? cuz you just went no. so i was in like i don ' t know, gear 13 or 14. yeah. and it just hit a brick wall",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_1678",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_1678",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_1678",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_1678",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_1678",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_1678",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_1678",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_1678",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_1678",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_1678",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_1678",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_1678",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_1678",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "for a while. yeah. i notic yeah. it it stopped at five and then came back again. either way, it lost quite comprehensively. let ' s see what happens with third gear roll on at 50. okay. see if you have the same problem. 3 2 1 go. i got it wrong. this is closer. come on. [ applause ] [ music ] oh, i got it wrong. oh, i did it again. [ applause ] it did that thing again. it says speed limit on the dash, but there ' s nothing written down for the speed limit. but that ' s and now i remember at 121 it hesitates. yeah. i you just think it yeah. at 121 it goes, \" are you sure? \" okay. and then keeps going. it ' s close. i mean, until that dodgginess happens, it ' s close, isn ' t it? sounds good, though, doesn ' t it? sounds so good. i ' d still prefer this though. i ' d have this. wouldn ' t you have this over that? yeah, i would. yeah. the gear shift is annoying. it ' s too it takes too much concentration. yeah, i think with a manual. that would be awesome. yeah, i think i ' d like with a manual. yeah, this with a manual i ' d have definitely. right, let ' s do one more thing. now, we ' re going to have a brake test from 100 mph. when we hit the line, full emergency stop. if you ' d rather watch another drag race with some muscle cars, click on the pop out banner or scan the qr code on screen now using your mobile phone if you ' re watching a smart tv, of course. otherwise, you ' re going to find it hard to do that. if not, stay here for the brake test. going to put this down out the way. here we go. oh no, this is skating. come on. yes. oh no, i pulled a muscle in my back doing that. i felt the front wheels like hit some moss and it just i felt it just slide and that was it. i won. yeah, i borrowed your book of excuses there, didn ' t i? what page is the moss excuse on? that ' s 56. any kind of shrubbery um slippiness is 56 onwards. it ' s covered in chapter six.",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_2107",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_2107",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_2107",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_2107",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_2107",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_2107",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_2107",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_2107",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_2107",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_2107",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_2107",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_2107",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_2107",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "shrubbery and other foliage. matt, i have to cut off you. cut you off there. one second. sorry, my watch thinks i ' ve been in a crash. that ' s how well the mustang breaks. it makes your smartwatch think you ' ve had a nasty accident. i just had to cancel 999. i promised you i ' d race sam ' s car. here it is. bmw x5 m50d. so sam, can you just quickly give me the stats of your car? that ' s a 2017 x5 m50d. i believe it ' s like 380 something horsepower and then i think 800 and something newton meters of newton ' s torque. so yeah, that ' s all i know. i think it ' s quite quick. okay, we ' re going to find out if it ' s quicker than the mustang. but first, i want to just have a little bit of a rumage about and see what we ' ve got in here. we got some coins at the ready. sam has really bad bad breath. so, you know, he needs to car those at all times. a hu. that ' s why he ' s got bad breath. you got a cough, mate? got a bit of a chesty cough. oh, i love these. what are you doing? genuinely don ' t know what you ' re chewing on. i do keep dog toys in there though. so, air freshener to hide his bad breath again. got some viagra. i think he puts that up his bottom. you ' ve opened my lollipop, haven ' t you? i can see now. absolute cra i got that for being good in my last haircut. and you got a batman air freshener. i think some of these receipts he ' s going to actually um charge them to carow. so, i ' ll just get rid of those. kim makes me do that. i ' m going to throw those away. how you put in all the stuff when sam ' s got a cold, matt. jokes ' s on him, jack, cuz i started that lollipop earlier on. anyway, i ' m going to throw these away and we ' ll save some cash. okay, let ' s do a sound check. i ' m just going to rev up your diesel. doesn ' t sound great, does it? should we get one of the drag race then?",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_2517",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_2517",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_2517",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_2517",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_2517",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_2517",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_2517",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_2517",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_2517",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_2517",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_2517",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_2517",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_2517",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "3 2 1 come on, diesel. oh my god. come on. oh, he ' s coming now. oh no. [ applause ] ah, [ applause ] your car ' s slow. no, it ' s not. got off the line well though, didn ' t it? it did. this is lovely. i earned that. i sat quietly in my seat. anyway, yeah, quick off the line, but then it runs out of puff. yeah, at the top end, a bit like yourself. yeah, i agree. so, then what exactly happened? well, the bmw won. it completed the standing / 4 mile in 11. 9 seconds. the ford took 13. 6 seconds. however, when the x5 was substituted in, the mustang won. this time, it completed the standing / 4 mile in 13. 5 seconds. the bmw took 14. 3 seconds. anyway, listen, i hope you all enjoyed the video. if you did, give it a like. if you want to watch some other videos, click on the windows. if you want to compare all these cars quarter mile time to everything else we ' ve ever drag race, just click on the car logo to check out the car drag race leader on. and a huge thanks to the people who lent us their cars to drag race today, but not some. no thanks to you, mate. thanks for the lolly",
+          "qas": [
+            {
+              "id": "BMW M2_Engine Type_BMW M2_2930",
+              "question": "What is the engine type of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Engine Capacity_BMW M2_2930",
+              "question": "What is the engine capacity of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Horsepower_BMW M2_2930",
+              "question": "What is the horsepower of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Weight_BMW M2_2930",
+              "question": "What is the weight of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Torque_BMW M2_2930",
+              "question": "What is the torque of BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Gearbox_BMW M2_2930",
+              "question": "What is the gearbox in the BMW M2?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M2_Quarter Mile Time_BMW M2_2930",
+              "question": "What is the quarter mile time of BMW M2?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.9 seconds.",
+                  "answer_start": 461
+                }
+              ]
+            },
+            {
+              "id": "Ford Mustang_Engine Type_Ford Mustang_2930",
+              "question": "What is the engine type of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Engine Capacity_Ford Mustang_2930",
+              "question": "What is the engine capacity of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Horsepower_Ford Mustang_2930",
+              "question": "What is the horsepower of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Weight_Ford Mustang_2930",
+              "question": "What is the weight of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Torque_Ford Mustang_2930",
+              "question": "What is the torque of Ford Mustang?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ford Mustang_Quarter Mile Time_Ford Mustang_2930",
+              "question": "What is the quarter mile time of Ford Mustang?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "13.6 seconds.",
+                  "answer_start": 490
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

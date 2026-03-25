@@ -1,0 +1,791 @@
+{
+  "data": [
+    {
+      "title": "Tuned AMG GTR vs Lamborghini Huracan DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "tuned amg gtr vs lamborghini huracan drag race _ transcript what will win in a drag race between a totally standard amg gtr and a lamborghini huracan spider evo? or we ' re going to find out by racing them over the standing quarter mile. i ' m matt watson and i ' m a bit of a cheat and you ' re watching car. this totally standard mercedes amg gtr has a 4 l twin turbo v8, but it ' s been tuned by pure tuning. it has an engine and gearbox tune as well as new downpipe. so rather than the standard 585 horsepower, 700 new m of torque, it now develops 756 horsepower and 1, 120 new m of torque. all that power is sent to the rear wheels only via a seven - speed dual clutch automatic gearbox with launch control. the car weighs in at 1, 550 kg and is worth about £100, 000, including all those definitely not cheating upgrades. the lamborghini huracan evo rearw wheelel drive spider has a 5.2 l naturally aspirated v10 that puts out 610 horsepower and 560 nm of torque. it sends power to the rear wheels only by a seven - speed dual clutch automatic gearbox with launch control. it weighs around 1, 600 kg and is worth about £170, 000. now, this amg sometimes struggles off the line. front engineed, rear wheel drive, lots of torque, spins up its wheels. however, this gtr does have something that ' s really handy, and it ' s adjustable traction control. so, what i ' m going to do is set it at just two away from almost completely off, and that should give me enough wheel spin, but not too much wheel spin that i just end up standing still in a pile of tire smoke cuz i ' m going to need good traction because while that lamborghini is rear wheel drive only, it ' s got its engine in the middle. so, it ' s got more weight over the rear axle and those things launch. the gearboxes in those, the seven - speed door clutch in those, yeah, i think it ' s better than the door clutcher in this. let ' s find out about that car from its owner. owner of the lamborghini. can you tell everyone your name? because it ' s i wish i had your name. what ' s your name? hi, my",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_1",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8,",
+                  "answer_start": 355
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_1",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 355
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_1",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "756 horsepower",
+                  "answer_start": 552
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_1",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,550 kg",
+                  "answer_start": 737
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_1",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,120 new m of torque.",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_1",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 654
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_1",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L naturally aspirated V10",
+                  "answer_start": 887
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 889
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 552
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 1099
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 Nm of torque.",
+                  "answer_start": 952
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 654
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_1",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "name ' s ace. you know when you ' re like going out on dates and stuff like that and you ' d be like, \" hi, i ' m ace. \" how did that work for you? to be honest, it works quite well. i like the way he ' s using the present tense. see, i was using the past tense cuz my dating days are done. i ' m sure it works uh pretty much better than how it works for you. ooh, archetim. is your surname ventura? no. what is it then? it ' s uh matt winner. is he taking the pee again? i ' m not sure because that ' s not funny. so, it might really be his surname or he might be taking the pee out of me. i don ' t want to say cuz i ' m going to look stupid either way. let ' s just get on with it. do you know what we ' re going to do? we ' re going to do a car wow sound check. so, this is the amg gtr. totally standard. oh, the way that revs actually. let ' s have a listen to your lamborghini v10. i don ' t even think i heard that. it ' s kind of weird, isn ' t it? it lets you rev it high on the first one or two revs and then it just throttles it back, doesn ' t it? it ' s weird the way lamborghini do that. yeah, i never really understood that either, but it is what it is. it ' s a lamborghini. that ' s a mercedes. you know, you ' re just trying to beat me at car top trumps, aren ' t you? well, you might not win because i might actually beat you in this race. but let ' s see what ' s going to happen now. now, before we race, if you ' re thinking about selling your car, you can do it easy through car way. in fact, right now, you can value your car. don ' t up the launch, mate. who was that? anyway, like i was saying, you can value your car for free on car. so, just click on the pop out banner there or scan the qr code or follow the link in the description or the pin comment to see how much your car is worth today. you can then go on",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_413",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_413",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_413",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_413",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_413",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_413",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_413",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_413",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "if you wanted to to sell your car through carway. just upload some photos, give a brief description, then dealers all across the country will bid on it. the service is completely free, and if you don ' t like the result, you don ' t have to go through with the sale. let ' s go on with this race. can ace ace me? 3 2 1 there ' s a delay. destroy mate. smoke. what happened there then, matt? ace. that was ace. absolutely ace. ace was pretty good. i ' m not going to lie. but your launch was all right. what happened though? well, i ' m hoping that you might have jumped the start and we ' re going to go back down and find out from the stewards whether you did. if you didn ' t, there ' s a good chance that i ' ve got a massive delay on my launch, which i have, but i ' m not sure whether that was also compounded by you jumping. i ' m hoping it was. let ' s go and find out from them. so, we ' ve had a look to see if he jumped. he didn ' t, did he? he did a jump. oh crap. okay. first time as well. yeah. yeah. he is on it. okay. right. this has a huge delay. ace. i said it once and i ' ll say it again. that was ace. thank you. thank you. thank you. let ' s hope you can try better this time. i hope so, too. i ' m basically cheating. this car is tuned to 750 horsepower, 1, 000 newton meters of torque, but i think that ' s a problem. getting off the line. 3 2 1 heat jump then. come on. that ' s a better one for this car. the delay is so bad. stewart, stewart, stewart. he must have jumped then. no chance. ace, you jump, mate. you jumped. oh, my bad. let ' s have a look. right. here ' s the second race. the gtr is still really slow. it jumps massively. you can see my foot come off the brake at the right at the exact time. watch this. watch my foot come off the bra there. you ' re on the money. but look, it ' s not moving now. it ' s finally moving. there ' s",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_831",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_831",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_831",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_831",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_831",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_831",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_831",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_831",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "just a massive delay and it spins his wheels. he jumped the first one. look. oh no, he ' s bang on it on the no, the first one he was bang on. i don ' t know. i think it ' s a marginal. it ' s a margin call. the first one you let him go, but the second one was a miles jump. yeah. can i play? let ' s see if he jumps again. he ' s not going to jump again. i ' ll jump this time. my bloody bet. ace, no pressure, mate. if you mess this up, you ' re out of the car. so, i have to try to jump, but in a way that isn ' t actually a real life jump. 2. come on. come on. that ' s my best launch yet. and he chose. come on, lambo. show them what lambo is. [ applause ] i ' m gonna have to call stuart ' s inquiry on myself though. ace. so, you were a little bit delayed that time. i think you got paranoid. i think yanni got in your head. he did. he did get in my head. he said, \" don ' t mess it up. \" and then i messed it up. i mean, i ' m cheating already with a tuned car. i can ' t cheat twice by jumping as well. let ' s find out. that ' s too much cheating even by watson standards. did i jump? you ' re okay. let ' s have a look. you ' re fine. you ' re bang on. look at you. on the money, on the money. that was good. i mean, that ' s that ' s years of practice. should we give him one more go? he ' s had three. go. go. kick him out of his own car. y we ' re trading you out. time for the king to step in. you know, this is the you scammed me. you scammed me on the first one. you smashed it, bro. fair play to you. all right then, ace. we ' re going to go again, but shall we say winner takes all? yeah, i ' ll come in cold. i don ' t mind. yeah, fair play to ace. he ' s done really well on the first one. the other two was unlucky, but let '",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_1240",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_1240",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_1240",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_1240",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_1240",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_1240",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_1240",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_1240",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "s do this. don ' t it up, watson. come on, mother. we got to race. we got to race. [ applause ] he doesn ' t know this is tuned. you can see his face though as he rumbled me. that was so close. we were just side by side. it was almost like we ' re doing the intro to a rolling race then. i know. i just drove a little bit faster at the end. so, a couple of things. one, i have just jumped in this and there was a slight delay. so, i don ' t believe my launch was on point. i ' m not using sam ' s book of excuses, but i believe my launch could be better cuz i know i could go slightly quicker. and that car is not standard, bro, because you were going past me. so, something ' s not right. everything ' s right. it ' s just sometimes you just have to accept reality rather than trying to like live in a fantasy land. yanni, should we let ' s move on to the rolling race. but first, let ' s do the thing. so, then what exactly happened? well, the mercedes won. it completed the standing / 4 mile in 11. 5 seconds. the lamborghini took 11. 7 seconds. before our next race, a quick message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is for you. we ' ve partnered with our friends at carver vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this say leon coopra on carver vertical. it shows green ticks across the board, but was written off twice and that never showed up in the sale listing. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carow for 20 % off or follow the link in the description. now, back to the race. right, we ' re going to have a rolling race over the half mile. we ' re going to do it from 50 mph. the cars will be in automatic mode and their comfort street setting. but before then, if you want to find a good deal on a sports car, not not anything to this level, but you",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_1649",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_1649",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_1649",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_1649",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_1649",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_1649",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_1649",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 1002
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_1649",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.7 seconds.",
+                  "answer_start": 1038
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "know, affordable, fun sports car, i found one through carwac. to find out what the car is and the saving through car, click on the pop out banner up there or scan the qr code on screen now. let ' s do this then. get level with me, sir. and we ' ll get up to 50. 3 2 1 go. kick down. oh, look at this difference. oh no, he ' s going to know this car ' s tuned. maybe i can bluff this, style it out. what happened to your car? was the kick down real slow or something? it was. what car is that, bro? amg gts gtr. that ' s why it ' s quicker cuz they ' ve borrowed some bits from nissan. i don ' t know. your car seems really quick. and this was fast, but i don ' t know. let ' s see what happens in corsera. yeah, let ' s see what happens in corser. it might be better then. he hasn ' t got me yet. hasn ' t figured it. right, yanni. now, we going to have another rolling race. so going your sport your setting manual mode for the gearbox. third gear roll on from 50. yeah, let ' s do it. 3 2 1 go. look at this gapping. oh my goodness. he ' s so far behind. what car is that, bro? no, i ' m not having it. there ' s something. your car is way too far, bro. you ' re leaving me like i ' m not even moving. and this car ' s fairly quick. i don ' t know. maybe there ' s something wrong with your car. maybe it ' s your m i don ' t know. oh, i said it was his weight. i ' m coming over. i know you too well. what ' s the matter? i know, honestly. so, it ' s got an exhaust on it, but it shouldn ' t do much. it ' s just an exhaust like noise. just an exhaust. what are you doing? what ' s give me that hat. give me that. what? she says tune something on it. you ' re such a i you s pure pure tuning. you ' re such a cheap. so, a person that ' s got a pure tuning hat has got a standard car. yeah",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_2073",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_2073",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_2073",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_2073",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_2073",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_2073",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_2073",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_2073",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ", you ' re cheap. it ' s got 750 horsepower. what ' s standard? 500 and something. sorry, i knew it. i just know him so well. sometimes winning unfairly is more fun than winning fairly. let ' s do the brake test and forget all about it. the brakes aren ' t tuned. okay. who cares about the brake test? no one cares. okay, now we go. a brake test from 100 mph. the car which stops in the shortest distance or wins. if you ' d rather watch another drag race with some lamborghinis and stuff, click on the pop out button up there or scan the qr code on screen now. if not, stay here for the brake test. all the breaking force now. what the actual matt? what what breaking was that? they definitely weren ' t tuned. your brakes, were they? i knew it wasn ' t going to come out after that. that ' s an embarrassing gap. i ' d like to say that you cheated massively, but i ' ve cheated so badly already that uh i don ' t care if you did. now, i hope you enjoyed the video. if you did, give it a like. matt. matt, hold on a minute. you know what? be fair with me. yeah, be fair. let me have one more drag race with you. just so i feel better that i know that the car ' s tuned and i can give it my all this time, even though i wasn ' t giving them all anyway. i don ' t feel like i want to. we ' ve got another video to film. should we just move on? it ' s one drag race. i ' m not filming the other video. you know, i ' m i ' m going to throw my toys out of a pram. if you don ' t do one more drag race with me, i ' m not doing the next drag race. there you go. all right, then. another drag race. winner takes all for everything. brake test, roll, everything. winner takes all. i will take that gamble. come on. hang on. no, he ' s ahead. come on. come on. come on. amg. come on. i don ' t think i ' m going to get him. i ' m going to get him. i ' m going to get him. you definitely got off better than me",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_2480",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_2480",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_2480",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_2480",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_2480",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_2480",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_2480",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_2480",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". and i thought i was done. and i wasn ' t reading you in quite as fast as i was expecting to, but on the line, this car has a very long bonnet. i ' ve got no idea. i think that one tester launch for me helped me that time, but i didn ' t even see the cone, so i ' ve got no idea who won. you decide in the comments. let us know which car won. you have to go back and rewind and slow - mo it and find out cuz no idea. anyway, i hope you enjoyed the video. if you did, give it a like. if you want to watch some other videos, click on the video windows. and if you want to compare these cars quart mile times to everything else we ' ve ever drag raced, then just click on the car wow logo. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "Mercedes AMG GTR_Engine Type_Mercedes AMG GTR_2896",
+              "question": "What is the engine type of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Engine Capacity_Mercedes AMG GTR_2896",
+              "question": "What is the engine capacity of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Horsepower_Mercedes AMG GTR_2896",
+              "question": "What is the horsepower of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Weight_Mercedes AMG GTR_2896",
+              "question": "What is the weight of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Torque_Mercedes AMG GTR_2896",
+              "question": "What is the torque of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Gearbox_Mercedes AMG GTR_2896",
+              "question": "What is the gearbox in the Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GTR_Quarter Mile Time_Mercedes AMG GTR_2896",
+              "question": "What is the quarter mile time of Mercedes AMG GTR?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Type_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the engine type of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Engine Capacity_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the engine capacity of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Horsepower_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the horsepower of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Weight_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the weight of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Torque_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the torque of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Gearbox_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the gearbox in the Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Evo rear-wheel drive Spider_Quarter Mile Time_Lamborghini Huracan Evo rear-wheel drive Spider_2896",
+              "question": "What is the quarter mile time of Lamborghini Huracan Evo rear-wheel drive Spider?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

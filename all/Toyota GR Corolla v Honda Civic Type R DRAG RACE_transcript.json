@@ -1,0 +1,880 @@
+{
+  "data": [
+    {
+      "title": "Toyota GR Corolla v Honda Civic Type R DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "toyota gr corolla v honda civic type r drag race _ transcript what will win in a drag race between a civic type r and a toyota gr corolla? well, we ' re going to find out by racing them over the standing quarter mile. i ' m m watson and you ' re watching car wag. the honda civic type r has a 2 l turbocharged 4 - cylinder petrol engine with 329 horsepower and 420 new m of torque. power is sent to the front wheels only via six - speed manual gearbox. the car weighs 1, 429 kg and it costs from £52, 000. the toyota gr corolla has a 1.6 l turbocharged 3 - cylinder petrol engine with 304 horsepower and 370 new m of torque. it drives all four wheels via a six - speed manual gearbox. the car weighs in at 1, 475 kg and this imported model is for sale at whiff bits in wales for £45, 000. first thing we ' re going to do is the customary carwow sound check. so, i ' m going to rev up my car. so, rory, put your window down a little bit and have a listen to this clutch in [ music ] soft limiter at 3 and a half. okay. um, your turn. and i hope your car sounds better than the exhaust look. [ music ] it does sound okay. plenty of turbo whoo, which is nice. definite win for you. you got a higher bloom in soft limiter than me. i mean, both these cars have three exhaust pipes, but i don ' t know what to do with theirs. it ' s like they just we can ' t we got three exhaust pipes, but we can ' t possibly copy honda, so let ' s just make them look stupid. it is as though someone just fitted the middle one, but didn ' t talk to the people that put the ones on the outside there. it ' s like no one spoke to each other. it looks really, really weird. it ' s really weird when you consider the ones on the gis look great. it ' s like they were stuck with what to do, right? what do you think ' s going to happen? you got more weight, more traction, less power, less torque. i mean, i think it ' s going to be a lot down to the uh gear changes and obviously i am not a pro, but i feel like my",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_1",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder petrol engine",
+                  "answer_start": 295
+                }
+              ]
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_1",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 293
+                }
+              ]
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_1",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "329 horsepower",
+                  "answer_start": 342
+                }
+              ]
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_1",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,429 kg",
+                  "answer_start": 471
+                }
+              ]
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_1",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "420 new m of torque.",
+                  "answer_start": 361
+                }
+              ]
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_1",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox.",
+                  "answer_start": 431
+                }
+              ]
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_1",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_1",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1.6 L turbocharged 3-cylinder petrol engine",
+                  "answer_start": 297
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_1",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1.6 L",
+                  "answer_start": 534
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_1",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "304 horsepower",
+                  "answer_start": 342
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_1",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,475 kg",
+                  "answer_start": 709
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_1",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "370 new m of torque.",
+                  "answer_start": 361
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_1",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox.",
+                  "answer_start": 431
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_1",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "all - wheel drive is going to help me off the line. i ' ll get my nose ahead and i think your lesser weight and slightly more power will basically see you come past me at the end, but i i don ' t know. so, rory, i ' d like to just before we race have an agreement. it ' s going to take me a while to figure out how best to launch this car. would you mind being a little bit understanding? give me a few goes. i ' m going to start off by feeding in the power. i ' m not going to jump the clutch. and i ' m going to have the stability control and traction all the way off. so, i ' m going to have to manage that wheel spin. but i might figure out a better way later on. let ' s see how this goes. that seems very fair. i mean, i ' ve got obviously my all - wheel drive manual gearbox. i ' m going to switch everything off, all the stability aids, traction controls, and then yeah, see how i go. i i won ' t dump the clutch the first time because i want to see whether, you know, bringing it in more gradually is the thing, but i ' ll definitely give you a few chances. have you got a manual handbrake you can like hold it on? i haven ' t. i do have a manual handbrake i can hold it on. i ' ll try it without that first and then i may bring that in later. ooh, he ' s going to bring it in later. right, let ' s do it. let ' s race. this is going to take skills. i ' m glad i ' m not racing racing driver sam. i just bogged. i ' m spinning. come on. absolutely him. i think i ' m reeling him in a bit, but it ' s too little too late. [ applause ] come on. no. no. no. no. [ applause ] that was a terrible time. it just bogged. oh, i need more revs. how was it for you, darling? i was quite happy with my launch. i was quite quiet because i was just focusing so hard on the gear changes cuz obviously i ' m not a pro racing driver like sam. i ' m part - time jason stathithm um lookalike. but yeah, i was pretty happy with that.",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_429",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_429",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_429",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_429",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_429",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_429",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_429",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_429",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_429",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_429",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_429",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_429",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_429",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_429",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "i bet you were cuz you weren ' t. my car bogged at which point you disappeared. did you put in quite a few revs? i did. i was pumping the gas and i did have quite a few revs when i eventually um dumped the clutch, but it all worked really well in this car. wait, wait, wait, wait, wait. you dump the clutch rather than like fed it in. yeah, i kind of knew where the bite point was and i kind of just whacked up to that and it just worked and hooked. it was really good. right, you ' ve got a technique down. you don ' t need to change it. i need to change mine because mine was all wrong. let me have another go. we want to find out which car is fastest. okay, might not be this one, but i ' m going to give it another shot. racing driver sam is just crying back over there. i mean, even that was better. and i ' m just pulling away. i feel that if i get the launch right, this will win. and for the honda civic type r fanboys, i need to do the car justice. right. i ' m going to walk more tires with some braking. that ' s better. that ' s better. then spin there, but it ' s fine. right. i think i ' ve got something. what i ' m going to do now is find where the bite is. just push back from that. give it more revs and a slight dumpage. a bit better, but it bogged a bit. [ applause ] now it ' s gone. [ music ] [ applause ] [ music ] [ music ] oh, come on. [ applause ] it was exactly the same. yeah, i had a little bit more wheel slip this time, but it was still pretty good launch. and the gear shift on this car is amazing. it ' s so short and like so precise. it ' s really, really nice. this is good, too. i ' m enjoying the gear changes. i ' m just not enjoying the initial blumbing launch. let ' s try something else. is that better? [ music ] that might be better. it ' s not better. i ' ve had another little practice. seem to be getting the exact same thing. so, i ' m going to try one last thing. proper high revs",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_855",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_855",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_855",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_855",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_855",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_855",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_855",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_855",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_855",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_855",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_855",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_855",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_855",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_855",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "clutch dump. is it a sort of winner takes all situation that seems to spring up when you don ' t win? i don ' t think i ' m going to win, but i ' m going to try and do slightly better. and then if i can ' t, i might have to call in a professional. okay. all or nothing. this is probably going to be a disaster. 3 2 1 then then it just does that. [ music ] [ applause ] oh, just missed third there. [ applause ] [ music ] it ' s my best one yet. [ applause ] it ' s all the same. no matter what i do, i ' m getting the same result. exactly the same. i ' ve never had such a consistent car with different ways of launching it. one last go. i am going to do the clutch dump now. and this is it. this is this is the hail mary. three, two, one. that ' s the closest. oh, it ' s quicker. [ music ] he ' s coming. he ' s not far away now. it ' s closing. come on. ooh, it ' s coming back. come on, you beauty. mate, i ' m celebrating a loss cuz i managed to actually move the dial ever so slightly. it went quicker that time. yeah, i have an admission to make. i mean, the previous races i had my air con on and uh i switched it off for that one. so, i probably had like two more horsepower and i needed it, but i got a good launch and yeah, i was looking at you coming through my rear window and you were definitely gaining on me. right, that ' ll make the rolling race especially fun. anyway, i ' m going to bring in the professional. before we bring in the professional, let ' s see what the time was. so then, what exactly happened? well, the toyota won. it completed the standing quarter mile in 14 seconds. the honda took 14. 3 seconds. m. when you see sam, look at him. he looks like he ' s going to play around a golf. looks like a corvette owner. people are just like dissing you on the radio. they say you look like you ' re playing around a golf or you look like a corvette owner. standard. yeah. sodom. listen. car hr. i know. horrendous. right. what",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_1274",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_1274",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_1274",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_1274",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_1274",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_1274",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_1274",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "14.3 seconds.",
+                  "answer_start": 1594
+                }
+              ]
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_1274",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_1274",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_1274",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_1274",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_1274",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_1274",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_1274",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "14 seconds.",
+                  "answer_start": 1594
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "i need is some racing driver skills. right. i ' ve done a 14. 3. i did that when dumping the clutch. feeding it. i was 2 slower. i reckon you got two goes. i would try a feather and a dump. see what happens with you. um, you can have a feather in a dump. i always do. good luck. no pressure. look at his smug little face. look at it. i ' m beat him. beat. which c5 corvette have you got, mate? shut up. is it a one of one? cuz it ' s the only one that had the red seats and the blue cup holder that year. you know too much about corvettes, sam. so, what you going for first? you going for a feather or a dump? i ' m going to try a race launch as i know it. see how that goes and then make an adjustment after that if i need to. what is a race launch as you know it? it ' s just managing the clutch slip through feel. that ' s all. so, not a dump. it ' s a like a blend. yeah, it ' s managing traction and managing clutch. yeah, that ' s it. get managing. [ music ] [ applause ] [ music ] oh, he ' s absolutely killed him. and i ' ve missed the gear change because i ' m so elated. i ' m beating a racing driver. [ applause ] is there any way to turn the traction off more? now, apparently there is. it ' s some kind of thing that they do when they put into dyno mode or whatever. we don ' t know. try a dump and see if it does better. that ' s 3 2 1. [ music ] i think it was better, but it ' s not better enough. [ music ] [ applause ] [ applause ] we tried it with a pro. so, anyone who ' s going, \" no, matt, you can ' t change gears and man, you can ' t. \" you know, we tried. let ' s find out what the time is. we sound quicker than me. you don ' t look very happy, mate. it ' s not fair on the car because this car can do a much better time than that. it just won ' t give it the revs. fair play. i think we ' ve probably had enough goes now.",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_1692",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_1692",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_1692",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_1692",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_1692",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_1692",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_1692",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_1692",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_1692",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_1692",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_1692",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_1692",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_1692",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_1692",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "i should probably move on to the uh ingear rolling races. all right, matt will probably want to do that. but yeah, thank thanks for coming, rory. i ' m actually racing this weekend, so if you want to just jump in instead, that would be awesome. would you mind? you ' ll have to speak to my agent, mate. i don ' t know what i ' m doing this weekend. i do know what i ' m doing this weekend. i ' m looking after three little kids. oh, perfect. i ' ll drop mine off as well, then. right, let ' s see. for sake, wait, can i show you something? yeah. go and show me something. can i show you my time? yeah. go on. there ' s mine. bit quicker. yeah, it ' s a bit just a little bit quicker than yours. see that? three. yeah. well done. you are a better driver than me. how many times i get i don ' t often get this. let me well, stay. let me enjoy this, please. yeah, sure. let me enjoy it. okay. my time was better than your time. it was. yeah. it felt so good. my time was better than your time, wasn ' t it? yeah. yeah. yeah. can i hear you say it, matthew? your time was better than mine. i ' ve been having a bad couple of weeks recently, but that just made it made everything all right. good. so, there would be a way, but we wouldn ' t. let ' s let ' s not talk. let ' s just let ' s just let ' s just just enjoy the moment. but listen. no, no, no. just please. if we slip the clutch, just let it go. with sam in the car, the honda actually was slower. it took 14. 5 seconds to do the standing / 4 mile. uh - huh. uh - huh. h. now, let ' s get on with some rolling races, rory. and let ' s start off in first gear. and we ' ll do this one just to the quarter mile. so, we ' ll roll in. will start us. we ' ll be running in in first, low speed, and then we ' ll just take it from when the hands go down. okay. see which one crosses the line first. let",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_2113",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_2113",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_2113",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_2113",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_2113",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_2113",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_2113",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_2113",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_2113",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_2113",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_2113",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_2113",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_2113",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_2113",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "' s go. 2. come on. [ music ] this is game on. come on, civic type r. oh, he ' s got me on that gear change. yes. yes. yes. yes. yes. yes. yes. yes. okay, rory, how do you feel about that? yeah, these cars are really quite close in performance, aren ' t they? um, i got through all the gears pretty well then. i couldn ' t do much better than that. so, uh, yeah, fair win to you. right, let ' s go into second now. let ' s do this one over the half mile. all right, before we do this rolling race in second gear, if you want to see what savings available on a civic type r through car, click on the pop out banner there or scan the qr code on screen. now, anyway, good to go. as the man said, we ' re good to go. so, we ' re going to race. all righty then. do you want to get your wheels straight? no, you ' re going to you ' re going to go full lock into me. okay, fine. um, i ' ll set the pace. second gear. roll on. let ' s do this. here we go. three, two, one, go. oh, he ' s off fast. [ music ] come on. i think his gearing is shorter. and this is going to play to my advantage now. i ' m going to stay in fourth. going to fifth. [ applause ] another victory to the civic. yeah, i think my gear change were even better that time. i feel like it was closer, but i ' m i ' m genuinely not going to do much better than that. the civic is just faster, isn ' t it? let ' s see when we put them into third gear. so, a bit low down in the rev range from 50. okay. see which one actually comes on boost quickest. so, let ' s do one last race. here we go then. 3 2 1 go. come on. come on. come on. come on. come on. oh, i think i ' ve got him in front of him. [ music ] oh, he ' s a little bit ahead. need a good gear change here. i ' m not going to get a better change to fourth. i '",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_2518",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_2518",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_2518",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_2518",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_2518",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_2518",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_2518",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_2518",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_2518",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_2518",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_2518",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_2518",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_2518",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_2518",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "m not good enough at driving. [ applause ] i ' m just coming past a little bit now. need another good gear change to fifth here. [ applause ] oh, he ' s just got the legs. they ' re so close, these cars. it ' s really close, isn ' t it? i think maybe the initial pickup on the gr ' s slightly better, but then this just has more horsepower and less drivetrain loss losses. what ' s a losh? it ' s got less losses, mate. you sound like sean connory. yeah. third, the pickup on this is slightly better. i get my nose in front and then i i i cannot physically change from third to fourth quicker than that and then you just seem to just on that gear change. maybe you ' re gearing slightly longer and then through fourth you just pull away. yeah. and i can ' t catch you. right. let ' s do a brake test. but before that, if you know what we need to do, let ' s find out which one we think is the most fun to drive. okay. [ music ] after three, say which one you think drove the best. ready? three, two, one. civic. yeah. this corner ' s flat, doesn ' t it? yeah. what i ' d say is on a dry day like today, i think this turns in better. i think it ' s more mobile at the back, everything like that. but i ' m just thinking in the depths of winter, even though that doesn ' t turn in as well. you can get back on the power on it with more confidence, basically. i don ' t know. like that as a wet b - roll thing is really, really good, but this is a better car. okay, here it is then. for driving on track, this definitely for driving on the road that i think probably if i was going to have to own one um throughout all the seasons, i probably would still uh choose that. yeah, but i do think fundamentally on a dry day, if you were to time these cars on a dry track, this wins. this wins. it ' s great. loved it. what a thing. okay, let ' s do it. brake test. 100 miles an hour. come on, civique. now, if you ' d rather watch another drag race, maybe with a bunch of civic type rs,",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_2921",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_2921",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_2921",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_2921",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_2921",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_2921",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_2921",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_2921",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_2921",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_2921",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_2921",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_2921",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_2921",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_2921",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "click on the pop out banner or scan the qr code on screen now. there ' s 100. right. come on. line. line. line. line. l line. come on. last bit. last bit. last bit. that was awesome. i was ahead of you. i thought this is it. i ' ve lost this. but the last bit this just gripped up. i think what am i sort of like 20 30 kilos more than you or something? and me. whatever that is. probably another 30 kilos heavier than you. i thought i ' d won that as well at the beginning and then i didn ' t. but how fun was that? that was one of the best brake tests i think i ' ve ever been in. and it ' s so good. both cars have amazing brakes and great pedal feel as well, don ' t they? yeah, i ' m honestly just overall just really impressed with this car. love the gear change. love the bite point on the clutch. the steering is really nice. it ' s just yeah, it ' s a lovely lovely thing. same with this. i love the civic type. listen, thanks for the guys for lending us their cars. appreciate it. if you want to compare these cars quite a mile times to everything else we ' ve ever drag race, then you know what to do. you click on the carow logo, right? take you to the carwo drag race leaderboard. our one last thought, right? what are the drag races we ' d like us to do? let us know in the comments. we ' re going to read through them and it ' ll give us some inspiration and we ' ll see what we can put together. thanks for watching then. i ' ll see you next time.",
+          "qas": [
+            {
+              "id": "Honda Civic Type R_Engine Type_Honda Civic Type R_3342",
+              "question": "What is the engine type of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Engine Capacity_Honda Civic Type R_3342",
+              "question": "What is the engine capacity of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Horsepower_Honda Civic Type R_3342",
+              "question": "What is the horsepower of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Weight_Honda Civic Type R_3342",
+              "question": "What is the weight of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Torque_Honda Civic Type R_3342",
+              "question": "What is the torque of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Gearbox_Honda Civic Type R_3342",
+              "question": "What is the gearbox in the Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda Civic Type R_Quarter Mile Time_Honda Civic Type R_3342",
+              "question": "What is the quarter mile time of Honda Civic Type R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Type_Toyota GR Corolla_3342",
+              "question": "What is the engine type of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Engine Capacity_Toyota GR Corolla_3342",
+              "question": "What is the engine capacity of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Horsepower_Toyota GR Corolla_3342",
+              "question": "What is the horsepower of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Weight_Toyota GR Corolla_3342",
+              "question": "What is the weight of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Torque_Toyota GR Corolla_3342",
+              "question": "What is the torque of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Gearbox_Toyota GR Corolla_3342",
+              "question": "What is the gearbox in the Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GR Corolla_Quarter Mile Time_Toyota GR Corolla_3342",
+              "question": "What is the quarter mile time of Toyota GR Corolla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

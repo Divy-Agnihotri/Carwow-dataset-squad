@@ -1,0 +1,435 @@
+{
+  "data": [
+    {
+      "title": "Porsche 911 Turbo S v SLEEPER Skoda Superb DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "porsche 911 turbo s v sleeper skoda superb drag race _ transcript what will win in a drag race between a super car from the nautis a porche 91 turbo and a scoda super well we ' re going to find out cuz i ' m going to race them over the standing quarter mile i ' m matt watson and you ' re watching carwow the porsche 996 911 turbo s has a 3.6 l twin turbo flat 6 that puts out 450 horsepower and 620 newm of torque it drives all four wheels for a 5 - speed automatic gearbox and the car weighs in at 1, 630 kg when it was new this particular car cost over £ 100, 000 normally the scoda superb has a 2 l turbocharged 4 - cylinder engine that puts out 280 horsepower and 350 newm of torque but this is a one - off sleeper edition and it ' s been tuned by a company called re performance they ' ve added a garett turbo a performance intercooler kit and some racing spark plugs all those changes up the engines power to 477 horsepower and 661 newt m of torque the car has always drive and a 7 - speed dual clutch automatic gearbox it weighs in at just over 1, 600 kg okay sam so this may seem a little bit one - sided we ' ve got the racing driver in uh supercar from the nautis and we ' ve got the old man in scoda super with a beige interior i feel very at home here you ' re going to decimate me right it feels that way but i don ' t trust a single bone in your body and right you are not to trust me my friend because this has been tuned i have more horsepower than you i have 47 7 you also have massive front brakes yes i have up rated brakes as well sir i do i love the color of your car it ' s like some kind of like weird green i love green this was such a cool car back in the day wasn ' t it this is the one this was the fastest car in the world you know and it ' s about to have a race with a scolder so good things have moved on then yeah yes exactly things have moved on it looks great actually with those yellow brake car i need to stop lusting over it right i like to think that the basic 3.4 l 996 looks the best cuz i ' ve got one of those but actually i much prefer a look at that anyway let ' s get on",
+          "qas": [
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Type_Porsche 996 911 Turbo S_1",
+              "question": "What is the engine type of Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.6 L twin turbo Flat 6",
+                  "answer_start": 337
+                }
+              ]
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Capacity_Porsche 996 911 Turbo S_1",
+              "question": "What is the engine capacity of Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.6 L",
+                  "answer_start": 339
+                }
+              ]
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Horsepower_Porsche 996 911 Turbo S_1",
+              "question": "What is the horsepower of Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "450 horsepower",
+                  "answer_start": 377
+                }
+              ]
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Weight_Porsche 996 911 Turbo S_1",
+              "question": "What is the weight of Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 1056
+                }
+              ]
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Torque_Porsche 996 911 Turbo S_1",
+              "question": "What is the torque of Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "620 newm of torque",
+                  "answer_start": 396
+                }
+              ]
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Gearbox_Porsche 996 911 Turbo S_1",
+              "question": "What is the gearbox in the Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5-speed automatic gearbox",
+                  "answer_start": 451
+                }
+              ]
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Quarter Mile Time_Porsche 996 911 Turbo S_1",
+              "question": "What is the quarter mile time of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Engine Type_Skoda Superb_1",
+              "question": "What is the engine type of Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder engine",
+                  "answer_start": 603
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Engine Capacity_Skoda Superb_1",
+              "question": "What is the engine capacity of Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 599
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Horsepower_Skoda Superb_1",
+              "question": "What is the horsepower of Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "477 horsepower",
+                  "answer_start": 377
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Weight_Skoda Superb_1",
+              "question": "What is the weight of Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 1056
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Torque_Skoda Superb_1",
+              "question": "What is the torque of Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "661 Newt M of torque",
+                  "answer_start": 935
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Gearbox_Skoda Superb_1",
+              "question": "What is the gearbox in the Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 991
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Quarter Mile Time_Skoda Superb_1",
+              "question": "What is the quarter mile time of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "with the race but first let ' s do a sound check rev up your porker soft limiter i would never have said this as a soft limiter no i wouldn ' t have expected that it ' s got a real like tough metka engine in it it ' s a famous engine in that car okay i listen to this obviously we ' re going to have a soft limiter in the scoda oh wait no i can rev it all the way to seven this is going to be fun this i have no idea what ' s going to happen right let ' s race it feels like the weight of the internet is on my shoulders right now yeah they ' re going to be laughing at you sunshine if you up 3 2 1 [ music ] no oh my god no way come on [ applause ] f keep going keep going oh porsche come on oh the gear changes just coming faster come on i mean i had you off the line i think it can definitely go quicker it wasn ' t quite right then the safety systems engaged and it had like the parking brake on and all the modern tech which is designed to make you safer and life easier cocked it in the drag race but you were worried then weren ' t you for a moment oh my god oh porsche come on come on no this is a porsche how was i ever going to lose come on let ' s go let ' s go again then let ' s see 2 1 no he jumped no it ' s there he kind of just bugs a bit i ' ve got him what happened what happened to him [ applause ] [ applause ] what happened to you well i think you were a touch spirited and this just it does take a while to get going did i jump the start no you did not jump the start up your sam it ' s one age formal protest okay then sam this is the decider no excuses no like claiming that i ' m cheating when i ' m not just cuz you ' re lost so come on 3 2 1 i he ' s going to have me this time come on por come [ music ] [ applause ] on come on it ' s there where this just dies yes [ applause ] dinging ding ding you weren all right so it didn ' t at that time i adjusted how much brake pressure i held while i was trying to hold it on the power and that it was a lot happier that time oh did we leave it about the same time or you a little bit quicker off the line stewards i was better off the",
+          "qas": [
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Type_Porsche 996 911 Turbo S_462",
+              "question": "What is the engine type of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Capacity_Porsche 996 911 Turbo S_462",
+              "question": "What is the engine capacity of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Horsepower_Porsche 996 911 Turbo S_462",
+              "question": "What is the horsepower of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Weight_Porsche 996 911 Turbo S_462",
+              "question": "What is the weight of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Torque_Porsche 996 911 Turbo S_462",
+              "question": "What is the torque of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Gearbox_Porsche 996 911 Turbo S_462",
+              "question": "What is the gearbox in the Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Quarter Mile Time_Porsche 996 911 Turbo S_462",
+              "question": "What is the quarter mile time of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Engine Type_Skoda Superb_462",
+              "question": "What is the engine type of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Engine Capacity_Skoda Superb_462",
+              "question": "What is the engine capacity of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Horsepower_Skoda Superb_462",
+              "question": "What is the horsepower of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Weight_Skoda Superb_462",
+              "question": "What is the weight of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Torque_Skoda Superb_462",
+              "question": "What is the torque of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Gearbox_Skoda Superb_462",
+              "question": "What is the gearbox in the Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Quarter Mile Time_Skoda Superb_462",
+              "question": "What is the quarter mile time of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "line if that ' s what you want to say it ' s okay and did not jump 3 2 1 [ applause ] come on [ music ] scoda i ' m going to have him is he coming back come on turbo bye that was fun por got beat by scoda yor you ' re in a scoda it ' s an estate just go do something boring and beige for the rest of your day while i cruise around in a 911 turbo okay w 3 2 1 come on scoda [ music ] come on [ music ] oh well there we go best out of five you won i won so then what exactly happened well the porsche won it completed the standing quarter mile in 12. 2 seconds the scod to took 12. 4 seconds if you ' re changing your car then you got to check out carwow because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one car makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past life changing now if you want to go to car while right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out banner of ping in the top right hand cor the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow right and now we have a rolling race however um i ' m going to leave the video now cuz i ' ve got to go pick my daughter up from school i ' m doing parenting today i can ' t be late so i ' m going to hand over to my younger betterlook self aka rayr r you ' re up hi matt 2. 0 you ' re right sam how ' s it going i don ' t know what it is but you ' re just way less annoying what ' s happening so now we ' re going to do a rolling race from 50 m hour in your most comfortable setting if you have one of those from way back in 2004 so i ' m going to be in comfort 50 mph let ' s go for it get level get level get level get 3 2 1 go oh yes [ applause ] gearbox 911 turbo she still goes fair play my more modern a box kick down quicker but i think probably the fact that you wear a bit less and you ' re way more aerodynamic and you look a lot",
+          "qas": [
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Type_Porsche 996 911 Turbo S_952",
+              "question": "What is the engine type of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Capacity_Porsche 996 911 Turbo S_952",
+              "question": "What is the engine capacity of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Horsepower_Porsche 996 911 Turbo S_952",
+              "question": "What is the horsepower of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Weight_Porsche 996 911 Turbo S_952",
+              "question": "What is the weight of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Torque_Porsche 996 911 Turbo S_952",
+              "question": "What is the torque of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Gearbox_Porsche 996 911 Turbo S_952",
+              "question": "What is the gearbox in the Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Quarter Mile Time_Porsche 996 911 Turbo S_952",
+              "question": "What is the quarter mile time of Porsche 996 911 Turbo S?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds",
+                  "answer_start": 549
+                }
+              ]
+            },
+            {
+              "id": "Skoda Superb_Engine Type_Skoda Superb_952",
+              "question": "What is the engine type of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Engine Capacity_Skoda Superb_952",
+              "question": "What is the engine capacity of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Horsepower_Skoda Superb_952",
+              "question": "What is the horsepower of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Weight_Skoda Superb_952",
+              "question": "What is the weight of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Torque_Skoda Superb_952",
+              "question": "What is the torque of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Gearbox_Skoda Superb_952",
+              "question": "What is the gearbox in the Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Quarter Mile Time_Skoda Superb_952",
+              "question": "What is the quarter mile time of Skoda Superb?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.4 seconds",
+                  "answer_start": 549
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "cooler gave you the win do you know what though time ticks by doesn ' t it my x5 feels faster than this and also it is pretty crazy that i ' m starting a scoda with beige seats i ' m pretty sure these seats actually are stained with um olive branch ink or something like that so i ' m sat on olive branches and i ' m kind of not losing that badly to a eos but you did marry up didn ' t you so that ' s what you used to you beat me in that one but this time let ' s go into the sportiest setting and let ' s go manual mode and we ' ll go second gear from 30 m hour see how we get on get level get level get level get level 3 2 one go come on [ music ] scota here she comes no [ applause ] 12550 okay you won searching for an insult uh how much shopping can you get in it uh the boots quite big and the back seats yeah i mean this was still doing 140 as we went through the half mile so i think that ' s pretty quick for one of these right let ' s do the brake test now time to deploy my secret weapon massive brakes so we ' ll do break for 100 [ applause ] milph oh my god two [ music ] feet oh my life and that is how you beat a 911 turbo with a scoda super wow i concede i tipped my hat to you do you know what that ' s the best drag race i ' ve ever had the professionalism was incredible thank you very very much that will go into my feedback form for the end of the year salary negotiations thank you i hope you enjoyed the video if you did give it a like let me know what you think of it in the comments below click on the video windows for some more videos and on the car wire logo to see how much you can save on your next car thanks for watching",
+          "qas": [
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Type_Porsche 996 911 Turbo S_1433",
+              "question": "What is the engine type of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Engine Capacity_Porsche 996 911 Turbo S_1433",
+              "question": "What is the engine capacity of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Horsepower_Porsche 996 911 Turbo S_1433",
+              "question": "What is the horsepower of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Weight_Porsche 996 911 Turbo S_1433",
+              "question": "What is the weight of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Torque_Porsche 996 911 Turbo S_1433",
+              "question": "What is the torque of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Gearbox_Porsche 996 911 Turbo S_1433",
+              "question": "What is the gearbox in the Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 996 911 Turbo S_Quarter Mile Time_Porsche 996 911 Turbo S_1433",
+              "question": "What is the quarter mile time of Porsche 996 911 Turbo S?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Engine Type_Skoda Superb_1433",
+              "question": "What is the engine type of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Engine Capacity_Skoda Superb_1433",
+              "question": "What is the engine capacity of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Horsepower_Skoda Superb_1433",
+              "question": "What is the horsepower of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Weight_Skoda Superb_1433",
+              "question": "What is the weight of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Torque_Skoda Superb_1433",
+              "question": "What is the torque of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Gearbox_Skoda Superb_1433",
+              "question": "What is the gearbox in the Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Skoda Superb_Quarter Mile Time_Skoda Superb_1433",
+              "question": "What is the quarter mile time of Skoda Superb?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

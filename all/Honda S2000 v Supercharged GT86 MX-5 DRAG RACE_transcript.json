@@ -1,0 +1,3483 @@
+{
+  "data": [
+    {
+      "title": "Honda S2000 v Supercharged GT86 MX-5 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "honda s2000 v supercharged gt86 mx - 5 drag race _ transcript let ' s say you ' ve got about 13 to 14, 000 to spend on a high performance japanese sports car should you get a gt86 and then modify it or should you get a mark iii mx5 and then modify that or should you think i don ' t want a modified car i ' m going for a honda s2000 with its wonderful vtec engine while we ' re going to find out which of these cars is quickest over the standing quarter mile it ' s time for a drag race the mazda mx5 has a 2 l 4 - cylinder petrol engine which normally has 162 horsepower and 176 new m of torque but this one has been tuned with a bbr stage 1 supercharger kit so it now has 260 horsepower and 280 newon m of torque send power to the rear wheels as for a six - speed manual gearbox and it weighs 1, 132 kilos with the upgrades included this car costs 13, 000 the toyota gt86 also has a 2 l 4 - cylinder petrol engine which normally has 200 horsepower and 2 5 newm of torque but with a hks supercharger kit it now puts out 280 horsepower and around 300 nm of torque it ends power to the rear wheels only via six - speed manual transmission and it weighs 1, 270 kilos with all its upgrades this car costs 15, 000 the honda s2000 also has a 2 l 4 - cylinder petrol engine which puts out 240 horsepower and 207 n m of torque it sends the power to the rear wheels only fire as six - speed manual gearbox and the car weighs in at 1, 2 60 kilos this car is worth £12, 000 now that mx5 is actually owned by our head of video jack scott and so jack can you tell me why the mark iii mx5 isn ' t as good as the mark i mx5 i don ' t want to get involved in that cuz i don ' t agree with you and the reason i think that this is better than the mark i is the hard top can you tell me why the root supercharger on my supercharger mx5 mk i is better than the sentra fugal supercharger on your mk ii mx5 it ' s not the roots is really annoying makes a that ' s awesome that noise is awesome where ' s your noise yours is basically just like a a turbo that ' s less efficient well i like it okay nick what '",
+          "qas": [
+            {
+              "id": "Mazda MX5_Engine Type_Mazda MX5_1",
+              "question": "What is the engine type of Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Type_MX5_1",
+              "question": "What is the engine type of MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Type_the Mazda_1",
+              "question": "What is the engine type of the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_Mazda MX5_1",
+              "question": "What is the engine capacity of Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_MX5_1",
+              "question": "What is the engine capacity of MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_the Mazda_1",
+              "question": "What is the engine capacity of the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Horsepower_Mazda MX5_1",
+              "question": "What is the horsepower of Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "260 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Horsepower_MX5_1",
+              "question": "What is the horsepower of MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "260 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "260 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Horsepower_the Mazda_1",
+              "question": "What is the horsepower of the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "260 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Weight_Mazda MX5_1",
+              "question": "What is the weight of Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,132 kilos",
+                  "answer_start": 798
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Weight_MX5_1",
+              "question": "What is the weight of MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,132 kilos",
+                  "answer_start": 798
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,132 kilos",
+                  "answer_start": 798
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Weight_the Mazda_1",
+              "question": "What is the weight of the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,132 kilos",
+                  "answer_start": 798
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Torque_Mazda MX5_1",
+              "question": "What is the torque of Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 newon M of torque",
+                  "answer_start": 693
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Torque_MX5_1",
+              "question": "What is the torque of MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 newon M of torque",
+                  "answer_start": 693
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 newon M of torque",
+                  "answer_start": 693
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Torque_the Mazda_1",
+              "question": "What is the torque of the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 newon M of torque",
+                  "answer_start": 693
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Gearbox_Mazda MX5_1",
+              "question": "What is the gearbox in the Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Gearbox_MX5_1",
+              "question": "What is the gearbox in the MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Gearbox_the Mazda_1",
+              "question": "What is the gearbox in the the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_Mazda MX5_1",
+              "question": "What is the quarter mile time of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_MX5_1",
+              "question": "What is the quarter mile time of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_the Mazda_1",
+              "question": "What is the quarter mile time of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_Toyota GT86_1",
+              "question": "What is the engine type of Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Type_GT86_1",
+              "question": "What is the engine type of GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Type_the Toyota_1",
+              "question": "What is the engine type of the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_Toyota GT86_1",
+              "question": "What is the engine capacity of Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_GT86_1",
+              "question": "What is the engine capacity of GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_the Toyota_1",
+              "question": "What is the engine capacity of the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Horsepower_Toyota GT86_1",
+              "question": "What is the horsepower of Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Horsepower_GT86_1",
+              "question": "What is the horsepower of GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Horsepower_the Toyota_1",
+              "question": "What is the horsepower of the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "280 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Weight_Toyota GT86_1",
+              "question": "What is the weight of Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Weight_GT86_1",
+              "question": "What is the weight of GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Weight_the Toyota_1",
+              "question": "What is the weight of the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Torque_Toyota GT86_1",
+              "question": "What is the torque of Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "300 NM of torque",
+                  "answer_start": 1047
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Torque_GT86_1",
+              "question": "What is the torque of GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "300 NM of torque",
+                  "answer_start": 1047
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "300 NM of torque",
+                  "answer_start": 1047
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Torque_the Toyota_1",
+              "question": "What is the torque of the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "300 NM of torque",
+                  "answer_start": 1047
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Gearbox_Toyota GT86_1",
+              "question": "What is the gearbox in the Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual transmission",
+                  "answer_start": 1112
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Gearbox_GT86_1",
+              "question": "What is the gearbox in the GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual transmission",
+                  "answer_start": 1112
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual transmission",
+                  "answer_start": 1112
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Gearbox_the Toyota_1",
+              "question": "What is the gearbox in the the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual transmission",
+                  "answer_start": 1112
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_Toyota GT86_1",
+              "question": "What is the quarter mile time of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_GT86_1",
+              "question": "What is the quarter mile time of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_the Toyota_1",
+              "question": "What is the quarter mile time of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda S2000_1",
+              "question": "What is the engine type of Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda_1",
+              "question": "What is the engine type of Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Type_the Honda_1",
+              "question": "What is the engine type of the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder petrol engine",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda S2000_1",
+              "question": "What is the engine capacity of Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda_1",
+              "question": "What is the engine capacity of Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_the Honda_1",
+              "question": "What is the engine capacity of the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 507
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda S2000_1",
+              "question": "What is the horsepower of Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "240 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda_1",
+              "question": "What is the horsepower of Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "240 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "240 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Horsepower_the Honda_1",
+              "question": "What is the horsepower of the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "240 horsepower",
+                  "answer_start": 557
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Weight_Honda S2000_1",
+              "question": "What is the weight of Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Weight_Honda_1",
+              "question": "What is the weight of Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Weight_the Honda_1",
+              "question": "What is the weight of the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,270 kilos",
+                  "answer_start": 1155
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Torque_Honda S2000_1",
+              "question": "What is the torque of Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "207 n m of torque",
+                  "answer_start": 1302
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Torque_Honda_1",
+              "question": "What is the torque of Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "207 n m of torque",
+                  "answer_start": 1302
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "207 n m of torque",
+                  "answer_start": 1302
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Torque_the Honda_1",
+              "question": "What is the torque of the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "207 n m of torque",
+                  "answer_start": 1302
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda S2000_1",
+              "question": "What is the gearbox in the Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda_1",
+              "question": "What is the gearbox in the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Gearbox_the Honda_1",
+              "question": "What is the gearbox in the the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual gearbox",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda S2000_1",
+              "question": "What is the quarter mile time of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda_1",
+              "question": "What is the quarter mile time of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_the Honda_1",
+              "question": "What is the quarter mile time of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "s going on with your car it ' s not even yours is it whose is it it ' s a very nice man called yuan ' s car and this too has a centrifugal supercharger so half a turbo attached to the engine those centrifugal superchargers produce their power at the top of the rev range bit like my vtec system on this honda engine which doesn ' t kick until about 7, 000 rpm and that ' s where all the power is so i ' ve got to keep in the vtec zone yo vtec ' s better than superchargers isn ' t it yeah vtec ' s cool anyway listen shall we check out the sound of these cars i ' m going to rev up my honda s2000 thanks to the chat for lending me this this is instagram handle go follow him say thanks i ' m only going to rev to six while stationary where ' s your red line jack uh 7 and a2 where ' s yours nick 74 okay so i ' m just going to rev to six for now what can you rev up to when you ' re stationary uh let ' s find out shall we this is where his enery goes all the way to the red line there was quite a lot of white smoke then hopefully it ' s just steam cuz it ' s cold but it not a head gasket no no just condensation these do have a ford engine but i don ' t think it ' s the head gasket okay so that sounded pretty nice let ' s have a listen to your gt86 nick here we go this is going to sound good yeah easy win oh that is an easy win so this has the standard pipes on it is your car standard exhaust yeah so mine ' s got the standard back box the standard center section uh it ' s got a 4 into one manifold which is slightly different but for all intense purposes it sounds the same it doesn ' t sound quite as good as my mark 2 mx5 no yours has a cobalt exhaust i recall i ' ve no idea it was just an aftermarket one from mx5 parts cost them like 150 quid anyway um that ' s enough messing about let ' s get on with this racing oh actually before we get into the racing there is one other sound check we need to do and that ' s the horn you see japanese cars have the most ridiculous horns ever and we ' ll illustrate that now so have a listen to this honda ' s horn it ' s",
+          "qas": [
+            {
+              "id": "Mazda MX5_Engine Type_Mazda MX5_453",
+              "question": "What is the engine type of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_MX5_453",
+              "question": "What is the engine type of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_this car_453",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_the Mazda_453",
+              "question": "What is the engine type of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_Mazda MX5_453",
+              "question": "What is the engine capacity of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_MX5_453",
+              "question": "What is the engine capacity of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_this car_453",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_the Mazda_453",
+              "question": "What is the engine capacity of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_Mazda MX5_453",
+              "question": "What is the horsepower of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_MX5_453",
+              "question": "What is the horsepower of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_this car_453",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_the Mazda_453",
+              "question": "What is the horsepower of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_Mazda MX5_453",
+              "question": "What is the weight of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_MX5_453",
+              "question": "What is the weight of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_this car_453",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_the Mazda_453",
+              "question": "What is the weight of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_Mazda MX5_453",
+              "question": "What is the torque of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_MX5_453",
+              "question": "What is the torque of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_this car_453",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_the Mazda_453",
+              "question": "What is the torque of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_Mazda MX5_453",
+              "question": "What is the gearbox in the Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_MX5_453",
+              "question": "What is the gearbox in the MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_this car_453",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_the Mazda_453",
+              "question": "What is the gearbox in the the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_Mazda MX5_453",
+              "question": "What is the quarter mile time of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_MX5_453",
+              "question": "What is the quarter mile time of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_this car_453",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_the Mazda_453",
+              "question": "What is the quarter mile time of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_Toyota GT86_453",
+              "question": "What is the engine type of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_GT86_453",
+              "question": "What is the engine type of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_this car_453",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_the Toyota_453",
+              "question": "What is the engine type of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_Toyota GT86_453",
+              "question": "What is the engine capacity of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_GT86_453",
+              "question": "What is the engine capacity of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_this car_453",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_the Toyota_453",
+              "question": "What is the engine capacity of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_Toyota GT86_453",
+              "question": "What is the horsepower of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_GT86_453",
+              "question": "What is the horsepower of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_this car_453",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_the Toyota_453",
+              "question": "What is the horsepower of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_Toyota GT86_453",
+              "question": "What is the weight of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_GT86_453",
+              "question": "What is the weight of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_this car_453",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_the Toyota_453",
+              "question": "What is the weight of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_Toyota GT86_453",
+              "question": "What is the torque of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_GT86_453",
+              "question": "What is the torque of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_this car_453",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_the Toyota_453",
+              "question": "What is the torque of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_Toyota GT86_453",
+              "question": "What is the gearbox in the Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_GT86_453",
+              "question": "What is the gearbox in the GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_this car_453",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_the Toyota_453",
+              "question": "What is the gearbox in the the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_Toyota GT86_453",
+              "question": "What is the quarter mile time of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_GT86_453",
+              "question": "What is the quarter mile time of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_this car_453",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_the Toyota_453",
+              "question": "What is the quarter mile time of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda S2000_453",
+              "question": "What is the engine type of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda_453",
+              "question": "What is the engine type of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_this car_453",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_the Honda_453",
+              "question": "What is the engine type of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda S2000_453",
+              "question": "What is the engine capacity of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda_453",
+              "question": "What is the engine capacity of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_this car_453",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_the Honda_453",
+              "question": "What is the engine capacity of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda S2000_453",
+              "question": "What is the horsepower of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda_453",
+              "question": "What is the horsepower of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_this car_453",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_the Honda_453",
+              "question": "What is the horsepower of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda S2000_453",
+              "question": "What is the weight of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda_453",
+              "question": "What is the weight of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_this car_453",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_the Honda_453",
+              "question": "What is the weight of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda S2000_453",
+              "question": "What is the torque of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda_453",
+              "question": "What is the torque of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_this car_453",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_the Honda_453",
+              "question": "What is the torque of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda S2000_453",
+              "question": "What is the gearbox in the Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda_453",
+              "question": "What is the gearbox in the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_this car_453",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_the Honda_453",
+              "question": "What is the gearbox in the the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda S2000_453",
+              "question": "What is the quarter mile time of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda_453",
+              "question": "What is the quarter mile time of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_this car_453",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_the Honda_453",
+              "question": "What is the quarter mile time of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "like the horn on a child ' s toy car isn ' t it it ' s only listen to the ma okay that ' s even worse let ' s have a listen to the [ music ] gta6 that is the lamest horn ever isn ' t it now let ' s get on with the racing sounds like a cartoon sound effect yours what are we doing [ music ] oh come on get into the fix where are [ applause ] you oh that max 5 is too [ music ] quick everyone ' s absolutely dropping me [ applause ] [ applause ] [ music ] [ applause ] right that was disappointing start was okay bit of wheel spin kind of neck connect with you jack and then you just pulled on me so badly i was ahead of the gt86 but then that pulled on me so badly this isn ' t as quick as i remember i was going to say something but but it ' s gone out my head nick do you have anything i mean times have moved on haven ' t they i didn ' t get a good start in this too much wheel spin i ' m definitely going to beat you by more next time well do you want to do best t of three see if you can beat jack oh yeah absolutely absolutely i had a lot of wheel spin too but i don ' t think it ' s going to make a difference 1 v tick there dropped absolutely [ music ] [ applause ] [ applause ] dropped yeah you got a grin on your face jackie you happy with that yeah that was great for me the first start had a bit too much wheel spin but that was bang on i had a bit too much wheel spin there just like the first run i had to back out of it when it spinning its wheels but there nothing i can do really how about you nick yeah same for me it was a bit better i took maybe 500 rpm off the launch that time but it was still too much too much wheel spin couldn ' t keep up with jack i think i ' m going to have you in the rolling race though i think i ' m going to have you don ' t know you weren ' t gaining that time oh steady on we ' ll find out telling yourself that steady on guys i know it ' s your own car jack so you ' ve been very precious about it but before we get into the rolling r race let ' s do the thing so then what exactly happened well the master won it completed the standing quarter mile in 14. 6 seconds the toyota took 15 seconds and the honda was last",
+          "qas": [
+            {
+              "id": "Mazda MX5_Engine Type_Mazda MX5_918",
+              "question": "What is the engine type of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_MX5_918",
+              "question": "What is the engine type of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_this car_918",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_the Mazda_918",
+              "question": "What is the engine type of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_Mazda MX5_918",
+              "question": "What is the engine capacity of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_MX5_918",
+              "question": "What is the engine capacity of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_this car_918",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_the Mazda_918",
+              "question": "What is the engine capacity of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_Mazda MX5_918",
+              "question": "What is the horsepower of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_MX5_918",
+              "question": "What is the horsepower of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_this car_918",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_the Mazda_918",
+              "question": "What is the horsepower of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_Mazda MX5_918",
+              "question": "What is the weight of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_MX5_918",
+              "question": "What is the weight of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_this car_918",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_the Mazda_918",
+              "question": "What is the weight of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_Mazda MX5_918",
+              "question": "What is the torque of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_MX5_918",
+              "question": "What is the torque of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_this car_918",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_the Mazda_918",
+              "question": "What is the torque of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_Mazda MX5_918",
+              "question": "What is the gearbox in the Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_MX5_918",
+              "question": "What is the gearbox in the MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_this car_918",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_the Mazda_918",
+              "question": "What is the gearbox in the the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_Mazda MX5_918",
+              "question": "What is the quarter mile time of Mazda MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "14.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_MX5_918",
+              "question": "What is the quarter mile time of MX5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "14.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_this car_918",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "14.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_the Mazda_918",
+              "question": "What is the quarter mile time of the Mazda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "14.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Engine Type_Toyota GT86_918",
+              "question": "What is the engine type of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_GT86_918",
+              "question": "What is the engine type of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_this car_918",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_the Toyota_918",
+              "question": "What is the engine type of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_Toyota GT86_918",
+              "question": "What is the engine capacity of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_GT86_918",
+              "question": "What is the engine capacity of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_this car_918",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_the Toyota_918",
+              "question": "What is the engine capacity of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_Toyota GT86_918",
+              "question": "What is the horsepower of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_GT86_918",
+              "question": "What is the horsepower of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_this car_918",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_the Toyota_918",
+              "question": "What is the horsepower of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_Toyota GT86_918",
+              "question": "What is the weight of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_GT86_918",
+              "question": "What is the weight of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_this car_918",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_the Toyota_918",
+              "question": "What is the weight of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_Toyota GT86_918",
+              "question": "What is the torque of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_GT86_918",
+              "question": "What is the torque of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_this car_918",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_the Toyota_918",
+              "question": "What is the torque of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_Toyota GT86_918",
+              "question": "What is the gearbox in the Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_GT86_918",
+              "question": "What is the gearbox in the GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_this car_918",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_the Toyota_918",
+              "question": "What is the gearbox in the the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_Toyota GT86_918",
+              "question": "What is the quarter mile time of Toyota GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15 seconds",
+                  "answer_start": 2133
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_GT86_918",
+              "question": "What is the quarter mile time of GT86?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15 seconds",
+                  "answer_start": 2133
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_this car_918",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15 seconds",
+                  "answer_start": 2133
+                }
+              ]
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_the Toyota_918",
+              "question": "What is the quarter mile time of the Toyota?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15 seconds",
+                  "answer_start": 2133
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda S2000_918",
+              "question": "What is the engine type of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda_918",
+              "question": "What is the engine type of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_this car_918",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_the Honda_918",
+              "question": "What is the engine type of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda S2000_918",
+              "question": "What is the engine capacity of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda_918",
+              "question": "What is the engine capacity of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_this car_918",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_the Honda_918",
+              "question": "What is the engine capacity of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda S2000_918",
+              "question": "What is the horsepower of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda_918",
+              "question": "What is the horsepower of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_this car_918",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_the Honda_918",
+              "question": "What is the horsepower of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda S2000_918",
+              "question": "What is the weight of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda_918",
+              "question": "What is the weight of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_this car_918",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_the Honda_918",
+              "question": "What is the weight of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda S2000_918",
+              "question": "What is the torque of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda_918",
+              "question": "What is the torque of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_this car_918",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_the Honda_918",
+              "question": "What is the torque of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda S2000_918",
+              "question": "What is the gearbox in the Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda_918",
+              "question": "What is the gearbox in the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_this car_918",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_the Honda_918",
+              "question": "What is the gearbox in the the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda S2000_918",
+              "question": "What is the quarter mile time of Honda S2000?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda_918",
+              "question": "What is the quarter mile time of Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_this car_918",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_the Honda_918",
+              "question": "What is the quarter mile time of the Honda?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "15.6 seconds",
+                  "answer_start": 2107
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "crossing the line in 15. 6 seconds if you ' re changing your car then you got to check out carwow because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one carow makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past life changing now if you want to go to car while right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out banner appearing in the top right hand on the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow now we have a rolling race from 50 mph in third gear i ' m going to be well out of vtec but let ' s give it a go race over the half mile let ' s do it okay here we are three 3 2 1 go come on get into vtec where are you come on 86 come [ music ] [ applause ] [ music ] [ applause ] on come on vte oh everyone ' s gone now come on r it out come [ music ] on getting gapped absolutely [ applause ] destroyed so i did not stand a chance i was just outside vc zone at 50 and3 so just no talk at all and nick you have no talk because you claim that you ' re going to destroy jack in the rolling race and seems like you didn ' t uh yeah let ' s let ' s not talk about that no he did beat me although i just lost out every time he changed gear sorry that ' s bollock what am i talking about yeah he beat me i ' m really disappointed i ' m very sad but this car ' s heavier maybe that ' s it okay listen this is not fair because i ' ve got 9, 000 rpm which means that i ' m not even like halfway through my rev range when i ' m putting my foot down at 50 i want to change the roll to give this car a chance okay let ' s go again but a slightly different approach once again rolling race half mile from 50 mph but this time we have to be in second gear not third oh oh okay let ' s do it i ' ve got all the revs 3 2 1 go that ' s better oh he ' s got no chance still [ music ] [ applause ] come on beating matt no problem there come on",
+          "qas": [
+            {
+              "id": "Mazda MX5_Engine Type_Mazda MX5_1413",
+              "question": "What is the engine type of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_MX5_1413",
+              "question": "What is the engine type of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_this car_1413",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_the Mazda_1413",
+              "question": "What is the engine type of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_Mazda MX5_1413",
+              "question": "What is the engine capacity of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_MX5_1413",
+              "question": "What is the engine capacity of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_this car_1413",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_the Mazda_1413",
+              "question": "What is the engine capacity of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_Mazda MX5_1413",
+              "question": "What is the horsepower of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_MX5_1413",
+              "question": "What is the horsepower of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_this car_1413",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_the Mazda_1413",
+              "question": "What is the horsepower of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_Mazda MX5_1413",
+              "question": "What is the weight of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_MX5_1413",
+              "question": "What is the weight of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_this car_1413",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_the Mazda_1413",
+              "question": "What is the weight of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_Mazda MX5_1413",
+              "question": "What is the torque of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_MX5_1413",
+              "question": "What is the torque of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_this car_1413",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_the Mazda_1413",
+              "question": "What is the torque of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_Mazda MX5_1413",
+              "question": "What is the gearbox in the Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_MX5_1413",
+              "question": "What is the gearbox in the MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_this car_1413",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_the Mazda_1413",
+              "question": "What is the gearbox in the the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_Mazda MX5_1413",
+              "question": "What is the quarter mile time of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_MX5_1413",
+              "question": "What is the quarter mile time of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_this car_1413",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_the Mazda_1413",
+              "question": "What is the quarter mile time of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_Toyota GT86_1413",
+              "question": "What is the engine type of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_GT86_1413",
+              "question": "What is the engine type of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_this car_1413",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_the Toyota_1413",
+              "question": "What is the engine type of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_Toyota GT86_1413",
+              "question": "What is the engine capacity of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_GT86_1413",
+              "question": "What is the engine capacity of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_this car_1413",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_the Toyota_1413",
+              "question": "What is the engine capacity of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_Toyota GT86_1413",
+              "question": "What is the horsepower of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_GT86_1413",
+              "question": "What is the horsepower of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_this car_1413",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_the Toyota_1413",
+              "question": "What is the horsepower of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_Toyota GT86_1413",
+              "question": "What is the weight of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_GT86_1413",
+              "question": "What is the weight of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_this car_1413",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_the Toyota_1413",
+              "question": "What is the weight of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_Toyota GT86_1413",
+              "question": "What is the torque of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_GT86_1413",
+              "question": "What is the torque of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_this car_1413",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_the Toyota_1413",
+              "question": "What is the torque of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_Toyota GT86_1413",
+              "question": "What is the gearbox in the Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_GT86_1413",
+              "question": "What is the gearbox in the GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_this car_1413",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_the Toyota_1413",
+              "question": "What is the gearbox in the the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_Toyota GT86_1413",
+              "question": "What is the quarter mile time of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_GT86_1413",
+              "question": "What is the quarter mile time of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_this car_1413",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_the Toyota_1413",
+              "question": "What is the quarter mile time of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda S2000_1413",
+              "question": "What is the engine type of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda_1413",
+              "question": "What is the engine type of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_this car_1413",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_the Honda_1413",
+              "question": "What is the engine type of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda S2000_1413",
+              "question": "What is the engine capacity of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda_1413",
+              "question": "What is the engine capacity of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_this car_1413",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_the Honda_1413",
+              "question": "What is the engine capacity of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda S2000_1413",
+              "question": "What is the horsepower of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda_1413",
+              "question": "What is the horsepower of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_this car_1413",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_the Honda_1413",
+              "question": "What is the horsepower of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda S2000_1413",
+              "question": "What is the weight of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda_1413",
+              "question": "What is the weight of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_this car_1413",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_the Honda_1413",
+              "question": "What is the weight of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda S2000_1413",
+              "question": "What is the torque of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda_1413",
+              "question": "What is the torque of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_this car_1413",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_the Honda_1413",
+              "question": "What is the torque of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda S2000_1413",
+              "question": "What is the gearbox in the Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda_1413",
+              "question": "What is the gearbox in the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_this car_1413",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_the Honda_1413",
+              "question": "What is the gearbox in the the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda S2000_1413",
+              "question": "What is the quarter mile time of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda_1413",
+              "question": "What is the quarter mile time of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_this car_1413",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_the Honda_1413",
+              "question": "What is the quarter mile time of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "we can have [ applause ] him oh come on we got to have him this time a he ' s just pulling [ applause ] away okay that didn ' t work out for me in quite the way i hoped wasn ' t as humiliated but still thoroughly beaten and nick unfortunately um same thing for you yeah it was close at that time but i think i ' m going to have to cut the roof off throw away the back seats and go on a diet to beat jack because that car is just lighter and quicker than this one are you very pleased with your little mx5 jack yeah but i ' m not going to brag too much cuz no one likes an mx5 person who says that it ' s the best car in the world they often are though aren ' t they yeah and i mean for the same kind of money as that and the same money as that it ' s you can ' t really complain can you i ' d rather have the gt86 you can tell you two both own mx5 can ' t you you just said don ' t want to talk about how it ' s the best car in the world and the first thing you both did is said it ' s the best car in the world i would rather actually own the s2000 though you would no i ' d rather have the gt86 the s2000 is way coolly you ' ve got the like digital dash the like driver focus cockpit it ' s so cool it ' s a gran turismo car i ' ll swap it for your car it ' s not yours let ' s move on let ' s have a break test okay now we ' re going to do a break test from 100 mph car that stops in the shortest distance wins there it comes a [ music ] [ music ] line hello jack what ' s wrong with your car you need some new brakes on that i need to move on these really smelly i need to cool them down but essentially you lost jack i came second and nick won i ' m going to go drive around i had do a weird thing with mine i think it all got a bit warm from all the 120 mph stopping well the heaviest car here managed all right there i can ' t smell too much in the way of brakes that ' s funny cuz your brakes are smoking a little bit oh mine smoking i think everyone just needs to go for a little drive no you ' re fine jack obviously didn ' t press them hard enough but jack you didn ' t win everything unfortunately",
+          "qas": [
+            {
+              "id": "Mazda MX5_Engine Type_Mazda MX5_1897",
+              "question": "What is the engine type of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_MX5_1897",
+              "question": "What is the engine type of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_this car_1897",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_the Mazda_1897",
+              "question": "What is the engine type of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_Mazda MX5_1897",
+              "question": "What is the engine capacity of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_MX5_1897",
+              "question": "What is the engine capacity of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_this car_1897",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_the Mazda_1897",
+              "question": "What is the engine capacity of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_Mazda MX5_1897",
+              "question": "What is the horsepower of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_MX5_1897",
+              "question": "What is the horsepower of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_this car_1897",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_the Mazda_1897",
+              "question": "What is the horsepower of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_Mazda MX5_1897",
+              "question": "What is the weight of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_MX5_1897",
+              "question": "What is the weight of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_this car_1897",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_the Mazda_1897",
+              "question": "What is the weight of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_Mazda MX5_1897",
+              "question": "What is the torque of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_MX5_1897",
+              "question": "What is the torque of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_this car_1897",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_the Mazda_1897",
+              "question": "What is the torque of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_Mazda MX5_1897",
+              "question": "What is the gearbox in the Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_MX5_1897",
+              "question": "What is the gearbox in the MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_this car_1897",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_the Mazda_1897",
+              "question": "What is the gearbox in the the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_Mazda MX5_1897",
+              "question": "What is the quarter mile time of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_MX5_1897",
+              "question": "What is the quarter mile time of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_this car_1897",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_the Mazda_1897",
+              "question": "What is the quarter mile time of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_Toyota GT86_1897",
+              "question": "What is the engine type of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_GT86_1897",
+              "question": "What is the engine type of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_this car_1897",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_the Toyota_1897",
+              "question": "What is the engine type of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_Toyota GT86_1897",
+              "question": "What is the engine capacity of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_GT86_1897",
+              "question": "What is the engine capacity of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_this car_1897",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_the Toyota_1897",
+              "question": "What is the engine capacity of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_Toyota GT86_1897",
+              "question": "What is the horsepower of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_GT86_1897",
+              "question": "What is the horsepower of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_this car_1897",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_the Toyota_1897",
+              "question": "What is the horsepower of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_Toyota GT86_1897",
+              "question": "What is the weight of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_GT86_1897",
+              "question": "What is the weight of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_this car_1897",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_the Toyota_1897",
+              "question": "What is the weight of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_Toyota GT86_1897",
+              "question": "What is the torque of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_GT86_1897",
+              "question": "What is the torque of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_this car_1897",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_the Toyota_1897",
+              "question": "What is the torque of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_Toyota GT86_1897",
+              "question": "What is the gearbox in the Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_GT86_1897",
+              "question": "What is the gearbox in the GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_this car_1897",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_the Toyota_1897",
+              "question": "What is the gearbox in the the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_Toyota GT86_1897",
+              "question": "What is the quarter mile time of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_GT86_1897",
+              "question": "What is the quarter mile time of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_this car_1897",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_the Toyota_1897",
+              "question": "What is the quarter mile time of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda S2000_1897",
+              "question": "What is the engine type of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda_1897",
+              "question": "What is the engine type of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_this car_1897",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_the Honda_1897",
+              "question": "What is the engine type of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda S2000_1897",
+              "question": "What is the engine capacity of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda_1897",
+              "question": "What is the engine capacity of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_this car_1897",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_the Honda_1897",
+              "question": "What is the engine capacity of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda S2000_1897",
+              "question": "What is the horsepower of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda_1897",
+              "question": "What is the horsepower of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_this car_1897",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_the Honda_1897",
+              "question": "What is the horsepower of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda S2000_1897",
+              "question": "What is the weight of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda_1897",
+              "question": "What is the weight of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_this car_1897",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_the Honda_1897",
+              "question": "What is the weight of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda S2000_1897",
+              "question": "What is the torque of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda_1897",
+              "question": "What is the torque of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_this car_1897",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_the Honda_1897",
+              "question": "What is the torque of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda S2000_1897",
+              "question": "What is the gearbox in the Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda_1897",
+              "question": "What is the gearbox in the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_this car_1897",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_the Honda_1897",
+              "question": "What is the gearbox in the the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda S2000_1897",
+              "question": "What is the quarter mile time of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda_1897",
+              "question": "What is the quarter mile time of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_this car_1897",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_the Honda_1897",
+              "question": "What is the quarter mile time of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "your car stops the worst so great ation it ' s the quickest but the worst at stopping live fast die sexy i think in your car it ' s more live fast dye hair piss off listen i want to say a huge thanks to the owners of the gt86 and the s2000 for lend us their cars really really appreciate it you go follow them on their social accounts and as ever i hope you enjoyed the video if you did give it a like if you ' d like to see some other videos then click on the video windows and of course if you want to compare these cars qu m time to everything else we ever a drag race then check out the carw drag race leaderboard by clicking on the carw logo thanks for watching",
+          "qas": [
+            {
+              "id": "Mazda MX5_Engine Type_Mazda MX5_2381",
+              "question": "What is the engine type of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_MX5_2381",
+              "question": "What is the engine type of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_this car_2381",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Type_the Mazda_2381",
+              "question": "What is the engine type of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_Mazda MX5_2381",
+              "question": "What is the engine capacity of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_MX5_2381",
+              "question": "What is the engine capacity of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_this car_2381",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Engine Capacity_the Mazda_2381",
+              "question": "What is the engine capacity of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_Mazda MX5_2381",
+              "question": "What is the horsepower of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_MX5_2381",
+              "question": "What is the horsepower of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_this car_2381",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Horsepower_the Mazda_2381",
+              "question": "What is the horsepower of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_Mazda MX5_2381",
+              "question": "What is the weight of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_MX5_2381",
+              "question": "What is the weight of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_this car_2381",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Weight_the Mazda_2381",
+              "question": "What is the weight of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_Mazda MX5_2381",
+              "question": "What is the torque of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_MX5_2381",
+              "question": "What is the torque of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_this car_2381",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Torque_the Mazda_2381",
+              "question": "What is the torque of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_Mazda MX5_2381",
+              "question": "What is the gearbox in the Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_MX5_2381",
+              "question": "What is the gearbox in the MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_this car_2381",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Gearbox_the Mazda_2381",
+              "question": "What is the gearbox in the the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_Mazda MX5_2381",
+              "question": "What is the quarter mile time of Mazda MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_MX5_2381",
+              "question": "What is the quarter mile time of MX5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_this car_2381",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mazda MX5_Quarter Mile Time_the Mazda_2381",
+              "question": "What is the quarter mile time of the Mazda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_Toyota GT86_2381",
+              "question": "What is the engine type of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_GT86_2381",
+              "question": "What is the engine type of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_this car_2381",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Type_the Toyota_2381",
+              "question": "What is the engine type of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_Toyota GT86_2381",
+              "question": "What is the engine capacity of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_GT86_2381",
+              "question": "What is the engine capacity of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_this car_2381",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Engine Capacity_the Toyota_2381",
+              "question": "What is the engine capacity of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_Toyota GT86_2381",
+              "question": "What is the horsepower of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_GT86_2381",
+              "question": "What is the horsepower of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_this car_2381",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Horsepower_the Toyota_2381",
+              "question": "What is the horsepower of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_Toyota GT86_2381",
+              "question": "What is the weight of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_GT86_2381",
+              "question": "What is the weight of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_this car_2381",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Weight_the Toyota_2381",
+              "question": "What is the weight of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_Toyota GT86_2381",
+              "question": "What is the torque of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_GT86_2381",
+              "question": "What is the torque of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_this car_2381",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Torque_the Toyota_2381",
+              "question": "What is the torque of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_Toyota GT86_2381",
+              "question": "What is the gearbox in the Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_GT86_2381",
+              "question": "What is the gearbox in the GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_this car_2381",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Gearbox_the Toyota_2381",
+              "question": "What is the gearbox in the the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_Toyota GT86_2381",
+              "question": "What is the quarter mile time of Toyota GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_GT86_2381",
+              "question": "What is the quarter mile time of GT86?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_this car_2381",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Toyota GT86_Quarter Mile Time_the Toyota_2381",
+              "question": "What is the quarter mile time of the Toyota?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda S2000_2381",
+              "question": "What is the engine type of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_Honda_2381",
+              "question": "What is the engine type of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_this car_2381",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Type_the Honda_2381",
+              "question": "What is the engine type of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda S2000_2381",
+              "question": "What is the engine capacity of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_Honda_2381",
+              "question": "What is the engine capacity of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_this car_2381",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Engine Capacity_the Honda_2381",
+              "question": "What is the engine capacity of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda S2000_2381",
+              "question": "What is the horsepower of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_Honda_2381",
+              "question": "What is the horsepower of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_this car_2381",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Horsepower_the Honda_2381",
+              "question": "What is the horsepower of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda S2000_2381",
+              "question": "What is the weight of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_Honda_2381",
+              "question": "What is the weight of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_this car_2381",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Weight_the Honda_2381",
+              "question": "What is the weight of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda S2000_2381",
+              "question": "What is the torque of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_Honda_2381",
+              "question": "What is the torque of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_this car_2381",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Torque_the Honda_2381",
+              "question": "What is the torque of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda S2000_2381",
+              "question": "What is the gearbox in the Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_Honda_2381",
+              "question": "What is the gearbox in the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_this car_2381",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Gearbox_the Honda_2381",
+              "question": "What is the gearbox in the the Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda S2000_2381",
+              "question": "What is the quarter mile time of Honda S2000?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_Honda_2381",
+              "question": "What is the quarter mile time of Honda?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_this car_2381",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Honda S2000_Quarter Mile Time_the Honda_2381",
+              "question": "What is the quarter mile time of the Honda?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

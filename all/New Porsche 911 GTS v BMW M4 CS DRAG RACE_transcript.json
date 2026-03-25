@@ -1,0 +1,702 @@
+{
+  "data": [
+    {
+      "title": "New Porsche 911 GTS v BMW M4 CS DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new porsche 911 gts v bmw m4 cs drag race _ transcript what will win in a drag race between the bmw m4cs and the new porsche 911 gts? well, we ' re going to find out by racing them over the standing quarter mile. i ' m matt watson. you ' re watching car wow. the porsche 911 carrera 4 gts has a 3.6 l turbocharged flat 6, 541 horsepower, 610 new m of torque, allwheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 1, 645 kg and costs £139, 000. the bmw m4 cs has a 3 l twin turbo straight 6, 550 horsepower, 650 new m of torque, allwheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 1, 760 kg and costs £117, 000. hello, nick. you all right? hi, matt. i ' m very good. i ' m very cold. this is going to be close because these cars are very closely matched in terms of power, torque and weight. both four - wheel drive, both german, both got two incredibly skilled drivers. i don ' t know. i can ' t call this one. no, me neither. although, this m4 cs is such a known quantity. we know this car can deliver. whereas that first hybrid 911, it ' s kind of up in the air, isn ' t it? i don ' t know. i ' ve driven this before in a drag race, and it is quick. it ' s quicker than the old gts, that ' s for sure. this is going to be interesting. and we know porsche has launched really well cuz they got great traction cuz that engine over the rear axle. before we get into it though, let ' s just rev up the engines to see which sounds the best cuz this new flat 6 actually does sound good. this 3. 6. here we go. i ' m going to have to put into launch control mode. [ music ] it ' s okay cuz of all the shitty soft limiters. that ' s how you have to rev it. you have to like pretend to launch it and just make sure you don ' t accidentally lift off. anyway, let ' s have a listen to your m4cs. i don ' t want to admit it, but that straight six sounds better than this flat 6.",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.6 L turbocharged flat 6,",
+                  "answer_start": 293
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.6 L",
+                  "answer_start": 295
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "541 horsepower,",
+                  "answer_start": 322
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,645 kg",
+                  "answer_start": 444
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 new m of torque,",
+                  "answer_start": 338
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_1",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_1",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight 6,",
+                  "answer_start": 490
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_1",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 492
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_1",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 horsepower,",
+                  "answer_start": 322
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_1",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,760 kg",
+                  "answer_start": 641
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_1",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 new m of torque,",
+                  "answer_start": 338
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_1",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_1",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "damn. no soft limiter either. i mean, you ' re buying a cs, you can ' t be subtle about things, can you? do you know what is interesting? the fact that this car, this porsche, has so much tech on it. we ' ve got an electric turbo. we ' ve got a battery. we ' ve got a motor assisting. all kinds of shenanigans going on. and it ' s got a large capacity engine, 3. 6. you ' ve got 3 l and it ' s just normal old school burning fossils, isn ' t it? that yeah, only burning the biggest, angriest dinosaurs, though. i ' ve got confidence in this car. i think i can give you a good run for your money. right now, let ' s race. but before we do, if you ' re thinking about selling your car, you can do it easily through car wow. you just upload some photos, brief description, then dealers all across the country will bid on your car. you can do that now by clicking on the pop out in the top right hand corner of the screen or scanning the qr code on screen or from the link in the description. should we get on with the race? let ' s do it. 3 2 1 [ music ] whoa. he had me. it ' s so close. [ applause ] [ music ] goodbye, matthew. wow, this is quick. it ' s so [ applause ] close. rory ' s start is dreadful, isn ' t it? well, i ' m i ' m not going to complain. i was very happy with every millisecond of that run. i felt like i was a bit delayed off the line. otherwise, i ' d have had you. or would i have? it ' s so close. i think the entire race was won in that first 6 ft. i was not pulling away from you at any point once we got going. so, uh, i want to do that again. no, i definitely do want to do that again. surprise you want to do it again cuz this thing is quick. best two out of three. it might end up best three out of five, actually. this 3 2 1 better launch. oh, come on. porsche. no, he ' s just ahead. i think i ' m ahead. i am ahead. [ applause ] ah, yes. sudden",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_411",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_411",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_411",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_411",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_411",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_411",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_411",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_411",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "pulling [ applause ] away. ah, same again. you got to do best three out of five. only because i ' m a good sport and i ' m having so much fun. let ' s do best three out of five. three, two, one. that ' s the launch. come on. oh man. got a great launch that time. come on. oh, i don ' t know what buttons he pressed, but it ' s working. come on, [ applause ] [ music ] bmw. catch him. whoa, baby. i got a wicked launch there. that was great. i i just couldn ' t keep up. i can ' t believe how close these cars are, though. i know. it ' s all about, like you say, it ' s the first 6 ft, isn ' t it? it ' s the first 6 ft. and this hook then absolutely wicked. i have no idea what ' s going to win. no idea. 3 2 1 such an even launch. i mean, matt ' s not even looking where he ' s going, but he ' s going quickly. this thing is so quick. [ music ] come on, m4cs. pull him back in. pull him back in. oh yeah. oh, cooling air control unit fault. reduced speed. what ' s that about? too much tech on this car maybe, but it all works very well. uh, nicholas, this car is dialed in. yeah, that was i think the best launch i ' ve had in this. clearly the best launch you ' ve had in that. and you ' ve got a massive filthy grin on your face. i ' m impressed by this. this is so quick. 3 2 1. come on. push. oh, goodness me. this is close. come on, m4cs. come on. [ music ] come on. is my nose long enough to win this? oh, this is ridiculously close now. come [ applause ] on. yes. well, very kind of you, nick, to give me best three out of five because i mean, really, i bet you thought you were just going to win this easy. i came from 2 - 0 down to win it. but this porsche, oh my god, it just keeps getting quicker. yeah, i ' m definitely not getting slower. let ' s put it that way. that thing is launching better and better and",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_824",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_824",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_824",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_824",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_824",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_824",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_824",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_824",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "better. i ' m having a blast in this thing. it ' s it ' s such a violent car over the quarter mile, but it ' s not quick enough, is it? just not quite this. now that the tires are warm, it just hooks up and it ' s just got enough to stay ahead. wow. so then what exactly happened? well, it was very close, but the slow motion action replay reveals the porsche won by the narrowest of margins. both cars completed the standing quarter mile in 10. 7 seconds. before our next race, a little message that could well help you if you ' re looking to buy a used car, bike, or van anytime soon. we ' ve partnered with our friends at carver vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this bmw 3 series on carver vertical. it ' s got green ticks for odometer and finance, but a damage warning. why? it was previously involved in an accident and was a catest write off. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carow for 20 % off or by following the link in the description. now, back to the race. now, we have a rolling race from 50 mph. cars are in their just normal cruising mode, automatic mode for the gearbox. now, before we race, if you want to see a great deal, i ' ve got on a sporty bmw. if you want to find out what the deal is and the bmw, click on the pop out banner ping in the top right hand corner of the screen or scan the qr code on screen now. if not, let ' s race. 3 2 1 go. huh. well [ applause ] [ applause ] done. so much for the bling electric hybrid turbo. i thought matt was going to smash it with his hybrid turbo gubbins, but not today. filling stuff, check us out. okay, nick, i will not lie, that did not play out in any way that i thought it would. i thought like the hybridness of this with the electric turbocharger and a little bit of boost from an electric motor would just send me off, but no. no, it did say that. i was expecting to look at",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_1230",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.7 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_1230",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_1230",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_1230",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_1230",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_1230",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_1230",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_1230",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.7 seconds.",
+                  "answer_start": 446
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "the back of your porsche 911, not the uh well, i couldn ' t even see you. you were completely hidden in my blind spot. i ' m gutted about that. right, let ' s do it in a different way that i might win. oh, it ' s like that now, is it? okay. so, this time, right, full sports mode, manual mode for the gearbox. 3 2 1 go. oh, yes. oh, he ' s better that time. it ' s so even between these cars. it ' s [ applause ] ridiculous. oh, yes. this is just a bit quicker. i can ' t believe how close this is. that was a cracking race. these cars are so closely matched, aren ' t they? just enough to get you ahead and keep you there. okay, i want to try one more rolling race. i ' ll meet you down the other end. what we ' re going to do now is a rolling race in fourth gear, but from 30 mph. okay. all right. right. three, two, one, go. this is where oh, what? come on, m4. oh, you got some boost now. [ applause ] yeah. hey. right. didn ' t expect that, did you, matthew? i don ' t know what happened there, but i ' m loving [ applause ] it. he ' s just disappeared. look at his face. uh, once again, was not what i was expecting. this just sort of it just slept for a second and then it ' s almost like it realized it was racing a porsche and went, \" oh, i ' ve got to win this and just found boost out of nowhere. didn ' t shift down. it just went. \" how many gears you got in your car? uh, eight, i think. yeah. i think my fourth gear may be taller than your fourth gear. because what happened then was when i called it in and i said go, my car just went ahead of you. and i thought, this is an easy win because my turbo spalled up instantly cuz it ' s electric. i had some shove from the electric motor, got me ahead, but then when your car clearly came on boost, you just went past. and that must be because you had a low fourth gear because i was just in fourth for pretty much forever. i think i was in sixth by the",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_1652",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_1652",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_1652",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_1652",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_1652",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_1652",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_1652",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_1652",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "time we finished that race. maybe even seventh. so, yeah, that could be it. could be it. should we find out what rpm we ' re doing in fourth at 30? actually, it might be easier to find out what rpm we ' re doing in fourth at 40. do it at 40. go on, let ' s just try. okay, i ' m in fourth at 40 and i ' m doing about 2, 000 rpm. what are you doing? i ' m doing about 2500. so, there you go. i ' ve got a lower fourth gear. yeah, mine ' s just a smidge over two. so, that ' s it, isn ' t it? let ' s do it again, but in our top gear. three, two, one, go. come on. oh, it ' s still close. we ' re so slow. yeah. come on. don ' t lose again. so, it is faster. do you know my problem is cuz i had a gt3 rs and they ' ve got sevenspeed gearbox. this is an 8 - speed. this was quicker though in top gear in eighth, wasn ' t it? okay, here ' s a brake test. car that stops in the shortest distance wins. you ' d rather watch another drag race with some bmws. click on the pop out banner up there or follow the link in the description or scan the qr code on screen. now, if you just want to have some breaking action, stay here cuz it ' s coming up right now. for your viewing pleasure, here comes the [ applause ] cones. come on. right, none of this is happening like i ' m expecting. so, clear win for the bmw on the brake test. this thing stopped like i drove into a tree. i mean, that was incredible. i i ' m gonna find the gmeter. i want to know what that was because that that hurt. that was 1. 4g. that ' s loads. cuz this didn ' t feel bad. but you ' re like over half a car length behind me. it ' s just incredible. anyway, thanks to the person who lent us that m4 cs. it ' s an absolutely stalking car. now, if you want to compare the quad mile times of every car we ' ve ever drag race, just click on the carwow logo to go to the carwow",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_2066",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_2066",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_2066",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_2066",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_2066",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_2066",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_2066",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_2066",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "drag race leaderboard. thanks for watching.",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Type_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the engine type of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Engine Capacity_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the engine capacity of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Horsepower_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the horsepower of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Weight_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the weight of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Torque_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the torque of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Gearbox_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the gearbox in the Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera 4 GTS_Quarter Mile Time_Porsche 911 Carrera 4 GTS_2476",
+              "question": "What is the quarter mile time of Porsche 911 Carrera 4 GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW M4 CS_2476",
+              "question": "What is the engine type of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW M4 CS_2476",
+              "question": "What is the engine capacity of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW M4 CS_2476",
+              "question": "What is the horsepower of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW M4 CS_2476",
+              "question": "What is the weight of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW M4 CS_2476",
+              "question": "What is the torque of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW M4 CS_2476",
+              "question": "What is the gearbox in the BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW M4 CS_2476",
+              "question": "What is the quarter mile time of BMW M4 CS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

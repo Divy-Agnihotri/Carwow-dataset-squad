@@ -1,0 +1,1014 @@
+{
+  "data": [
+    {
+      "title": "V12 Straight pipe DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "v12 straight pipe drag race _ transcript welcome to the loudest ever drag race on carwow so we ' ve got a porsche1 gt3 got a ferrari 8812 super fast we ' ve got lamborghini roal and a lamborghini aventador sv and they ' ve all been fitted with gintani exhaust and we ' ve had to come to this special location which has no noise restrictions cuz these things are just so loud as you ' re about to find out as we race them over the standing quar mile i ' m now watson and you ' re watching carw the lamborghini aventador sv has a 6.5 l naturally aspirated v12 750 horsepower 690 nm of torque all - wheel drive and a 7 - speed robotized manual gearbox with launch control it weighs around 1, 600 kg and costs from 238, 000 l back in 2015 the lamborghini rto has a 6.5 l natur aspirated v12 plus a hybrid system with three electric motors combined you get 1, 5 horsepower 1, 162 newt m of torque all - wheel drive and an 8 - speed dual clutch automatic gear box with launch control it weighs in at under, 1900 kg and cost from around £ 447, 000 the ferrari 812 superfast has a 6.5 l natur aspirated v12 800 horsepower 718 nm of torque rear wheel drive and a 7 - speed dual clutch automatic gearbox with launch control it weighs around 1, 600 kg and costs from £ 253, 000 in 2017 the porche 91 gt3 has a 4 l naturo aspirated flat 6 510 horsepower 470 newm of tourque is rear wheel drive and has a 7 - speed pdk dual clutch automatic gearbox with launch control it weighs 1, 400 kg and costs from 146, 000 now before we get into the racing we are going to find out which of these cars is loudest when you rev them at a standstill so i ' m going to rev up my aventador we ' ve got rory holding a sand meter just behind me i ' m going to give it some revs valves are open on my gintani exhaust oh by the way thanks to gv performance and olle for sorting this race out for us but here we go pretty loud let ' s find out how many decibel that was rory peak debel 25. 7 let ' s find out how loud that is i ' m going to ask chat gpt",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SV_Engine Type_Lamborghini Aventador SV_1",
+              "question": "What is the engine type of Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SV_Engine Capacity_Lamborghini Aventador SV_1",
+              "question": "What is the engine capacity of Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 528
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SV_Horsepower_Lamborghini Aventador SV_1",
+              "question": "What is the horsepower of Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 558
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SV_Weight_Lamborghini Aventador SV_1",
+              "question": "What is the weight of Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SV_Torque_Lamborghini Aventador SV_1",
+              "question": "What is the torque of Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "690 NM of torque",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SV_Gearbox_Lamborghini Aventador SV_1",
+              "question": "What is the gearbox in the Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed robotized manual gearbox with launch control",
+                  "answer_start": 616
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SV_Quarter Mile Time_Lamborghini Aventador SV_1",
+              "question": "What is the quarter mile time of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini Revuelto_1",
+              "question": "What is the engine type of Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L natur aspirated V12 plus a hybrid system with three electric motors",
+                  "answer_start": 759
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini Revuelto_1",
+              "question": "What is the engine capacity of Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 528
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini Revuelto_1",
+              "question": "What is the horsepower of Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,5 horsepower",
+                  "answer_start": 558
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini Revuelto_1",
+              "question": "What is the weight of Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1900 kg",
+                  "answer_start": 1001
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini Revuelto_1",
+              "question": "What is the torque of Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "162 Newt M of torque",
+                  "answer_start": 871
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini Revuelto_1",
+              "question": "What is the gearbox in the Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gear box with launch control",
+                  "answer_start": 919
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini Revuelto_1",
+              "question": "What is the quarter mile time of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Type_Ferrari 812 Superfast_1",
+              "question": "What is the engine type of Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Capacity_Ferrari 812 Superfast_1",
+              "question": "What is the engine capacity of Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 528
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Horsepower_Ferrari 812 Superfast_1",
+              "question": "What is the horsepower of Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 horsepower",
+                  "answer_start": 558
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Weight_Ferrari 812 Superfast_1",
+              "question": "What is the weight of Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Torque_Ferrari 812 Superfast_1",
+              "question": "What is the torque of Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "718 NM of torque",
+                  "answer_start": 1114
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Gearbox_Ferrari 812 Superfast_1",
+              "question": "What is the gearbox in the Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox with launch control",
+                  "answer_start": 921
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Quarter Mile Time_Ferrari 812 Superfast_1",
+              "question": "What is the quarter mile time of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Type_Porsche 911 GT3_1",
+              "question": "What is the engine type of Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L naturo aspirated Flat 6",
+                  "answer_start": 1297
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Capacity_Porsche 911 GT3_1",
+              "question": "What is the engine capacity of Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 1299
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Horsepower_Porsche 911 GT3_1",
+              "question": "What is the horsepower of Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "510 horsepower",
+                  "answer_start": 558
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Weight_Porsche 911 GT3_1",
+              "question": "What is the weight of Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,400 kg",
+                  "answer_start": 1469
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Torque_Porsche 911 GT3_1",
+              "question": "What is the torque of Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "470 newm of tourque",
+                  "answer_start": 1342
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Gearbox_Porsche 911 GT3_1",
+              "question": "What is the gearbox in the Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed pdk dual clutch automatic gearbox with launch control",
+                  "answer_start": 919
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Quarter Mile Time_Porsche 911 GT3_1",
+              "question": "What is the quarter mile time of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "it ' s very loud then it ' s basically at the threshold of pain meaning that without hearing protection even short exposure can be dangerous well done gentani you ' ve created a dangerous exhaust now let ' s see if any of the other cars are louder so hey tommy do you think that your rto is going to be louder than this i don ' t think so let ' s do the [ music ] test i could actually see the blast from your exhaust blowing the little bluming m fluffy let ' s find out how many db so that was 129. 7 db that ' s louder than this now let ' s move on to the next carard so we ' ve got sam you ' ve got another v12 go for it oh the bangs on that might take it over tommy sc 129. 5 woohoo right final one down on cylinders down on capacity it ' s a porsche gt3 it ' s got a soft limiter hasn ' t it that ' s not going to have helped going to measure the sound again as i rattle across the quarter mile mark for now though let ' s get on with this drag [ music ] race whe spin oh my god that ' s the specious timeing get gone oh [ music ] [ music ] [ music ] well that was loud and brutal the rto was way ahead tommy it was slipping and sliding all the way up to like 120 or something yeah that was insane i guess the old ferrari struggled off that line a little bit there sam i got a little bit of wheel spin when you have everything fully fully off it ' s useless i ' m in race mode it ' s okay but it ' s just spinning up a lot but i did pull past yan in the end bless him that ' s the thing about the porsche rear engine gets decent traction how was it was it all right yanni honestly terrible i don ' t remember sitting in a porsche before and having that much difficulty getting off the line really really poor do you want to have another go sam and yanni absolutely why just side up the line [ music ] [ applause ] [ music ] [ applause ] woohoo come on girl w [ applause ] [ music ] [ applause ] woo any ideas where the porsche is i think it ' s having a sulky sulk i guess that means you have to do it one more time are you just upset cuz you ' re not in a lamborghini laun came on took my foot off the brake i just sat there and",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SV_Engine Type_Lamborghini Aventador SV_422",
+              "question": "What is the engine type of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Engine Capacity_Lamborghini Aventador SV_422",
+              "question": "What is the engine capacity of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Horsepower_Lamborghini Aventador SV_422",
+              "question": "What is the horsepower of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Weight_Lamborghini Aventador SV_422",
+              "question": "What is the weight of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Torque_Lamborghini Aventador SV_422",
+              "question": "What is the torque of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Gearbox_Lamborghini Aventador SV_422",
+              "question": "What is the gearbox in the Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Quarter Mile Time_Lamborghini Aventador SV_422",
+              "question": "What is the quarter mile time of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini Revuelto_422",
+              "question": "What is the engine type of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini Revuelto_422",
+              "question": "What is the engine capacity of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini Revuelto_422",
+              "question": "What is the horsepower of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini Revuelto_422",
+              "question": "What is the weight of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini Revuelto_422",
+              "question": "What is the torque of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini Revuelto_422",
+              "question": "What is the gearbox in the Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini Revuelto_422",
+              "question": "What is the quarter mile time of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Type_Ferrari 812 Superfast_422",
+              "question": "What is the engine type of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Capacity_Ferrari 812 Superfast_422",
+              "question": "What is the engine capacity of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Horsepower_Ferrari 812 Superfast_422",
+              "question": "What is the horsepower of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Weight_Ferrari 812 Superfast_422",
+              "question": "What is the weight of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Torque_Ferrari 812 Superfast_422",
+              "question": "What is the torque of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Gearbox_Ferrari 812 Superfast_422",
+              "question": "What is the gearbox in the Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Quarter Mile Time_Ferrari 812 Superfast_422",
+              "question": "What is the quarter mile time of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Type_Porsche 911 GT3_422",
+              "question": "What is the engine type of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Capacity_Porsche 911 GT3_422",
+              "question": "What is the engine capacity of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Horsepower_Porsche 911 GT3_422",
+              "question": "What is the horsepower of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Weight_Porsche 911 GT3_422",
+              "question": "What is the weight of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Torque_Porsche 911 GT3_422",
+              "question": "What is the torque of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Gearbox_Porsche 911 GT3_422",
+              "question": "What is the gearbox in the Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Quarter Mile Time_Porsche 911 GT3_422",
+              "question": "What is the quarter mile time of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "i ' m like what one last go it ' s horrible i hate this horrible it ' s a for gt3 horrible bad workman blames his dolls i don ' t know about you i ' ve got a bit of a headache i don ' t know it ' s just the way this launch is i ' m actually fine it ' s just a bit squirly an unbelievable headache and the smell of fuel whatever has going on there that ' s not helping let ' s give it one let go come on yanni let ' s see if you can make your car launch and i have got a headache all got headaches from these exhausts oh 3 2 [ music ] 1 that was brilliant that [ music ] was this is too fast [ applause ] [ music ] oh that ferrari is close come [ music ] on ferrari ' s coming home hell no that was some race that was m i can ' t believe your car is a rear wheel drive i think you had me on the line i mean i had opposite lock on for at least 400 m but it was still good rto i mean that shows your progress doesn ' t it really off the line this is just like perfect i feel like it ' s faster than the first time you raced it as well i ' m not sure if that ' s the exhaust or just the car ' s bedded in i think it ' s just the exhaust speaking of which i ' ve got a massive headache yanni is that car giving you a headache or did it launch that time wait launch cuz i got off the line but just traction ' s terrible it ' s too loud just not enjoying myself whatsoever and the fact there ' s two lambos in this race and i ' m not in either of them i ' m not even happy about that boring so then what exactly happened well the ralo won it completed the standing quarter mile in 10. 1 seconds the 812 took 10. 8 seconds the aventador sv took 10. 9 seconds and the 911 gt3 was last with a time of 11. 7 seconds if you ' re changing your car then you got to check out carag because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one kawai makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past lifechanging now if you want to go to car",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SV_Engine Type_Lamborghini Aventador SV_897",
+              "question": "What is the engine type of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Engine Capacity_Lamborghini Aventador SV_897",
+              "question": "What is the engine capacity of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Horsepower_Lamborghini Aventador SV_897",
+              "question": "What is the horsepower of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Weight_Lamborghini Aventador SV_897",
+              "question": "What is the weight of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Torque_Lamborghini Aventador SV_897",
+              "question": "What is the torque of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Gearbox_Lamborghini Aventador SV_897",
+              "question": "What is the gearbox in the Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Quarter Mile Time_Lamborghini Aventador SV_897",
+              "question": "What is the quarter mile time of Lamborghini Aventador SV?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 1578
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini Revuelto_897",
+              "question": "What is the engine type of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini Revuelto_897",
+              "question": "What is the engine capacity of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini Revuelto_897",
+              "question": "What is the horsepower of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini Revuelto_897",
+              "question": "What is the weight of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini Revuelto_897",
+              "question": "What is the torque of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini Revuelto_897",
+              "question": "What is the gearbox in the Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini Revuelto_897",
+              "question": "What is the quarter mile time of Lamborghini Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds",
+                  "answer_start": 1578
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Type_Ferrari 812 Superfast_897",
+              "question": "What is the engine type of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Capacity_Ferrari 812 Superfast_897",
+              "question": "What is the engine capacity of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Horsepower_Ferrari 812 Superfast_897",
+              "question": "What is the horsepower of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Weight_Ferrari 812 Superfast_897",
+              "question": "What is the weight of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Torque_Ferrari 812 Superfast_897",
+              "question": "What is the torque of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Gearbox_Ferrari 812 Superfast_897",
+              "question": "What is the gearbox in the Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Quarter Mile Time_Ferrari 812 Superfast_897",
+              "question": "What is the quarter mile time of Ferrari 812 Superfast?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds",
+                  "answer_start": 1578
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Type_Porsche 911 GT3_897",
+              "question": "What is the engine type of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Capacity_Porsche 911 GT3_897",
+              "question": "What is the engine capacity of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Horsepower_Porsche 911 GT3_897",
+              "question": "What is the horsepower of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Weight_Porsche 911 GT3_897",
+              "question": "What is the weight of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Torque_Porsche 911 GT3_897",
+              "question": "What is the torque of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Gearbox_Porsche 911 GT3_897",
+              "question": "What is the gearbox in the Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Quarter Mile Time_Porsche 911 GT3_897",
+              "question": "What is the quarter mile time of Porsche 911 GT3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.7 seconds",
+                  "answer_start": 1578
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "wre right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out bner appearing in the top right hand cor the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow now we ' re going to do another race once again over a quar mile but also over the half mile as well and we ' re going to roll into it from like about 10 mph in first gear now before we do that if you want a car that launches really quick but don ' t quite have the money for one of these then click on the pop out button there follow the qr code on screen or the link in the description cuz i found a good deal on a car through car wre that ' s super quick on the launch there ' s also a great offer on go find out what that car is and the offer let ' s go everybody i ' ll lead this in 3 2 [ applause ] 1 oh yeah oh i don ' t know what happened there [ music ] go [ music ] reo wo a look at the the welto go what happened tom i had very slushy gear changes i think the car ' s too hot were you happy with your run there or not tommy can we do another one because i was changing gear and it was just going like 3 2 1 [ music ] [ music ] that ' s [ music ] better ah that ' s better for the roal [ applause ] that was better for the ro alto wasn ' t it tommy yeah that was much better that time the gear shifts were on point apart from i had to short shift the first gear cuz i was just spinning have you got an issue with your cat sam yeah my casper the friendly cat spooked me but it ' s gone off so it ' ll probably do it once more now i think we ' ll leave it there yanni i think you got confused by the fact yet again tommy like roasted away and then to back exactly it looked like we we come to a stop and i was like hold than a minute and i look i saw i ' m just like oh for god s i just coming i was going to lose anyways it didn ' t matter okay let ' s just leave that one there right now we have a rolling race from 50 mil hour in third gear 3 2 1 go that rto is gone [ music ] this took ages to wi itself",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SV_Engine Type_Lamborghini Aventador SV_1369",
+              "question": "What is the engine type of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Engine Capacity_Lamborghini Aventador SV_1369",
+              "question": "What is the engine capacity of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Horsepower_Lamborghini Aventador SV_1369",
+              "question": "What is the horsepower of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Weight_Lamborghini Aventador SV_1369",
+              "question": "What is the weight of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Torque_Lamborghini Aventador SV_1369",
+              "question": "What is the torque of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Gearbox_Lamborghini Aventador SV_1369",
+              "question": "What is the gearbox in the Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Quarter Mile Time_Lamborghini Aventador SV_1369",
+              "question": "What is the quarter mile time of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini Revuelto_1369",
+              "question": "What is the engine type of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini Revuelto_1369",
+              "question": "What is the engine capacity of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini Revuelto_1369",
+              "question": "What is the horsepower of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini Revuelto_1369",
+              "question": "What is the weight of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini Revuelto_1369",
+              "question": "What is the torque of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini Revuelto_1369",
+              "question": "What is the gearbox in the Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini Revuelto_1369",
+              "question": "What is the quarter mile time of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Type_Ferrari 812 Superfast_1369",
+              "question": "What is the engine type of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Capacity_Ferrari 812 Superfast_1369",
+              "question": "What is the engine capacity of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Horsepower_Ferrari 812 Superfast_1369",
+              "question": "What is the horsepower of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Weight_Ferrari 812 Superfast_1369",
+              "question": "What is the weight of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Torque_Ferrari 812 Superfast_1369",
+              "question": "What is the torque of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Gearbox_Ferrari 812 Superfast_1369",
+              "question": "What is the gearbox in the Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Quarter Mile Time_Ferrari 812 Superfast_1369",
+              "question": "What is the quarter mile time of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Type_Porsche 911 GT3_1369",
+              "question": "What is the engine type of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Capacity_Porsche 911 GT3_1369",
+              "question": "What is the engine capacity of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Horsepower_Porsche 911 GT3_1369",
+              "question": "What is the horsepower of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Weight_Porsche 911 GT3_1369",
+              "question": "What is the weight of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Torque_Porsche 911 GT3_1369",
+              "question": "What is the torque of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Gearbox_Porsche 911 GT3_1369",
+              "question": "What is the gearbox in the Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Quarter Mile Time_Porsche 911 GT3_1369",
+              "question": "What is the quarter mile time of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "[ music ] [ applause ] [ applause ] [ music ] up yany you ' re like beating me for most of that what happened i don ' t know i thought it was something you done wrong because this was just normal was every race odd and that 812 just shot off it was almost like you ' re in second gear sam is that a question or a statement it was a statement it was almost like you were in second gear but you weren ' t cuz you ' re a pro driver you never get things wrong ever in your life correct and it ' s a third gear super fast so it wins yep vol emy start from 100 mph car that stops in the shortest distance winds rather watch another very loud drag race click on the pop out b up there for the link in the description below or scan the qr code on screen now if not stay here for the brak test and then the final sound check which will blow your mind welcome to the party por h tommy aventador break better than the r alto but not quite as good as the porsche and the ferrari one sam did you shift down no anyway final challenge the ultimate sound check of the quarter mile let ' s do it [ music ] [ applause ] okay how loud was that rory 106. 3 deb i think i was at a gear change which is annoying [ music ] [ applause ] [ music ] [ applause ] [ music ] was 103 db vent door is in the lead at the moment next car is the ferrari [ music ] [ applause ] 108. 1 oh ferrari was the loudest so far finally then the porsche [ music ] fl just got 106. 9 say the ferrari is the winner way well done ferrari listen thanks to gv performance jantani and olle for sorting this race out for us really appreciate it now if you want to see how these cars qu m times compared to everything else we have drag race then just click on the car logo to check out the car drag race leader board thanks for watching and i ' ll see you next time",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SV_Engine Type_Lamborghini Aventador SV_1850",
+              "question": "What is the engine type of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Engine Capacity_Lamborghini Aventador SV_1850",
+              "question": "What is the engine capacity of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Horsepower_Lamborghini Aventador SV_1850",
+              "question": "What is the horsepower of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Weight_Lamborghini Aventador SV_1850",
+              "question": "What is the weight of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Torque_Lamborghini Aventador SV_1850",
+              "question": "What is the torque of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Gearbox_Lamborghini Aventador SV_1850",
+              "question": "What is the gearbox in the Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SV_Quarter Mile Time_Lamborghini Aventador SV_1850",
+              "question": "What is the quarter mile time of Lamborghini Aventador SV?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini Revuelto_1850",
+              "question": "What is the engine type of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini Revuelto_1850",
+              "question": "What is the engine capacity of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini Revuelto_1850",
+              "question": "What is the horsepower of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini Revuelto_1850",
+              "question": "What is the weight of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini Revuelto_1850",
+              "question": "What is the torque of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini Revuelto_1850",
+              "question": "What is the gearbox in the Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini Revuelto_1850",
+              "question": "What is the quarter mile time of Lamborghini Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Type_Ferrari 812 Superfast_1850",
+              "question": "What is the engine type of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Engine Capacity_Ferrari 812 Superfast_1850",
+              "question": "What is the engine capacity of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Horsepower_Ferrari 812 Superfast_1850",
+              "question": "What is the horsepower of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Weight_Ferrari 812 Superfast_1850",
+              "question": "What is the weight of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Torque_Ferrari 812 Superfast_1850",
+              "question": "What is the torque of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Gearbox_Ferrari 812 Superfast_1850",
+              "question": "What is the gearbox in the Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 812 Superfast_Quarter Mile Time_Ferrari 812 Superfast_1850",
+              "question": "What is the quarter mile time of Ferrari 812 Superfast?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Type_Porsche 911 GT3_1850",
+              "question": "What is the engine type of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Engine Capacity_Porsche 911 GT3_1850",
+              "question": "What is the engine capacity of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Horsepower_Porsche 911 GT3_1850",
+              "question": "What is the horsepower of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Weight_Porsche 911 GT3_1850",
+              "question": "What is the weight of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Torque_Porsche 911 GT3_1850",
+              "question": "What is the torque of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Gearbox_Porsche 911 GT3_1850",
+              "question": "What is the gearbox in the Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3_Quarter Mile Time_Porsche 911 GT3_1850",
+              "question": "What is the quarter mile time of Porsche 911 GT3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2335 @@
+{
+  "data": [
+    {
+      "title": "Koenigsegg Jesko Absolut v Regera DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "koenigsegg jesko absolut v regera drag race _ transcript what will happen in a drag race between a koigseg reggera and a koigseg yesco absolute? in fact, it ' s the 0 to 400 to0 world record car. i ' m going to find out by racing them down koix egg ' s own runway here in sweden. i ' m m watson and you ' re watching car oh my god, i can ' t believe we ' re actually doing this. wow. the koexagco absolute has a 5 l twin turbo v8 running on e85 fuel with 1, 600 horsepower and500 new m of torque. this is sent to the rear wheels only via a n - speed multi - clutch automatic gearbox with no flywheel. the yesco absolute weighs 1, 390 kg and costs around £5 million. it ' s running on mitchell cup 2r tires. the koigseg rivera also has a 5 l twin turbo v8 running on e85 fuel plus three electric motors for a total system output of 1500 horsepower and 2, 000 new meters of torque. this is sent to the rear wheels only via a single speed torque converter gearbox. the single gear ratio is set for top speed with the three electric motors providing most of the thrust at low speeds and filling in the hole in torque until the engine is on boost. the ria weighs 1, 590 kg and is worth around £3 million today. it ' s running on michelin cup 2 tires. this is so exciting. i mean, what a privilege to come here and get to drag race these awesome cars and getting to drag race them against a very special driver. so, in the reggera, we have marcus. marcus has broken two world records driving the reggera and the yesco. so, he knows exactly how to extract their ultimate performance. hi, marcus. how are you? very good, thank you. how are you? so, you ' re in the older world record car and surprise surprise, i picked the new world record car. have you ever run this before yourselves? obviously, this is your runway. these are your cars. we have never compared these two models to each other, mate. you ' ve got a drag strip. you ' ve got these cars. what the heck are you doing with your time? i guess looking a lot of data. well, we ' re going to get some",
+          "qas": [
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg Jesko Absolut_1",
+              "question": "What is the engine type of Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg_1",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_the Jesko_1",
+              "question": "What is the engine type of the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg Jesko Absolut_1",
+              "question": "What is the engine capacity of Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg_1",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_the Jesko_1",
+              "question": "What is the engine capacity of the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg Jesko Absolut_1",
+              "question": "What is the horsepower of Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg_1",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_the Jesko_1",
+              "question": "What is the horsepower of the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg Jesko Absolut_1",
+              "question": "What is the weight of Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,390 kg",
+                  "answer_start": 630
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg_1",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,390 kg",
+                  "answer_start": 630
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,390 kg",
+                  "answer_start": 630
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_the Jesko_1",
+              "question": "What is the weight of the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,390 kg",
+                  "answer_start": 630
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg Jesko Absolut_1",
+              "question": "What is the torque of Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "and500 new m of torque.",
+                  "answer_start": 473
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg_1",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "and500 new m of torque.",
+                  "answer_start": 473
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "and500 new m of torque.",
+                  "answer_start": 473
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_the Jesko_1",
+              "question": "What is the torque of the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "and500 new m of torque.",
+                  "answer_start": 473
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg Jesko Absolut_1",
+              "question": "What is the gearbox in the Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed multi-clutch automatic gearbox",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg_1",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed multi-clutch automatic gearbox",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed multi-clutch automatic gearbox",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_the Jesko_1",
+              "question": "What is the gearbox in the the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed multi-clutch automatic gearbox",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg Jesko Absolut_1",
+              "question": "What is the quarter mile time of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg_1",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_the Jesko_1",
+              "question": "What is the quarter mile time of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg Regera_1",
+              "question": "What is the engine type of Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg_1",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_the Regera_1",
+              "question": "What is the engine type of the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L twin turbo V8",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg Regera_1",
+              "question": "What is the engine capacity of Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg_1",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_the Regera_1",
+              "question": "What is the engine capacity of the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 412
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg Regera_1",
+              "question": "What is the horsepower of Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1500 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg_1",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1500 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1500 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_the Regera_1",
+              "question": "What is the horsepower of the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1500 horsepower",
+                  "answer_start": 458
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg Regera_1",
+              "question": "What is the weight of Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,590 kg",
+                  "answer_start": 1161
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg_1",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,590 kg",
+                  "answer_start": 1161
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,590 kg",
+                  "answer_start": 1161
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_the Regera_1",
+              "question": "What is the weight of the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,590 kg",
+                  "answer_start": 1161
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg Regera_1",
+              "question": "What is the torque of Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,000 new meters of torque.",
+                  "answer_start": 854
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg_1",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,000 new meters of torque.",
+                  "answer_start": 854
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,000 new meters of torque.",
+                  "answer_start": 854
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_the Regera_1",
+              "question": "What is the torque of the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,000 new meters of torque.",
+                  "answer_start": 854
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg Regera_1",
+              "question": "What is the gearbox in the Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed torque converter gearbox.",
+                  "answer_start": 923
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg_1",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed torque converter gearbox.",
+                  "answer_start": 923
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed torque converter gearbox.",
+                  "answer_start": 923
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_the Regera_1",
+              "question": "What is the gearbox in the the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed torque converter gearbox.",
+                  "answer_start": 923
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg Regera_1",
+              "question": "What is the quarter mile time of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg_1",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_the Regera_1",
+              "question": "What is the quarter mile time of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "data today and we ' re going to see exactly what these cars can do. first thing we ' re going to do though is compare the sound. both 5 l twin turbo v8s, but the way they put their power down or deliver it to their wheels is quite different. let ' s start up our cars. i ' m going to go first. go. wow. you start up yours. i ' m going to rev up my engine. okay. that spins up so quick. no flywheel. so, no like kind of inertia. look at that. that ' s is yours the same? this is going to be completely different. i ' ll show you. so, you ' re doing it in launch mode. otherwise, you can ' t rev in the riggera. so, i ' m in drive now, but it ' s basically the same thing. the next thing we got to do is warm up our tires. even though that ' s got three electric motors, it ' s still rear wheel drive. this is rear wheel drive. so, you want to get some heat in these big michelin pilot sport cup 2 rs. before we do, right, if you love drag racing and you want to get straight to the point, straight into the drag racing, we ' ve launched a new channel called car wow drags. go subscribe to that now. click on the pop out banner or scan the qr code or follow the link in the description. okay, car wow drags and make sure you hit that bell icon so you ' re alerted when we upload videos. right, then let ' s get and warm up our tires. but i am going to have to d a helmet because if you look in here, this is a development car. so, we ' ve got a roll cage in it. let me get my helmet out, strap myself in. i go into performance mode. go into track. okay, i ' m in track mode. i ' ve got everything set up. i got my stability on and i got my traction control in almost but not quite off. first time driving a yesco [ music ] absolute. god, the gear changes are like super fast. oh, good feeling wanting to slide then. it ' s making me feel a little bit sick. it ' s amazing just how stable the car feels. you got this really clever suspension setup where the car has really long control arms",
+          "qas": [
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg Jesko Absolut_412",
+              "question": "What is the engine type of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg_412",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_this car_412",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_the Jesko_412",
+              "question": "What is the engine type of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg Jesko Absolut_412",
+              "question": "What is the engine capacity of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg_412",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_this car_412",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_the Jesko_412",
+              "question": "What is the engine capacity of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg Jesko Absolut_412",
+              "question": "What is the horsepower of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg_412",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_this car_412",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_the Jesko_412",
+              "question": "What is the horsepower of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg Jesko Absolut_412",
+              "question": "What is the weight of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg_412",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_this car_412",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_the Jesko_412",
+              "question": "What is the weight of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg Jesko Absolut_412",
+              "question": "What is the torque of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg_412",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_this car_412",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_the Jesko_412",
+              "question": "What is the torque of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg Jesko Absolut_412",
+              "question": "What is the gearbox in the Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg_412",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_this car_412",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_the Jesko_412",
+              "question": "What is the gearbox in the the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg Jesko Absolut_412",
+              "question": "What is the quarter mile time of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg_412",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_this car_412",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_the Jesko_412",
+              "question": "What is the quarter mile time of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg Regera_412",
+              "question": "What is the engine type of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg_412",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_this car_412",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_the Regera_412",
+              "question": "What is the engine type of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg Regera_412",
+              "question": "What is the engine capacity of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg_412",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_this car_412",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_the Regera_412",
+              "question": "What is the engine capacity of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg Regera_412",
+              "question": "What is the horsepower of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg_412",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_this car_412",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_the Regera_412",
+              "question": "What is the horsepower of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg Regera_412",
+              "question": "What is the weight of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg_412",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_this car_412",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_the Regera_412",
+              "question": "What is the weight of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg Regera_412",
+              "question": "What is the torque of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg_412",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_this car_412",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_the Regera_412",
+              "question": "What is the torque of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg Regera_412",
+              "question": "What is the gearbox in the Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg_412",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_this car_412",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_the Regera_412",
+              "question": "What is the gearbox in the the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg Regera_412",
+              "question": "What is the quarter mile time of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg_412",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_this car_412",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_the Regera_412",
+              "question": "What is the quarter mile time of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "on the wishbone suspension. you don ' t get much contact patch change. it feels fruity and torquy this thing. well, i ' m just going to set my car up now. traction control off. disable. yes. then stability off. okay. so, when you ' re ready, i will move forward and do a rolling burnout. that should do it. did it shift to third gear as well when you did a burnout? the gears are just so smooth. i have no idea. i can do it again by all means. i enjoyed it, but it just looked like not enough smoke. here we go. i ' m going to do it properly. [ applause ] was that better? way better, matt. [ music ] 3 days. behind me. i ' m [ music ] [ music ] there. keep coming. breaking. wow. so, how was that for you, marcus? it was all right. just a little bit slippery and so the stock was not optimal. yeah, i think i can go quicker. i mean, it was blooming quick. what ' s interesting is that you can so tell at the beginning you ' re traction limited because it ' s like over 100 miles an hour. it ' s just pulling even harder. it ' s just crazy. let ' s do it again. 3 2 1. i hope so. [ music ] wow. i ' m just dropping the [ music ] reg. this is freaking [ music ] [ applause ] nuts. wow. wow. wow. wow. wow. wow. the way this thing just keeps on building speed. what a thrill. this is my job. it really is. i ' m pinching like crazy, but i ' m still here. how was that for you, marcus? was that a better launch? slightly better. yeah. not really satisfied with the 0 to 100, but it might be that cold day and uh not enough grip. how was your run, by the way? i could do with a bit more traction on the line cuz i reckon i could go quite a bit quicker. all right, let ' s do it again then. i ' ll just uh adjust the tire pressure a bit. do a rolling burnout again and then come back and do the launch. perfect. here we go. 3 2 [ music ] 1. oh, this is a good one. [ music ] yes. come",
+          "qas": [
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg Jesko Absolut_837",
+              "question": "What is the engine type of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg_837",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_this car_837",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_the Jesko_837",
+              "question": "What is the engine type of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg Jesko Absolut_837",
+              "question": "What is the engine capacity of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg_837",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_this car_837",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_the Jesko_837",
+              "question": "What is the engine capacity of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg Jesko Absolut_837",
+              "question": "What is the horsepower of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg_837",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_this car_837",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_the Jesko_837",
+              "question": "What is the horsepower of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg Jesko Absolut_837",
+              "question": "What is the weight of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg_837",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_this car_837",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_the Jesko_837",
+              "question": "What is the weight of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg Jesko Absolut_837",
+              "question": "What is the torque of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg_837",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_this car_837",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_the Jesko_837",
+              "question": "What is the torque of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg Jesko Absolut_837",
+              "question": "What is the gearbox in the Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg_837",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_this car_837",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_the Jesko_837",
+              "question": "What is the gearbox in the the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg Jesko Absolut_837",
+              "question": "What is the quarter mile time of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg_837",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_this car_837",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_the Jesko_837",
+              "question": "What is the quarter mile time of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg Regera_837",
+              "question": "What is the engine type of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg_837",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_this car_837",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_the Regera_837",
+              "question": "What is the engine type of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg Regera_837",
+              "question": "What is the engine capacity of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg_837",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_this car_837",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_the Regera_837",
+              "question": "What is the engine capacity of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg Regera_837",
+              "question": "What is the horsepower of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg_837",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_this car_837",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_the Regera_837",
+              "question": "What is the horsepower of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg Regera_837",
+              "question": "What is the weight of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg_837",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_this car_837",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_the Regera_837",
+              "question": "What is the weight of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg Regera_837",
+              "question": "What is the torque of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg_837",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_this car_837",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_the Regera_837",
+              "question": "What is the torque of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg Regera_837",
+              "question": "What is the gearbox in the Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg_837",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_this car_837",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_the Regera_837",
+              "question": "What is the gearbox in the the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg Regera_837",
+              "question": "What is the quarter mile time of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg_837",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_this car_837",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_the Regera_837",
+              "question": "What is the quarter mile time of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "[ music ] on. woo. i don ' t know what marcus was doing, but he was caught napping on the line. wow, that was so quick. oh my god. what happened to you, marcus? yeah, yours gapped me. did you launch properly then? it was a bit slippery this time to be honest. would you like one more go? i mean, we can give another go. let ' s go. 3 2 1. oh, that ' s just gliding. [ music ] [ music ] come on. [ music ] how was that for you? was your launch good? launch was good, but the grip is just slightly too low. this is just flying. this is it ' s almost like i ' m standing still to be honest. you ' re just a distant memory cuz this thing is mental. should we just do one more drag and then we ' ll do get into the rolling races. okay. okay. just going to get myself into position with a rolling burnout, then we ' ll be ready to go. here we go. 3 2 [ music ] 1 freaking vehicle. [ music ] [ music ] so fast, so glorious. you just can ' t keep up. i ' m always too slow. it is what it is. i chose the quickest car again, but why wouldn ' t you when you got the opportunity? so then what exactly happened? well, the yesco won. it completed the standing quarter mile in 8. 9 seconds. the reggera took 10. 2 seconds. in case you ' re wondering, during the race, the yesco accelerated from 0 to 60 mph in just 2. 78 seconds. the reggera took 3. 4 seconds. before our next race, a little message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is for you. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this range rover on car vertical. it ' s got green ticks for odometer and legal status, but a damage warning. why? it ' s previously been in not one, not two, but three separate accidents. you ' d never have known that without a car history check. so, when buying a used car",
+          "qas": [
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the engine type of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg_1245",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_this car_1245",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_the Jesko_1245",
+              "question": "What is the engine type of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the engine capacity of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg_1245",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_this car_1245",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_the Jesko_1245",
+              "question": "What is the engine capacity of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the horsepower of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg_1245",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_this car_1245",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_the Jesko_1245",
+              "question": "What is the horsepower of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the weight of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg_1245",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_this car_1245",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_the Jesko_1245",
+              "question": "What is the weight of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the torque of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg_1245",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_this car_1245",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_the Jesko_1245",
+              "question": "What is the torque of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the gearbox in the Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg_1245",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_this car_1245",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_the Jesko_1245",
+              "question": "What is the gearbox in the the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg Jesko Absolut_1245",
+              "question": "What is the quarter mile time of Koenigsegg Jesko Absolut?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8.9 seconds.",
+                  "answer_start": 1166
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg_1245",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8.9 seconds.",
+                  "answer_start": 1166
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_this car_1245",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8.9 seconds.",
+                  "answer_start": 1166
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_the Jesko_1245",
+              "question": "What is the quarter mile time of the Jesko?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8.9 seconds.",
+                  "answer_start": 1166
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg Regera_1245",
+              "question": "What is the engine type of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg_1245",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_this car_1245",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_the Regera_1245",
+              "question": "What is the engine type of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg Regera_1245",
+              "question": "What is the engine capacity of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg_1245",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_this car_1245",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_the Regera_1245",
+              "question": "What is the engine capacity of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg Regera_1245",
+              "question": "What is the horsepower of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg_1245",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_this car_1245",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_the Regera_1245",
+              "question": "What is the horsepower of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg Regera_1245",
+              "question": "What is the weight of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg_1245",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_this car_1245",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_the Regera_1245",
+              "question": "What is the weight of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg Regera_1245",
+              "question": "What is the torque of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg_1245",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_this car_1245",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_the Regera_1245",
+              "question": "What is the torque of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg Regera_1245",
+              "question": "What is the gearbox in the Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg_1245",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_this car_1245",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_the Regera_1245",
+              "question": "What is the gearbox in the the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg Regera_1245",
+              "question": "What is the quarter mile time of Koenigsegg Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds.",
+                  "answer_start": 1198
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg_1245",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds.",
+                  "answer_start": 1198
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_this car_1245",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds.",
+                  "answer_start": 1198
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_the Regera_1245",
+              "question": "What is the quarter mile time of the Regera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds.",
+                  "answer_start": 1198
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": ", bike, or van, run a car vertical report using code carow for 20 % off or by following the link in the description. now, back to the race. all right, mark. so, what we ' re going to do now is a roll in to the 1 / 4 mile. we ' re going to do it around like 16 km an hour, which is 10 mph. if you just stay level with me, but watch nick ' s hands when they go down. just accelerate. first gear. this is really short. so, i ' m going to go into second. let ' s try it. how do i get into second gear? come on. i ' m in second now. here we go. 3 2 1 oh, when this thing honks [ music ] oh, i ' m really into this. it just feels so nice. like the sensation you get when it puts the power down. you can feel the tires just like gripping. it ' s so nice. i think we took off simultaneously. you just went faster basically. yeah, i just went faster. that ' s true. enough about that. let ' s do some more rolling races because the reggera just has one gear. we ' re going to do it for 80 km an hour, which is 50 mph. i ' m going to be in fourth. the car will auto shift up when i hit red line. we ' re going to see what happens. i should be in boost fourth around 80 because this car has quite closely stacked low ratios. let ' s see what happens. you ready, marcus? i ' m ready. three 2 1 go. [ music ] oh, this is snaking. wow, there ' s a lot of speed up. [ music ] okay, so we were level for a short period of time cuz obviously that with its electric motors just picked up nicely, but this is on boost and then it flew. and i think it ' s a little bit unfair. so maybe seeing as you ' re always in top gear or sixth gear or whatever it is, cuz it ' s single gear. maybe i should be in top gear as well. and we ' ll see the benefit of the riggera with its clever hybrid system, shall we? sounds like an interesting race. see if i can get up into ninth gear. we need to get a bit faster. i ' m in eighth. here we",
+          "qas": [
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the engine type of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg_1657",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_this car_1657",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_the Jesko_1657",
+              "question": "What is the engine type of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the engine capacity of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg_1657",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_this car_1657",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_the Jesko_1657",
+              "question": "What is the engine capacity of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the horsepower of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg_1657",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_this car_1657",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_the Jesko_1657",
+              "question": "What is the horsepower of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the weight of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg_1657",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_this car_1657",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_the Jesko_1657",
+              "question": "What is the weight of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the torque of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg_1657",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_this car_1657",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_the Jesko_1657",
+              "question": "What is the torque of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the gearbox in the Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg_1657",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_this car_1657",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_the Jesko_1657",
+              "question": "What is the gearbox in the the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg Jesko Absolut_1657",
+              "question": "What is the quarter mile time of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg_1657",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_this car_1657",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_the Jesko_1657",
+              "question": "What is the quarter mile time of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg Regera_1657",
+              "question": "What is the engine type of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg_1657",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_this car_1657",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_the Regera_1657",
+              "question": "What is the engine type of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg Regera_1657",
+              "question": "What is the engine capacity of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg_1657",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_this car_1657",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_the Regera_1657",
+              "question": "What is the engine capacity of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg Regera_1657",
+              "question": "What is the horsepower of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg_1657",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_this car_1657",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_the Regera_1657",
+              "question": "What is the horsepower of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg Regera_1657",
+              "question": "What is the weight of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg_1657",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_this car_1657",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_the Regera_1657",
+              "question": "What is the weight of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg Regera_1657",
+              "question": "What is the torque of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg_1657",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_this car_1657",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_the Regera_1657",
+              "question": "What is the torque of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg Regera_1657",
+              "question": "What is the gearbox in the Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg_1657",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_this car_1657",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_the Regera_1657",
+              "question": "What is the gearbox in the the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg Regera_1657",
+              "question": "What is the quarter mile time of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg_1657",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_this car_1657",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_the Regera_1657",
+              "question": "What is the quarter mile time of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "go. ninth. you ' re level. 3 2 1 [ music ] go. i ' ve literally got no boost. w ' s boost coming on. my foot is flat to the floor. i can feel a bit of boost building now. and that illustrates the benefit of the crazy torque converter and electric motors on your car because my foot was flat and it accelerated like my old fiat 126. yeah, it really needs to be in a power band. it ' s got a good power band on it. i just was not in it. now we ' re going to have a brake test from 100 miles an hour, 160 km an hour, where we reach the cones full emergency stop. we ' re going to see which car stops in the shortest distance. if you ' d rather watch another drag race with some kix, then click on the pop out b up there. scan the qr code on screen now. if not, stay here for the brake test. let ' s do this. oh, what? i either cocked that up or you cheated. let ' s do it one more time. okay, i ' ve moved my seat closer to the pedals so i can really stamp on it. that initial whack is key. so, let ' s try again. [ music ] see, i knew i cocked it up first time. that was better. she moved your seat. yeah, i got closer to the steering wheel. made all the difference. more of a difference than your air bra seems. so listen, just want to say a huge thank you to the guys at koex marcus for taking part. this has been an absolute blast. incredible car. i ' ve loved driving this. what a dream come true. if you ' re lucky enough to be able to afford one of these things. wow. now, if you want to compare these cars quarter mile times to everything else we ' ve ever drag race, click on the car wow logo to check out the carwow drag race leaderboard. all right, see you next time and thanks for watching.",
+          "qas": [
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the engine type of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_Koenigsegg_2082",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_this car_2082",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Type_the Jesko_2082",
+              "question": "What is the engine type of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the engine capacity of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_Koenigsegg_2082",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_this car_2082",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Engine Capacity_the Jesko_2082",
+              "question": "What is the engine capacity of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the horsepower of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_Koenigsegg_2082",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_this car_2082",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Horsepower_the Jesko_2082",
+              "question": "What is the horsepower of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the weight of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_Koenigsegg_2082",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_this car_2082",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Weight_the Jesko_2082",
+              "question": "What is the weight of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the torque of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_Koenigsegg_2082",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_this car_2082",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Torque_the Jesko_2082",
+              "question": "What is the torque of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the gearbox in the Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_Koenigsegg_2082",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_this car_2082",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Gearbox_the Jesko_2082",
+              "question": "What is the gearbox in the the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg Jesko Absolut_2082",
+              "question": "What is the quarter mile time of Koenigsegg Jesko Absolut?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_Koenigsegg_2082",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_this car_2082",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Jesko Absolut_Quarter Mile Time_the Jesko_2082",
+              "question": "What is the quarter mile time of the Jesko?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg Regera_2082",
+              "question": "What is the engine type of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_Koenigsegg_2082",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_this car_2082",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Type_the Regera_2082",
+              "question": "What is the engine type of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg Regera_2082",
+              "question": "What is the engine capacity of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_Koenigsegg_2082",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_this car_2082",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Engine Capacity_the Regera_2082",
+              "question": "What is the engine capacity of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg Regera_2082",
+              "question": "What is the horsepower of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_Koenigsegg_2082",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_this car_2082",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Horsepower_the Regera_2082",
+              "question": "What is the horsepower of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg Regera_2082",
+              "question": "What is the weight of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_Koenigsegg_2082",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_this car_2082",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Weight_the Regera_2082",
+              "question": "What is the weight of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg Regera_2082",
+              "question": "What is the torque of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_Koenigsegg_2082",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_this car_2082",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Torque_the Regera_2082",
+              "question": "What is the torque of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg Regera_2082",
+              "question": "What is the gearbox in the Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_Koenigsegg_2082",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_this car_2082",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Gearbox_the Regera_2082",
+              "question": "What is the gearbox in the the Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg Regera_2082",
+              "question": "What is the quarter mile time of Koenigsegg Regera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_Koenigsegg_2082",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_this car_2082",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Regera_Quarter Mile Time_the Regera_2082",
+              "question": "What is the quarter mile time of the Regera?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

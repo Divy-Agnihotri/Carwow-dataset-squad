@@ -1,0 +1,2974 @@
+{
+  "data": [
+    {
+      "title": "Ferrari 458 Speciale v Audi RS7 Performance DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "ferrari 458 speciale v audi rs7 performance drag race _ transcript what will ' ll win in a drag race between a ferrari 458 speciale a legendary super car and a far more familyfriendly performance car the audi rs7 hm it ' s going to be interesting but what could be embarrassing is when i put this audi s3 also against the ferrari i ' m here on a drag strip and we ' re going to have a drag race to see which of these cars is quickest over the standing quarter mile i ' m mik watson and you ' re watching car the ri 458 speciali has a 4.5 l natur aspirated v8 that puts out 605 horsepower and 540 newm of torque this drives the rear wheels via a 7 - speed dual clutch automatic gearbox the car weighs in at 1, 395 kilos and back in 2015 it cost £28, 000 the audi rs7 has a 4 l twin turbo v8 with 630 horsepower and 850 nt m of torque this drives all four wheels by an 8 - speed automatic gearbox with a torque converter the car weighs in at 2,065 kilos and it costs from $ 132, 600 the audi s3 has a 2 l 4 - cylinder turbocharged petrol engine with 333 horsepower and 420 new m of torque it drives all four wheels for a 7 - speed dual clutch automatic gearbox with launch control it weighs in at 1, 610 kg and it costs from £48, 000 hey andy what do you think is going to happen well i ' m slightly concerned that i ' ve turned up in a ferrari you are in a four - door family saloon car audi and that you ' re going to destroy me yeah do you really think so that is quick cuz if you launch that properly this surface is quite good and it ' s dry you are in with a chance because i ' ve seen you put in a great time on that before i am yep yep and it is a ferrari so there ' s the willpower and the passion to make it happen right then and before we get into the race so let ' s just do the sound check so i ' m just going to low my window low yours so you can appreciate the noise of my car and its softt limiter you ready i ' m ready can you even hear it over the noise of your own car before you rev it up though i should point out you ' ve got an aftermarket exhaust haven ' t you who ' s it by i got",
+          "qas": [
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari 458 Speciale_1",
+              "question": "What is the engine type of Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L natur aspirated V8",
+                  "answer_start": 532
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari_1",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L natur aspirated V8",
+                  "answer_start": 532
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_this_1",
+              "question": "What is the engine type of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L natur aspirated V8",
+                  "answer_start": 532
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_my car_1",
+              "question": "What is the engine type of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L natur aspirated V8",
+                  "answer_start": 532
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_the Ferrari_1",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L natur aspirated V8",
+                  "answer_start": 532
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari 458 Speciale_1",
+              "question": "What is the engine capacity of Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L",
+                  "answer_start": 534
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari_1",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L",
+                  "answer_start": 534
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_this_1",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L",
+                  "answer_start": 534
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_my car_1",
+              "question": "What is the engine capacity of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L",
+                  "answer_start": 534
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_the Ferrari_1",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.5 L",
+                  "answer_start": 534
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari 458 Speciale_1",
+              "question": "What is the horsepower of Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "605 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari_1",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "605 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_this_1",
+              "question": "What is the horsepower of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "605 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_my car_1",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "605 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_the Ferrari_1",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "605 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari 458 Speciale_1",
+              "question": "What is the weight of Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,395 kilos",
+                  "answer_start": 709
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari_1",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,395 kilos",
+                  "answer_start": 709
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_this_1",
+              "question": "What is the weight of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,395 kilos",
+                  "answer_start": 709
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_my car_1",
+              "question": "What is the weight of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,395 kilos",
+                  "answer_start": 709
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_the Ferrari_1",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,395 kilos",
+                  "answer_start": 709
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari 458 Speciale_1",
+              "question": "What is the torque of Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "540 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari_1",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "540 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_this_1",
+              "question": "What is the torque of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "540 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_my car_1",
+              "question": "What is the torque of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "540 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_the Ferrari_1",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "540 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari 458 Speciale_1",
+              "question": "What is the gearbox in the Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 649
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari_1",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 649
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_this_1",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 649
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_my car_1",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 649
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_the Ferrari_1",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 649
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari 458 Speciale_1",
+              "question": "What is the quarter mile time of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_this_1",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_my car_1",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_the Ferrari_1",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi RS7_1",
+              "question": "What is the engine type of Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi_1",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Type_this_1",
+              "question": "What is the engine type of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Type_the RS7_1",
+              "question": "What is the engine type of the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi RS7_1",
+              "question": "What is the engine capacity of Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi_1",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_this_1",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_the RS7_1",
+              "question": "What is the engine capacity of the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 772
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi RS7_1",
+              "question": "What is the horsepower of Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi_1",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Horsepower_this_1",
+              "question": "What is the horsepower of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Horsepower_the RS7_1",
+              "question": "What is the horsepower of the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Weight_Audi RS7_1",
+              "question": "What is the weight of Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,065 kilos",
+                  "answer_start": 940
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Weight_Audi_1",
+              "question": "What is the weight of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,065 kilos",
+                  "answer_start": 940
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Weight_this_1",
+              "question": "What is the weight of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,065 kilos",
+                  "answer_start": 940
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Weight_the RS7_1",
+              "question": "What is the weight of the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,065 kilos",
+                  "answer_start": 940
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Torque_Audi RS7_1",
+              "question": "What is the torque of Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 NT M of torque",
+                  "answer_start": 814
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Torque_Audi_1",
+              "question": "What is the torque of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 NT M of torque",
+                  "answer_start": 814
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Torque_this_1",
+              "question": "What is the torque of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 NT M of torque",
+                  "answer_start": 814
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Torque_the RS7_1",
+              "question": "What is the torque of the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 NT M of torque",
+                  "answer_start": 814
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi RS7_1",
+              "question": "What is the gearbox in the Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with a torque converter",
+                  "answer_start": 869
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi_1",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with a torque converter",
+                  "answer_start": 869
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Gearbox_this_1",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with a torque converter",
+                  "answer_start": 869
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Gearbox_the RS7_1",
+              "question": "What is the gearbox in the the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with a torque converter",
+                  "answer_start": 869
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi RS7_1",
+              "question": "What is the quarter mile time of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi_1",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_this_1",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_the RS7_1",
+              "question": "What is the quarter mile time of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_1",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder turbocharged",
+                  "answer_start": 1003
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Type_this_1",
+              "question": "What is the engine type of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder turbocharged",
+                  "answer_start": 1003
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Type_the S3_1",
+              "question": "What is the engine type of the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder turbocharged",
+                  "answer_start": 1003
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_1",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 999
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Capacity_this_1",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 999
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Capacity_the S3_1",
+              "question": "What is the engine capacity of the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 999
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_1",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Horsepower_this_1",
+              "question": "What is the horsepower of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Horsepower_the S3_1",
+              "question": "What is the horsepower of the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_1",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,610 kg",
+                  "answer_start": 1198
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Weight_this_1",
+              "question": "What is the weight of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,610 kg",
+                  "answer_start": 1198
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Weight_the S3_1",
+              "question": "What is the weight of the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,610 kg",
+                  "answer_start": 1198
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_1",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "420 new M of torque",
+                  "answer_start": 1067
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Torque_this_1",
+              "question": "What is the torque of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "420 new M of torque",
+                  "answer_start": 1067
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Torque_the S3_1",
+              "question": "What is the torque of the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "420 new M of torque",
+                  "answer_start": 1067
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_1",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox with launch control",
+                  "answer_start": 1121
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Gearbox_this_1",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox with launch control",
+                  "answer_start": 1121
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Gearbox_the S3_1",
+              "question": "What is the gearbox in the the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox with launch control",
+                  "answer_start": 1121
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_1",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_this_1",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_the S3_1",
+              "question": "What is the quarter mile time of the S3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "um string theory garage to fit a capristo dcats and then novitech exhaust system which is phenomenal do it i ' m almost tempted to race with my windows down so i can hear your car though actually i probably don ' t need the windows down should we get on with the race then see what happ happens yeah man let ' s go andy i don ' t want to psych you out at anything but i have not warmed up my tires they are stone cold you ' ve been able to warm up your tires so if i beat you now there ' s really no excuses i think it ' s going to happen i i ' m not doing enzo proud i see what i can do 3 2 1 oh he didn ' t even start i think my tires have just been warmed up that ' s the speed limit warning so any thoughts on that andy okay give me a chance we ' re ready for the next one let ' s see 3 2 1 this [ music ] mental that ' s no [ music ] chance shut up okay andy right i ' m going to give you one last chance but what you need to do is is literally jump the start actually jump it try to jump it you probably won ' t jump the start but you ' ll feel like you did okay yeah yeah i ' ll give it a try the grip on that is just it just catapults forward do it three 2 1 oh we got better launch that time does not make any difference [ applause ] that ' s gap gap of gapping [ music ] ton i think you then got beat a little bit there andy yeah but i am in a ferrari that doesn ' t make any sense oh he ' s in a ferrari so he feels better about his life yeah yeah you are and it ' s a very nice ferrari at that but i want to rub salt into the wounds a few moment moments later andy how do you feel about this matchup again it was concerning when it was that car it ' s even more concerning now this just shows how you can go and buy a car like that and keep up with limited edition special run ferrari track cars we don ' t know for sure if i can keep up but we will find out right now 3 2 1 i had him off the line this had the handbrake on like the auto handbrake was on i could feel it [ music ] [ applause ] drag shut up sorry i was that wasn ' t to you andy it was to my car just beeping",
+          "qas": [
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari 458 Speciale_459",
+              "question": "What is the engine type of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari_459",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_this_459",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_my car_459",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_the Ferrari_459",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari 458 Speciale_459",
+              "question": "What is the engine capacity of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari_459",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_this_459",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_my car_459",
+              "question": "What is the engine capacity of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_the Ferrari_459",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari 458 Speciale_459",
+              "question": "What is the horsepower of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari_459",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_this_459",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_my car_459",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_the Ferrari_459",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari 458 Speciale_459",
+              "question": "What is the weight of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari_459",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_this_459",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_my car_459",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_the Ferrari_459",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari 458 Speciale_459",
+              "question": "What is the torque of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari_459",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_this_459",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_my car_459",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_the Ferrari_459",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari 458 Speciale_459",
+              "question": "What is the gearbox in the Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari_459",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_this_459",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_my car_459",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_the Ferrari_459",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari 458 Speciale_459",
+              "question": "What is the quarter mile time of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari_459",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_this_459",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_my car_459",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_the Ferrari_459",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi RS7_459",
+              "question": "What is the engine type of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi_459",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_this_459",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_the RS7_459",
+              "question": "What is the engine type of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi RS7_459",
+              "question": "What is the engine capacity of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi_459",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_this_459",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_the RS7_459",
+              "question": "What is the engine capacity of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi RS7_459",
+              "question": "What is the horsepower of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi_459",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_this_459",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_the RS7_459",
+              "question": "What is the horsepower of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi RS7_459",
+              "question": "What is the weight of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi_459",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_this_459",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_the RS7_459",
+              "question": "What is the weight of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi RS7_459",
+              "question": "What is the torque of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi_459",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_this_459",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_the RS7_459",
+              "question": "What is the torque of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi RS7_459",
+              "question": "What is the gearbox in the Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi_459",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_this_459",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_the RS7_459",
+              "question": "What is the gearbox in the the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi RS7_459",
+              "question": "What is the quarter mile time of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi_459",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_this_459",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_the RS7_459",
+              "question": "What is the quarter mile time of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_459",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_this_459",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_the S3_459",
+              "question": "What is the engine type of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_459",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_this_459",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_the S3_459",
+              "question": "What is the engine capacity of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_459",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_this_459",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_the S3_459",
+              "question": "What is the horsepower of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_459",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_this_459",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_the S3_459",
+              "question": "What is the weight of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_459",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_this_459",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_the S3_459",
+              "question": "What is the torque of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_459",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_this_459",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_the S3_459",
+              "question": "What is the gearbox in the the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_459",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_this_459",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_the S3_459",
+              "question": "What is the quarter mile time of the S3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "about stuff warnings you won though yeah what power is that and what poers the the blue one so the blue one has twice the power of this one does the blue one have more than 600 horsepower yes would you like one more go one more go against this then we ' ll play best three out of five okay copy that and i get to hopefully win the breaking against the other car yeah we shall see 3 2 1 that was better no handbrake [ applause ] [ music ] come on where is he oh he ' s coming past [ applause ] [ music ] now shut up all the beeps and crap what ' s all these i hate all this stuff i also hate losing you won but wasn ' t that easy was it no i was giving it everything bounce off the rev liit that ' s a quick car right then andy i ' ve got the bad boy back again the daddy so um you should be ded in now this is the decider copy that oh was a good launch by me and by him it ' s not going to get much better for either of [ applause ] [ music ] us whoa there we go not going to lie on d that was a pretty good launch we both left simultaneously it was a beautiful thing but um this is quicker very impressive there we go best three out of five so then what exactly happened well the rs71 it completed the standing quarter mile in 11. 3 seconds the ferrari took 11. 6 seconds and the s3 12. 9 seconds want to sell your car quickly easily and for a fair price then head to car w to have over 4, 000 trusted dealers ready to bid on it in an online auction first enter your car ' s registration to get an instant approximate valuation then if you want to proceed give us some more details and upload some photos and we ' ll help you set a fair reserve price for your car that ' s the minimum amount you ' d be happy to sell it for once you ' ve done that we ' ll enter your car into an online auction when the auction ' s over we ' ll let you know the result and the dealer with a winning bid will be in touch to arrange easy payment and free collection of your car 93 % of sellers surveyed said they got the price they expected or more through carb the best bit is it ' s completely free i put a link in the description of this video and the ping comment to take you directly to carwell where over 4, 000 dealers are ready to bid on",
+          "qas": [
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari 458 Speciale_942",
+              "question": "What is the engine type of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari_942",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_this_942",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_my car_942",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_the Ferrari_942",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari 458 Speciale_942",
+              "question": "What is the engine capacity of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari_942",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_this_942",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_my car_942",
+              "question": "What is the engine capacity of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_the Ferrari_942",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari 458 Speciale_942",
+              "question": "What is the horsepower of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari_942",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_this_942",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_my car_942",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_the Ferrari_942",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari 458 Speciale_942",
+              "question": "What is the weight of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari_942",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_this_942",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_my car_942",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_the Ferrari_942",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari 458 Speciale_942",
+              "question": "What is the torque of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari_942",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_this_942",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_my car_942",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_the Ferrari_942",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari 458 Speciale_942",
+              "question": "What is the gearbox in the Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari_942",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_this_942",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_my car_942",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_the Ferrari_942",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari 458 Speciale_942",
+              "question": "What is the quarter mile time of Ferrari 458 Speciale?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.6 seconds",
+                  "answer_start": 1263
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari_942",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.6 seconds",
+                  "answer_start": 1263
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_this_942",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.6 seconds",
+                  "answer_start": 1263
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_my car_942",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.6 seconds",
+                  "answer_start": 1263
+                }
+              ]
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_the Ferrari_942",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.6 seconds",
+                  "answer_start": 1263
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi RS7_942",
+              "question": "What is the engine type of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi_942",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_this_942",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_the RS7_942",
+              "question": "What is the engine type of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi RS7_942",
+              "question": "What is the engine capacity of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi_942",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_this_942",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_the RS7_942",
+              "question": "What is the engine capacity of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi RS7_942",
+              "question": "What is the horsepower of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi_942",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_this_942",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_the RS7_942",
+              "question": "What is the horsepower of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi RS7_942",
+              "question": "What is the weight of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi_942",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_this_942",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_the RS7_942",
+              "question": "What is the weight of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi RS7_942",
+              "question": "What is the torque of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi_942",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_this_942",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_the RS7_942",
+              "question": "What is the torque of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi RS7_942",
+              "question": "What is the gearbox in the Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi_942",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_this_942",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_the RS7_942",
+              "question": "What is the gearbox in the the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi RS7_942",
+              "question": "What is the quarter mile time of Audi RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 1232
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi_942",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 1232
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_this_942",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 1232
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_the RS7_942",
+              "question": "What is the quarter mile time of the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 1232
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_942",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_this_942",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_the S3_942",
+              "question": "What is the engine type of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_942",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_this_942",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_the S3_942",
+              "question": "What is the engine capacity of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_942",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_this_942",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_the S3_942",
+              "question": "What is the horsepower of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_942",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_this_942",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_the S3_942",
+              "question": "What is the weight of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_942",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_this_942",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_the S3_942",
+              "question": "What is the torque of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_942",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_this_942",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_the S3_942",
+              "question": "What is the gearbox in the the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_942",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds",
+                  "answer_start": 1288
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_this_942",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds",
+                  "answer_start": 1288
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_the S3_942",
+              "question": "What is the quarter mile time of the S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds",
+                  "answer_start": 1288
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "your car or you can just click on the pop out bner that should be appearing in the top right hand corner of the screen now alternatively just google help me carwow and we will help you sell your car quickly easily and for a fair price on with the video right and now we have a rolling race from 30 mph cars in a sportier setting and in second gear okay you ready andy get level with me three two one go i could hear it getting ready there oh he ' s gone oh now he ' s [ applause ] [ music ] gone ferrari power sounds amazing [ music ] ah bs i break too early apologies you did break too early which meant i won but um i think it was a bit of a conclusion for gone let ' s do another race in third gear i ' m hoping for one of these very dark clouds to empty its contents onto this runway cuz that ' ll give me a bit more of a chance your 600 horsepower versus my 600 h power with an extra 500 kilos attached to it i ' m starting to feel the difference now okay then andy roll on third gear from 50 get level with me 3 2 1 go that ' s a bit better but he ' s pulling out he ' s got all the [ applause ] revs it ' s not massive difference [ applause ] got to say that wasn ' t a massive difference was it really considering what your car is no no i must admit the braking will be interesting yes um i ' m not sure it ' ll be interesting for me but maybe for you let ' s find out now if you ' d rather watch another drag race with that ferrari it ' s actually a really interesting one click on the pop out banner follow the qr code on the screen now okay go do that cuz that ' s a cool cool drag race if not stay here we ' re going to do the brake test when we reach the line from 100 full emergency stop car that stops in shortest distance winds uh oh that was surprising maybe cuz it ' s heavier actually helps it cuz it can break harder there ' s probably a reason isn ' t there can someone who knows the reason comment okay and don ' t be smartass like saying the reason is matt hit the brakes earlier okay don ' t say that anyway huge thanks to andy for coming down to play today in his special ary if you ' d like to watch some other videos then just click on the video windows and if you want to see how these cars c a m",
+          "qas": [
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari 458 Speciale_1424",
+              "question": "What is the engine type of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari_1424",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_this_1424",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_my car_1424",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_the Ferrari_1424",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari 458 Speciale_1424",
+              "question": "What is the engine capacity of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari_1424",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_this_1424",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_my car_1424",
+              "question": "What is the engine capacity of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_the Ferrari_1424",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari 458 Speciale_1424",
+              "question": "What is the horsepower of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari_1424",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_this_1424",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_my car_1424",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_the Ferrari_1424",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari 458 Speciale_1424",
+              "question": "What is the weight of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari_1424",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_this_1424",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_my car_1424",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_the Ferrari_1424",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari 458 Speciale_1424",
+              "question": "What is the torque of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari_1424",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_this_1424",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_my car_1424",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_the Ferrari_1424",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari 458 Speciale_1424",
+              "question": "What is the gearbox in the Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari_1424",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_this_1424",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_my car_1424",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_the Ferrari_1424",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari 458 Speciale_1424",
+              "question": "What is the quarter mile time of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari_1424",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_this_1424",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_my car_1424",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_the Ferrari_1424",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi RS7_1424",
+              "question": "What is the engine type of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi_1424",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_this_1424",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_the RS7_1424",
+              "question": "What is the engine type of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi RS7_1424",
+              "question": "What is the engine capacity of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi_1424",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_this_1424",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_the RS7_1424",
+              "question": "What is the engine capacity of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi RS7_1424",
+              "question": "What is the horsepower of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi_1424",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_this_1424",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_the RS7_1424",
+              "question": "What is the horsepower of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi RS7_1424",
+              "question": "What is the weight of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi_1424",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_this_1424",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_the RS7_1424",
+              "question": "What is the weight of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi RS7_1424",
+              "question": "What is the torque of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi_1424",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_this_1424",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_the RS7_1424",
+              "question": "What is the torque of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi RS7_1424",
+              "question": "What is the gearbox in the Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi_1424",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_this_1424",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_the RS7_1424",
+              "question": "What is the gearbox in the the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi RS7_1424",
+              "question": "What is the quarter mile time of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi_1424",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_this_1424",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_the RS7_1424",
+              "question": "What is the quarter mile time of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_1424",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_this_1424",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_the S3_1424",
+              "question": "What is the engine type of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_1424",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_this_1424",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_the S3_1424",
+              "question": "What is the engine capacity of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_1424",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_this_1424",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_the S3_1424",
+              "question": "What is the horsepower of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_1424",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_this_1424",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_the S3_1424",
+              "question": "What is the weight of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_1424",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_this_1424",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_the S3_1424",
+              "question": "What is the torque of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_1424",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_this_1424",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_the S3_1424",
+              "question": "What is the gearbox in the the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_1424",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_this_1424",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_the S3_1424",
+              "question": "What is the quarter mile time of the S3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "times compared to everything else we ' ve ever drag raced then click on the carwow logo to check out the carwow drag race leaderboard see next time",
+          "qas": [
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari 458 Speciale_1911",
+              "question": "What is the engine type of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_Ferrari_1911",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_this_1911",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_my car_1911",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Type_the Ferrari_1911",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari 458 Speciale_1911",
+              "question": "What is the engine capacity of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_Ferrari_1911",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_this_1911",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_my car_1911",
+              "question": "What is the engine capacity of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Engine Capacity_the Ferrari_1911",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari 458 Speciale_1911",
+              "question": "What is the horsepower of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_Ferrari_1911",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_this_1911",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_my car_1911",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Horsepower_the Ferrari_1911",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari 458 Speciale_1911",
+              "question": "What is the weight of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_Ferrari_1911",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_this_1911",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_my car_1911",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Weight_the Ferrari_1911",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari 458 Speciale_1911",
+              "question": "What is the torque of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_Ferrari_1911",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_this_1911",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_my car_1911",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Torque_the Ferrari_1911",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari 458 Speciale_1911",
+              "question": "What is the gearbox in the Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_Ferrari_1911",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_this_1911",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_my car_1911",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Gearbox_the Ferrari_1911",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari 458 Speciale_1911",
+              "question": "What is the quarter mile time of Ferrari 458 Speciale?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_Ferrari_1911",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_this_1911",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_my car_1911",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari 458 Speciale_Quarter Mile Time_the Ferrari_1911",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi RS7_1911",
+              "question": "What is the engine type of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_Audi_1911",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_this_1911",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Type_the RS7_1911",
+              "question": "What is the engine type of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi RS7_1911",
+              "question": "What is the engine capacity of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_Audi_1911",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_this_1911",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Engine Capacity_the RS7_1911",
+              "question": "What is the engine capacity of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi RS7_1911",
+              "question": "What is the horsepower of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_Audi_1911",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_this_1911",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Horsepower_the RS7_1911",
+              "question": "What is the horsepower of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi RS7_1911",
+              "question": "What is the weight of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_Audi_1911",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_this_1911",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Weight_the RS7_1911",
+              "question": "What is the weight of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi RS7_1911",
+              "question": "What is the torque of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_Audi_1911",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_this_1911",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Torque_the RS7_1911",
+              "question": "What is the torque of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi RS7_1911",
+              "question": "What is the gearbox in the Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_Audi_1911",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_this_1911",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Gearbox_the RS7_1911",
+              "question": "What is the gearbox in the the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi RS7_1911",
+              "question": "What is the quarter mile time of Audi RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_Audi_1911",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_this_1911",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7_Quarter Mile Time_the RS7_1911",
+              "question": "What is the quarter mile time of the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_1911",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_this_1911",
+              "question": "What is the engine type of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_the S3_1911",
+              "question": "What is the engine type of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_1911",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_this_1911",
+              "question": "What is the engine capacity of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_the S3_1911",
+              "question": "What is the engine capacity of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_1911",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_this_1911",
+              "question": "What is the horsepower of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_the S3_1911",
+              "question": "What is the horsepower of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_1911",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_this_1911",
+              "question": "What is the weight of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_the S3_1911",
+              "question": "What is the weight of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_1911",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_this_1911",
+              "question": "What is the torque of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_the S3_1911",
+              "question": "What is the torque of the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_1911",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_this_1911",
+              "question": "What is the gearbox in the this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_the S3_1911",
+              "question": "What is the gearbox in the the S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_1911",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_this_1911",
+              "question": "What is the quarter mile time of this?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_the S3_1911",
+              "question": "What is the quarter mile time of the S3?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

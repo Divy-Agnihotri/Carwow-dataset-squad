@@ -1,0 +1,3770 @@
+{
+  "data": [
+    {
+      "title": "McLaren P1 v Ferrari 296 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "mclaren p1 v ferrari 296 drag race _ transcript will all win in a drag race between a mclaren p1 and a ferrari 296 gtb. well, we ' re going to find out cuz i ' m going to race them over the standing quarter mile. i ' m watson and you ' re watching car wow. so, let me tell you about this ferrari. it ' s got a 3 l twin turbo v6 mated to electric motor for a combined 830 horsepower and 740 newton meters of torque. drives the rear wheels only via an 8 - speed dual clutch automatic gearbox. this thing weighs in at £1, 570 kilos and it costs from £240, 000. that ' s starting price. now, let ' s find out about the mclaren from its owner. hey mark, how you doing? hello matt. you ' re okay? yeah, i ' m okay. i ' m good. i ' m sat in a very, very quick ferrari and you ' re sat in a very, very quick mclaren. both hybrids. one ' s just a little bit older than the other. your mclaren. tell me about it. okay, so this is a 3. 8 twinturbo v8 hybrid with a little bit of electric. it ' s 916 horsepower, 900 newton meters, rear wheel drive, seven - speed, dual clutch auto, launch control, 1490 kg. but interestingly, this car as normal runs only on petrol at 740 horsepower and i have to press a button for my extra 176. but without that, it ' s slow. > > slow being relative. so, you ' ve got a v8, i ' ve got a v6. should we see which one sounds the best? i ' m going to let you go fast. lots of turbo noise. have a listen to this. considering a v6, it sounds good. > > i actually think this sounds slightly better than that. > > but mine ' s better in here cuz of me whoosh. but probably you can ' t hear that. > > no, yours sounds better inside than this sounds better inside. > > i ' ll give you that. yours looks better. > > yeah, i do like those, but i prefer the sf90. we allowed to say that. > > you are allowed to say that. it ' s it ' s the wrong choice. i think these are better than the sf90. i think they ' re a bit",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_1",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_P1_1",
+              "question": "What is the engine type of P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_McLaren_1",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the engine type of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the engine type of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the engine type of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the engine type of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the engine type of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the engine type of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the engine type of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari 296 GTB_1",
+              "question": "What is the engine type of Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari_1",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Type_296_1",
+              "question": "What is the engine type of 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo V6 mated to electric motor",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_1",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_P1_1",
+              "question": "What is the engine capacity of P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren_1",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the engine capacity of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the engine capacity of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the engine capacity of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the engine capacity of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the engine capacity of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the engine capacity of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari 296 GTB_1",
+              "question": "What is the engine capacity of Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari_1",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_296_1",
+              "question": "What is the engine capacity of 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 310
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_1",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_P1_1",
+              "question": "What is the horsepower of P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren_1",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the horsepower of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the horsepower of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the horsepower of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the horsepower of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the horsepower of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the horsepower of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the horsepower of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari 296 GTB_1",
+              "question": "What is the horsepower of Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari_1",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_296_1",
+              "question": "What is the horsepower of 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "830 horsepower",
+                  "answer_start": 367
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_1",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_P1_1",
+              "question": "What is the weight of P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren_1",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the weight of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the weight of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the weight of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the weight of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the weight of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the weight of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the weight of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari 296 GTB_1",
+              "question": "What is the weight of Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari_1",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_296_1",
+              "question": "What is the weight of 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,570 kilos",
+                  "answer_start": 519
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_1",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_P1_1",
+              "question": "What is the torque of P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren_1",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the torque of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the torque of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the torque of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the torque of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the torque of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the torque of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the torque of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari 296 GTB_1",
+              "question": "What is the torque of Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari_1",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_296_1",
+              "question": "What is the torque of 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "740 Newton meters of torque.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_1",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_P1_1",
+              "question": "What is the gearbox in the P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren_1",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the gearbox in the Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the gearbox in the Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the gearbox in the Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the gearbox in the Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the gearbox in the Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the gearbox in the Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari 296 GTB_1",
+              "question": "What is the gearbox in the Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari_1",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_296_1",
+              "question": "What is the gearbox in the 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox.",
+                  "answer_start": 454
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_1",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_P1_1",
+              "question": "What is the quarter mile time of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren_1",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1",
+              "question": "What is the quarter mile time of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Capacity: 3 L [71,72]_1",
+              "question": "What is the quarter mile time of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Horsepower: 830 horsepower [83,84]_1",
+              "question": "What is the quarter mile time of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Weight: £1,570 kilos [111,112]_1",
+              "question": "What is the quarter mile time of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Torque: 740 Newton meters of torque. [86,90]_1",
+              "question": "What is the quarter mile time of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1",
+              "question": "What is the quarter mile time of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Quarter Mile Time: 10.1 seconds. [1217,1218]_1",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari 296 GTB_1",
+              "question": "What is the quarter mile time of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_296_1",
+              "question": "What is the quarter mile time of 296?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "more fun. > > i like the aggressiveness of the sf90. that ' s for me a little bit curly, but then i ' m sat in the curliest car they ' ve ever made. > > exactly. it ' s very swooshy, whooshy, and wavy, isn ' t it? can you put your wing up? do you want me to go to full into race mode? > > don ' t you have to wait for about half an hour to do it? > > a minute. > > do it. do it. do it. mark, i think you ' ve lost the race. > > here we go. this is very cool. > > now it ' s a proper hyper car. > > now we ' re going down. > > you might want to lower that for the race because i think there ' s quite a lot of drag with that, isn ' t there? > > yeah. interestingly, since it ' s nearly a formula 1 car, apparently it ' s got like drs, so you can open that back wing, but that ' s another button to press. and i ' m not that clever. > > okay. so, you ' re going to go out of race mode again and into sport. > > if it does it, > > we ' ll give you time to do that. don ' t worry about it. now, if you ' re thinking about selling your car, you can do it through car wash. super easy. all you have to do is upload some photos of your car, fill in a brief description, then dealers all across the country will bid on it. now, if you ' re thinking about selling your car or you know someone that is, just get them to google help me car wow, and we will help you sell your car. you can go there directly by following the link in the description of this video or scanning the qr code or clicking on the pop out banner. 3 2 1. > > that ' s a good start. oh, it ' s going to be close. come on. come on. [ music ] don ' t come past. he ' s coming. i can ' t look. oh, mark, mark, mark. that ' s one nil to the ferrari. one n. that was so, so close. just a little bit of wheel spin at the start. that '",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_418",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_P1_418",
+              "question": "What is the engine type of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_McLaren_418",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the engine type of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the engine type of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the engine type of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the engine type of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the engine type of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the engine type of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the engine type of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari 296 GTB_418",
+              "question": "What is the engine type of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari_418",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_296_418",
+              "question": "What is the engine type of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_418",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_P1_418",
+              "question": "What is the engine capacity of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren_418",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the engine capacity of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the engine capacity of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the engine capacity of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the engine capacity of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the engine capacity of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the engine capacity of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari 296 GTB_418",
+              "question": "What is the engine capacity of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari_418",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_296_418",
+              "question": "What is the engine capacity of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_418",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_P1_418",
+              "question": "What is the horsepower of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren_418",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the horsepower of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the horsepower of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the horsepower of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the horsepower of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the horsepower of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the horsepower of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the horsepower of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari 296 GTB_418",
+              "question": "What is the horsepower of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari_418",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_296_418",
+              "question": "What is the horsepower of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_418",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_P1_418",
+              "question": "What is the weight of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren_418",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the weight of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the weight of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the weight of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the weight of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the weight of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the weight of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the weight of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari 296 GTB_418",
+              "question": "What is the weight of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari_418",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_296_418",
+              "question": "What is the weight of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_418",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_P1_418",
+              "question": "What is the torque of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren_418",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the torque of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the torque of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the torque of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the torque of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the torque of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the torque of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the torque of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari 296 GTB_418",
+              "question": "What is the torque of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari_418",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_296_418",
+              "question": "What is the torque of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_418",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_P1_418",
+              "question": "What is the gearbox in the P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren_418",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the gearbox in the Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the gearbox in the Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the gearbox in the Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the gearbox in the Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the gearbox in the Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the gearbox in the Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari 296 GTB_418",
+              "question": "What is the gearbox in the Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari_418",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_296_418",
+              "question": "What is the gearbox in the 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_418",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_P1_418",
+              "question": "What is the quarter mile time of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren_418",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_418",
+              "question": "What is the quarter mile time of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Capacity: 3 L [71,72]_418",
+              "question": "What is the quarter mile time of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Horsepower: 830 horsepower [83,84]_418",
+              "question": "What is the quarter mile time of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Weight: £1,570 kilos [111,112]_418",
+              "question": "What is the quarter mile time of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Torque: 740 Newton meters of torque. [86,90]_418",
+              "question": "What is the quarter mile time of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_418",
+              "question": "What is the quarter mile time of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Quarter Mile Time: 10.1 seconds. [1217,1218]_418",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari 296 GTB_418",
+              "question": "What is the quarter mile time of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari_418",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_296_418",
+              "question": "What is the quarter mile time of 296?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "s all i ' ve had. but like, if we can get rid of that wheel spin, think i ' ve got you. yeah, i think you are. well, we ' re going to find out. let ' s go one more time. hopefully only one more time. 3 2 1. > > oh, bit too much wheel spin there. come on. don ' t get wheel spin. oh, a little bit of wheel spin. oh, he ' s got me. he ' s definitely got me. oh, this is close. oh, what a launch he ' s had. yes, i got him. good old mclaren. good boy. what a launch you had. you beat me off the line and once you ' re ahead, there was no chance. but it ' s best two out of three. should we do the decider? i had a little bit of wheel spin again, but not as much as the time before. i think that was the difference. this car is so exciting. three. two, one. > > bit of wheel spin. > > oh, this thing is quick. come on, ferrari. oh, got wheel spin. this is close. it ' s coming back now. come on, ferrari. come on, ferrari. no. > > oh, it ' s close. > > that was millimeters all the way. they ' re exactly the same. i have no idea which car won that. it was so close. i was ahead at first, but then you were really me back in. and i don ' t know whether you just passed me on the line. you might have done, you might not have. i i can ' t be sure. what do you think? that was so exciting. i ' m shaking like a dog, but i feel like i just just got him. another 10 m i ' d have definitely got it. but i think it was so close. there ' s only one way to find out who won. let ' s do the thing. so then what exactly happened? well, it was very close, but the slow motion action replay shows the ferrari won by the narrowest of margins. though both cars completed the standing / 4 mile in 10. 1 seconds. before our next race, a quick message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_838",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_P1_838",
+              "question": "What is the engine type of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_McLaren_838",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the engine type of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the engine type of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the engine type of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the engine type of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the engine type of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the engine type of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the engine type of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari 296 GTB_838",
+              "question": "What is the engine type of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari_838",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_296_838",
+              "question": "What is the engine type of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_838",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_P1_838",
+              "question": "What is the engine capacity of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren_838",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the engine capacity of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the engine capacity of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the engine capacity of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the engine capacity of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the engine capacity of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the engine capacity of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari 296 GTB_838",
+              "question": "What is the engine capacity of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari_838",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_296_838",
+              "question": "What is the engine capacity of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_838",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_P1_838",
+              "question": "What is the horsepower of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren_838",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the horsepower of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the horsepower of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the horsepower of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the horsepower of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the horsepower of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the horsepower of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the horsepower of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari 296 GTB_838",
+              "question": "What is the horsepower of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari_838",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_296_838",
+              "question": "What is the horsepower of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_838",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_P1_838",
+              "question": "What is the weight of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren_838",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the weight of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the weight of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the weight of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the weight of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the weight of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the weight of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the weight of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari 296 GTB_838",
+              "question": "What is the weight of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari_838",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_296_838",
+              "question": "What is the weight of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_838",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_P1_838",
+              "question": "What is the torque of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren_838",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the torque of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the torque of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the torque of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the torque of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the torque of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the torque of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the torque of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari 296 GTB_838",
+              "question": "What is the torque of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari_838",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_296_838",
+              "question": "What is the torque of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_838",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_P1_838",
+              "question": "What is the gearbox in the P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren_838",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the gearbox in the Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the gearbox in the Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the gearbox in the Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the gearbox in the Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the gearbox in the Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the gearbox in the Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari 296 GTB_838",
+              "question": "What is the gearbox in the Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari_838",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_296_838",
+              "question": "What is the gearbox in the 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_838",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_P1_838",
+              "question": "What is the quarter mile time of P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren_838",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_838",
+              "question": "What is the quarter mile time of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Capacity: 3 L [71,72]_838",
+              "question": "What is the quarter mile time of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Horsepower: 830 horsepower [83,84]_838",
+              "question": "What is the quarter mile time of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Weight: £1,570 kilos [111,112]_838",
+              "question": "What is the quarter mile time of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Torque: 740 Newton meters of torque. [86,90]_838",
+              "question": "What is the quarter mile time of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_838",
+              "question": "What is the quarter mile time of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Quarter Mile Time: 10.1 seconds. [1217,1218]_838",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari 296 GTB_838",
+              "question": "What is the quarter mile time of Ferrari 296 GTB?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari_838",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_296_838",
+              "question": "What is the quarter mile time of 296?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.1 seconds.",
+                  "answer_start": 1682
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "for you. we ' ve partnered with our friends at carver vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this nissan gtr on car vertical. it ' s done just 7, 648 mi and passed inspection, but it ' s been written off multiple times, including for structural damage. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carow for 20 % off, or follow the link in the description. now, back to the race. > > right now, we ' re going to have a rolling race over the half mile. we ' re going to roll in second gear at around 30 mph. now, if you like a performance car that isn ' t quite as expensive as one of these, well, i found one through carwow. if you want to find out what the car is and the saving through car, click on the pop out banner up there or scan the qr code on screen now. if not, um, just stay with me for this race. 3 2 1 go. i ' m surprised at his pickup. oh, well spin. we ' re going. i think we ' re good. i ' m reeling in now. this is interesting. mate, your car just like took off. we ' ve both got hybrids. they both got like torque infill from their electric motors. mad as it seems, the car that ' s over 10 years old actually does that tech better. it definitely listen, listen to my car. what does that mean? does that mean £100, 000? i ' m not sure. i ' m scared right now. but a car sounding like it ' s some sort of like something about to explode is not the way forward. but it doesn ' t seem like it ' s 10 years old, that ' s for certain, does it? that ip pass button is a definitely an amazing thing. but again, super super close and really enjoyable. love watching that as well. and your smiley face. i thought i ' d take off then you ' d come past me because that what was happening in the drag races, but actually it was the opposite. you took off, then i was actually reeling you in at the very end. i thought i was going to pass you",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_1250",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_P1_1250",
+              "question": "What is the engine type of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_McLaren_1250",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the engine type of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the engine type of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the engine type of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the engine type of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the engine type of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the engine type of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the engine type of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari 296 GTB_1250",
+              "question": "What is the engine type of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari_1250",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_296_1250",
+              "question": "What is the engine type of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_1250",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_P1_1250",
+              "question": "What is the engine capacity of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren_1250",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the engine capacity of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the engine capacity of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the engine capacity of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the engine capacity of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the engine capacity of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the engine capacity of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari 296 GTB_1250",
+              "question": "What is the engine capacity of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari_1250",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_296_1250",
+              "question": "What is the engine capacity of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_1250",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_P1_1250",
+              "question": "What is the horsepower of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren_1250",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the horsepower of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the horsepower of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the horsepower of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the horsepower of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the horsepower of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the horsepower of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the horsepower of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari 296 GTB_1250",
+              "question": "What is the horsepower of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari_1250",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_296_1250",
+              "question": "What is the horsepower of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_1250",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_P1_1250",
+              "question": "What is the weight of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren_1250",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the weight of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the weight of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the weight of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the weight of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the weight of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the weight of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the weight of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari 296 GTB_1250",
+              "question": "What is the weight of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari_1250",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_296_1250",
+              "question": "What is the weight of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_1250",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_P1_1250",
+              "question": "What is the torque of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren_1250",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the torque of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the torque of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the torque of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the torque of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the torque of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the torque of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the torque of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari 296 GTB_1250",
+              "question": "What is the torque of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari_1250",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_296_1250",
+              "question": "What is the torque of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_1250",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_P1_1250",
+              "question": "What is the gearbox in the P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren_1250",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the gearbox in the Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the gearbox in the Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the gearbox in the Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the gearbox in the Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the gearbox in the Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the gearbox in the Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari 296 GTB_1250",
+              "question": "What is the gearbox in the Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari_1250",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_296_1250",
+              "question": "What is the gearbox in the 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_1250",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_P1_1250",
+              "question": "What is the quarter mile time of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren_1250",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1250",
+              "question": "What is the quarter mile time of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Capacity: 3 L [71,72]_1250",
+              "question": "What is the quarter mile time of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Horsepower: 830 horsepower [83,84]_1250",
+              "question": "What is the quarter mile time of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Weight: £1,570 kilos [111,112]_1250",
+              "question": "What is the quarter mile time of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Torque: 740 Newton meters of torque. [86,90]_1250",
+              "question": "What is the quarter mile time of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1250",
+              "question": "What is the quarter mile time of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Quarter Mile Time: 10.1 seconds. [1217,1218]_1250",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari 296 GTB_1250",
+              "question": "What is the quarter mile time of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari_1250",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_296_1250",
+              "question": "What is the quarter mile time of 296?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ", but no, i didn ' t. let ' s go again. let ' s go in third gear. same thing. see what happens. 3 2 1 go. oh, this is close this time. that ' s different this time. [ applause ] oh, i hit a limiter. oh no, it ' s coming past. get that gear change right. yeah, we ' re good. come on. do you know what, mark? i cocked up and hit a limiter and that ' s when your car came past. that little error cost me. can we do it again? > > does that noise say no? > > i don ' t know if it ' s somebody trying to call me. it is like they ' re calling you from like the early 90s. > > yeah, mine felt amazing then yet again. but do you know we were doing 171 mph then when i hit the brakes. > > it is mad to think though that you know your car is 1. 1 mil but this was like 240, 000 starting. obviously once you ' ve ferrari it up a bit. it ' s like 300 grand. i think these are really impressive. both cars are impressive. let ' s do it again. see if i can do it without cocking it up. 3 2 1 go. > > come on. gear change. perfect gear change. [ music ] > > we ' re good. now he ' s gone. this thing is fast. can ' t do anything. i think my gear change, chat, was just wishful thinking, wasn ' t it? this thing is like, do you know what it ' s like? it looks great, but just driving it is exciting. it ' s like, it just feels like it ' s on the edge of the like, you know, breaking, i think, is the honest answer. it ' s just the best thing i ' ve ever driven. it ' s just exciting. the best out of all your entire car collection, that is the one that gives you the most pleasure. is that correct? > > it just makes me like shake. it makes me scared. i don ' t know whether that ' s the thought of it, you know, going wrong and costing me under 100 grand or whether it ' s just that it is a hyper car is the word hyper. definitely for a reason. > > okay, let ' s see how hyper",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_1677",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_P1_1677",
+              "question": "What is the engine type of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_McLaren_1677",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the engine type of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the engine type of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the engine type of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the engine type of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the engine type of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the engine type of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the engine type of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari 296 GTB_1677",
+              "question": "What is the engine type of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari_1677",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_296_1677",
+              "question": "What is the engine type of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_1677",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_P1_1677",
+              "question": "What is the engine capacity of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren_1677",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the engine capacity of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the engine capacity of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the engine capacity of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the engine capacity of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the engine capacity of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the engine capacity of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari 296 GTB_1677",
+              "question": "What is the engine capacity of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari_1677",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_296_1677",
+              "question": "What is the engine capacity of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_1677",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_P1_1677",
+              "question": "What is the horsepower of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren_1677",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the horsepower of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the horsepower of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the horsepower of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the horsepower of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the horsepower of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the horsepower of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the horsepower of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari 296 GTB_1677",
+              "question": "What is the horsepower of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari_1677",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_296_1677",
+              "question": "What is the horsepower of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_1677",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_P1_1677",
+              "question": "What is the weight of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren_1677",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the weight of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the weight of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the weight of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the weight of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the weight of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the weight of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the weight of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari 296 GTB_1677",
+              "question": "What is the weight of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari_1677",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_296_1677",
+              "question": "What is the weight of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_1677",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_P1_1677",
+              "question": "What is the torque of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren_1677",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the torque of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the torque of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the torque of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the torque of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the torque of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the torque of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the torque of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari 296 GTB_1677",
+              "question": "What is the torque of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari_1677",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_296_1677",
+              "question": "What is the torque of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_1677",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_P1_1677",
+              "question": "What is the gearbox in the P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren_1677",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the gearbox in the Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the gearbox in the Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the gearbox in the Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the gearbox in the Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the gearbox in the Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the gearbox in the Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari 296 GTB_1677",
+              "question": "What is the gearbox in the Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari_1677",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_296_1677",
+              "question": "What is the gearbox in the 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_1677",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_P1_1677",
+              "question": "What is the quarter mile time of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren_1677",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_1677",
+              "question": "What is the quarter mile time of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Capacity: 3 L [71,72]_1677",
+              "question": "What is the quarter mile time of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Horsepower: 830 horsepower [83,84]_1677",
+              "question": "What is the quarter mile time of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Weight: £1,570 kilos [111,112]_1677",
+              "question": "What is the quarter mile time of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Torque: 740 Newton meters of torque. [86,90]_1677",
+              "question": "What is the quarter mile time of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_1677",
+              "question": "What is the quarter mile time of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Quarter Mile Time: 10.1 seconds. [1217,1218]_1677",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari 296 GTB_1677",
+              "question": "What is the quarter mile time of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari_1677",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_296_1677",
+              "question": "What is the quarter mile time of 296?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "the braking is. let ' s do the brake test. go into race mode for the brake test, i reckon. [ music ] > > oh, wait. while mark ' s doing that, if you want to watch another drag race, just click on the pop out banner or scan the qr code on screen now. it ' s one of my favorite drag races ever. if not, stay here for the brake test. there we go. here it is. here comes the live emergency stop now. [ music ] i don ' t know if i was early or you were late or this just stops way better. i mean, were you happy with your run? > > yeah, definitely. i think that ' s just technology and also my foot then went nearly to the floor and it smells very very hot. > > just go for a little drive to cool them down. i think we can see the gap. the gap is large. > > yeah, you ' ve definitely win that one. that ' s for certain. well, thanks for coming down and playing with your amazing new hypercar. i really like it. it ' s got the performance. it ' s still mental quick. even today, i ' m very, very jealous. > > no, thank you so much. and like, yeah, i like every single day it just gets a little bit more exciting. and there ' s that many buttons and like gizmos on it. it ' s not just you don ' t just get in, drive it. there ' s all sorts of stuff you can play with. but lots of fun. > > lovely. now, if you want to compare these cars / quart mile times to everything else we ' ve ever drag raced, then just click on the car wow logo. if you want to watch some other videos, you just click on the video windows. thanks for watching and i ' ll see you next time. and a huge thanks to the chap who lent me this. huge thank you. lovely car.",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_2101",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_P1_2101",
+              "question": "What is the engine type of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_McLaren_2101",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the engine type of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the engine type of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the engine type of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the engine type of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the engine type of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the engine type of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the engine type of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari 296 GTB_2101",
+              "question": "What is the engine type of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_Ferrari_2101",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Type_296_2101",
+              "question": "What is the engine type of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_2101",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_P1_2101",
+              "question": "What is the engine capacity of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren_2101",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the engine capacity of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the engine capacity of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the engine capacity of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the engine capacity of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the engine capacity of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the engine capacity of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari 296 GTB_2101",
+              "question": "What is the engine capacity of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_Ferrari_2101",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_296_2101",
+              "question": "What is the engine capacity of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_2101",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_P1_2101",
+              "question": "What is the horsepower of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren_2101",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the horsepower of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the horsepower of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the horsepower of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the horsepower of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the horsepower of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the horsepower of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the horsepower of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari 296 GTB_2101",
+              "question": "What is the horsepower of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_Ferrari_2101",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_296_2101",
+              "question": "What is the horsepower of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_2101",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_P1_2101",
+              "question": "What is the weight of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren_2101",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the weight of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the weight of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the weight of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the weight of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the weight of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the weight of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the weight of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari 296 GTB_2101",
+              "question": "What is the weight of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_Ferrari_2101",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_296_2101",
+              "question": "What is the weight of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_2101",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_P1_2101",
+              "question": "What is the torque of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren_2101",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the torque of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the torque of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the torque of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the torque of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the torque of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the torque of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the torque of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari 296 GTB_2101",
+              "question": "What is the torque of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_Ferrari_2101",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_296_2101",
+              "question": "What is the torque of 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_2101",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_P1_2101",
+              "question": "What is the gearbox in the P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren_2101",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the gearbox in the Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the gearbox in the Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the gearbox in the Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the gearbox in the Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the gearbox in the Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the gearbox in the Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari 296 GTB_2101",
+              "question": "What is the gearbox in the Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_Ferrari_2101",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_296_2101",
+              "question": "What is the gearbox in the 296?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_2101",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_P1_2101",
+              "question": "What is the quarter mile time of P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren_2101",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]_2101",
+              "question": "What is the quarter mile time of Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Engine Capacity: 3 L [71,72]_2101",
+              "question": "What is the quarter mile time of Engine Capacity: 3 L [71,72]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Horsepower: 830 horsepower [83,84]_2101",
+              "question": "What is the quarter mile time of Horsepower: 830 horsepower [83,84]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Weight: £1,570 kilos [111,112]_2101",
+              "question": "What is the quarter mile time of Weight: £1,570 kilos [111,112]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Torque: 740 Newton meters of torque. [86,90]_2101",
+              "question": "What is the quarter mile time of Torque: 740 Newton meters of torque. [86,90]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Gearbox: 8-speed dual clutch automatic gearbox. [100,104]_2101",
+              "question": "What is the quarter mile time of Gearbox: 8-speed dual clutch automatic gearbox. [100,104]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Quarter Mile Time: 10.1 seconds. [1217,1218]_2101",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.1 seconds. [1217,1218]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari 296 GTB_2101",
+              "question": "What is the quarter mile time of Ferrari 296 GTB?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_Ferrari_2101",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_296_2101",
+              "question": "What is the quarter mile time of 296?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

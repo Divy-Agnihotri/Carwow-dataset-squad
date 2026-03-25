@@ -1,0 +1,2134 @@
+{
+  "data": [
+    {
+      "title": "Can I beat a V12 Ferrari in a Kia_transcript",
+      "paragraphs": [
+        {
+          "context": "can i beat a v12 ferrari in a kia _ transcript what will win in a drag race between a kia ev6 gt and the kia ev6 gt lookalike, also known as a ferrari purist hangway? well, we ' re going to find out cuz i ' m going to race them over the stunning quarter mile. i ' m watson and you ' re watching car wow. [ music ] let me tell you about this kia. so, we ' ve got a motor on the front axle, one on the rear. combined, they deliver in launch control mode 640 horsepower, which is more than the previous kia ev6 gt. you ' ve also got 770 newton meters of torque. so, pretty impressive, especially when you consider this thing costs £60, 000. that ' s a lot of bang for your buck. it ' s quite heavy though because of the batteries weigh in at 2. 2 tons. now, let ' s find out about the ferrari. if i can just find my radio. i don ' t know where my radio is. sorry. can you hear me? i can hear you. can you tell me about your ferrari? this is i don ' t know why i ' m shouting. this is our ferrari purisang with a 6.5 l naturally aspirated v12 engine. the same engine that ' s in the a12 superfast. just slightly d - tuned. it puts out 600. sorry, i forgot. i was just trying to see if my radio is in the car. i left it on the table over there, but i interrupted your flow. sorry. sorry, tommy. it ' s got a 6.5 l naturally aspirated v12 putting out 700 horsepower. it has 716 nm of torque and it also has two gearboxes. sorry. do you think our cars look a little bit the same? stop. stop. no, they do not. they they sort of do look a little bit the same though, don ' t they? yours looks like the incest version of this car, maybe. i think this was out first. do you reckon they copy this design a little bit for that car? i don ' t think they look anything alike. but they do look a little bit the same though, don ' t they? you know what? fine. if that ' s what you think. i don ' t think they look alike. this has italian",
+          "qas": [
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia EV6 GT_1",
+              "question": "What is the engine type of Kia EV6 GT?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "motor on the front axle, one on the rear.",
+                  "answer_start": 362
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia_1",
+              "question": "What is the engine type of Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "motor on the front axle, one on the rear.",
+                  "answer_start": 362
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_this thing_1",
+              "question": "What is the engine type of this thing?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "motor on the front axle, one on the rear.",
+                  "answer_start": 362
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_my car_1",
+              "question": "What is the engine type of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "motor on the front axle, one on the rear.",
+                  "answer_start": 362
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Mine_1",
+              "question": "What is the engine type of Mine?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "motor on the front axle, one on the rear.",
+                  "answer_start": 362
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_the Kia_1",
+              "question": "What is the engine type of the Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "motor on the front axle, one on the rear.",
+                  "answer_start": 362
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia EV6 GT_1",
+              "question": "What is the horsepower of Kia EV6 GT?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia_1",
+              "question": "What is the horsepower of Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_this thing_1",
+              "question": "What is the horsepower of this thing?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_my car_1",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Mine_1",
+              "question": "What is the horsepower of Mine?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_the Kia_1",
+              "question": "What is the horsepower of the Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 452
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia EV6 GT_1",
+              "question": "What is the weight of Kia EV6 GT?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons.",
+                  "answer_start": 742
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia_1",
+              "question": "What is the weight of Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons.",
+                  "answer_start": 742
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Weight_this thing_1",
+              "question": "What is the weight of this thing?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons.",
+                  "answer_start": 742
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Weight_my car_1",
+              "question": "What is the weight of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons.",
+                  "answer_start": 742
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Mine_1",
+              "question": "What is the weight of Mine?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons.",
+                  "answer_start": 742
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Weight_the Kia_1",
+              "question": "What is the weight of the Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons.",
+                  "answer_start": 742
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia EV6 GT_1",
+              "question": "What is the torque of Kia EV6 GT?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 Newton meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia_1",
+              "question": "What is the torque of Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 Newton meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Torque_this thing_1",
+              "question": "What is the torque of this thing?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 Newton meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Torque_my car_1",
+              "question": "What is the torque of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 Newton meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Mine_1",
+              "question": "What is the torque of Mine?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 Newton meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Torque_the Kia_1",
+              "question": "What is the torque of the Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 Newton meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia EV6 GT_1",
+              "question": "What is the quarter mile time of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia_1",
+              "question": "What is the quarter mile time of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_this thing_1",
+              "question": "What is the quarter mile time of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_my car_1",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Mine_1",
+              "question": "What is the quarter mile time of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_the Kia_1",
+              "question": "What is the quarter mile time of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_1",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12 engine.",
+                  "answer_start": 1007
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari_1",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12 engine.",
+                  "answer_start": 1007
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_your Ferrari_1",
+              "question": "What is the engine type of your Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12 engine.",
+                  "answer_start": 1007
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Yours_1",
+              "question": "What is the engine type of Yours?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12 engine.",
+                  "answer_start": 1007
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_the Ferrari_1",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12 engine.",
+                  "answer_start": 1007
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_1",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 1009
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari_1",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 1009
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_your Ferrari_1",
+              "question": "What is the engine capacity of your Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 1009
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Yours_1",
+              "question": "What is the engine capacity of Yours?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 1009
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_the Ferrari_1",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 1009
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_1",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "700 horsepower.",
+                  "answer_start": 1345
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari_1",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "700 horsepower.",
+                  "answer_start": 1345
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_your Ferrari_1",
+              "question": "What is the horsepower of your Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "700 horsepower.",
+                  "answer_start": 1345
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Yours_1",
+              "question": "What is the horsepower of Yours?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "700 horsepower.",
+                  "answer_start": 1345
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_the Ferrari_1",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "700 horsepower.",
+                  "answer_start": 1345
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_1",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "716 Nm of torque",
+                  "answer_start": 1368
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari_1",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "716 Nm of torque",
+                  "answer_start": 1368
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_your Ferrari_1",
+              "question": "What is the torque of your Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "716 Nm of torque",
+                  "answer_start": 1368
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Yours_1",
+              "question": "What is the torque of Yours?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "716 Nm of torque",
+                  "answer_start": 1368
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_the Ferrari_1",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "716 Nm of torque",
+                  "answer_start": 1368
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_1",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two gearboxes.",
+                  "answer_start": 1401
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari_1",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two gearboxes.",
+                  "answer_start": 1401
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_your Ferrari_1",
+              "question": "What is the gearbox in the your Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two gearboxes.",
+                  "answer_start": 1401
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Yours_1",
+              "question": "What is the gearbox in the Yours?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two gearboxes.",
+                  "answer_start": 1401
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_the Ferrari_1",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two gearboxes.",
+                  "answer_start": 1401
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_1",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_your Ferrari_1",
+              "question": "What is the quarter mile time of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Yours_1",
+              "question": "What is the quarter mile time of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_the Ferrari_1",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". and that is that looks good. it looks good. it just doesn ' t look like this. anyway, sorry i interrupted you. carry on. like i was saying, the car has two gearboxes. one on the front axle, one on the rear. the front axle only works up to about 95 mph. from there, it ' s rear wheel drive only and has really cool trick suspension system, but that ' s enough for me. you know more than you used to. before, you used to just plead ignorance. you were all yanny about stuff, but now you ' ve you got information to share with the viewers. you know, i ' ve always had this information. it ' s just i don ' t want to overwhelm people cuz i ' ll talk for days. okay. right. so, shall we do a sound check because my car can it can do revs, right? it can like simulate an automatic gearbox with paddle shift. so, listen to the i don ' t know if you can hear this. i can hear it. [ music ] that ' s my soft limiter at 6 and a half, 000 rpm. why does it have a soft limiter? well, it could rev all the way to eight, but they don ' t want you doing that cuz you could damage the internals of the fake combustion engine. got it. yours all the way to 8 and 1 / 2 or something, doesn ' t it? the ferrari flywheel is so small that it revs so quickly. i love that. do you reckon it revs quicker than the st? 911 st? i ' m not sure. probably not. 911 sts are lighter parts are probably smaller engine. right. so, that ' s that bit. should we get on with the drag racing? oh, before we do, if you want to see how much money you can save on one of these through car wire, right, i ' ve configured one so you can see what spec i ' ve gone for and the saving through car wire just by clicking on the pop out banner or scan the qr code on screen now. right, let ' s go with the race. oh, there ' s a link in the description, too. bye - bye. 3 2 1 oh my goodness. cook [ music ] very cooked electric power. oh, that ' s embarrassing, man. [ applause ] do you know what,",
+          "qas": [
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia EV6 GT_411",
+              "question": "What is the engine type of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia_411",
+              "question": "What is the engine type of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_this thing_411",
+              "question": "What is the engine type of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_my car_411",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Mine_411",
+              "question": "What is the engine type of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_the Kia_411",
+              "question": "What is the engine type of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia EV6 GT_411",
+              "question": "What is the horsepower of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia_411",
+              "question": "What is the horsepower of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_this thing_411",
+              "question": "What is the horsepower of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_my car_411",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Mine_411",
+              "question": "What is the horsepower of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_the Kia_411",
+              "question": "What is the horsepower of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia EV6 GT_411",
+              "question": "What is the weight of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia_411",
+              "question": "What is the weight of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_this thing_411",
+              "question": "What is the weight of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_my car_411",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Mine_411",
+              "question": "What is the weight of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_the Kia_411",
+              "question": "What is the weight of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia EV6 GT_411",
+              "question": "What is the torque of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia_411",
+              "question": "What is the torque of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_this thing_411",
+              "question": "What is the torque of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_my car_411",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Mine_411",
+              "question": "What is the torque of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_the Kia_411",
+              "question": "What is the torque of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia EV6 GT_411",
+              "question": "What is the quarter mile time of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia_411",
+              "question": "What is the quarter mile time of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_this thing_411",
+              "question": "What is the quarter mile time of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_my car_411",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Mine_411",
+              "question": "What is the quarter mile time of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_the Kia_411",
+              "question": "What is the quarter mile time of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_411",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari_411",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_your Ferrari_411",
+              "question": "What is the engine type of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Yours_411",
+              "question": "What is the engine type of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_the Ferrari_411",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_411",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari_411",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_your Ferrari_411",
+              "question": "What is the engine capacity of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Yours_411",
+              "question": "What is the engine capacity of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_the Ferrari_411",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_411",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari_411",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_your Ferrari_411",
+              "question": "What is the horsepower of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Yours_411",
+              "question": "What is the horsepower of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_the Ferrari_411",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_411",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari_411",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_your Ferrari_411",
+              "question": "What is the torque of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Yours_411",
+              "question": "What is the torque of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_the Ferrari_411",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_411",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari_411",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_your Ferrari_411",
+              "question": "What is the gearbox in the your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Yours_411",
+              "question": "What is the gearbox in the Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_the Ferrari_411",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_411",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari_411",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_your Ferrari_411",
+              "question": "What is the quarter mile time of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Yours_411",
+              "question": "What is the quarter mile time of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_the Ferrari_411",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "tommy? these cars don ' t look alike. you ' re right. mine looks faster. yes, it looks much faster. that shot off the line. what? what happened? cuz i ' m sure that ' s been faster than that before. tires are cold. so, we ' ll try again. hopefully tommy can do better this time. [ laughter ] three, two, one. oh, he got me on the line, baby. oh, it ' s going to be close this one. that ' s a better launch. that gear ' s got no gears. no. what is wrong with this car? is it embarrassing? i i sound so nice. what ' s wrong with your car? uh, it ' s not electric. no, i ' m sure it was faster before. i don ' t know. i left the line like the exact same time as you. i thought, right, i ' m done here. left the line at the same time. he ' s going to compass me, but you didn ' t. let ' s try again. best three out of five. yeah. is that what you want? i don ' t think i ' ll win, but i think he should say, \" are you ready first? then come to me because i have to put it in launch mode. the cars to drop down and all that stuff. \" yeah, let ' s do it that way. that ' s going to make all the difference. let ' s definitely do that. i don ' t like the sarcasm. as part of the sales pitch, you going to say it ' s almost as quick as a kia ev6. ah, i see. it ' s one of those days. okay. do you want to get on the line and get beaten one last time? oh, he ' s buggered. that literally buggered. still the same thing. oh, mate. that ' s embarrassing. that ' s the worst one yet. [ music ] can ' t do anything. i don ' t really know what to say cuz based on previous times in that car, it would be an even matchup, but but it ' s not. i have no words and it says high braking temperature, so i ' m going to drive. mine doesn ' t say that. mine ' s fine. you have regen braking. this is fine. it ' s faster. it '",
+          "qas": [
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia EV6 GT_829",
+              "question": "What is the engine type of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia_829",
+              "question": "What is the engine type of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_this thing_829",
+              "question": "What is the engine type of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_my car_829",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Mine_829",
+              "question": "What is the engine type of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_the Kia_829",
+              "question": "What is the engine type of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia EV6 GT_829",
+              "question": "What is the horsepower of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia_829",
+              "question": "What is the horsepower of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_this thing_829",
+              "question": "What is the horsepower of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_my car_829",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Mine_829",
+              "question": "What is the horsepower of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_the Kia_829",
+              "question": "What is the horsepower of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia EV6 GT_829",
+              "question": "What is the weight of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia_829",
+              "question": "What is the weight of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_this thing_829",
+              "question": "What is the weight of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_my car_829",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Mine_829",
+              "question": "What is the weight of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_the Kia_829",
+              "question": "What is the weight of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia EV6 GT_829",
+              "question": "What is the torque of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia_829",
+              "question": "What is the torque of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_this thing_829",
+              "question": "What is the torque of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_my car_829",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Mine_829",
+              "question": "What is the torque of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_the Kia_829",
+              "question": "What is the torque of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia EV6 GT_829",
+              "question": "What is the quarter mile time of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia_829",
+              "question": "What is the quarter mile time of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_this thing_829",
+              "question": "What is the quarter mile time of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_my car_829",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Mine_829",
+              "question": "What is the quarter mile time of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_the Kia_829",
+              "question": "What is the quarter mile time of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_829",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari_829",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_your Ferrari_829",
+              "question": "What is the engine type of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Yours_829",
+              "question": "What is the engine type of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_the Ferrari_829",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_829",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari_829",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_your Ferrari_829",
+              "question": "What is the engine capacity of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Yours_829",
+              "question": "What is the engine capacity of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_the Ferrari_829",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_829",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari_829",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_your Ferrari_829",
+              "question": "What is the horsepower of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Yours_829",
+              "question": "What is the horsepower of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_the Ferrari_829",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_829",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari_829",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_your Ferrari_829",
+              "question": "What is the torque of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Yours_829",
+              "question": "What is the torque of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_the Ferrari_829",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_829",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari_829",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_your Ferrari_829",
+              "question": "What is the gearbox in the your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Yours_829",
+              "question": "What is the gearbox in the Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_the Ferrari_829",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_829",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari_829",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_your Ferrari_829",
+              "question": "What is the quarter mile time of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Yours_829",
+              "question": "What is the quarter mile time of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_the Ferrari_829",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "s cheaper. it looks the same. okay, tommy. i put my car into manual mode. so, what this thing does is it mimics an automatic gearbox by limiting the torque with the motor, making it have like this step change feeling. so, it ' s it ' s a bit odd, but it might give you a chance cuz you can ' t use launch control when you ' re in this mode. and it doesn ' t give you full power all the time in order to be able to give you this kind of step change. let ' s run it that way. okay. see what happens. i tell you what, tommy, if you win this, let ' s just say that ferrari makes faster cars than kia. everything else that went before is all forgotten. it didn ' t really happen. and we can just say, \" yeah, ferrari makes quicker cars than k. \" thanks. i ' m sure they ' re going to shout with jubilation at the factory. [ music ] oh, look. ferrari ' s beating a kia. oh, it ' s try. it ' s definitely faster now. [ music ] where is it? where ' s the key? oh my god. where is it? oh, i ' m pulling it. oh. oh, wow. well done, tommy. you won. your car ' s quicker. thanks, matt. this felt quicker that time though. i must say it. you reckon it ' s quicker? i think it might be. it felt quicker that time. the launch was smoother. go on then. do it again. okay then, tommy. this is it then. i ' ve gone back into the normal mode with launch control. winner takes all. okay, agreed. 3 2 1. oh, hello. [ music ] we ' re on. we are on for a race. a it was closer though. [ music ] come on, baby. come on. oh, no. that was way better. uh, no. my kia is still quicker than your kia. ferrari. but yeah, it ' s faster, but not fast enough. it got faster. ferraris do that. they sort of learn traction control and get better. we did say winner takes all. so, there we go. let ' s do the thing. so, then what exactly happened? well, the kia won. it completed the standing quarter mile in 11. 4",
+          "qas": [
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia EV6 GT_1239",
+              "question": "What is the engine type of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia_1239",
+              "question": "What is the engine type of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_this thing_1239",
+              "question": "What is the engine type of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_my car_1239",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Mine_1239",
+              "question": "What is the engine type of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_the Kia_1239",
+              "question": "What is the engine type of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia EV6 GT_1239",
+              "question": "What is the horsepower of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia_1239",
+              "question": "What is the horsepower of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_this thing_1239",
+              "question": "What is the horsepower of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_my car_1239",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Mine_1239",
+              "question": "What is the horsepower of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_the Kia_1239",
+              "question": "What is the horsepower of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia EV6 GT_1239",
+              "question": "What is the weight of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia_1239",
+              "question": "What is the weight of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_this thing_1239",
+              "question": "What is the weight of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_my car_1239",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Mine_1239",
+              "question": "What is the weight of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_the Kia_1239",
+              "question": "What is the weight of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia EV6 GT_1239",
+              "question": "What is the torque of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia_1239",
+              "question": "What is the torque of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_this thing_1239",
+              "question": "What is the torque of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_my car_1239",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Mine_1239",
+              "question": "What is the torque of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_the Kia_1239",
+              "question": "What is the torque of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia EV6 GT_1239",
+              "question": "What is the quarter mile time of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia_1239",
+              "question": "What is the quarter mile time of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_this thing_1239",
+              "question": "What is the quarter mile time of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_my car_1239",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Mine_1239",
+              "question": "What is the quarter mile time of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_the Kia_1239",
+              "question": "What is the quarter mile time of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_1239",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari_1239",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_your Ferrari_1239",
+              "question": "What is the engine type of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Yours_1239",
+              "question": "What is the engine type of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_the Ferrari_1239",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_1239",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari_1239",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_your Ferrari_1239",
+              "question": "What is the engine capacity of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Yours_1239",
+              "question": "What is the engine capacity of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_the Ferrari_1239",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_1239",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari_1239",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_your Ferrari_1239",
+              "question": "What is the horsepower of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Yours_1239",
+              "question": "What is the horsepower of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_the Ferrari_1239",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_1239",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari_1239",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_your Ferrari_1239",
+              "question": "What is the torque of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Yours_1239",
+              "question": "What is the torque of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_the Ferrari_1239",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_1239",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari_1239",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_your Ferrari_1239",
+              "question": "What is the gearbox in the your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Yours_1239",
+              "question": "What is the gearbox in the Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_the Ferrari_1239",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_1239",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari_1239",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_your Ferrari_1239",
+              "question": "What is the quarter mile time of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Yours_1239",
+              "question": "What is the quarter mile time of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_the Ferrari_1239",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "seconds. the ferrari took 11. 5 seconds. when the kia was in manual mode without launch control, it did the standing / 4 mile in 12. 1 seconds. now, we got a rolling race. you ' re going to go second gear. i ' ve set it to about 40 mph. race to the half miles. right. let ' s do this. 3 2 1 go. oh, hello. i ' m on ferrari. [ music ] now he should start to pull back. there we go. there we go. [ music ] [ applause ] [ music ] b12 power look. there we go. yes, [ music ] ferrari. just an extra 300 grand. do you feel better now, tommy? much better. just an extra 400 grand. get in there. that ' s 400 grand extra well spent. right. should we do the brake test then? this is the one i ' m scared of. brakes on that seem to get hot real quick. i ' m not sure why. it ' s a bit concerning, but let ' s see what happens. rage line. full emergency stop. car stop in the shortest distance wins. if you ' d rather watch another drag race with the ferrari purist, click on the pop out up there and follow the qr code on screen. if not, stay here. we ' re going to do some brake testing. come on, kio. yes. ferrari w. oh, my brakes are so hot. blime me. okay, easy win, mate. easy win. yeah, the ceramics and then i don ' t weigh as much as you do. not far off, actually. there ' s not that much of a difference to tell you the truth. but bigger brakes, better brakes, ferrari brakes. all the piss taking aside, i do really like the pure sang. anyway, i hope you enjoyed the video. if you have, give it a like. if you want to watch my other videos, click on the windows. if you want to compare these cars quarter mile times to everything else we ' ve ever drag raced, just click on the car logo. you can compare everything ever drag raced. yeah, there ' s a lot. anyway, thanks for watching and i ' ll see you next time for even more drug racing.",
+          "qas": [
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia EV6 GT_1640",
+              "question": "What is the engine type of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Kia_1640",
+              "question": "What is the engine type of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_this thing_1640",
+              "question": "What is the engine type of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_my car_1640",
+              "question": "What is the engine type of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_Mine_1640",
+              "question": "What is the engine type of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Engine Type_the Kia_1640",
+              "question": "What is the engine type of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia EV6 GT_1640",
+              "question": "What is the horsepower of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Kia_1640",
+              "question": "What is the horsepower of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_this thing_1640",
+              "question": "What is the horsepower of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_my car_1640",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_Mine_1640",
+              "question": "What is the horsepower of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Horsepower_the Kia_1640",
+              "question": "What is the horsepower of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia EV6 GT_1640",
+              "question": "What is the weight of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Kia_1640",
+              "question": "What is the weight of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_this thing_1640",
+              "question": "What is the weight of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_my car_1640",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_Mine_1640",
+              "question": "What is the weight of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Weight_the Kia_1640",
+              "question": "What is the weight of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia EV6 GT_1640",
+              "question": "What is the torque of Kia EV6 GT?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Kia_1640",
+              "question": "What is the torque of Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_this thing_1640",
+              "question": "What is the torque of this thing?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_my car_1640",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_Mine_1640",
+              "question": "What is the torque of Mine?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Torque_the Kia_1640",
+              "question": "What is the torque of the Kia?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia EV6 GT_1640",
+              "question": "What is the quarter mile time of Kia EV6 GT?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 133
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Kia_1640",
+              "question": "What is the quarter mile time of Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 133
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_this thing_1640",
+              "question": "What is the quarter mile time of this thing?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 133
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_my car_1640",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 133
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_Mine_1640",
+              "question": "What is the quarter mile time of Mine?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 133
+                }
+              ]
+            },
+            {
+              "id": "Kia EV6 GT_Quarter Mile Time_the Kia_1640",
+              "question": "What is the quarter mile time of the Kia?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 133
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_1640",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari_1640",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_your Ferrari_1640",
+              "question": "What is the engine type of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Yours_1640",
+              "question": "What is the engine type of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_the Ferrari_1640",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_1640",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari_1640",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_your Ferrari_1640",
+              "question": "What is the engine capacity of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Yours_1640",
+              "question": "What is the engine capacity of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_the Ferrari_1640",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_1640",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari_1640",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_your Ferrari_1640",
+              "question": "What is the horsepower of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Yours_1640",
+              "question": "What is the horsepower of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_the Ferrari_1640",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_1640",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari_1640",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_your Ferrari_1640",
+              "question": "What is the torque of your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Yours_1640",
+              "question": "What is the torque of Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_the Ferrari_1640",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_1640",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari_1640",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_your Ferrari_1640",
+              "question": "What is the gearbox in the your Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Yours_1640",
+              "question": "What is the gearbox in the Yours?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_the Ferrari_1640",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_1640",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 30
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari_1640",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 30
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_your Ferrari_1640",
+              "question": "What is the quarter mile time of your Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 30
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Yours_1640",
+              "question": "What is the quarter mile time of Yours?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 30
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_the Ferrari_1640",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 30
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "data": [
+    {
+      "title": "New AMG C63 v Audi RS7 Performance DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new amg c63 v audi rs7 performance drag race _ transcript what will happen in a drag race between the new mercedes c63s and the audi rs7 performance well we ' re going to find out by racing them over the standing quarter mile may seem like an odd matchup but this car actually has more horsepower than that car even though it has an engine that is half the size and half the cylinders i ' m m watson when you ' re watching [ music ] carway so let me tell you about this new mercedes c63s i ' ve got it in wagon form but it doesn ' t really matter a similar thing you got a 2 l single turbo petrol engine puts out 476 horsepower but you ' ve also got on the rear axle a little electric motor that puts out 204 horsepower combined you have 680 horsepower and 1, 20 newm of torque so the car uses a 9 - speed automatic gearbox with launch control though the little electric motor is connected to the wheels for a two - speed gearbox very complex but never mind that obviously got some lithium battery and four - wheel drive system and all that technology means a lot of weight this thing weighs in at 2. 2 tons also it means a lot of cost you ' re talking £100, 000 for this particular car anyway let ' s find out about the audi from its driver if i forgot my radio i want an idiot you look looking for classic fm nick i forgot my radio we ' ll just have to do it with the windows down the whole time yes what ' s the stats on your car it ' s an audi rs7 performance 4 l twin turbo v8 630 horsepower 850 newton m of torque it ' s a lot no but it it doesn ' t way as much either really k sorry 2, 65 kilo i bet it costs more though yes 133 grand wow it ' s quite a lot more right now if you want to compare the car stats side by side just pause the video now anyhow let ' s start off with the classic car sound check so i ' m going to rev up this [ music ] mercedes makes more noise inside the car than outside because it produces synthetic sounds but the four - cylinder it it don ' t sound good and there ain ' t no noise from that electric motor when you ' re stationary rev yours up try just blipping it yeah well there we go neither sound great but that does sound better now if you like these kind of videos and you haven ' t done so already make",
+          "qas": [
+            {
+              "id": "Mercedes c63s_Engine Type_Mercedes c63s_1",
+              "question": "What is the engine type of Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L single turbo petrol engine",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Mercedes c63s_Engine Capacity_Mercedes c63s_1",
+              "question": "What is the engine capacity of Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 573
+                }
+              ]
+            },
+            {
+              "id": "Mercedes c63s_Horsepower_Mercedes c63s_1",
+              "question": "What is the horsepower of Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "476 horsepower",
+                  "answer_start": 613
+                }
+              ]
+            },
+            {
+              "id": "Mercedes c63s_Weight_Mercedes c63s_1",
+              "question": "What is the weight of Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.2 tons",
+                  "answer_start": 1101
+                }
+              ]
+            },
+            {
+              "id": "Mercedes c63s_Torque_Mercedes c63s_1",
+              "question": "What is the torque of Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 newm of torque",
+                  "answer_start": 760
+                }
+              ]
+            },
+            {
+              "id": "Mercedes c63s_Gearbox_Mercedes c63s_1",
+              "question": "What is the gearbox in the Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox",
+                  "answer_start": 800
+                }
+              ]
+            },
+            {
+              "id": "Mercedes c63s_Quarter Mile Time_Mercedes c63s_1",
+              "question": "What is the quarter mile time of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Engine Type_Audi RS7 performance_1",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 1464
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 performance_Engine Capacity_Audi RS7 performance_1",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 1464
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 performance_Horsepower_Audi RS7 performance_1",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 613
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 performance_Weight_Audi RS7 performance_1",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,65 kilo",
+                  "answer_start": 1593
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 performance_Torque_Audi RS7 performance_1",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 Newton M of torque",
+                  "answer_start": 1497
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 performance_Quarter Mile Time_Audi RS7 performance_1",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "sure you subscribe to this channel and hit the bell icon to turn your notifications on that way you won ' t miss a single upload let ' s go on with this race i ' m going to put this up and get someone to bring me a radio maybe i ' ll just go get it myself rather than being a lazy old ass hello can just have a look at your radio second yeah oh i cannot believe i fell for that here we go three 2 1 oh it ' s so close oh that was a brilliant launch oh this is so even [ applause ] oh come on [ applause ] audi yeah we ' ve got him if you wish to use the online speech recognition service okay so i reckon this can go a little bit quicker but not by loads that was that was a clear win for you it was really even for the first eighth mile though wasn ' t it i was not pulling away until we were doing serious speeds but um put in a good show that car considering how heavy it is and it ' s the bit where the electric motors gear boox changes gear it just sort of just doesn ' t accelerate for a few like split seconds and then you just go and then it stays like let ' s go again though let ' s go one more time i reckon if i get a slightly better launch i might run you a bit closer three two one not going to get better launch than that it ' s so close gosh it ' s so close for the first few hundred [ applause ] meters and there ' s a slight pause when the rear gearbox [ applause ] changes not so bad this time and it ' s [ applause ] closer yeah this is when it ' s really got legs come on do you know what that was bare by me and the car did a slightly better run and it ' s so close like you say for like an eighth of a mile but at the top end you know the higher speeds you ' re just more capacity more cylinders more turbos more arrow as well i think uh that being a wagon looks awesome but it ' s not going to help it slip through the air is it nope oh well so then what exactly happened well the audi won it completed the standing quarter mile in 11. 3 seconds the mercedes took 11. 5 seconds want to sell your car quickly easily and for a fair price then head to car while to have over 4, 000 trusted dealers ready to bid on it in an online auction first enter your car ' s registration to get an instant approximate valuation",
+          "qas": [
+            {
+              "id": "Mercedes c63s_Engine Type_Mercedes c63s_476",
+              "question": "What is the engine type of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Engine Capacity_Mercedes c63s_476",
+              "question": "What is the engine capacity of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Horsepower_Mercedes c63s_476",
+              "question": "What is the horsepower of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Weight_Mercedes c63s_476",
+              "question": "What is the weight of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Torque_Mercedes c63s_476",
+              "question": "What is the torque of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Gearbox_Mercedes c63s_476",
+              "question": "What is the gearbox in the Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Quarter Mile Time_Mercedes c63s_476",
+              "question": "What is the quarter mile time of Mercedes c63s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds",
+                  "answer_start": 1992
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 performance_Engine Type_Audi RS7 performance_476",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Engine Capacity_Audi RS7 performance_476",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Horsepower_Audi RS7 performance_476",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Weight_Audi RS7 performance_476",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Torque_Audi RS7 performance_476",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Quarter Mile Time_Audi RS7 performance_476",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 1960
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "then if you want to proceed give us some more details and upload some photos and we ' ll help you set a fair reserve price for your car that ' s the minimum amount you ' be happy to sell it for once you ' ve done that we ' ll enter your car into an online auction when the auction ' s over we ' ll let you know the result and the dealer with the winning bid will be in touch to arrange easy payment and free collection of your car 93 % of sellers surveyed said they got the price they expected or more through carwow the best bit is it ' s completely free i put a link in the description of this video and the pin comment to take you directly to carwow where over 4, 000 dealers are ready to bid on your car or you can just click on the pop out banner that should be appearing in the top right hand corner of the screen now alternatively just google help me carwow and we will help you sell your car quickly easily and for a fair price on with the video right now we have a rolling race with the cars in their comfort mode so the most chilled setting auto mode for the gearbox race over the half mile from 50 m on hour cruise at 50 here we go 3 2 1 go this picks up first oh matt got the jump on me there then the gearbox kicks down a bit slowly ah now he ' s [ applause ] gone this just blooming [ applause ] fast all right nick that was very interesting so my car shot off right from the get - go all on the electric power and then i felt the gearbox for the internal combustion engine kick in at which point i think yours had done the same and pulled past me but you didn ' t keep on increasing your lead did you it was like you got ahead and then you just stayed that distance ahead of me yeah i fully expected to be gapping you at that point and you were just you were hanging on in there you were not dropping behind yeah that c it ' s got a lot to think about but uh when it puts it all together it ' s blooming fast isn ' t it i wonder if it ' s that thing where it is the gearbox just changing gear just slows it down it ' s that moment in time where the other car then just pulls ahead i don ' t know let ' s do rolling race sporty setting second gear roll on 3 2 1 go oh he ' s got a good jump on me there a come [ applause ] on come",
+          "qas": [
+            {
+              "id": "Mercedes c63s_Engine Type_Mercedes c63s_967",
+              "question": "What is the engine type of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Engine Capacity_Mercedes c63s_967",
+              "question": "What is the engine capacity of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Horsepower_Mercedes c63s_967",
+              "question": "What is the horsepower of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Weight_Mercedes c63s_967",
+              "question": "What is the weight of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Torque_Mercedes c63s_967",
+              "question": "What is the torque of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Gearbox_Mercedes c63s_967",
+              "question": "What is the gearbox in the Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Quarter Mile Time_Mercedes c63s_967",
+              "question": "What is the quarter mile time of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Engine Type_Audi RS7 performance_967",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Engine Capacity_Audi RS7 performance_967",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Horsepower_Audi RS7 performance_967",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Weight_Audi RS7 performance_967",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Torque_Audi RS7 performance_967",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Quarter Mile Time_Audi RS7 performance_967",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "on i ' ve got the power to pull past come on come on come on come on this is so close now oh that ' s madness really it ' s so close it ' s so close and i love that we ' re swapping position throughout that is uh that was a mega rolling race really really interesting right and nick third gear roll on from 50 3 2 1 go oh he ' s got ahead of me come on stay [ applause ] ahead oh this is an even closer race this time stay ahead stay ahead stay ahead this is brilliant [ applause ] yes wow that was definitely the sweet spot for that car wasn ' t it that was i think the best jump you ' ve had on me and nothing i could do to keep up i reckon if they ' gone for a single speed electric motor instead of that dual speed where it has to change in the drag race this would have beat or at least been dead level with that in the drag so what you ' re saying is if that car was less complicated it would be better i don ' t know it maybe needs that complexity to do what it needs to do considering it ' s a for it ' s bloody nuts what it does oh yeah absolutely the engine ' s half the size mega what it does right final challenge now we can have a brake test from 100 m hour the car that stops in the shortest distance wins if you ' d rather watch another drag race with this particular car click on the pop out banner we follow the qr code which will be appearing on the screen now if not stay here for the brake test because here comes the line sorry excuse me i need to bu get it out before i do this oh this is very close too oh it was so close between us for 90 % of that breaking and it was just at the end where you sort of slid ahead that was close as well everything ' s been close with these cars really close really close it ' s quite impressive this thing to telling the truth even though i ' d rather it was just a v8 oh well anyway hope you enjoyed the video if you did give it a like click on the video windows for some more videos of course and if you click on the logo you can go to the car drag race leaderboard and compare these car ' s times to everything else we ' ve ever drug raced thanks for watching",
+          "qas": [
+            {
+              "id": "Mercedes c63s_Engine Type_Mercedes c63s_1454",
+              "question": "What is the engine type of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Engine Capacity_Mercedes c63s_1454",
+              "question": "What is the engine capacity of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Horsepower_Mercedes c63s_1454",
+              "question": "What is the horsepower of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Weight_Mercedes c63s_1454",
+              "question": "What is the weight of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Torque_Mercedes c63s_1454",
+              "question": "What is the torque of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Gearbox_Mercedes c63s_1454",
+              "question": "What is the gearbox in the Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes c63s_Quarter Mile Time_Mercedes c63s_1454",
+              "question": "What is the quarter mile time of Mercedes c63s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Engine Type_Audi RS7 performance_1454",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Engine Capacity_Audi RS7 performance_1454",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Horsepower_Audi RS7 performance_1454",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Weight_Audi RS7 performance_1454",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Torque_Audi RS7 performance_1454",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 performance_Quarter Mile Time_Audi RS7 performance_1454",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

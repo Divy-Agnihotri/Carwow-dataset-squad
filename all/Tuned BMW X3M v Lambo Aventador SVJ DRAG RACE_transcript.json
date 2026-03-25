@@ -1,0 +1,531 @@
+{
+  "data": [
+    {
+      "title": "Tuned BMW X3M v Lambo Aventador SVJ DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "tuned bmw x3m v lambo aventador svj drag race _ transcript one will win in a drag race between a lamborghini aventador svj and a bmw x3m. yeah, you think you know the answer to this, but you don ' t because this x3m has been tuned and it has 730 horsepower. anyway, we ' re going to find out cuz i ' m going to race them over the standing quarter mile. i ' m watson and you ' re watching car wow. so, let me tell you about actually, no, let me not tell you about this bmw first. let ' s find out about the lamborghini from its owner, tommy. hey, tommy. tell me about your svj. one of your favorite cars ever. uh, yeah, it is my favorite car ever. so, i ' m in my lamborghini aventador svj. it ' s got a 6.5 l naturally aspirated 60°ree v12. puts out about 760 horsepower and 720 nm of torque. it sounds great as well, but the only thing it ' s hampered by is the fact that it has a single clutch isr transmission, which makes shifts a lot more interesting than a dual clutch gearbox. well, i ' m in a tune car and it ' s already doing some weird things like the dials keep going out and it says drivetrain fault and the heated seat has come on even though i haven ' t turned it on. i put that out. but let me tell you about this. so, it ' s got a 3 l straight 6 twin turbo. normally puts out 510 horsepower and 600 new m of torque. but here with a tune on it, it ' s got more. so, it ' s had down pipes. it ' s had a new exhaust. it ' s had new intake. ecu remap for the engine. ecu remap for the gearbox. probably that ' s why we got some problems. an ecu remap for the rear diff, which i ' ll show you the benefits of in a moment. but first, we ' re going to get into the drag racing. what it all means is 730 horsepower and 880 nm of torque. and those mods to get that power uplift, just £35, 000. is it going to be quick enough to beat that lamborghini? well, this",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Type_Lamborghini Aventador SVJ_1",
+              "question": "What is the engine type of Lamborghini Aventador SVJ?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated 60°ree V12.",
+                  "answer_start": 701
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Capacity_Lamborghini Aventador SVJ_1",
+              "question": "What is the engine capacity of Lamborghini Aventador SVJ?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 703
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Horsepower_Lamborghini Aventador SVJ_1",
+              "question": "What is the horsepower of Lamborghini Aventador SVJ?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "760 horsepower",
+                  "answer_start": 242
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Torque_Lamborghini Aventador SVJ_1",
+              "question": "What is the torque of Lamborghini Aventador SVJ?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "720 Nm of torque.",
+                  "answer_start": 775
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Gearbox_Lamborghini Aventador SVJ_1",
+              "question": "What is the gearbox in the Lamborghini Aventador SVJ?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single clutch ISR transmission,",
+                  "answer_start": 882
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Quarter Mile Time_Lamborghini Aventador SVJ_1",
+              "question": "What is the quarter mile time of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Type_BMW X3M_1",
+              "question": "What is the engine type of BMW X3M?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L straight 6 twin turbo.",
+                  "answer_start": 1247
+                }
+              ]
+            },
+            {
+              "id": "BMW X3M_Engine Capacity_BMW X3M_1",
+              "question": "What is the engine capacity of BMW X3M?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 1247
+                }
+              ]
+            },
+            {
+              "id": "BMW X3M_Horsepower_BMW X3M_1",
+              "question": "What is the horsepower of BMW X3M?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "730 horsepower",
+                  "answer_start": 242
+                }
+              ]
+            },
+            {
+              "id": "BMW X3M_Torque_BMW X3M_1",
+              "question": "What is the torque of BMW X3M?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "880 Nm of torque.",
+                  "answer_start": 775
+                }
+              ]
+            },
+            {
+              "id": "BMW X3M_Gearbox_BMW X3M_1",
+              "question": "What is the gearbox in the BMW X3M?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "ECU remap for the gearbox.",
+                  "answer_start": 1479
+                }
+              ]
+            },
+            {
+              "id": "BMW X3M_Quarter Mile Time_BMW X3M_1",
+              "question": "What is the quarter mile time of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "car cost the owner £39, 000. new they cost this much. it ' s heavier obviously than the lamborghini. it weighs in at this much compared to that much for the lamborghini. now, if you want to compare the car stats side by side as they are today, then just pause the video now and you can see and compare and then decide which you think is going to win. now, before we race though, we ' re going to do the customary car sound check. and i am in with a fair shout because listen to this. i can actually feel the car shaking with those pops and bangs. but let ' s have a listen to that lamborghini. do your thing, tommy. do your little thing. uh, i think we might get thrown off here cuz the noise of that. is that the genti? it sure is. thought so. this has made my ears bleed. oh, my dials have gone out again and they ' re back on again. close message. ignore drivetrain fault. i ' m sure it ' s all fine. now, if you ' re thinking about changing car, you can do all through car w. so you can buy your next car 33 car, but also sell your current car 3 car. have dealers all across the country bid on it. you just upload photos and give a brief description. it is simple and it ' s free. to do that now, click on the pop out banner or scan the qr code or follow the link in the description. alternatively, just google help me carow and we ' ll help you sell your car. we ' ve even got a special car wow chat bot where you can ask me questions and i ' ll give you car advice. go check it out now. actually, just follow that link, right? the link that i ' ve just told you about. that ' ll allow you to try out the matt watson car chatbot. anyway, let ' s race now if this is going to be okay. let ' s just see if it ' ll do launch control. going to there we go. going to press that one. there we go. parking brake off. and seems fine. guys, you ' re going to want to go warm your cars up. i know you do, tommy. blime me. this feels a bit serious. whoa, that sounds mental. that is so much better than the",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Type_Lamborghini Aventador SVJ_398",
+              "question": "What is the engine type of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Capacity_Lamborghini Aventador SVJ_398",
+              "question": "What is the engine capacity of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Horsepower_Lamborghini Aventador SVJ_398",
+              "question": "What is the horsepower of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Torque_Lamborghini Aventador SVJ_398",
+              "question": "What is the torque of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Gearbox_Lamborghini Aventador SVJ_398",
+              "question": "What is the gearbox in the Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Quarter Mile Time_Lamborghini Aventador SVJ_398",
+              "question": "What is the quarter mile time of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Type_BMW X3M_398",
+              "question": "What is the engine type of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Capacity_BMW X3M_398",
+              "question": "What is the engine capacity of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Horsepower_BMW X3M_398",
+              "question": "What is the horsepower of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Torque_BMW X3M_398",
+              "question": "What is the torque of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Gearbox_BMW X3M_398",
+              "question": "What is the gearbox in the BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Quarter Mile Time_BMW X3M_398",
+              "question": "What is the quarter mile time of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "roalto. [ music ] it ' s really funny. i got like warning lights flashing about and they go away and this is crazy. yeah, look, it ' s it ' s lost its mind again. team cars for the win. the heated steering wheel is definitely on. what ' s going on with this car? it ' s possessed. close message. ignore it. it ' s all fine. it ' s just a bit mad. it ' s on fire. the steering wheel. [ music ] come on, bmw. oh no, he ' s just coming past now. [ music ] well, that is an suv, so i would expect it to lose. yeah, i had to do a long slowdown, tommy, because these brakes aren ' t very good. oh, the car ' s lost its mind again. uh, it ' s gone crazy. driver assistance restricted. close message. drivetrain fault. let ' s get rid of that. i ' ve got a tune car with it ' s got a bit of a kind of health problems, i think. uh, tune cars are always kind of temperamental, but it it ' s fast though. it ' s fast. i i was so hoping that was going to do you, but no. i think if i get a slightly better launch, i might be able to, but i ' ve got to get a significantly better launch. i think it can run quicker. best two out of three, obviously. let ' s do it. my dash is blank. okay. oh, there ' s a lot going on in this car. let ' s put that in there. i have no dials. um, no. heads up display, it ' s not working. m view, it ' s not working. instrument cluster standard, it ' s not working. the engine seemed to be working perfectly, but the dars and the heads - up display had both died. i needed at least one of these to work, so i knew when to change gear. i decided to get out, lock the car, and give everything a chance to reset. but this didn ' t work. it was starting to look like the car would need a new digital driver ' s display. however, i wasn ' t ready to give up just yet. so, we disconnected the battery for a few minutes and reconnected it. but, would this work? all right, tommy",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Type_Lamborghini Aventador SVJ_818",
+              "question": "What is the engine type of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Capacity_Lamborghini Aventador SVJ_818",
+              "question": "What is the engine capacity of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Horsepower_Lamborghini Aventador SVJ_818",
+              "question": "What is the horsepower of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Torque_Lamborghini Aventador SVJ_818",
+              "question": "What is the torque of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Gearbox_Lamborghini Aventador SVJ_818",
+              "question": "What is the gearbox in the Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Quarter Mile Time_Lamborghini Aventador SVJ_818",
+              "question": "What is the quarter mile time of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Type_BMW X3M_818",
+              "question": "What is the engine type of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Capacity_BMW X3M_818",
+              "question": "What is the engine capacity of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Horsepower_BMW X3M_818",
+              "question": "What is the horsepower of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Torque_BMW X3M_818",
+              "question": "What is the torque of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Gearbox_BMW X3M_818",
+              "question": "What is the gearbox in the BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Quarter Mile Time_BMW X3M_818",
+              "question": "What is the quarter mile time of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". tommy, tom, tom, my my car ' s working again. you didn ' t add more power to it, did you? you know what? i just said my car ' s working again. it the dash went off again. let ' s get into this as quick as we can. well, because i don ' t know how long it ' s going to be working for. no. [ music ] oh no. so it changed gears itself for a couple. no, it ' s lost its mind. no. stop carefully. it ' s not happy. i ' m still at 7, 000 rpm. no, i ' m not. what ' s going on? right, let ' s just turn it off and on. transmission temp. did the car break? it kind of didn ' t didn ' t and did and maybe didn ' t a bit. i think it needs to just drive around and call the transmission. that ' s the bmw bong of doom. stop in a engine run and wait until transmission has cooled down. okay, so i ' ve just got to let the engine run with the car stationary for the transmission to cool down. the heated seat has come on again, right? so has the heated steering wheel. what? why did that come on? it ' s like playing jokes on me. i tell you what, tommy. winner takes all. okay. if i win this, i win. sure. why not? he knows i ' m not going to. i ' m right though. i might. imagine if i do. come on, car. [ music ] [ applause ] banging lord. [ music ] ah, that ' s it. woo. [ music ] [ applause ] [ music ] [ applause ] [ music ] well, tommy, you won. and in dramatic fashion as well, that was very fun. yeah, very fun. oh, well, chris did the thing. so then, what exactly happened? well, the lamborghini won. it completed the standing quarter mile in 10. 7 seconds. the bmw took 10. 9 seconds. before our next race, a little message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is for you. we ' ve partnered with our friends at carver vertical to give you a special offer to check that it ' s not a write off, stolen,",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Type_Lamborghini Aventador SVJ_1229",
+              "question": "What is the engine type of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Capacity_Lamborghini Aventador SVJ_1229",
+              "question": "What is the engine capacity of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Horsepower_Lamborghini Aventador SVJ_1229",
+              "question": "What is the horsepower of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Torque_Lamborghini Aventador SVJ_1229",
+              "question": "What is the torque of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Gearbox_Lamborghini Aventador SVJ_1229",
+              "question": "What is the gearbox in the Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Quarter Mile Time_Lamborghini Aventador SVJ_1229",
+              "question": "What is the quarter mile time of Lamborghini Aventador SVJ?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.7 seconds.",
+                  "answer_start": 1543
+                }
+              ]
+            },
+            {
+              "id": "BMW X3M_Engine Type_BMW X3M_1229",
+              "question": "What is the engine type of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Capacity_BMW X3M_1229",
+              "question": "What is the engine capacity of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Horsepower_BMW X3M_1229",
+              "question": "What is the horsepower of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Torque_BMW X3M_1229",
+              "question": "What is the torque of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Gearbox_BMW X3M_1229",
+              "question": "What is the gearbox in the BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Quarter Mile Time_BMW X3M_1229",
+              "question": "What is the quarter mile time of BMW X3M?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds.",
+                  "answer_start": 1571
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "or had its mileage changed. look at this bmw m4 on car vertical. it ' s got a green tick for legal status, but warnings for both damage and odometer. why? it was previously involved in an accident and has had a mileage roll back. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code car wow for 20 % off or by following the link in the description. now, back to the race. okay, tommy. what we ' re going to do now is a rolling race. 50 mph. third gear, sporty setting. so, you ' re in corsera, i ' m in whatever. you ' re in corser. i ' m in whatever it is. sport plus. sport is setting. manual mode. third gear. everything ' s gone crazy in here today. even the walkie talk is having a meltdown. okay, now if you ' d ra oh, it ' s done it again. it ' s lost its mind again. right, tommy. 3 2 1 go. [ music ] oh, come on. [ music ] oh, he ' s pulling now. [ music ] [ applause ] is this just too easy for you? yeah, it is now. but you were with me for a while just then. like it was going then it just i left you. you left me. final challenge. and i probably going to be final challenge and this is probably going to be the worst for me. then i ' m going to show you something different. then i ' m going to show you something different. everything you touch is breaking. everything i touch is definitely breaking. let ' s do let ' s do this brake. let ' s do this brake test. brake test from 100 mph when we ' re in line. full emergency stop. if you ' d rather watch another chaotic video with two cars, which is even more hilarious than this one, click on the pop out up there or scan the qr code on screen now. if not, stay here for the brake test. apparently, this car needs new brakes. a goodie. get off the brakes so i don ' t warp them. there we go. that is closer than i thought it would be. that is closer than i thought it would be. sorry, the battery is low. if",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Type_Lamborghini Aventador SVJ_1640",
+              "question": "What is the engine type of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Capacity_Lamborghini Aventador SVJ_1640",
+              "question": "What is the engine capacity of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Horsepower_Lamborghini Aventador SVJ_1640",
+              "question": "What is the horsepower of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Torque_Lamborghini Aventador SVJ_1640",
+              "question": "What is the torque of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Gearbox_Lamborghini Aventador SVJ_1640",
+              "question": "What is the gearbox in the Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Quarter Mile Time_Lamborghini Aventador SVJ_1640",
+              "question": "What is the quarter mile time of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Type_BMW X3M_1640",
+              "question": "What is the engine type of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Capacity_BMW X3M_1640",
+              "question": "What is the engine capacity of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Horsepower_BMW X3M_1640",
+              "question": "What is the horsepower of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Torque_BMW X3M_1640",
+              "question": "What is the torque of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Gearbox_BMW X3M_1640",
+              "question": "What is the gearbox in the BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Quarter Mile Time_BMW X3M_1640",
+              "question": "What is the quarter mile time of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "i press the button for too long, then this happens. well done. oh. anyway, listen. thanks to the owner of this car for letting it be me. it ' s blobing quick. it ' s just a little bit mad. now, if you want to see some other videos, click on the video windows. oh, i ' m going to do something else first, aren ' t i? there ' s something i want to show you, tommy. right. so if i press this, if i press, just watch. just watch there. come closer. see if it does this. [ music ] i think you almost flipped that car over. [ music ] ah.",
+          "qas": [
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Type_Lamborghini Aventador SVJ_2054",
+              "question": "What is the engine type of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Engine Capacity_Lamborghini Aventador SVJ_2054",
+              "question": "What is the engine capacity of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Horsepower_Lamborghini Aventador SVJ_2054",
+              "question": "What is the horsepower of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Torque_Lamborghini Aventador SVJ_2054",
+              "question": "What is the torque of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Gearbox_Lamborghini Aventador SVJ_2054",
+              "question": "What is the gearbox in the Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Aventador SVJ_Quarter Mile Time_Lamborghini Aventador SVJ_2054",
+              "question": "What is the quarter mile time of Lamborghini Aventador SVJ?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Type_BMW X3M_2054",
+              "question": "What is the engine type of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Engine Capacity_BMW X3M_2054",
+              "question": "What is the engine capacity of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Horsepower_BMW X3M_2054",
+              "question": "What is the horsepower of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Torque_BMW X3M_2054",
+              "question": "What is the torque of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Gearbox_BMW X3M_2054",
+              "question": "What is the gearbox in the BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3M_Quarter Mile Time_BMW X3M_2054",
+              "question": "What is the quarter mile time of BMW X3M?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1294 @@
+{
+  "data": [
+    {
+      "title": "Audi RS7 Performance v IONIQ 5 N DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "audi rs7 performance v ioniq 5 n drag race _ transcript this is the new hyai ionic 5n and that is my audi rs7 performance daily driver and i ' m going to see which is the quickest over the standing quarter mile i ' m m watson and you ' re watching carwow the audi r7 performance has a 4 l twin turbo v8 with 630 horsepower and 850 n m of torque it drives all four wheels vi an 8 - speed automatic gearbox it weighs in at 265 kilos and it costs from £132, 000 the hyandai ronic 5n has two electric motors one on each axle to deliver four - wheel drive combined they put out 650 horsepower and 770 newm of torque the hondai weighs 2235 kilos and it cost from £65, 000 hey nicholas what do you think of that car well first impressions are interesting not driven it yet but it ' s got more buttons on the steering wheel than i ' ve seen in pictures of the space station control room it ' s crazy in here so i hope i ' ve got everything set up right and then there ' s more settings and everything on the infotainment screen but essentially to launch it you want to go into activate high grip mode select launch control and it should just launch you well have a little go you ' ll hear it like rev up sort [ laughter ] of it reminds me of the sound effects in sega rally circa 1995 do you know what let ' s let ' s just do a quick sound check i ' m going let you hear this apparently my electric car is ticking over at about 900 rpm at the moment let ' s see how high it rev shall we that ' s a 7800 rpm right there yeah you only hear it on the inside but there we go let ' s go with this race and see what actually happens this car twice the price of that this has less power but it has slightly less weight it has more torque though it ' s going to be very close the times i know for both cars are so so similar so woo interesting should we do it nick should we race three 2 1 left for dead on the line oh oh i think he wasn ' t ready really oh that ' s a weird experience i feel like i need to change up i have to check whether i jumped or not but i ' m gaining anyway i don ' t know what you were doing there nick you ' re just like napping on the line well i think it feels like they '",
+          "qas": [
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi RS7 performance_1",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi R7 performance_1",
+              "question": "What is the engine type of Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_RS7_1",
+              "question": "What is the engine type of RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi RS7 performance_1",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi R7 performance_1",
+              "question": "What is the engine capacity of Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_RS7_1",
+              "question": "What is the engine capacity of RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi RS7 performance_1",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi R7 performance_1",
+              "question": "What is the horsepower of Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_RS7_1",
+              "question": "What is the horsepower of RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi RS7 performance_1",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "265 kilos",
+                  "answer_start": 421
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi R7 performance_1",
+              "question": "What is the weight of Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "265 kilos",
+                  "answer_start": 421
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_RS7_1",
+              "question": "What is the weight of RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "265 kilos",
+                  "answer_start": 421
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi RS7 performance_1",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 n m of torque",
+                  "answer_start": 327
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi R7 performance_1",
+              "question": "What is the torque of Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 n m of torque",
+                  "answer_start": 327
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_RS7_1",
+              "question": "What is the torque of RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 n m of torque",
+                  "answer_start": 327
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi RS7 performance_1",
+              "question": "What is the gearbox in the Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 381
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi R7 performance_1",
+              "question": "What is the gearbox in the Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 381
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_RS7_1",
+              "question": "What is the gearbox in the RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 381
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi RS7 performance_1",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi R7 performance_1",
+              "question": "What is the quarter mile time of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_RS7_1",
+              "question": "What is the quarter mile time of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_hyai ionic 5n_1",
+              "question": "What is the engine type of hyai ionic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two electric motors",
+                  "answer_start": 484
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_Hyandai ronic 5n_1",
+              "question": "What is the engine type of Hyandai ronic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two electric motors",
+                  "answer_start": 484
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_high and ey_1",
+              "question": "What is the engine type of high and ey?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "two electric motors",
+                  "answer_start": 484
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_hyai ionic 5n_1",
+              "question": "What is the horsepower of hyai ionic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 horsepower",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_Hyandai ronic 5n_1",
+              "question": "What is the horsepower of Hyandai ronic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 horsepower",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_high and ey_1",
+              "question": "What is the horsepower of high and ey?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 horsepower",
+                  "answer_start": 308
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_hyai ionic 5n_1",
+              "question": "What is the weight of hyai ionic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2235 kilos",
+                  "answer_start": 629
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_Hyandai ronic 5n_1",
+              "question": "What is the weight of Hyandai ronic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2235 kilos",
+                  "answer_start": 629
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_high and ey_1",
+              "question": "What is the weight of high and ey?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2235 kilos",
+                  "answer_start": 629
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_hyai ionic 5n_1",
+              "question": "What is the torque of hyai ionic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_Hyandai ronic 5n_1",
+              "question": "What is the torque of Hyandai ronic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_high and ey_1",
+              "question": "What is the torque of high and ey?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 newm of torque",
+                  "answer_start": 592
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_hyai ionic 5n_1",
+              "question": "What is the quarter mile time of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_Hyandai ronic 5n_1",
+              "question": "What is the quarter mile time of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_high and ey_1",
+              "question": "What is the quarter mile time of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "ve engineered in the same sort of bog that we sometimes get in uh high performance petrol powered cars if i can account for that and you know get my braining gear as well then i reckon i ' ll have a better chance but this is a weird car to drive it feels like it ' s bouncing off the red line but there isn ' t one wait a minute um have you gone back into the other mode no no so i ' m not in here are some fake gears mode i ' m in the this car has one gear and it goes all the way up to whatever miles an hour when it holds that sort of fake sound high frequency noise it feels like you ' re about to bounce off a limiter that isn ' t there it ' s so weird so just have a little practice make sure you ' re in high grip mode and it should do what it needs to do go on have another launch from there let ' s have a look so it says that launch control is not available because nrin boost mode is active what is nrin boost although i know launch control was active when i launched it okay so i think you need to go into the menu on the screen go into launch and it should then work do that i ' m going to go warm up my tires ah i ' ve got it you have to be in park and then put it in drive or in drive and put it in park either way it ' s working now so uh hope your tires are warm 3 2 1 oh oh off we go oh matt got a good launch very close off the line is it going to be enough come on stay ahead yes i ' m pulling away stay ahead oh that was close very close didn ' t know what though best two out of three i ' m down for that i think i ' ve got this launch absolutely nailed in this car now i can ' t wait to go for another run three 2 1 it was close off the line am i going to be enough ahead i don ' t think i am oh that was more like it ah oh this is so [ applause ] close a oh come on eeve come on oh no well well well that was impress impressive that was a great launch i think we were both off the line at exactly the same time and this one it ' s not often you get a practical electric family hatch that will beat that rs7 is it so then what exactly happened well the slow motion action replay reveals that the high and ey won though both cars cross the line",
+          "qas": [
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi RS7 performance_473",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi R7 performance_473",
+              "question": "What is the engine type of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_RS7_473",
+              "question": "What is the engine type of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi RS7 performance_473",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi R7 performance_473",
+              "question": "What is the engine capacity of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_RS7_473",
+              "question": "What is the engine capacity of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi RS7 performance_473",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi R7 performance_473",
+              "question": "What is the horsepower of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_RS7_473",
+              "question": "What is the horsepower of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi RS7 performance_473",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi R7 performance_473",
+              "question": "What is the weight of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_RS7_473",
+              "question": "What is the weight of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi RS7 performance_473",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi R7 performance_473",
+              "question": "What is the torque of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_RS7_473",
+              "question": "What is the torque of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi RS7 performance_473",
+              "question": "What is the gearbox in the Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi R7 performance_473",
+              "question": "What is the gearbox in the Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_RS7_473",
+              "question": "What is the gearbox in the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi RS7 performance_473",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi R7 performance_473",
+              "question": "What is the quarter mile time of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_RS7_473",
+              "question": "What is the quarter mile time of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_hyai ionic 5n_473",
+              "question": "What is the engine type of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_Hyandai ronic 5n_473",
+              "question": "What is the engine type of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_high and ey_473",
+              "question": "What is the engine type of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_hyai ionic 5n_473",
+              "question": "What is the horsepower of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_Hyandai ronic 5n_473",
+              "question": "What is the horsepower of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_high and ey_473",
+              "question": "What is the horsepower of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_hyai ionic 5n_473",
+              "question": "What is the weight of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_Hyandai ronic 5n_473",
+              "question": "What is the weight of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_high and ey_473",
+              "question": "What is the weight of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_hyai ionic 5n_473",
+              "question": "What is the torque of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_Hyandai ronic 5n_473",
+              "question": "What is the torque of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_high and ey_473",
+              "question": "What is the torque of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_hyai ionic 5n_473",
+              "question": "What is the quarter mile time of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_Hyandai ronic 5n_473",
+              "question": "What is the quarter mile time of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_high and ey_473",
+              "question": "What is the quarter mile time of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "in 11. 3 seconds want to sell your car quickly easily for a fair price then head to car while to have over 4, 000 trusted dealers ready to bid on it in an online auction first enter your car ' s registration to get an instant approximate valuation then if you want to proceed give us some more details and upload some photos and we ' ll help you set a fair reserve price for your car that ' s the minimum amount you ' d be happy to sell it for once you ' ve done that we ' ll enter your car into an online auction when the auction ' s over we ' ll let you know the result and the dealer with the winning bid will be in touch to arrange easy payment and free collection of your car 93 % of sellers surveyed said they got the price they expected or more through carb the best bit is it ' s completely free i put a link in the description of this video and the ping comment to take you directly to carwow where over 4, 000 dealers are ready to bid on your car or you can just click on the pop out banner that should be appearing in the top right hand corner of the screen now alternatively just google help me carwow and we will help you sell your car quickly easily and for a fair price on with the video nick see as your car has this ability to mimic the gears of an internal combustion engine car let ' s run in manual mode for our auto gear boxes seems weird saying this and our sportier settings and we ' ll do a roll on from about 40 m hour second gear race over the half mile okay copy that matt let ' s do it i ' m nicely in my power band are you here we go 3 2 1 go oh caught the rev limit at the top doesn ' t matter oh no he ' s pulling away oh yeah to a combustion engine car for the win do i need more gears i have no [ music ] idea right i was doing a lot of speed i did my gear change up a little bit a slightly second to third but it didn ' t matter this was quicker y way internal combustion engine car yeah i think my brain had to sort of slightly change gear so it ' s a terrible pun but you know what i mean it ' s weird driving an electric car and having to change up but it felt so much like a traditional internal combustion engine car if you put me in the passenger seat and told me it was i might have believed you once we were doing about 80 i was just falling",
+          "qas": [
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi RS7 performance_966",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi R7 performance_966",
+              "question": "What is the engine type of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_RS7_966",
+              "question": "What is the engine type of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi RS7 performance_966",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi R7 performance_966",
+              "question": "What is the engine capacity of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_RS7_966",
+              "question": "What is the engine capacity of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi RS7 performance_966",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi R7 performance_966",
+              "question": "What is the horsepower of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_RS7_966",
+              "question": "What is the horsepower of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi RS7 performance_966",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi R7 performance_966",
+              "question": "What is the weight of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_RS7_966",
+              "question": "What is the weight of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi RS7 performance_966",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi R7 performance_966",
+              "question": "What is the torque of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_RS7_966",
+              "question": "What is the torque of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi RS7 performance_966",
+              "question": "What is the gearbox in the Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi R7 performance_966",
+              "question": "What is the gearbox in the Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_RS7_966",
+              "question": "What is the gearbox in the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi RS7 performance_966",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi R7 performance_966",
+              "question": "What is the quarter mile time of Audi R7 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_RS7_966",
+              "question": "What is the quarter mile time of RS7?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_hyai ionic 5n_966",
+              "question": "What is the engine type of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_Hyandai ronic 5n_966",
+              "question": "What is the engine type of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_high and ey_966",
+              "question": "What is the engine type of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_hyai ionic 5n_966",
+              "question": "What is the horsepower of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_Hyandai ronic 5n_966",
+              "question": "What is the horsepower of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_high and ey_966",
+              "question": "What is the horsepower of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_hyai ionic 5n_966",
+              "question": "What is the weight of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_Hyandai ronic 5n_966",
+              "question": "What is the weight of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_high and ey_966",
+              "question": "What is the weight of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_hyai ionic 5n_966",
+              "question": "What is the torque of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_Hyandai ronic 5n_966",
+              "question": "What is the torque of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_high and ey_966",
+              "question": "What is the torque of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_hyai ionic 5n_966",
+              "question": "What is the quarter mile time of hyai ionic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_Hyandai ronic 5n_966",
+              "question": "What is the quarter mile time of Hyandai ronic 5n?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 7
+                }
+              ]
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_high and ey_966",
+              "question": "What is the quarter mile time of high and ey?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds",
+                  "answer_start": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "behind couldn ' t keep up with you then i maybe i need more gears well you might be better with just one gear so now go back into electric mode because one of the ways that it does that kind of fake gear change is by reducing the power in the low gears so it delivers more power as you go up the gears it ' s very clever and we ' ll see a difference now in the results same thing again roll on 40 mph second gear obviously i ' ll be in second you ' ll just be in fully auto with whatever it does i ' m in my power band nicely three 2 one go bye matt didn ' t cocker gear change there wow that ' s better no gears is better well one [ applause ] gear w oh he ' s coming back now though but it ' s too little too late that was interesting nick at the very top end high spe i was starting to come back at you but it was too little too late you won that ' s exactly what i said in here yeah too little too late i mean if you ' re comfortable racing at 120 130 mph plus that ' s the way to go but the hit you get of this electric motor from the split second you even think about hitting the gas is awesome one gear better than eight turns out that it is now we can have a break test fromont 100 mph the car to stop in the shortest distance wins you ' d rather watch another drag race then follow the qr code of appearing on the screen now or use the pop out banner appear in the top right hand corner of the screen get ready what ' s [ applause ] on oh wow mate that can ' t be right what happened i don ' t know i felt like i had to sort of catch up with you a bit at the end but even a couple of miles an hour should not account for that that ' s a profound difference let me do that again i can see this spot that i ' ve stopped at let me just try it again we ' ll know if i cho cheated see what happens this time let ' s get to 100 keep it steady at 100 here comes the line [ applause ] now stop i literally stopped in exactly the same place so i can ' t believe how well this just stops it ' s amazing they ' re about the same weight aren ' t they i guess you ' ve just got better brakes better tires maybe i pressed the pedal with both feet my pedal isn ' t big enough to do that but i was giving it everything my",
+          "qas": [
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi RS7 performance_1456",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi R7 performance_1456",
+              "question": "What is the engine type of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_RS7_1456",
+              "question": "What is the engine type of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi RS7 performance_1456",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi R7 performance_1456",
+              "question": "What is the engine capacity of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_RS7_1456",
+              "question": "What is the engine capacity of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi RS7 performance_1456",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi R7 performance_1456",
+              "question": "What is the horsepower of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_RS7_1456",
+              "question": "What is the horsepower of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi RS7 performance_1456",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi R7 performance_1456",
+              "question": "What is the weight of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_RS7_1456",
+              "question": "What is the weight of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi RS7 performance_1456",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi R7 performance_1456",
+              "question": "What is the torque of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_RS7_1456",
+              "question": "What is the torque of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi RS7 performance_1456",
+              "question": "What is the gearbox in the Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi R7 performance_1456",
+              "question": "What is the gearbox in the Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_RS7_1456",
+              "question": "What is the gearbox in the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi RS7 performance_1456",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi R7 performance_1456",
+              "question": "What is the quarter mile time of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_RS7_1456",
+              "question": "What is the quarter mile time of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_hyai ionic 5n_1456",
+              "question": "What is the engine type of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_Hyandai ronic 5n_1456",
+              "question": "What is the engine type of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_high and ey_1456",
+              "question": "What is the engine type of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_hyai ionic 5n_1456",
+              "question": "What is the horsepower of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_Hyandai ronic 5n_1456",
+              "question": "What is the horsepower of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_high and ey_1456",
+              "question": "What is the horsepower of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_hyai ionic 5n_1456",
+              "question": "What is the weight of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_Hyandai ronic 5n_1456",
+              "question": "What is the weight of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_high and ey_1456",
+              "question": "What is the weight of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_hyai ionic 5n_1456",
+              "question": "What is the torque of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_Hyandai ronic 5n_1456",
+              "question": "What is the torque of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_high and ey_1456",
+              "question": "What is the torque of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_hyai ionic 5n_1456",
+              "question": "What is the quarter mile time of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_Hyandai ronic 5n_1456",
+              "question": "What is the quarter mile time of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_high and ey_1456",
+              "question": "What is the quarter mile time of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "ass was not on the seat i was pushing so hard the distance between us is so much that i would have had to have breaked this much before you which is not going to be happening is it no no even you know a tenth of a second at that speed i think we were pretty much on the button both of us i think this is just the way that it is listen i hope you enjoyed the video if you did give it a like if you want to watch some more videos you click on the video windows and if you click on the car box then it will take you to the kai drag race leaderboard and you ' ll be able to compare these cars qu mile times to everything else we ' ve ever drag rac thanks for watching",
+          "qas": [
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi RS7 performance_1952",
+              "question": "What is the engine type of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_Audi R7 performance_1952",
+              "question": "What is the engine type of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Type_RS7_1952",
+              "question": "What is the engine type of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi RS7 performance_1952",
+              "question": "What is the engine capacity of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_Audi R7 performance_1952",
+              "question": "What is the engine capacity of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Engine Capacity_RS7_1952",
+              "question": "What is the engine capacity of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi RS7 performance_1952",
+              "question": "What is the horsepower of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_Audi R7 performance_1952",
+              "question": "What is the horsepower of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Horsepower_RS7_1952",
+              "question": "What is the horsepower of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi RS7 performance_1952",
+              "question": "What is the weight of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_Audi R7 performance_1952",
+              "question": "What is the weight of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Weight_RS7_1952",
+              "question": "What is the weight of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi RS7 performance_1952",
+              "question": "What is the torque of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_Audi R7 performance_1952",
+              "question": "What is the torque of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Torque_RS7_1952",
+              "question": "What is the torque of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi RS7 performance_1952",
+              "question": "What is the gearbox in the Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_Audi R7 performance_1952",
+              "question": "What is the gearbox in the Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Gearbox_RS7_1952",
+              "question": "What is the gearbox in the RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi RS7 performance_1952",
+              "question": "What is the quarter mile time of Audi RS7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_Audi R7 performance_1952",
+              "question": "What is the quarter mile time of Audi R7 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS7 Performance_Quarter Mile Time_RS7_1952",
+              "question": "What is the quarter mile time of RS7?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_hyai ionic 5n_1952",
+              "question": "What is the engine type of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_Hyandai ronic 5n_1952",
+              "question": "What is the engine type of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Engine Type_high and ey_1952",
+              "question": "What is the engine type of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_hyai ionic 5n_1952",
+              "question": "What is the horsepower of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_Hyandai ronic 5n_1952",
+              "question": "What is the horsepower of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Horsepower_high and ey_1952",
+              "question": "What is the horsepower of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_hyai ionic 5n_1952",
+              "question": "What is the weight of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_Hyandai ronic 5n_1952",
+              "question": "What is the weight of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Weight_high and ey_1952",
+              "question": "What is the weight of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_hyai ionic 5n_1952",
+              "question": "What is the torque of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_Hyandai ronic 5n_1952",
+              "question": "What is the torque of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Torque_high and ey_1952",
+              "question": "What is the torque of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_hyai ionic 5n_1952",
+              "question": "What is the quarter mile time of hyai ionic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_Hyandai ronic 5n_1952",
+              "question": "What is the quarter mile time of Hyandai ronic 5n?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Hyundai Ioniq 5 N_Quarter Mile Time_high and ey_1952",
+              "question": "What is the quarter mile time of high and ey?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

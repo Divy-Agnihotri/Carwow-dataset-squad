@@ -1,0 +1,2752 @@
+{
+  "data": [
+    {
+      "title": "BMW M4 v 500hp Diesel Nitrous M4 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw m4 v 500hp diesel nitrous m4 drag race _ transcript what will win in a drag race between a normal f82 m4 and a diesel powered f82 m4? oh my god, it ' s rolling cold. can you open the taps? nitrous. good nitrous. well, we ' re going to find out by drag racing them over the standing quarter mile. i ' m watson and you ' re watching carw wow. the f82 bmw m4 has a 3 l twinturbo straight 6 engine with 431 horsepower and 550 new m of torque. it sends power to the rear wheels only for a seven - speed automatic gearbox with launch control. the car weighs 1, 600 kg and is worth about £25, 000. to explain what ' s going on with this diesel powered m4, i need some help from the man who built it. this is danny from dark side developments. who ' s responsible for this car? so, let ' s open the bonnet. see what we ' ve got going. wa! it ' s like some kind of space station with all that gold insulation. what you ' ve done to this car exactly? i don ' t understand it. so, we ' ve got a stage two turbo in there. bigger fuel pump, bigger injectors, intake, exhaust, the bigger intercooler, and then obviously the nitrous. so, it ' s a 3 l twin turbo straight. it ' s diesel. under normal running conditions, it has 485, but as well as all those mods in the boot, we ' ve got nitrous bowl. what does that boost the power to? 520. it ' s a massive jump. hopefully, it ' s going to be enough. never driven a car with nitrous before. it ' s fast and furious. this will be my first time experiencing what it ' s like to be diesel. be diesel. diesel. i thought you did. what do you think is going to happen here, sam? so, i ' ve got a diesel engine, but it ' s been tuned to 485 horsepower. and the kicker is it ' s got like 1, 000 new meters of torque. your car is 200 kilos lighter. it ' s got a proper petrol m engine in it. down on horsepower, down on torque, but you know, you got all the rev",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_1",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twinturbo straight 6 engine",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_1",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twinturbo straight 6 engine",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_1",
+              "question": "What is the engine type of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twinturbo straight 6 engine",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_1",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_1",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_1",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_1",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "431 horsepower",
+                  "answer_start": 403
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_1",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "431 horsepower",
+                  "answer_start": 403
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_1",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "431 horsepower",
+                  "answer_start": 403
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_1",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 559
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_1",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 559
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_1",
+              "question": "What is the weight of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 559
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_1",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new m of torque.",
+                  "answer_start": 422
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_1",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new m of torque.",
+                  "answer_start": 422
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_1",
+              "question": "What is the torque of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new m of torque.",
+                  "answer_start": 422
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_1",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed automatic gearbox with launch control.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_1",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed automatic gearbox with launch control.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_1",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed automatic gearbox with launch control.",
+                  "answer_start": 496
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_1",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_1",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_1",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_1",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_1",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_1",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_1",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_1",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_1",
+              "question": "What is the engine type of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L twin turbo straight.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_1",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_1",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_1",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_1",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_1",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_1",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 366
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_1",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "485",
+                  "answer_start": 1216
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_1",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "485",
+                  "answer_start": 1216
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_1",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "485",
+                  "answer_start": 1216
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_1",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "485",
+                  "answer_start": 1216
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_1",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "485",
+                  "answer_start": 1216
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_1",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "485",
+                  "answer_start": 1216
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_1",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new meters of torque.",
+                  "answer_start": 1723
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_1",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new meters of torque.",
+                  "answer_start": 1723
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_1",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new meters of torque.",
+                  "answer_start": 1723
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_1",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new meters of torque.",
+                  "answer_start": 1723
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_1",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new meters of torque.",
+                  "answer_start": 1723
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_1",
+              "question": "What is the torque of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 new meters of torque.",
+                  "answer_start": 1723
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_1",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_1",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_1",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_1",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_1",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_1",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "##s down on torque. that ' s what you ' re saying. it ' s just down on torque. not double the amount of torque, you know. is that what you ' re saying? okay, let ' s just do a sound check and like we ' ll see what happens in the drag race. let ' s not discuss it further. i ' m feeling a bit embarrassed. that ' s good for a diesel. [ music ] you won that. that sounds amazing. obviously, you got an aftermarket exhaust on that. and that ' s the kicker. i actually think if this didn ' t have an aftermarket exhaust, that might have sounded better. anyway, let ' s see how much extra horsepower that aftermarket exhaust has given your car. let ' s race. 3 2 1 [ applause ] big delay. it ' s felt weird. [ music ] oh my god. wa. oh my god, it ' s rolling cold. [ music ] [ applause ] i don ' t know what bird that was, but i managed to avoid hitting it, but it seemed to have dropped its quarry. dropped its what? its quarry. it ' s like the nature term that they use. like david atterbury would say that. i have no idea what that means. yeah, i didn ' t get a great launch. i haven ' t driven one of these in a while and there ' s a bit of a delay. secondly, you didn ' t mention is that four - wheel drive or rear wheel drive? four. four. four. four. f4 four. so, recap. more horsepower, double the torque. four - wheel drive. i want another go cuz i ' m off now and i want to get the timing right just to see the difference. okay. absolutely. do you want to know something? if you get this right, it ' s going to be close. yeah, i think it will be. there ' s a 15 - second delay when you come off the brake on this. so, i just need to time that. what is this that it ' s got? was not expecting this. come and have a look what it was, sam. are you telling me a bird dropped a frog? it ' s technically a toad. this made me really sad. i love animals more than humans, and this just upsets me. that ' s nature. 3 2 1 that bit there is slow",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_398",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_398",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_398",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_398",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_398",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_398",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_398",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_398",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_398",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_398",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_398",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_398",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_398",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_398",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_398",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_398",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_398",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_398",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_398",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_398",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_398",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_398",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_398",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_398",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_398",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_398",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_398",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_398",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_398",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_398",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_398",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_398",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_398",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_398",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_398",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_398",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_398",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_398",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_398",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_398",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_398",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_398",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_398",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_398",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_398",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_398",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_398",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_398",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_398",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_398",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_398",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "and then it just comes on like it ' s like it ' s limiting it. come on. no. look at the coal that i ' m rolling. [ music ] oh, closer though. yeah, i launched pretty good there. there was a lot of wheel spin. we could argue the tires if they were hotter, we might do a bit quicker. i ' m not beating that car as i sit here. as you sit here, you are not. so then, what exactly happened? well, the tune diesel won. it completed the standing / 4er mile in 12. 2 seconds. the f82 m4 took 12. 4 seconds. are you ready to go on now? go do the rolling gear. yeah, we ' ll do the rolling. yeah. i ' m just going to get the guys from dark side developments to do something to the car just in case i need it. can you open the taps? open the taps. yes. matt, we going comfort in all this? yeah. yeah, comfort. i just he ' s got something rattling about in the boot. okay, cool. just lift this up. right. okay. just in case. 50 mph. comfort mode, automatic mode to the half mile. three, two, one, go. kick down pretty quickly. come on. oh, it ' s close. is he pulling me back? come on. m4. you pulling me back. oh, i think he ' s pulling me back. hit the switch. nitrous. come on. i did the job. that was mad. that was sam. pretty close. i took off, then you started to reel me back in, but then at the top speed, i guess it ' s just more horsepower from this, isn ' t it? i guess so. i ' ve got a feeling though when this is in manual, i think i ' m just going to creep ahead of you. okay, let ' s do it. he might be right. so, definitely what i ' m going to do now is make sure that nitrous is on the full time during the next run. formal protest. what are you doing? this thing keeps just rattling about in the boot. it ' s part of the tune, [ music ] right? rolling race, manual mode. sport is setting. let ' s go. 3 2 1 go. come on. [ applause ] coming past now",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_818",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_818",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_818",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_818",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_818",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_818",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_818",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_818",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_818",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_818",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_818",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_818",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_818",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_818",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_818",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_818",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_818",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_818",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_818",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.4 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_818",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.4 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_818",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.4 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_818",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_818",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_818",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_818",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_818",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_818",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_818",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_818",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_818",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_818",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_818",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_818",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_818",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_818",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_818",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_818",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_818",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_818",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_818",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_818",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_818",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_818",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_818",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_818",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_818",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_818",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_818",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_818",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_818",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_818",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.2 seconds.",
+                  "answer_start": 457
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": ". don ' t c the gear change. come on, nitrous. oh my god. talk the talk. [ applause ] last time your prediction was absolutely 100 % bang on. formal protest. something ' s different. you went faster. you went slower. no, you went faster that time. let ' s do a brake test. you got to win the brake test. i ' m going to win the brake test. before the brake test, if you ' d like to check out an amazing deal i found on a sporty bmw through car wag, click on the pop out there. scan the qr code on screen now and find out what the car is and the saving. you can also follow the link in the description of this video. that ' s quite a substantial victory for you, sam. finally. yes, that was a good win. but i still won the drag races and the rolling races. so, in this video, i am the victor. the car is you were just sitting there. i want another go and i want to level it a little bit. just level the playing field just a touch. okay. all right. whatever. but it ' s got to be a bmw m3 or m4. nothing else. is there any other good car? a few moments later. ah, so sam, now you have a g82 m4, do you? right. this g82 bmw m4 has a 3 l twinturbocharged straight 6 engine with 510 horsepower and 650 nm of torque. it sends power to the rear wheels only via an 8 - speed automatic gearbox with launch control. the car weighs 1, 725 kg and when it was new cost £82, 000. more power than me now. we ' re about the same way. still down on talk, but you think that ' s going to make a difference. reckon you got me beat now? i think this is going to beat you. i ' d also like to open book if you want to join me to page 57 in drivetrains. and this is the rearwheel drive option. just putting it out there. okay. let ' s first of all hear your engine cuz it ' s got the m performance upgraded exhaust on it. it ' s all right, but that f80 with the aftermarket one sounded better, didn ' t it? it sounded much better. and this is kind of a bit of a",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_1218",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_1218",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_1218",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_1218",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_1218",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_1218",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_1218",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_1218",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_1218",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_1218",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_1218",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_1218",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_1218",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_1218",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_1218",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_1218",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_1218",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_1218",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_1218",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_1218",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_1218",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_1218",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_1218",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_1218",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_1218",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_1218",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_1218",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_1218",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_1218",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_1218",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_1218",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_1218",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_1218",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_1218",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_1218",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_1218",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_1218",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_1218",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_1218",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_1218",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_1218",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_1218",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_1218",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_1218",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_1218",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_1218",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_1218",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_1218",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_1218",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_1218",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_1218",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "a let down cuz it ' s got the old flare of the old lfa lexus, but none of the sound. no idea what you ' re on about. the exhaust at the back are the same kind of shape as the lexus. yeah, i know what you mean. yeah. yeah, exactly. but yeah, it doesn ' t sound as good as does it? right, let ' s see if you ' re going to win this drag race. good luck. three, two, one. oh, stutter. [ music ] go on. get on boost. that ' s it. we ' re off now. once you ' re in the torque, you ' re okay. [ music ] come on. [ music ] he ' s coming. he ' s coming. he ' s coming. there it is. come on. come on. come on. come on. come on. [ music ] how do you find that? i didn ' t prepare the boost quick enough, so i didn ' t have the best launch, but i won. you won? i don ' t know that you did. without question, i won that drone cam. who won? it ' s very close, but i think you won, man. formal protest. i won that. formal protest back at you. everyone says that you didn ' t. i would like a freeze frame and i would like the comment section to decide that outcome, please. that ' s not within your power. woo! so, you reckon now you ' ll definitely win? yeah, 100 % i ' m going to win this. iron with nitrous on. 3 2 1 come on, girl. come on, nitrous. [ music ] you got a better launch. there we are. come on. i think my nitrous bottle is out. oh no, i ' m coming past. what is going on? bye - bye, [ music ] loser. now, this is bs. now, that was a mega launch. i was off the line before you and you sail away. you ' re doing something and i don ' t know what you ' re doing. let ' s say it ' s two - nil to me. do you want to do best three out of five? don ' t whatever thing you did, don ' t do it on the next one. and i will agree to that race. what happens is",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_1630",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_1630",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_1630",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_1630",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_1630",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_1630",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_1630",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_1630",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_1630",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_1630",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_1630",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_1630",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_1630",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_1630",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_1630",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_1630",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_1630",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_1630",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_1630",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_1630",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_1630",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_1630",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_1630",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_1630",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_1630",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_1630",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_1630",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_1630",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_1630",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_1630",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_1630",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_1630",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_1630",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_1630",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_1630",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_1630",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_1630",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_1630",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_1630",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_1630",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_1630",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_1630",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_1630",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_1630",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_1630",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_1630",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_1630",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_1630",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_1630",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_1630",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_1630",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "it sometimes like doesn ' t boost as well as it does on other times. it ' s a bit inconsistent the boost on this. yeah, it was so full of it ' s unbelievable. 3 2 1 [ music ] oh, he ' s got me this time. [ music ] ah, this car bogged. but you seem to have an amazing launch for rear wheel drive. that was nuts. this did launch really, really well. listen, rather than fuffing about, let ' s just do one final run. winner takes all. yeah, i ' m up for that. it ' s a gauge nitrous. this will decide who is the better person. okay. 3 2 1 [ music ] am i going to be in the better pass or is he oh, it ' s going to be close. [ music ] boy, he ' s coming back. come on. oh my god. i think sam ' s going to be the better person. [ music ] come on. that was such an awesome race. i don ' t know who won that. i think we ' re going to have to go to the photo finish to find out who is the better person. so then what exactly happened? well, the slow motion replay reveals that the g82 m4 won by the slimmest of margins, but both cars crossed the line in 11. 9 seconds. rolling race manual mode for the gearbox. 50 mph roll on. first of the half mile wins. you ready? let ' s do it. 3 2 1 go. [ music ] absolute cretinous cheat. [ applause ] this is absolutely flying. [ music ] how did he win the drag race? that was bizarre. yeah, really bizarre. okay, come on then. brake test from 100 mph. you want to see another drag race with a bunch of m4s? click on the pop out b up there. scan the qr code on screen now. stay here for the brake test. this has been all over the place. okay. same same story. yeah, i win. but i think i win overall. this car is mad. it ' s amazing how quick it is. yeah. incredible. all right, matt, just stay there one second. as someone in charge of the health and safety on these shoots, i ' m not happy with things rolling around in your boot. so, i ' m going to have a quick look",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_2034",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_2034",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_2034",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_2034",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_2034",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_2034",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_2034",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_2034",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_2034",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_2034",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_2034",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_2034",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_2034",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_2034",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_2034",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_2034",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_2034",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_2034",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_2034",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_2034",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_2034",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_2034",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_2034",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_2034",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_2034",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_2034",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_2034",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_2034",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_2034",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_2034",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_2034",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_2034",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_2034",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_2034",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_2034",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_2034",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_2034",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_2034",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_2034",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_2034",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_2034",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_2034",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_2034",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_2034",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_2034",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_2034",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_2034",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_2034",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_2034",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_2034",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_2034",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". got it. he ' s got it. he secured it. he secured it. yeah, but i can ' t sign that off. so, i want to see you stand over there. it could be dangerous. how ' d you go? there ' s nothing. go. what does that look like to you? he likes diving. would you breathe nitrous in when you ' re diving? would you? if he likes to go diving, why is it plumbed into the car? let me see inside your car. what are you looking for? i ' m looking for a little switch that you ' ve been playing with cuz that ' s what it will be. what ' s that? what ' s what? what ' s what ' s what? what ' s the fast and furious button that seems to be in your center console. so, what we ' ve established, ladies and gentlemen, is mr. watson has cheated. okay, let ' s just do another run. right, one last drag race without that? no, with nitrous. cuz i don ' t think on that one drag race it was operating properly. let ' s just do one more drag race. so, your cheat wasn ' t working enough. so, you ' d like to cheat better this time? can i cheat more? yeah, we can cheat more. fine, let ' s go cheat more. three, two, one. [ music ] come on. nitrous me. nitrous me. that ' s a good launch. nitrous. good nitrous. good nitrous. yes. why? [ music ] you need to purge the bottle. do you know why it was close on the other race? go on. i forgot to purge my bottle properly. nitrous mate. nitrous mate. you didn ' t purge your bottle properly. so, what are you saying? i won after purging your bottle properly. so then what exactly happened? well, when the nitro system worked perfectly, the tune diesel won. it completed the standing quarter mile in 11. 8 seconds, which is a tenth quicker than before. the g82 m4 took 12 seconds. thanks to everyone who lent us these cars to follow on instagram to say thank you. go check them out. really appreciate it everybody. also, if you want to watch some other videos, then click on the",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_2447",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_2447",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_2447",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_2447",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_2447",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_2447",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_2447",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_2447",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_2447",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_2447",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_2447",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_2447",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_2447",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_2447",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_2447",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_2447",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_2447",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_2447",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_2447",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_2447",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_2447",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_2447",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_2447",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_2447",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_2447",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_2447",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_2447",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_2447",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_2447",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_2447",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_2447",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_2447",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_2447",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_2447",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_2447",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_2447",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_2447",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_2447",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_2447",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_2447",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_2447",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_2447",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_2447",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_2447",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_2447",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_2447",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_2447",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_2447",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_2447",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_2447",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_2447",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "video windows. and if you want to compare these cars caught mile times to everything else we ' ve ever drag race, just click on the carw wow logo to check out the carw wow drag race leaderboard. thanks for watching and i ' ll see you next time when i promise not to cheat. it ' s just for the cameras, not really a cheat.",
+          "qas": [
+            {
+              "id": "F82 BMW M4_Engine Type_F82 M4_2837",
+              "question": "What is the engine type of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_F82 BMW M4_2837",
+              "question": "What is the engine type of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Type_M4_2837",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 M4_2837",
+              "question": "What is the engine capacity of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_F82 BMW M4_2837",
+              "question": "What is the engine capacity of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Engine Capacity_M4_2837",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 M4_2837",
+              "question": "What is the horsepower of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_F82 BMW M4_2837",
+              "question": "What is the horsepower of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Horsepower_M4_2837",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 M4_2837",
+              "question": "What is the weight of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_F82 BMW M4_2837",
+              "question": "What is the weight of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Weight_M4_2837",
+              "question": "What is the weight of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 M4_2837",
+              "question": "What is the torque of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_F82 BMW M4_2837",
+              "question": "What is the torque of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Torque_M4_2837",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 M4_2837",
+              "question": "What is the gearbox in the F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_F82 BMW M4_2837",
+              "question": "What is the gearbox in the F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Gearbox_M4_2837",
+              "question": "What is the gearbox in the M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 M4_2837",
+              "question": "What is the quarter mile time of F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_F82 BMW M4_2837",
+              "question": "What is the quarter mile time of F82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "F82 BMW M4_Quarter Mile Time_M4_2837",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered F82 M4_2837",
+              "question": "What is the engine type of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_diesel powered M4_2837",
+              "question": "What is the engine type of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_tune diesel_2837",
+              "question": "What is the engine type of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 M4_2837",
+              "question": "What is the engine type of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_G82 BMW M4_2837",
+              "question": "What is the engine type of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Type_M4_2837",
+              "question": "What is the engine type of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered F82 M4_2837",
+              "question": "What is the engine capacity of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_diesel powered M4_2837",
+              "question": "What is the engine capacity of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_tune diesel_2837",
+              "question": "What is the engine capacity of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 M4_2837",
+              "question": "What is the engine capacity of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_G82 BMW M4_2837",
+              "question": "What is the engine capacity of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Engine Capacity_M4_2837",
+              "question": "What is the engine capacity of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered F82 M4_2837",
+              "question": "What is the horsepower of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_diesel powered M4_2837",
+              "question": "What is the horsepower of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_tune diesel_2837",
+              "question": "What is the horsepower of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 M4_2837",
+              "question": "What is the horsepower of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_G82 BMW M4_2837",
+              "question": "What is the horsepower of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Horsepower_M4_2837",
+              "question": "What is the horsepower of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered F82 M4_2837",
+              "question": "What is the torque of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_diesel powered M4_2837",
+              "question": "What is the torque of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_tune diesel_2837",
+              "question": "What is the torque of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 M4_2837",
+              "question": "What is the torque of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_G82 BMW M4_2837",
+              "question": "What is the torque of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Torque_M4_2837",
+              "question": "What is the torque of M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered F82 M4_2837",
+              "question": "What is the quarter mile time of diesel powered F82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_diesel powered M4_2837",
+              "question": "What is the quarter mile time of diesel powered M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_tune diesel_2837",
+              "question": "What is the quarter mile time of tune diesel?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 M4_2837",
+              "question": "What is the quarter mile time of G82 M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_G82 BMW M4_2837",
+              "question": "What is the quarter mile time of G82 BMW M4?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Diesel powered F82 M4 (tuned)_Quarter Mile Time_M4_2837",
+              "question": "What is the quarter mile time of M4?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

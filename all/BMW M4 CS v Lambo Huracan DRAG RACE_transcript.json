@@ -1,0 +1,1044 @@
+{
+  "data": [
+    {
+      "title": "BMW M4 CS v Lambo Huracan DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw m4 cs v lambo huracan drag race _ transcript what we ' ll win in a drag race between the new bmw m4cs and the lamborghini huracan stato when we race them over the standing quarter mile we ' re going to find out now i ' m matt watson and you ' re watching carwow the bmw m4cs has a 3 l twin turbo straight 6 551 horsepower 650 new m of torque all - wheel drive and an 8 - speed automatic gearbox with launch control it weighs 1, 760 kg and costs from 120, 00, 000 the lamborghini hurricane stato has a 5.2 l natur aspirated v10 610 horsepower 560 newm of torque all - wheel drive and a seven - speed dual clutch automatic gearbox also with launch control it weighs around 1, 600 kg and costs from 233, 000 tommy how do you think this is going to go you ' ve got more power less weight much more expensive vehicle more cylinders more noise well we ' ll find out about the noise in a second he might not have more noise almost more everything you should win right yes but i have less grippy tires so i ' m not actually sure about how this is going to go and also those bmws seem to be a lot faster than bmw say that is true so it ' s going to be exciting now this particular card does it have an aftermarket exhaust i don ' t know no don ' t think it does so this is just completely stock according to the owner i have listen to it it sounds rather [ music ] dull have you got bmw i have a i7 at the moment why have you got that because bmw let me borrow one once and my wife loved it so much that she was like we need that car so i ended up buying it like a week later how is she pay for it can i ask i didn ' t pay the price everyone else pays for it is the answer was it new or did you appreciate the depreciate uh no it was brand new is your the only one in the uk cuz i don ' t think anyone ' s bought one me and a couple uber drivers have apparently so that ' s your wife ' s car but that ' s your wife ' s car as well isn ' t it how many times she driven that so my wife has driven this a total of two times she wanted a superar so we thought the one that you could go over the speed bumps and don",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_1",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l twin turbo straight 6",
+                  "answer_start": 283
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l twin turbo straight 6",
+                  "answer_start": 283
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_1",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_1",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "551 horsepower",
+                  "answer_start": 311
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "551 horsepower",
+                  "answer_start": 311
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_1",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,760 kg",
+                  "answer_start": 432
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,760 kg",
+                  "answer_start": 432
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_1",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 new M of torque",
+                  "answer_start": 326
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "650 new M of torque",
+                  "answer_start": 326
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_1",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control",
+                  "answer_start": 373
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control",
+                  "answer_start": 373
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_1",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini Huracan Stato_1",
+              "question": "What is the engine type of Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 503
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini hurricane Stato_1",
+              "question": "What is the engine type of Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 503
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini_1",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 503
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini Huracan Stato_1",
+              "question": "What is the engine capacity of Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 505
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini hurricane Stato_1",
+              "question": "What is the engine capacity of Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 505
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini_1",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 505
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini Huracan Stato_1",
+              "question": "What is the horsepower of Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 311
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini hurricane Stato_1",
+              "question": "What is the horsepower of Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 311
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini_1",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 311
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini Huracan Stato_1",
+              "question": "What is the weight of Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 678
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini hurricane Stato_1",
+              "question": "What is the weight of Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 678
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini_1",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 678
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini Huracan Stato_1",
+              "question": "What is the torque of Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 546
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini hurricane Stato_1",
+              "question": "What is the torque of Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 546
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini_1",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 546
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini Huracan Stato_1",
+              "question": "What is the gearbox in the Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox",
+                  "answer_start": 597
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini hurricane Stato_1",
+              "question": "What is the gearbox in the Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox",
+                  "answer_start": 597
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini_1",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox",
+                  "answer_start": 597
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini Huracan Stato_1",
+              "question": "What is the quarter mile time of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini hurricane Stato_1",
+              "question": "What is the quarter mile time of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini_1",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "' t really have to worry about would be best but yeah she just drove it twice so what does she actually drive on a daily basis she has a g wagon that ' s what that ' s her daily and she doesn ' t want to go at anything else does she never oh sometimes the i7 she gets in the back and then i drop the screen down and then she enjoys that with my son but that ' s about it so you play chauff for yeah but otherwise she ' s choosing the g wagon check out tom channel if you want to find out more about that car it ' s over on that you can click the pop out buton anyhow let ' s do a sound check with your car it ' s weird isn ' t it sometimes it gives you the ref sometimes it doesn ' t it ' s so italian yeah let me just try it neutral same thing i it just doesn ' t want you to have fun odd anyway uh let ' s go with the racing before we do though if you ' re thinking about selling your car to buy another car then you can do it through car it ' s super easy you just upload some photos of your car give a brief description then dealers all across the country will bid on it link in the description and the pin comment or just click on the pop out banner or scan the qr code to go right there good let ' s race 3 2 1 this is oh my god that be oh my [ music ] [ applause ] goodness what up the [ applause ] line i ' ve really not felt many cars that launch like this this is just bonkers i can ' t believe how well that launched stuart did i jump you did not jump that was insane do you want another go i think i do cuz we were level at one point it ' s no not level but we you were pulling away that bmw launches like an electric car it does three [ music ] [ music ] [ applause ] [ music ] r see i ' m read me [ applause ] [ music ] no the launch is literally like an electric car that is mind - blowing the stats are nuts it did a sub 3 second not to 60 yeah i can ' t compete with that that is incredible now the owner says that this is not tuned i can ' t believe it it feels so fast that ' s quick let me have another word with it are you sure this is not tuned 100 % i swear on my my life picked it up brand new brand new brand new yeah",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_460",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_460",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_460",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_460",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_460",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_460",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_460",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_460",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_460",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_460",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_460",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_460",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_460",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_460",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini Huracan Stato_460",
+              "question": "What is the engine type of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini hurricane Stato_460",
+              "question": "What is the engine type of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini_460",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini Huracan Stato_460",
+              "question": "What is the engine capacity of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini hurricane Stato_460",
+              "question": "What is the engine capacity of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini_460",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini Huracan Stato_460",
+              "question": "What is the horsepower of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini hurricane Stato_460",
+              "question": "What is the horsepower of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini_460",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini Huracan Stato_460",
+              "question": "What is the weight of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini hurricane Stato_460",
+              "question": "What is the weight of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini_460",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini Huracan Stato_460",
+              "question": "What is the torque of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini hurricane Stato_460",
+              "question": "What is the torque of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini_460",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini Huracan Stato_460",
+              "question": "What is the gearbox in the Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini hurricane Stato_460",
+              "question": "What is the gearbox in the Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini_460",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini Huracan Stato_460",
+              "question": "What is the quarter mile time of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini hurricane Stato_460",
+              "question": "What is the quarter mile time of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini_460",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "yeah from 18 miles can you get this on the dino because it ' s just oh i will i will it ' s like it ' s a 2. 9 to 60 i ' ve done myself yeah 2. 80 so that wasn ' t even the best launch no it wasn ' t you need to be mine ah wait do you use foot roler no i didn ' t no not no i don ' t either i just the way it goes off the line is just wow so good i love it anyway thank you thank you for letting me drive it so then what exactly happened well the bmw won it completed the standing quarter mile in 10. 9 seconds the lamborghini talk 11. 2 seconds if you ' re changing your car then you got to check out car because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one car makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past life changing now if you want to go a car while right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out banner of ping in the top white hand on the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow all right let ' s do a riding race do you want to choose the speed and the gear uh 50 in third gear does that work for you that ' s like the standard kind of setup but yeah if you want to do that i ' m up for doing that i think because hopefully you wouldn ' t have enough boost at that speed so i should get a little girl but i don ' t think you ' re going to be high enough in your rev range i think you ' re going to be wanting to do like second gear at like 40 really second gear 40 let ' s try that now before we do that i ' ve actually configured my perfect bmw 4 series it on car w so you can see what the car is the spec exactly and the savy 3 car by just click on the pop out but in the top right hand corner of the screen or f the qr code on screen or by f the link in the description so i ' m definitely on lose i ' m with the top of my rage you ready 3 2 1 go going to come back [ music ] [ applause ] [",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_951",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_951",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_951",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_951",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_951",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_951",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_951",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_951",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_951",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_951",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_951",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_951",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_951",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 501
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_951",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 501
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini Huracan Stato_951",
+              "question": "What is the engine type of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini hurricane Stato_951",
+              "question": "What is the engine type of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini_951",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini Huracan Stato_951",
+              "question": "What is the engine capacity of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini hurricane Stato_951",
+              "question": "What is the engine capacity of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini_951",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini Huracan Stato_951",
+              "question": "What is the horsepower of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini hurricane Stato_951",
+              "question": "What is the horsepower of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini_951",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini Huracan Stato_951",
+              "question": "What is the weight of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini hurricane Stato_951",
+              "question": "What is the weight of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini_951",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini Huracan Stato_951",
+              "question": "What is the torque of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini hurricane Stato_951",
+              "question": "What is the torque of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini_951",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini Huracan Stato_951",
+              "question": "What is the gearbox in the Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini hurricane Stato_951",
+              "question": "What is the gearbox in the Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini_951",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini Huracan Stato_951",
+              "question": "What is the quarter mile time of Lamborghini Huracan Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds",
+                  "answer_start": 536
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini hurricane Stato_951",
+              "question": "What is the quarter mile time of Lamborghini hurricane Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds",
+                  "answer_start": 536
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini_951",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds",
+                  "answer_start": 536
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "applause ] that was a very convincing victory for you i ' d have be better doing 50 in third well let ' s try 50 in third oh you ' re confident i think you might win that as well but let ' s give it a go ready 3 2 1 [ music ] go stop [ music ] oh my god this is just easy wins all over for you is it yeah i think at the end of the day once we take the launch out of it this car is just a lot faster i think that is um correct anyway final challenge maybe the bmw do better in this one the bmw weighs more right it weighs way more oh let ' s see what happens okay break test from 100 milph the shortest distance w in one of these city chairs go go off what what happened i don ' t know i was looking trying to keep my speed level i saw the coe i went oh break was the wrong wrong break point oh let ' s go again i was wondering why did so badly here comes the line that was crazy i think i just won even though my bonnet ' s longer your bottom is definitely further forward than mine but i think mine nose is further back which is what really matters yeah i agree you definitely won that it was close though very close i think my tires worked out better than than his these off - road tires anyway l thanks to the chapy lst the sbmw thanks tommy for bringing his car in i ' ll see you next time",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_1439",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_1439",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_1439",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_1439",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_1439",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_1439",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_1439",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_1439",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_1439",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_1439",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_1439",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_1439",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_1439",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_1439",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini Huracan Stato_1439",
+              "question": "What is the engine type of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini hurricane Stato_1439",
+              "question": "What is the engine type of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Type_Lamborghini_1439",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini Huracan Stato_1439",
+              "question": "What is the engine capacity of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini hurricane Stato_1439",
+              "question": "What is the engine capacity of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Engine Capacity_Lamborghini_1439",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini Huracan Stato_1439",
+              "question": "What is the horsepower of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini hurricane Stato_1439",
+              "question": "What is the horsepower of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Horsepower_Lamborghini_1439",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini Huracan Stato_1439",
+              "question": "What is the weight of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini hurricane Stato_1439",
+              "question": "What is the weight of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Weight_Lamborghini_1439",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini Huracan Stato_1439",
+              "question": "What is the torque of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini hurricane Stato_1439",
+              "question": "What is the torque of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Torque_Lamborghini_1439",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini Huracan Stato_1439",
+              "question": "What is the gearbox in the Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini hurricane Stato_1439",
+              "question": "What is the gearbox in the Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Gearbox_Lamborghini_1439",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini Huracan Stato_1439",
+              "question": "What is the quarter mile time of Lamborghini Huracan Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini hurricane Stato_1439",
+              "question": "What is the quarter mile time of Lamborghini hurricane Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Huracan Stato_Quarter Mile Time_Lamborghini_1439",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

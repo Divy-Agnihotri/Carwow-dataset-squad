@@ -1,0 +1,1706 @@
+{
+  "data": [
+    {
+      "title": "New VW Golf R v BMW M135 v Audi S3 v AMG A35 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new vw golf r v bmw m135 v audi s3 v amg a35 drag race _ transcript what will win in a drag racer between the new volkswagen golf r the audi s3 the bmw m135 you can ' t call it an i anymore cuz it ' s not and the mercedes amg a35 while we ' re going to find out by drag racing them over the standing coral i ' m matt watson and you watching car the volkswagen golf r has a 2 l 4cylinder turbocharged petrol engine which puts out 333 horsepower and 4 420 n m of torque and that power is sent to all four wheels by a 7speed dual clutch automatic gearbox the car weighs in at 1, 548 kg and it starts from £5, 000 the bmw m135 also has a 2 l 4 cylinder turbocharged petrol engine but with 300 horsepower and 400 newm of torque power is sent to all four wheels once again by a 7 - speed dual clutch automatic gearbox the car weighs 1, 550 kg and starts from 44, 000 the audi s3 has the same 2 l 4 - cylinder turbocharged petrol engine as the golf so the same 333 horsepower and 420 new m of torque and once again power is sent to all four wheels for a 7 - speed dual clutch automatic gearbox and the car weighs in at 1, 535 kg and starts from £48, 000 and just like the others the mercedes mg a35 has a 2 l 4cylinder turbocharge petrol engine but it has 306 horsepower and 400 nt m of torque power isent into all four wheels for an 8 - speed dual clutch automatic gearbox the amg weighs in at 1, 495 kilos and starts from 46, 000 i ' m not entirely sure what ' s going to happen in this drag race this golf r is a pretty impressive piece of kit but it ' s also pretty much the same kind underneath the skin as that audi s3 let ' s speak to its driver hey yy which car do you prefer mine or yours hi matt i prefer your one i prefer your color just this driver is better than that car okay right thought you might say that you have made the right choice i ' d rather have this than that as well but i ' m not sure that this is going to be quicker in a drag race because how is supposed to be more expensive a little bit more desireable maybe they just give it just that little bit extra nus okay okay then that ' s me trying to put",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_1",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4cylinder turbocharged petrol engine",
+                  "answer_start": 371
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_1",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 373
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_1",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "333 horsepower",
+                  "answer_start": 429
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_1",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,548 kg",
+                  "answer_start": 576
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_1",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 420 n m of torque",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_1",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7speed dual clutch automatic gearbox",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_1",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_1",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4 cylinder turbocharged petrol engine",
+                  "answer_start": 371
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_1",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 373
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_1",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "300 horsepower",
+                  "answer_start": 429
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_1",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,550 kg",
+                  "answer_start": 830
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_1",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "400 newm of torque",
+                  "answer_start": 704
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_1",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_1",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_1",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4-cylinder turbocharged petrol engine",
+                  "answer_start": 371
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_1",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 373
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_1",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "333 horsepower",
+                  "answer_start": 429
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_1",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,535 kg",
+                  "answer_start": 1115
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_1",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "420 new M of torque",
+                  "answer_start": 450
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_1",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_1",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_1",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L 4cylinder turbocharge petrol engine",
+                  "answer_start": 371
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_1",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 373
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_1",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "306 horsepower",
+                  "answer_start": 429
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_1",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,495 kilos",
+                  "answer_start": 1391
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_1",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "400 NT M of torque",
+                  "answer_start": 450
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_1",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_1",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "you under pressure that you expected to win so if you don ' t you know you ' re a failure whereas if you do win it ' s all down to the car anyway let ' s move on to the bmw cuz bmws are usually the cars that overperform but i ' ve got a feeling that one might underperform well i ' m sure hoping it does overperform because at the moment on paper i ' ve got the least power and the most weight so that ' s a lose lose for me but at least there ' s no pressure wait that ' s two excuses there um which brings us on to our final driver sam how you doing in the mercedes yeah i ' m good i mean nick ' s complaining about least it ' s six horsepower difference nick so let ' s cal down a little bit these don ' t faire very well against the other competition do they in terms of speed but i think in terms of luxury in class this is one already isn ' t it i do like the look of that mark it ' s been around the long but it ' s still the coolest and the interior design is really nice as well it just does feel a bit cheap in places however with these cars a lot of it is about the emotion you know the hot hatches let ' s rev them up and have a listen to them see which one sounds the best so i ' m going to go into race mode now i should point out you can get this car with a 3, 000 a crap of it exhaust system it doesn ' t have it but i don ' t think it needs it have a listen no soft limits for me it ' s all right in it a crap exhaust i got one on my car yeah this hasn ' t got it though oh see he thought it had the acrapovic exhaust on it it doesn ' t need it right let ' s have a listen to your [ music ] audi same engine same gearbox same four - wheel drive system but audi put a soft limiter on their car why nick let ' s have a listen to your car [ music ] nick ' s car will be sounding much better to him on the inside get some pops and bangs there on the inside nick yeah although they sound like pingpong balls being thrown down a hallway it ' s not very convincing yeah and he just jump into nick ' s car and have a listen to it forever get the cars hi nick hello yan let ' s have a listen oh my head a",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_455",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_455",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_455",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_455",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_455",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_455",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_455",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_455",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_455",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_455",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_455",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_455",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_455",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_455",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_455",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_455",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_455",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_455",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_455",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_455",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_455",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_455",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_455",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_455",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_455",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_455",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_455",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_455",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "gopro oh wow it sounds amazing amazing so what does it sound like outside terrible really where ' s the mic mt this sounds incredible in here outside dog doooo but inside it ' s amazing open your window let sam hear it i can ' t hear it come come sit over listen we ' re playing it ' s musical cars at the moment i should have never worn a white hoodie though damn ow i ' m okay i ' m okay you ' re the second person to do that go ahead it ' s a fake pop there ' s none of that outside no sounds like it ' s going to blow up from the outside oh oh good good good enjoy uh sam should ever listen to your car by the rules i ' ve won there was a pop i ' m i ' m the only one with a pop so that ' s that ' s me won i sort have had some pops but they weren ' t as good as yours yes you win sam congratulations well done sam proud of you mate however my car has a drift mode you don ' t have that i think your car has a drift mode as well yy you go and try and find it in the system while i go and do some drifting up there see who takes the longest drive mode why you got to do this to me basically just doing it all with the esp i ' m not doing a thing and it ' s just doing it all that was a bit of a mess it ' s a bit weird that is i wanted turn the stability all the way off let ' s go into mode esc system remember the four - wheel drive drifting technique matt not the rear wheel drive we ' ve been through this haven ' t we it ' s basically a system in the car where you ' re not supposed to do anything and you just floor it and it all does it itself so i wasn ' t doing anything the way sam spoke to you there and i thought that was your dad talking to you do you know what i did as well it ' s oh my god he ' s speaking to me from beyond the [ applause ] grave have you found it on your car yanni you should have it i can ' t find it anywhere efficiency comfort auto dnamic individual dynamic plus that ' s it i ' m going to talk to you like sam talk to me yanni listen i ' ve told you aund times take a little bit more care don ' t rush rush rush press some buttons be patient oh you know it just makes me feel ill",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_937",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_937",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_937",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_937",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_937",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_937",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_937",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_937",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_937",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_937",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_937",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_937",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_937",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_937",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_937",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_937",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_937",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_937",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_937",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_937",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_937",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_937",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_937",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_937",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_937",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_937",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_937",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_937",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "hi matt hello look dve mode dynamic plus uh uh do you want to talk to me like like my father as well we ' ve established that there ' s no drift mode in this car young matthew that was more like my [ music ] mom i ' m embarrassed would you like to make a no would why do you think i want to make an emergency call to report damage it thinks i ' ve crashed my drifting was so bad it thinks i crashed sam actually do you want to come and just drift this car don ' t press any buttons just drift it i ' m going to put it into drift mode for you turn it on thanks any i can ' t operate the radio either can i i turned off when that ' s in your car uh sam do you want to come and you have a little drift round up bosch cuz i mean if you can ' t drift it no one can i know i ' ve been away a while but we don ' t drag race anymore no we don ' t do that anymore no no this is it it ' s a coffee [ music ] morning sam that looks mate i told you don ' t turn the wheel into drift told you i mean how many times i can ' t watch you turn right while drifting right doesn ' t matter what buttons you press me if you ' ve got it in drift mode it ' s going to do that to you it ' s all done by computer how can it be drift mode if the traction ' s on it ' s ridiculous say sorry matthew like my dad after you know he scolded me incorrectly you got to say sorry matthew sometimes parents get it wrong sorry matthew daddy got it wrong is making me feel nervous yeah let ' s race sorry sorry everyone watching skip to this part of the video 3 2 1 oh s ' s off first what the [ music ] happened come on but his car is worst oh come on no oh yan ' s coming back now that was mad this absolutely smashed it [ applause ] mate did you see what my car did what did your car do it it didn ' t win it was weird accelerated but then the back dropped and it threw me out to the sid i don ' t know what happened do you want to go in this no i like this but i could have had my handbrake on maybe i don ' t know it has an electronic parking brake not a handbrake and it would have automatically released i think it was just loss of traction and it slid a bit sam you had an",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_1427",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_1427",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_1427",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_1427",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_1427",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_1427",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_1427",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_1427",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_1427",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_1427",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_1427",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_1427",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_1427",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_1427",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_1427",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_1427",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_1427",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_1427",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_1427",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_1427",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_1427",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_1427",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_1427",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_1427",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_1427",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_1427",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_1427",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_1427",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "amazing start as ever out the blocks like a proper pro racing driver but you can ' t wasn ' t quick enough was it yeah it just ran out of juice didn ' t it bless it oh yanni what ' s wrong with you did it go a little bit sideways in the scary wet conditions i ' m sure i still beat you even with that and i wasn ' t scared yes your car is faster than mine i agree nick nick nick hi nick what happened to the bmw normally really really quick i think the previous m135 when it was called the i 135i it was the quickest wasn ' t it and what ' s happening now you ' re not are you nope i got a fairly good launch not as good as sam ' s and i think i just stayed ahead but you were miles ahead let ' s run again can can we address something as well can we talk about your eye cuz they ' re going to ask what happened to your eye matt let me guess we should see the other guy yeah the other guy it ' s actually a car door i was beaten up by a car i was reviewing it didn ' t like the verdict i gave on it and so it whacked me in the face with its door and i ended up in hospital concussed but you ' re okay you still got that pretty face but anyway we can continue on the race now i just wanted to let the people at home know what happened to you yanni punched me 3 2 1 oh i was close to sam that time better better it was so quick that i lost my phone and my walkie - talkie and my [ applause ] mic w this thing is rapid am i going to beat the be come on m135 oh it ' s going to be so close what is yanni [ applause ] doing i can ' t believe [ applause ] it once again i think you ' re at the blocks the quickest sam did the bmw beat you though it did not beat me i won that one that was the best launch i ' ve ever had in one of these marks and it ' s down to the wheel spin when you let these cars go give a little bit of wheel spin and keep going that ' s when they ' re quickest see this isn ' t doing wheel spin it ' s just like slipping its clutch or whatever and that ' s why you ' re just like banging off the line never before has the 135 been beaten by the mercedes has it i don ' t believe so this is",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_1919",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_1919",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_1919",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_1919",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_1919",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_1919",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_1919",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_1919",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_1919",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_1919",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_1919",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_1919",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_1919",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_1919",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_1919",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_1919",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_1919",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_1919",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_1919",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_1919",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_1919",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_1919",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_1919",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_1919",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_1919",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_1919",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_1919",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_1919",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "launching strangely it gets a great kick off the line and then suddenly it just either spins the wheels too much takes the power away and i lose ground yanni what ' s happening i thought it actually launched really well but it didn ' t change gear for me right go in this car everyone goes that i ' m always in the fastest car it ' s kind of true but go in this for god ' s sake it didn ' t change gear it ' s the same thing this no they will change gear oh my god how short are you m bloody hell yeah yanni i ' ve just noticed the parking brake does come on automatically and that might have been your problem so i ' ve just turned it off hopefully it ' ll change gear 3 2 1 come on audi come on come on oh that golf is [ music ] quicker see it wasn ' t me yes ah a oh god i so wanted to beat him yeah baby golf one just ahead of the audi when it ' s got someone proper driving it what happened with uh you two i w yes he did i ' m just not getting good launches out of this car which i think we should do swap sam with nick we be real bloody day listen nick do you think the car can do any better so currently i ' ve got it in sport plus mode all the way through i tried turning traction completely off after sam ' s ballistic launch with no traction control then i tried to put it in launch control mode and it wouldn ' t go into launch control mode so i guess sport plus is the fastest way according to bmw to launch it and that ' s that and your reaction time ' s good sam ' s car just launches like crazy this beat the golf off the line and then the golf came past i think that ' s it let ' s do the thing so then what exactly happened well the volkswagen one it completed the standing quarter mile in 12. 8 seconds the audi took 12. 9 seconds the mercedes 13. 2 seconds and the bmw was last it did the sunny quarter mile in 13. 3 seconds if you ' re changing your car then you got to check out car wow because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one car makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past life changing now if you want to go a car while right now i ' ll put a link",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_2403",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_2403",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_2403",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_2403",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_2403",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_2403",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_2403",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 1712
+                }
+              ]
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_2403",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_2403",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_2403",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_2403",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_2403",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_2403",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_2403",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "13.3 seconds",
+                  "answer_start": 1835
+                }
+              ]
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_2403",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_2403",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_2403",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_2403",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_2403",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_2403",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_2403",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds",
+                  "answer_start": 1740
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_2403",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_2403",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_2403",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_2403",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_2403",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_2403",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_2403",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "13.2 seconds",
+                  "answer_start": 1767
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "in the description of this video and the pin comment alternatively you can click on the pop out banner appearing in the top right hand cor the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow now we can have a rolling race from 50 mph the cars are in like normal cruising mode automatic mode for the gearbox we going to race to the half mark three two one go floor it oh that mercedes [ music ] again wo come on that bmw ' s slow oh everyone ' s just [ applause ] [ music ] disappeared yeah a pulling past now but the golf ' s got the legs yes [ applause ] the golf is gapping see matt does always pick the fastest car once again that mercedes is just off isn ' t it like in terms of responsiveness and actual driving on the road it is the quickest off the mark isn ' t it yeah it kicked down was really good it does run out of puff though you can feel it and maybe it ' s more because the other car is pulling away maybe if you by yourself it would f faster other than that in the real world it ' s quick isn ' t it i like to do things in the real world rather than the fantasy world so nick is there a setting called fantasy in the driving modes there i will just check i hope there ' s a setting called much faster because that kickdown was awful but no no fantasy mode just silent expressive relax digital art and personal where did it come though in the race i was stoned dead last in that race bmw have made their car slower we should get the old one and race it against the new one that ' s coming up make sure you subscribe to this channel cuz we are going to do that bmw fanboys and it ' s going to make you mad anyway what made me mad was getting beaten by the golf the car that you never pick that ' s the fastest year what that that golf i did start off in the fastest car didn ' t i yeah caught red - handed caught red - handed in your red car right let ' s take the gearbox shin onun out the equation and let ' s go manual mode 50 mph sport your settings just so you know you don ' t have to change up because even when you ' re in manual mode in the golf it will automatically change up for you same as this audi in the bmw you have to change up because it ' s bmw rules i don ' t know about mercedes s but you '",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_2895",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_2895",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_2895",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_2895",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_2895",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_2895",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_2895",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_2895",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_2895",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_2895",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_2895",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_2895",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_2895",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_2895",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_2895",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_2895",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_2895",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_2895",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_2895",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_2895",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_2895",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_2895",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_2895",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_2895",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_2895",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_2895",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_2895",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_2895",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "ll figure it out on the way back down okay so you want me in race mode yeah rather than special individual anything like that i actually think you should be in special mode but yeah going race 3 2 1 go oh pick up on this is sweet that mercedes has been dropped oh slow gear change on the beamer no ah come on ay [ applause ] [ music ] oh that fer it oh well at least i beat sam [ applause ] no i think that ' s a clean sweep mate i prefer it when you go past quickly cuz i don ' t have to look at your face for so long just like just i was prolonging the agony nick you actually beat the is then i did and and i ' ll come clean i just brushed the limiter in third which only served to give sam false hope to be honest cuz i was always going to come past him but i hav a hope of beating you guys in those cars no i mean these are just so much faster aren ' t they and to be fair on the mercedes it ' s the oldest one here b is the newest it ' s a little bit disappointing isn ' t it anyway sammy have you got anything to add okay good no right let ' s do the break test he ' s going to punch me break test 100 mph whichever car stops in the shortest distance wins no cheating changing down any of that some okay just play fair hopefully we won ' t crash into each other this could be very [ applause ] bad oh come on oh that was a bit sideways oh hello and that my friends is a full - on clean sweep ah he ' s right but these two are so close aren ' t they so really what you could say that it ' s absolutely fine to get whichever one of these you prefer the look yeah i agree with you it ' s close but no cigar i think you just lost that nick yeah i did it was going okay until the last car length and then this went very sideways very quickly sam you weren ' t cheating at all promise me i can check on the replay yanny you ' re doing some business there are you just in between takes you put the wrong device to talk to us on you know when people edit these videos they see me on the phone the whole time in between takes and shoots edit can we just have a quick montage of yanni on his phone in this this drug race how many times he ' s been on the [ music ] phone okay anyway um we didn ' t hear",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_3384",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_3384",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_3384",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_3384",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_3384",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_3384",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_3384",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_3384",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_3384",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_3384",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_3384",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_3384",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_3384",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_3384",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_3384",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_3384",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_3384",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_3384",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_3384",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_3384",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_3384",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_3384",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_3384",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_3384",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_3384",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_3384",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_3384",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_3384",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "from sam doesn ' t matter i hope you enjoyed the video if you did give it a like click on the video windows to watch more videos thanks to the guys that have lent us these cars by the way really appreciate it the links and stuff in the description to this video if you want to compare the qu mile times of all these cars to everything else with ever drag race click on the logo to check out the go drug race leader board thanks for watching",
+          "qas": [
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_3872",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_3872",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_3872",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Weight_Volkswagen Golf R_3872",
+              "question": "What is the weight of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Torque_Volkswagen Golf R_3872",
+              "question": "What is the torque of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Gearbox_Volkswagen Golf R_3872",
+              "question": "What is the gearbox in the Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_3872",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Type_BMW M135_3872",
+              "question": "What is the engine type of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Engine Capacity_BMW M135_3872",
+              "question": "What is the engine capacity of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Horsepower_BMW M135_3872",
+              "question": "What is the horsepower of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Weight_BMW M135_3872",
+              "question": "What is the weight of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Torque_BMW M135_3872",
+              "question": "What is the torque of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Gearbox_BMW M135_3872",
+              "question": "What is the gearbox in the BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M135_Quarter Mile Time_BMW M135_3872",
+              "question": "What is the quarter mile time of BMW M135?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Type_Audi S3_3872",
+              "question": "What is the engine type of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Engine Capacity_Audi S3_3872",
+              "question": "What is the engine capacity of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Horsepower_Audi S3_3872",
+              "question": "What is the horsepower of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Weight_Audi S3_3872",
+              "question": "What is the weight of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Torque_Audi S3_3872",
+              "question": "What is the torque of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Gearbox_Audi S3_3872",
+              "question": "What is the gearbox in the Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S3_Quarter Mile Time_Audi S3_3872",
+              "question": "What is the quarter mile time of Audi S3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Type_Mercedes AMG A35_3872",
+              "question": "What is the engine type of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Engine Capacity_Mercedes AMG A35_3872",
+              "question": "What is the engine capacity of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Horsepower_Mercedes AMG A35_3872",
+              "question": "What is the horsepower of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Weight_Mercedes AMG A35_3872",
+              "question": "What is the weight of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Torque_Mercedes AMG A35_3872",
+              "question": "What is the torque of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Gearbox_Mercedes AMG A35_3872",
+              "question": "What is the gearbox in the Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG A35_Quarter Mile Time_Mercedes AMG A35_3872",
+              "question": "What is the quarter mile time of Mercedes AMG A35?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

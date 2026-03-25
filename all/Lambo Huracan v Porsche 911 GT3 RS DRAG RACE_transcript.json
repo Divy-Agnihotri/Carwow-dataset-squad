@@ -1,0 +1,3709 @@
+{
+  "data": [
+    {
+      "title": "Lambo Huracan v Porsche 911 GT3 RS DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "lambo huracan v porsche 911 gt3 rs drag race _ transcript what will win in a drag race between the lamborghini hurrican stato and a por 91 gt3 rs well i ' m going to find out i ' m matt watson and you ' re watching [ music ] carw the porsche 911 gt3rs has a 4 l natur aspirated flat six that puts out 525 horsepower and 465 newm of torque it drives the rear wheels as far as 7 - speed pdk automatic gearbox and the car weighs in at 1,450 kg the 911 gt3 rs starts from £92, 000 the lamborghini hurricane stado has a 5.2 l natur aspirated v10 that puts out 610 horsepower and 560 newm of torque it drives all four wheels fire 7 - speed dual clutch automatic gearbox and the car weighs in at 1,470 kilos when it was new the st ao cost from £ 232, 000 hey tommy how are you i ' m fine thank you very much i noce you ' ve got your shades on you ' re just looking cool in your lambo is that how lambo drivers drive always with shades on even in the dark that is exactly uh the reason why not because we ' re being blinded by the sun right now i ' m going to put these on as well because i can barely see anything otherwise so your stato and your gt3 rs which do you prefer it depends on the situation to be frank also this car is technically my wife ' s dorato she wanted a supercar she got this and drove it once or twice okay but which one do you prefer gt3 rs you ' ve been very dirty to lamborghini recently you ' re always preferring the porsche over whatever lamborghini you bring along that that isn ' t the case that isn ' t the case i i love my lamborghinis i have too many at the moment so how many is too many lamborghinis uh at the moment uh myself myself and my wife have four okay four so i ' ve actually got four porsches hold on one second can i ask you a question why are you in my gt3 rs and not your gt3 rs i don ' t want to damage my well i don ' t care about damaging yours you see you see you see this that ' s actually not the real reason there ' s another reason and what ' s that have a guess you decided to buy a lamborg",
+          "qas": [
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_por 91 GT3 RS_1",
+              "question": "What is the engine type of por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_GT3 RS_1",
+              "question": "What is the engine type of GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche_1",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_911 GT3 RS_1",
+              "question": "What is the engine type of 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the engine type of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the engine type of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the engine type of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the engine type of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the engine type of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the engine type of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini Hurrican Stato_1",
+              "question": "What is the engine type of Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Stato_1",
+              "question": "What is the engine type of Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lambo_1",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini_1",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V10",
+                  "answer_start": 513
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_por 91 GT3 RS_1",
+              "question": "What is the engine capacity of por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_GT3 RS_1",
+              "question": "What is the engine capacity of GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche_1",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_911 GT3 RS_1",
+              "question": "What is the engine capacity of 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the engine capacity of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the engine capacity of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the engine capacity of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the engine capacity of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the engine capacity of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini Hurrican Stato_1",
+              "question": "What is the engine capacity of Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Stato_1",
+              "question": "What is the engine capacity of Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lambo_1",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini_1",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 515
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_por 91 GT3 RS_1",
+              "question": "What is the horsepower of por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_GT3 RS_1",
+              "question": "What is the horsepower of GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche_1",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_911 GT3 RS_1",
+              "question": "What is the horsepower of 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the horsepower of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the horsepower of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the horsepower of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the horsepower of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the horsepower of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the horsepower of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini Hurrican Stato_1",
+              "question": "What is the horsepower of Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Stato_1",
+              "question": "What is the horsepower of Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lambo_1",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini_1",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 horsepower",
+                  "answer_start": 555
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_por 91 GT3 RS_1",
+              "question": "What is the weight of por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_GT3 RS_1",
+              "question": "What is the weight of GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Porsche_1",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_911 GT3 RS_1",
+              "question": "What is the weight of 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the weight of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the weight of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the weight of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the weight of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the weight of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the weight of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini Hurrican Stato_1",
+              "question": "What is the weight of Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Stato_1",
+              "question": "What is the weight of Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lambo_1",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini_1",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,470 kilos",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_por 91 GT3 RS_1",
+              "question": "What is the torque of por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_GT3 RS_1",
+              "question": "What is the torque of GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche_1",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_911 GT3 RS_1",
+              "question": "What is the torque of 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the torque of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the torque of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the torque of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the torque of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the torque of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the torque of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini Hurrican Stato_1",
+              "question": "What is the torque of Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Stato_1",
+              "question": "What is the torque of Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lambo_1",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini_1",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "560 newm of torque",
+                  "answer_start": 320
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_por 91 GT3 RS_1",
+              "question": "What is the gearbox in the por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_GT3 RS_1",
+              "question": "What is the gearbox in the GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Porsche_1",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_911 GT3 RS_1",
+              "question": "What is the gearbox in the 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the gearbox in the Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the gearbox in the Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the gearbox in the Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the gearbox in the Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the gearbox in the Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini Hurrican Stato_1",
+              "question": "What is the gearbox in the Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Stato_1",
+              "question": "What is the gearbox in the Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lambo_1",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini_1",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 628
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_por 91 GT3 RS_1",
+              "question": "What is the quarter mile time of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_GT3 RS_1",
+              "question": "What is the quarter mile time of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche_1",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_911 GT3 RS_1",
+              "question": "What is the quarter mile time of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Type: 5.2 L natur aspirated V10 [109,113]_1",
+              "question": "What is the quarter mile time of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Capacity: 5.2 L [110,111]_1",
+              "question": "What is the quarter mile time of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Horsepower: 610 horsepower [118,119]_1",
+              "question": "What is the quarter mile time of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Weight: 1,470 kilos [144,145]_1",
+              "question": "What is the quarter mile time of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Torque: 560 newm of torque [70,73]_1",
+              "question": "What is the quarter mile time of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Quarter Mile Time: 10.9 seconds [1564,1565]_1",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini Hurrican Stato_1",
+              "question": "What is the quarter mile time of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Stato_1",
+              "question": "What is the quarter mile time of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lambo_1",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini_1",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "##hini i ' m not going to buy a lamborghini now and i haven ' t crashed it and it ' s not being repaired by matt armstrong either you ' re replacing it with another porche might be so i basically sold my through rs that ' s right i said i never would but i have i ' ve sold it that ' s it it ' s gone there ' s a video somewhere online where you might be able to watch and um see what um why i sold it so that ' s why i ' m in your car but i ' m sort of regretting my decision now because h of this car it ' s such a cool track focus machine and it you know what ' s nice you can still drive it on normal roads and it ' s quite compliant and obviously it looks absolutely insane okay so question how many times have you taken this on track twice guess how many times i took mine on track once i was going to say non then but that ' d be a bit rude um no times no times at all honestly i ' m such a chicken all the cars i ' ve ever driven on track that ' s the most confident and safe i ' ve ever felt yeah exactly so i go so confidently and so safely until i found its limits and then it would let go and i ' d be going backwards into a barrier at a very high speed anyway it ' s too late now it ' s gone let ' s compare the sand of these two cars so we ' re going to compare a german flax 6 naturally aspirated engine against a italian v10 so i ' m going to rev up this porch i ' m going to do the funny thing that you have to do so what you do is put it into gear like you pull up both pador and it should let me rev it i ' m quite surprised you haven ' t put a gintani exhaust on this you never know let ' s see for the next video okay and i bet because that ' s your wife ' s you haven ' t put a ginton exhaust on that either no i haven ' t it ' s completely stuck rev it up [ music ] then because i haven ' t driven it it ' s not letting me rev any more than that they do that though the lamborghinis they let you have one rev to let go yeah yeah it ' s not it ' s not happy you ' re going to have to do some driving in it before you race i think i prefer the sound of the",
+          "qas": [
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_por 91 GT3 RS_439",
+              "question": "What is the engine type of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_GT3 RS_439",
+              "question": "What is the engine type of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche_439",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_911 GT3 RS_439",
+              "question": "What is the engine type of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the engine type of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the engine type of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the engine type of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the engine type of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the engine type of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the engine type of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini Hurrican Stato_439",
+              "question": "What is the engine type of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Stato_439",
+              "question": "What is the engine type of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lambo_439",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini_439",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_por 91 GT3 RS_439",
+              "question": "What is the engine capacity of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_GT3 RS_439",
+              "question": "What is the engine capacity of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche_439",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_911 GT3 RS_439",
+              "question": "What is the engine capacity of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the engine capacity of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the engine capacity of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the engine capacity of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the engine capacity of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the engine capacity of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini Hurrican Stato_439",
+              "question": "What is the engine capacity of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Stato_439",
+              "question": "What is the engine capacity of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lambo_439",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini_439",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_por 91 GT3 RS_439",
+              "question": "What is the horsepower of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_GT3 RS_439",
+              "question": "What is the horsepower of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche_439",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_911 GT3 RS_439",
+              "question": "What is the horsepower of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the horsepower of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the horsepower of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the horsepower of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the horsepower of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the horsepower of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the horsepower of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini Hurrican Stato_439",
+              "question": "What is the horsepower of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Stato_439",
+              "question": "What is the horsepower of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lambo_439",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini_439",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_por 91 GT3 RS_439",
+              "question": "What is the weight of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_GT3 RS_439",
+              "question": "What is the weight of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Porsche_439",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_911 GT3 RS_439",
+              "question": "What is the weight of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the weight of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the weight of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the weight of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the weight of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the weight of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the weight of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini Hurrican Stato_439",
+              "question": "What is the weight of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Stato_439",
+              "question": "What is the weight of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lambo_439",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini_439",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_por 91 GT3 RS_439",
+              "question": "What is the torque of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_GT3 RS_439",
+              "question": "What is the torque of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche_439",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_911 GT3 RS_439",
+              "question": "What is the torque of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the torque of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the torque of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the torque of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the torque of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the torque of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the torque of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini Hurrican Stato_439",
+              "question": "What is the torque of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Stato_439",
+              "question": "What is the torque of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lambo_439",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini_439",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_por 91 GT3 RS_439",
+              "question": "What is the gearbox in the por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_GT3 RS_439",
+              "question": "What is the gearbox in the GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Porsche_439",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_911 GT3 RS_439",
+              "question": "What is the gearbox in the 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the gearbox in the Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the gearbox in the Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the gearbox in the Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the gearbox in the Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the gearbox in the Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini Hurrican Stato_439",
+              "question": "What is the gearbox in the Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Stato_439",
+              "question": "What is the gearbox in the Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lambo_439",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini_439",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_por 91 GT3 RS_439",
+              "question": "What is the quarter mile time of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_GT3 RS_439",
+              "question": "What is the quarter mile time of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche_439",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_911 GT3 RS_439",
+              "question": "What is the quarter mile time of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Type: 5.2 L natur aspirated V10 [109,113]_439",
+              "question": "What is the quarter mile time of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Capacity: 5.2 L [110,111]_439",
+              "question": "What is the quarter mile time of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Horsepower: 610 horsepower [118,119]_439",
+              "question": "What is the quarter mile time of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Weight: 1,470 kilos [144,145]_439",
+              "question": "What is the quarter mile time of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Torque: 560 newm of torque [70,73]_439",
+              "question": "What is the quarter mile time of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_439",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Quarter Mile Time: 10.9 seconds [1564,1565]_439",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini Hurrican Stato_439",
+              "question": "What is the quarter mile time of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Stato_439",
+              "question": "What is the quarter mile time of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lambo_439",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini_439",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "porsche it ' s just pure i know what you mean it ' s got like when i heard you warming it up it had like a beautiful sound to it anyway enough um over the sound of the cars let ' s go warm up our tires and then we ' ll get on with the race now before we do if you want to sell your car to buy something exotic like this or maybe you just need to buy uh your next car for your family you want to make sure you get getting a good deal for the car you ' re selling and you can easily sell your car through carw right just upload some photos give a brief description then dealers all across the country will bid on it in our online auction go online check it out put a link in the description and the pin comment and there is also the option to just click on the pop out banner or scan the qr code to go straight there now and have a good selling your car it ' s easy anyhow let ' s race 3 2 [ music ] oh this car [ applause ] [ music ] [ applause ] oh i need to war on these [ music ] toys it nice to see my tires are being put to work sorry about your tires tommy sorry well enjoy 3 2 1 [ music ] oh yes come on still [ music ] [ applause ] [ music ] ti this hed up so much better with warm tires i have never seen a launch so perfect that looked incredible one each let ' s go 3 2 [ applause ] on [ music ] come this good this last [ music ] [ applause ] okay okay okay okay okay right can we best do best three out five why not i ' m three out of five come on that sprun its wheels it was just a bit slower and you were you were bang on with your launch mine wasn ' t as good come on let ' s do it let ' s do [ music ] it is that smoke i ' m seeing behind me my tires bro i got drs active now oh yes yes very active at the moment all right let ' s see how it goes for the drs open my drs is shut now it ' s a not ready you ' re going to have to open it whilst we drive so you ' re just going to have to remember as soon as you launch open it okay come on come on really tense really tense cuz i want this to win 2 1 [ applause ] [ music ] [ music ] [ applause ] [ music ] i feel like i jumped let",
+          "qas": [
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_por 91 GT3 RS_925",
+              "question": "What is the engine type of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_GT3 RS_925",
+              "question": "What is the engine type of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche_925",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_911 GT3 RS_925",
+              "question": "What is the engine type of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the engine type of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the engine type of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the engine type of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the engine type of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the engine type of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the engine type of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini Hurrican Stato_925",
+              "question": "What is the engine type of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Stato_925",
+              "question": "What is the engine type of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lambo_925",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini_925",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_por 91 GT3 RS_925",
+              "question": "What is the engine capacity of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_GT3 RS_925",
+              "question": "What is the engine capacity of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche_925",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_911 GT3 RS_925",
+              "question": "What is the engine capacity of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the engine capacity of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the engine capacity of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the engine capacity of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the engine capacity of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the engine capacity of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini Hurrican Stato_925",
+              "question": "What is the engine capacity of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Stato_925",
+              "question": "What is the engine capacity of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lambo_925",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini_925",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_por 91 GT3 RS_925",
+              "question": "What is the horsepower of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_GT3 RS_925",
+              "question": "What is the horsepower of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche_925",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_911 GT3 RS_925",
+              "question": "What is the horsepower of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the horsepower of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the horsepower of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the horsepower of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the horsepower of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the horsepower of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the horsepower of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini Hurrican Stato_925",
+              "question": "What is the horsepower of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Stato_925",
+              "question": "What is the horsepower of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lambo_925",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini_925",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_por 91 GT3 RS_925",
+              "question": "What is the weight of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_GT3 RS_925",
+              "question": "What is the weight of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Porsche_925",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_911 GT3 RS_925",
+              "question": "What is the weight of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the weight of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the weight of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the weight of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the weight of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the weight of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the weight of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini Hurrican Stato_925",
+              "question": "What is the weight of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Stato_925",
+              "question": "What is the weight of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lambo_925",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini_925",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_por 91 GT3 RS_925",
+              "question": "What is the torque of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_GT3 RS_925",
+              "question": "What is the torque of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche_925",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_911 GT3 RS_925",
+              "question": "What is the torque of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the torque of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the torque of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the torque of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the torque of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the torque of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the torque of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini Hurrican Stato_925",
+              "question": "What is the torque of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Stato_925",
+              "question": "What is the torque of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lambo_925",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini_925",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_por 91 GT3 RS_925",
+              "question": "What is the gearbox in the por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_GT3 RS_925",
+              "question": "What is the gearbox in the GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Porsche_925",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_911 GT3 RS_925",
+              "question": "What is the gearbox in the 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the gearbox in the Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the gearbox in the Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the gearbox in the Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the gearbox in the Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the gearbox in the Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini Hurrican Stato_925",
+              "question": "What is the gearbox in the Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Stato_925",
+              "question": "What is the gearbox in the Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lambo_925",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini_925",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_por 91 GT3 RS_925",
+              "question": "What is the quarter mile time of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_GT3 RS_925",
+              "question": "What is the quarter mile time of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche_925",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_911 GT3 RS_925",
+              "question": "What is the quarter mile time of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Type: 5.2 L natur aspirated V10 [109,113]_925",
+              "question": "What is the quarter mile time of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Capacity: 5.2 L [110,111]_925",
+              "question": "What is the quarter mile time of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Horsepower: 610 horsepower [118,119]_925",
+              "question": "What is the quarter mile time of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Weight: 1,470 kilos [144,145]_925",
+              "question": "What is the quarter mile time of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Torque: 560 newm of torque [70,73]_925",
+              "question": "What is the quarter mile time of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_925",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Quarter Mile Time: 10.9 seconds [1564,1565]_925",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini Hurrican Stato_925",
+              "question": "What is the quarter mile time of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Stato_925",
+              "question": "What is the quarter mile time of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lambo_925",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini_925",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "' s just check if you jumped i ' m going to take that as a win can we check if tommy jumped cuz that was an amazing time in this car yeah the lump 2 each then this is the decider this car is hooking up as well now 3 2 1 [ music ] [ applause ] [ music ] [ applause ] victory to the lambo yes there certified victory i wasn ' t expecting it with these off - road tires but it happened it happened i mean it just hooks up so well this spit wheels a little bit then was slightly faster than the other race but i don ' t think n no chance we tried so one one n to the lambo right now so then what exactly happened well the lamborghini one he completed the standing quarter mile in 10. 9 seconds the por stu 11. 2 seconds if you ' re changing your car then you got to check out carwow because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one carwow makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprises a thing of the past life changing now if you want to go a car while right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out banner appearing in the top right hand cor the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow now we have a rolling race from 50 mph with the cars in the just normal drive settings and automatic mod for the gearbox 3 2 1 go [ music ] okay [ music ] okay right i think this car kick down quicker but i think pdk is better than the lamborghini thing ultimately you ' ve got like 100 more horsepower yeah i actually wasn ' t expecting that i think i actually hit the car ' s maximum speed it says 165 i have no idea how quick i was going when i backed off but i ' m sure the editors can show you now on screen right let ' s do it in gear i that was a gopro just falling off right in gear rolling race third gear from 50 mph over the half mile sport your settings right let ' s do this 3 2 1 go [ music ] that was even worse that time you take the gearbox kicking down at the equation because the por is so good it mass and the power difference when it",
+          "qas": [
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_por 91 GT3 RS_1415",
+              "question": "What is the engine type of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_GT3 RS_1415",
+              "question": "What is the engine type of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche_1415",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_911 GT3 RS_1415",
+              "question": "What is the engine type of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the engine type of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the engine type of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the engine type of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the engine type of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the engine type of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the engine type of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini Hurrican Stato_1415",
+              "question": "What is the engine type of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Stato_1415",
+              "question": "What is the engine type of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lambo_1415",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini_1415",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_por 91 GT3 RS_1415",
+              "question": "What is the engine capacity of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_GT3 RS_1415",
+              "question": "What is the engine capacity of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche_1415",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_911 GT3 RS_1415",
+              "question": "What is the engine capacity of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the engine capacity of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the engine capacity of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the engine capacity of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the engine capacity of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the engine capacity of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini Hurrican Stato_1415",
+              "question": "What is the engine capacity of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Stato_1415",
+              "question": "What is the engine capacity of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lambo_1415",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini_1415",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_por 91 GT3 RS_1415",
+              "question": "What is the horsepower of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_GT3 RS_1415",
+              "question": "What is the horsepower of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche_1415",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_911 GT3 RS_1415",
+              "question": "What is the horsepower of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the horsepower of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the horsepower of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the horsepower of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the horsepower of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the horsepower of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the horsepower of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini Hurrican Stato_1415",
+              "question": "What is the horsepower of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Stato_1415",
+              "question": "What is the horsepower of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lambo_1415",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini_1415",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_por 91 GT3 RS_1415",
+              "question": "What is the weight of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_GT3 RS_1415",
+              "question": "What is the weight of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Porsche_1415",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_911 GT3 RS_1415",
+              "question": "What is the weight of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the weight of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the weight of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the weight of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the weight of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the weight of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the weight of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini Hurrican Stato_1415",
+              "question": "What is the weight of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Stato_1415",
+              "question": "What is the weight of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lambo_1415",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini_1415",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_por 91 GT3 RS_1415",
+              "question": "What is the torque of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_GT3 RS_1415",
+              "question": "What is the torque of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche_1415",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_911 GT3 RS_1415",
+              "question": "What is the torque of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the torque of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the torque of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the torque of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the torque of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the torque of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the torque of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini Hurrican Stato_1415",
+              "question": "What is the torque of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Stato_1415",
+              "question": "What is the torque of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lambo_1415",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini_1415",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_por 91 GT3 RS_1415",
+              "question": "What is the gearbox in the por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_GT3 RS_1415",
+              "question": "What is the gearbox in the GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Porsche_1415",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_911 GT3 RS_1415",
+              "question": "What is the gearbox in the 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the gearbox in the Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the gearbox in the Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the gearbox in the Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the gearbox in the Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the gearbox in the Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini Hurrican Stato_1415",
+              "question": "What is the gearbox in the Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Stato_1415",
+              "question": "What is the gearbox in the Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lambo_1415",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini_1415",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_por 91 GT3 RS_1415",
+              "question": "What is the quarter mile time of por 91 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_GT3 RS_1415",
+              "question": "What is the quarter mile time of GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche_1415",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_911 GT3 RS_1415",
+              "question": "What is the quarter mile time of 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Type: 5.2 L natur aspirated V10 [109,113]_1415",
+              "question": "What is the quarter mile time of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Capacity: 5.2 L [110,111]_1415",
+              "question": "What is the quarter mile time of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Horsepower: 610 horsepower [118,119]_1415",
+              "question": "What is the quarter mile time of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Weight: 1,470 kilos [144,145]_1415",
+              "question": "What is the quarter mile time of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Torque: 560 newm of torque [70,73]_1415",
+              "question": "What is the quarter mile time of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1415",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Quarter Mile Time: 10.9 seconds [1564,1565]_1415",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini Hurrican Stato_1415",
+              "question": "What is the quarter mile time of Lamborghini Hurrican Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Stato_1415",
+              "question": "What is the quarter mile time of Stato?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lambo_1415",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini_1415",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.9 seconds",
+                  "answer_start": 680
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "' s just in gear rolling on that lamborghini is it ' s noticeably quicker isn ' t it yeah i honestly i wasn ' t expecting that but yeah this car is a lot faster than it should be there ' s no way it should win the next challenge but let ' s find out right now we going a break test from 100 miles hour the c stops in the shortest distance winds we rather watching the drag race with the gt3 rs dr on the b there for the link in the description the suspension ' s so soft well that ' s uh porsche gt3 rs breaking for you will have been assisted by its arrow as well this car suspension so soft i felt just like i was going to go through the wind screen yeah it was like you were going to do an endo is really squidy but you know still good performance considering the tires and what that car is it ' s my favorite lamborghini that car is by the way yeah it ' s definitely the most fun especially on like country roads but yeah i ' m quite surprised by how it performed today i ' d actually rather have that than a 911 daar i think it ' s just cooler yeah i feel like the dhar is an old man ' s car don ' t get offended porsche that ' s just my opinion anyway if you ' d like to see how these cars c m times compared to everything else we have a drag race then just click on the car while logo to head straight to the car drug race leader board you want watch some other videos click on the windows if you want to follow tommy on his channel to see what he gets up to then there ' s a pop out banner appearing now there you go go check out tommy and if you haven ' t done so already please subscribe to this channel and hit the bell icon to turn your notifications on that way you won ' t miss when i upload the next video thanks for watching and i ' ll see you next time",
+          "qas": [
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_por 91 GT3 RS_1894",
+              "question": "What is the engine type of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_GT3 RS_1894",
+              "question": "What is the engine type of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche_1894",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_911 GT3 RS_1894",
+              "question": "What is the engine type of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the engine type of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the engine type of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the engine type of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the engine type of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the engine type of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the engine type of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini Hurrican Stato_1894",
+              "question": "What is the engine type of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Stato_1894",
+              "question": "What is the engine type of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lambo_1894",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Lamborghini_1894",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_por 91 GT3 RS_1894",
+              "question": "What is the engine capacity of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_GT3 RS_1894",
+              "question": "What is the engine capacity of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche_1894",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_911 GT3 RS_1894",
+              "question": "What is the engine capacity of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the engine capacity of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the engine capacity of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the engine capacity of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the engine capacity of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the engine capacity of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini Hurrican Stato_1894",
+              "question": "What is the engine capacity of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Stato_1894",
+              "question": "What is the engine capacity of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lambo_1894",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Lamborghini_1894",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_por 91 GT3 RS_1894",
+              "question": "What is the horsepower of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_GT3 RS_1894",
+              "question": "What is the horsepower of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche_1894",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_911 GT3 RS_1894",
+              "question": "What is the horsepower of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the horsepower of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the horsepower of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the horsepower of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the horsepower of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the horsepower of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the horsepower of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini Hurrican Stato_1894",
+              "question": "What is the horsepower of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Stato_1894",
+              "question": "What is the horsepower of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lambo_1894",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Lamborghini_1894",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_por 91 GT3 RS_1894",
+              "question": "What is the weight of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_GT3 RS_1894",
+              "question": "What is the weight of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Porsche_1894",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_911 GT3 RS_1894",
+              "question": "What is the weight of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the weight of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the weight of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the weight of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the weight of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the weight of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the weight of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini Hurrican Stato_1894",
+              "question": "What is the weight of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Stato_1894",
+              "question": "What is the weight of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lambo_1894",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Weight_Lamborghini_1894",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_por 91 GT3 RS_1894",
+              "question": "What is the torque of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_GT3 RS_1894",
+              "question": "What is the torque of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche_1894",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_911 GT3 RS_1894",
+              "question": "What is the torque of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the torque of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the torque of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the torque of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the torque of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the torque of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the torque of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini Hurrican Stato_1894",
+              "question": "What is the torque of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Stato_1894",
+              "question": "What is the torque of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lambo_1894",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Lamborghini_1894",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_por 91 GT3 RS_1894",
+              "question": "What is the gearbox in the por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_GT3 RS_1894",
+              "question": "What is the gearbox in the GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Porsche_1894",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_911 GT3 RS_1894",
+              "question": "What is the gearbox in the 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the gearbox in the Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the gearbox in the Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the gearbox in the Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the gearbox in the Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the gearbox in the Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini Hurrican Stato_1894",
+              "question": "What is the gearbox in the Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Stato_1894",
+              "question": "What is the gearbox in the Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lambo_1894",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Gearbox_Lamborghini_1894",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_por 91 GT3 RS_1894",
+              "question": "What is the quarter mile time of por 91 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_GT3 RS_1894",
+              "question": "What is the quarter mile time of GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche_1894",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_911 GT3 RS_1894",
+              "question": "What is the quarter mile time of 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Type: 5.2 L natur aspirated V10 [109,113]_1894",
+              "question": "What is the quarter mile time of Engine Type: 5.2 L natur aspirated V10 [109,113]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Engine Capacity: 5.2 L [110,111]_1894",
+              "question": "What is the quarter mile time of Engine Capacity: 5.2 L [110,111]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Horsepower: 610 horsepower [118,119]_1894",
+              "question": "What is the quarter mile time of Horsepower: 610 horsepower [118,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Weight: 1,470 kilos [144,145]_1894",
+              "question": "What is the quarter mile time of Weight: 1,470 kilos [144,145]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Torque: 560 newm of torque [70,73]_1894",
+              "question": "What is the quarter mile time of Torque: 560 newm of torque [70,73]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [133,137]_1894",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [133,137]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Quarter Mile Time: 10.9 seconds [1564,1565]_1894",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.9 seconds [1564,1565]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini Hurrican Stato_1894",
+              "question": "What is the quarter mile time of Lamborghini Hurrican Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Stato_1894",
+              "question": "What is the quarter mile time of Stato?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lambo_1894",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Lamborghini_1894",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

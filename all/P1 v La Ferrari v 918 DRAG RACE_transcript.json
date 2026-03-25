@@ -1,0 +1,769 @@
+{
+  "data": [
+    {
+      "title": "P1 v La Ferrari v 918 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "p1 v la ferrari v 918 drag race _ transcript what will happen in a drag race between a mclaren p1, a porsche 918 spider, and a laferrari aperta? well, we ' re going to find out cuz i ' m going to race him over the standing quarter mile mark. i ' m matt watson, and you ' re watching carwo with a holy trinity drag race. the mclaren p1 has a 3. 8 8 l twin turbo v8 with an electric motor, 916 horsepower, 900 newton meters, rear wheel drive, and a 7 - speed dual clutch automatic gearbox with launch control. it weighs around 1, 500 kilos, and today is worth more than 1 million. the porsche 918 spider has a 4.6 l naturally aspirated v8 with two electric motors, 887 horsepower, 1, 280 nm allwheel drive, and a 7 - speed dual clutch automatic with launch control. it weighs around 1, 600 kilos and today is also worth more than1 million pounds. the ferrari laferrari has a 6.3 l naturally aspirated v12 with an electric motor, 963 horsepower, 900 new meters, rear wheel drive, and a seven - speed dual clutch automatic with launch control. it weighs around 1, 600 kg and today is worth more than 3 million. now, this is something special. i have never ever driven a mclaren p1. so, here we are. first time i ' m going to drag race it, of course. we have the holy trinity. this is an incredible lineup. something i ' ve always wanted to do since these cars were released a decade ago. who am i going to be racing against? well, let ' s find out who ' s in the porsche. say hello. hello, matt. it ' s me. it ' s rory. so, rory, um, be brutally honest with you, i think you ' ve got the easiest car to drive. yeah, this is just a big sort of panamera e hybrid, isn ' t it? really? i ' ll be honest, i ' m extremely thankful i ' m in this. and obviously in the scariest car of all, the ferrari and the most expensive, we have someone who ' s a little bit more professional. hi yanni, how are you? that hurts on so many levels. how do you feel about this sam? i ' ll tell",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_1",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.8 8 L twin turbo V8 with an electric motor,",
+                  "answer_start": 341
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_1",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.8 8 L",
+                  "answer_start": 294
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_1",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "916 horsepower,",
+                  "answer_start": 388
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_1",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,500 kilos,",
+                  "answer_start": 528
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_1",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "900 Newton meters,",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_1",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 451
+                }
+              ]
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_1",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Type_Porsche 918 Spider_1",
+              "question": "What is the engine type of Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.6 L naturally aspirated V8 with two electric motors,",
+                  "answer_start": 606
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Capacity_Porsche 918 Spider_1",
+              "question": "What is the engine capacity of Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.6 L",
+                  "answer_start": 608
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Horsepower_Porsche 918 Spider_1",
+              "question": "What is the horsepower of Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "887 horsepower,",
+                  "answer_start": 663
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Weight_Porsche 918 Spider_1",
+              "question": "What is the weight of Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kilos",
+                  "answer_start": 784
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Torque_Porsche 918 Spider_1",
+              "question": "What is the torque of Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,280 Nm",
+                  "answer_start": 682
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Gearbox_Porsche 918 Spider_1",
+              "question": "What is the gearbox in the Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic",
+                  "answer_start": 451
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Quarter Mile Time_Porsche 918 Spider_1",
+              "question": "What is the quarter mile time of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Type_LaFerrari Aperta_1",
+              "question": "What is the engine type of LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.3 L naturally aspirated V12 with an electric motor,",
+                  "answer_start": 608
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Capacity_LaFerrari Aperta_1",
+              "question": "What is the engine capacity of LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.3 L",
+                  "answer_start": 873
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Horsepower_LaFerrari Aperta_1",
+              "question": "What is the horsepower of LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "963 horsepower,",
+                  "answer_start": 388
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Weight_LaFerrari Aperta_1",
+              "question": "What is the weight of LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 1060
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Torque_LaFerrari Aperta_1",
+              "question": "What is the torque of LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "900 new meters,",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Gearbox_LaFerrari Aperta_1",
+              "question": "What is the gearbox in the LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic",
+                  "answer_start": 451
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Quarter Mile Time_LaFerrari Aperta_1",
+              "question": "What is the quarter mile time of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "you when this race is over, everybody ' s smiling and these are back on the lorry comfortably, safe, and sound. until then though, we ' re going to have some fun. so first of all, let ' s do a sound check. i ' m going to rev up my 3. 8 8 liter turbocharged v8. oh, lots of boosty noise. i got a turbo noise here. i ' m the only turbocharged car. so, let ' s have a listen to a naturally aspirated v8. got to say, even though you got a soft limiter, that ' s a win so far to the porsche. but ferrari, away you go. that ' s 1 nil. uh, we can all park up and go now. that ' s perfect. thanks everybody. that ' s a wrap. no, we can ' t. we can ' t. we can ' t. listen, i got to say huge thank you to supercars magulus hyper club for making this possible. and to la city municipality for letting us play on the tilal swan drag race strip. amazing. now, if you haven ' t done so already, make sure you subscribe to this channel cuz we ' re going to be uploading some more crazy videos thanks to that partnership. let ' s get on with the racing. let ' s do this. i ' ve had that ferrari but a porsche four - wheel drive. oh, them putting him back in. okay, so traction issues not for you, rory. the way this puts it down is incredible. what a thing. and what a noise from in here as well. yeah, massive win, sam. all right, so i ' m in a la ferrari, obviously with tracking issues. i ' m in a la ferrari and i got to watch the holy trinity twothirds just go off next to me. i mean, i don ' t care. so, was that the father and the son racing and the holy ghost was just left a little bit behind? i don ' t know. which way is it? i don ' t know. my tongue was out, so i was waiting for communion the whole time. that ' s so irish of you, isn ' t it? let ' s give it another go. best two out of three. three, two, one. come on. come on [ music ] try. now that horse is gone again",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_398",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_398",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_398",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_398",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_398",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_398",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_398",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Type_Porsche 918 Spider_398",
+              "question": "What is the engine type of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Capacity_Porsche 918 Spider_398",
+              "question": "What is the engine capacity of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Horsepower_Porsche 918 Spider_398",
+              "question": "What is the horsepower of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Weight_Porsche 918 Spider_398",
+              "question": "What is the weight of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Torque_Porsche 918 Spider_398",
+              "question": "What is the torque of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Gearbox_Porsche 918 Spider_398",
+              "question": "What is the gearbox in the Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Quarter Mile Time_Porsche 918 Spider_398",
+              "question": "What is the quarter mile time of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Type_LaFerrari Aperta_398",
+              "question": "What is the engine type of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Capacity_LaFerrari Aperta_398",
+              "question": "What is the engine capacity of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Horsepower_LaFerrari Aperta_398",
+              "question": "What is the horsepower of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Weight_LaFerrari Aperta_398",
+              "question": "What is the weight of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Torque_LaFerrari Aperta_398",
+              "question": "What is the torque of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Gearbox_LaFerrari Aperta_398",
+              "question": "What is the gearbox in the LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Quarter Mile Time_LaFerrari Aperta_398",
+              "question": "What is the quarter mile time of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". that was closer this [ music ] time. not close enough. where ' s the laugh? oh, there he is. so then what exactly happened? well, the porsche won. it completed the standing quarter mile in 10. 2 seconds. the mclaren took 10. 5 seconds and the ferrari crossed the line in 11. 1 seconds. before our next race, a little message that could well help you if you ' re looking to buy a used car, bike, or van anytime soon. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this audi rs3 on car vertical. it ' s got green ticks for odometer and finance, but a damage warning. why? it was previously involved in an accident and was a cat site off. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carow for 20 % off or by following the link in the description. now, back to the race. shall we do a roll in from about 10 mph over the quarter mile and the half mile? absolutely. yes, i ' m game for that. 3 2 1 race over the quarter mile and the half mile. come on. i ' m pulling up. can i beat him? come on. come on. get back in there. hug in [ music ] there. wa. when anyone says which is the best car at the holy trinity, we know what the answer is, don ' t we, rory? that behaved itself then. i was very scared about planting it in first gear, but it ' s just incredible. i ' m just honestly in awe. it ' s amazing. i actually thought i was going to reel you back in. and at one point i was reeling you in, but it just wasn ' t enough. i was never going to catch you. how about you, sam? you you were way behind, right? would just wheel spin. i was still spinning in third. so, right now, we ' re going to do a rolling race in second gear from around 50 km an hour. see what happens. before that though, i ' ve actually found a great deal on a high performance car, not one of these, through car. if you want to find",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_808",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_808",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_808",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_808",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_808",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_808",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_808",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.5 seconds",
+                  "answer_start": 227
+                }
+              ]
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Type_Porsche 918 Spider_808",
+              "question": "What is the engine type of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Capacity_Porsche 918 Spider_808",
+              "question": "What is the engine capacity of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Horsepower_Porsche 918 Spider_808",
+              "question": "What is the horsepower of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Weight_Porsche 918 Spider_808",
+              "question": "What is the weight of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Torque_Porsche 918 Spider_808",
+              "question": "What is the torque of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Gearbox_Porsche 918 Spider_808",
+              "question": "What is the gearbox in the Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Quarter Mile Time_Porsche 918 Spider_808",
+              "question": "What is the quarter mile time of Porsche 918 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds.",
+                  "answer_start": 195
+                }
+              ]
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Type_LaFerrari Aperta_808",
+              "question": "What is the engine type of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Capacity_LaFerrari Aperta_808",
+              "question": "What is the engine capacity of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Horsepower_LaFerrari Aperta_808",
+              "question": "What is the horsepower of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Weight_LaFerrari Aperta_808",
+              "question": "What is the weight of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Torque_LaFerrari Aperta_808",
+              "question": "What is the torque of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Gearbox_LaFerrari Aperta_808",
+              "question": "What is the gearbox in the LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Quarter Mile Time_LaFerrari Aperta_808",
+              "question": "What is the quarter mile time of LaFerrari Aperta?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.1 seconds.",
+                  "answer_start": 277
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "out what the car is and the offer, then just click on the pop out ban or scan the qr code on screen. now, matt, could you confirm the speed again, please? i ' ll be roughly 50 km now in second gear. yep, that sounds terrifying. thank you. ready? 3 2 1 go. come on, ferrari. woohoo. i ' m going to get this porsche no, no, my bad. yeah. right. what we ' re going to do now is a rolling race from 100 km an hour in third gear. try and take out the wheel spin. 3 2 1 go. come on, get that [ applause ] porsche. come on. into the corner. not quite. we ' re going to have a bit to the coming half though. here we are. come on. wa. interesting. very very interesting. big win to the ferrari, right sam? yeah. like it ' s a big win, but this car is an absolute handful. i ' m glad you ' re driving it and not me because this is actually a real pussycat. i thought i was just out of it completely because the porsche just shot off. i think you flawed it before i did. i don ' t know. or maybe it ' s just my turbo lag. and the porsche did win to the quarter mile, but i think i might have had you at the half mile, rory. that was such an intense race. i was off first, like you say, and then i was just watching you next to me. i thought you were in front of me at one stage and i thought that i came back and won because your car kind of just stopped, but i might be wrong. it was just quite intense to be honest. well, do you know what we ' ll have to do? we ' re going to have to just have a look at the action replay to decide. i have no idea. i won. oh yeah, i forgot about that. you definitely won. as you can see in the slow motion replay, the mclaren beats the porsche by a nose. now, we ' re going to do a break test from 160 km an hour. when we reach the line, full emergency stop, whichever car stops in the shortest distance. if you ' d rather watch another drag race with some epic cars, click on the pop out button in the top right hand corner of the screen or scan the",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_1229",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_1229",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_1229",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_1229",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_1229",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_1229",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_1229",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Type_Porsche 918 Spider_1229",
+              "question": "What is the engine type of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Capacity_Porsche 918 Spider_1229",
+              "question": "What is the engine capacity of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Horsepower_Porsche 918 Spider_1229",
+              "question": "What is the horsepower of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Weight_Porsche 918 Spider_1229",
+              "question": "What is the weight of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Torque_Porsche 918 Spider_1229",
+              "question": "What is the torque of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Gearbox_Porsche 918 Spider_1229",
+              "question": "What is the gearbox in the Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Quarter Mile Time_Porsche 918 Spider_1229",
+              "question": "What is the quarter mile time of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Type_LaFerrari Aperta_1229",
+              "question": "What is the engine type of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Capacity_LaFerrari Aperta_1229",
+              "question": "What is the engine capacity of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Horsepower_LaFerrari Aperta_1229",
+              "question": "What is the horsepower of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Weight_LaFerrari Aperta_1229",
+              "question": "What is the weight of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Torque_LaFerrari Aperta_1229",
+              "question": "What is the torque of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Gearbox_LaFerrari Aperta_1229",
+              "question": "What is the gearbox in the LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Quarter Mile Time_LaFerrari Aperta_1229",
+              "question": "What is the quarter mile time of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "qr code on screen. right, let ' s do this. sam, you and i couldn ' t be closer, but i think the order is this. porsche wins, then ferrari, and last is mclaren. yeah, i think so. well, there we go. it ' s been amazing. now, if you want to compare these cars qual times to everything else we ' ve ever drag raced, just click on the car logo. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "McLaren P1_Engine Type_McLaren P1_1654",
+              "question": "What is the engine type of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Engine Capacity_McLaren P1_1654",
+              "question": "What is the engine capacity of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Horsepower_McLaren P1_1654",
+              "question": "What is the horsepower of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Weight_McLaren P1_1654",
+              "question": "What is the weight of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Torque_McLaren P1_1654",
+              "question": "What is the torque of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Gearbox_McLaren P1_1654",
+              "question": "What is the gearbox in the McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "McLaren P1_Quarter Mile Time_McLaren P1_1654",
+              "question": "What is the quarter mile time of McLaren P1?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Type_Porsche 918 Spider_1654",
+              "question": "What is the engine type of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Engine Capacity_Porsche 918 Spider_1654",
+              "question": "What is the engine capacity of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Horsepower_Porsche 918 Spider_1654",
+              "question": "What is the horsepower of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Weight_Porsche 918 Spider_1654",
+              "question": "What is the weight of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Torque_Porsche 918 Spider_1654",
+              "question": "What is the torque of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Gearbox_Porsche 918 Spider_1654",
+              "question": "What is the gearbox in the Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 918 Spider_Quarter Mile Time_Porsche 918 Spider_1654",
+              "question": "What is the quarter mile time of Porsche 918 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Type_LaFerrari Aperta_1654",
+              "question": "What is the engine type of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Engine Capacity_LaFerrari Aperta_1654",
+              "question": "What is the engine capacity of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Horsepower_LaFerrari Aperta_1654",
+              "question": "What is the horsepower of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Weight_LaFerrari Aperta_1654",
+              "question": "What is the weight of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Torque_LaFerrari Aperta_1654",
+              "question": "What is the torque of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Gearbox_LaFerrari Aperta_1654",
+              "question": "What is the gearbox in the LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "LaFerrari Aperta_Quarter Mile Time_LaFerrari Aperta_1654",
+              "question": "What is the quarter mile time of LaFerrari Aperta?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

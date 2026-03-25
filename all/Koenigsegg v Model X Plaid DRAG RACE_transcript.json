@@ -1,0 +1,4057 @@
+{
+  "data": [
+    {
+      "title": "Koenigsegg v Model X Plaid DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "koenigsegg v model x plaid drag race _ transcript can a tesla model x plaid beat a kex egg agera rs in a drag race well i ' m going to find out by racing them over the standing quarter mile i ' m m watson and you ' re watching carw the kx agera rs has a 5 l twin turbo v8 that puts out 1, 360 horsepower and 1, 1570 newm of torque that power is sent to the rear wheels only via a 7 - speed dual clutch automatic gearbox with launch control the car weighs in at 1, 395 kg and it costs £3. 5 million the tesla model x plaid has three electric motors one on the front axle and two on the rear giving it all - wheel drive combined these motors produce 1, 20 horsepower and 1, 420 newt m of torque it has a single speed transmission but there ' s launch control though the car does weigh in at 2, 468 kg so it ' s a bit porky it costs from just under 100 127, 000 tom how are your bottom muscles a little bit tense a little bit on the t size yes matt i would say now i ' m not going to lie to you when i last drove your car it was an experience but it wasn ' t necessarily an enjoyable experience just driving like what is it £4 million roughly it ' s just nerve - wracking yeah thereabouts i would say i know you drive it quite a bit actually how many miles has it done 9, 800 you ' ve done more miles in that than i ' ve done in my su suuki jimy but how do you go about like getting out the car maybe going to a restaurant maybe even going for a wii and you ' re just leaving about 4 million just sat outside while you take a piss you know i ponder this question myself quite regularly matt i don ' t know there some kind of cognitive dissonance happening where i ' m able to just forget about it i just love driving these cars i think you know even if you ' re buying a hyper car that ' s what it ' s for driving even if it terrifies you every time you drive it and that ' s the thing you know batti shiron you can just launch it easy all day every day pretty much once control has decided to work that thing it ' s scary and in some ways it can be a little bit too scary to make it not so enjoyable but in other ways that ' s kind of what you want",
+          "qas": [
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_kex egg Agera RS_1",
+              "question": "What is the engine type of kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Koenigsegg_1",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Kix egg_1",
+              "question": "What is the engine type of Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_conic egg_1",
+              "question": "What is the engine type of conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the engine type of Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Capacity: [EMPTY]_1",
+              "question": "What is the engine type of Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the engine type of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the engine type of Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the engine type of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the engine type of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the engine type of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla Model X plaid_1",
+              "question": "What is the engine type of Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_plaid_1",
+              "question": "What is the engine type of plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla_1",
+              "question": "What is the engine type of Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "three electric motors",
+                  "answer_start": 526
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_kex egg Agera RS_1",
+              "question": "What is the engine capacity of kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Koenigsegg_1",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Kix egg_1",
+              "question": "What is the engine capacity of Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_conic egg_1",
+              "question": "What is the engine capacity of conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the engine capacity of Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Capacity: [EMPTY]_1",
+              "question": "What is the engine capacity of Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the engine capacity of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the engine capacity of Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the engine capacity of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the engine capacity of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla Model X plaid_1",
+              "question": "What is the engine capacity of Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_plaid_1",
+              "question": "What is the engine capacity of plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla_1",
+              "question": "What is the engine capacity of Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5 L",
+                  "answer_start": 254
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_kex egg Agera RS_1",
+              "question": "What is the horsepower of kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Koenigsegg_1",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Kix egg_1",
+              "question": "What is the horsepower of Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_conic egg_1",
+              "question": "What is the horsepower of conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the horsepower of Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Capacity: [EMPTY]_1",
+              "question": "What is the horsepower of Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the horsepower of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the horsepower of Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the horsepower of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the horsepower of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the horsepower of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla Model X plaid_1",
+              "question": "What is the horsepower of Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_plaid_1",
+              "question": "What is the horsepower of plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla_1",
+              "question": "What is the horsepower of Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,20 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_kex egg Agera RS_1",
+              "question": "What is the weight of kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Koenigsegg_1",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Kix egg_1",
+              "question": "What is the weight of Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_conic egg_1",
+              "question": "What is the weight of conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the weight of Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Capacity: [EMPTY]_1",
+              "question": "What is the weight of Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the weight of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the weight of Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the weight of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the weight of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the weight of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla Model X plaid_1",
+              "question": "What is the weight of Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_plaid_1",
+              "question": "What is the weight of plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla_1",
+              "question": "What is the weight of Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,468 kg",
+                  "answer_start": 792
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_kex egg Agera RS_1",
+              "question": "What is the torque of kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Koenigsegg_1",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Kix egg_1",
+              "question": "What is the torque of Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_conic egg_1",
+              "question": "What is the torque of conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the torque of Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Capacity: [EMPTY]_1",
+              "question": "What is the torque of Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the torque of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the torque of Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the torque of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the torque of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the torque of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla Model X plaid_1",
+              "question": "What is the torque of Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_plaid_1",
+              "question": "What is the torque of plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla_1",
+              "question": "What is the torque of Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,420 Newt M of torque",
+                  "answer_start": 672
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_kex egg Agera RS_1",
+              "question": "What is the gearbox in the kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Koenigsegg_1",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Kix egg_1",
+              "question": "What is the gearbox in the Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_conic egg_1",
+              "question": "What is the gearbox in the conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the gearbox in the Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Capacity: [EMPTY]_1",
+              "question": "What is the gearbox in the Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the gearbox in the Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the gearbox in the Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the gearbox in the Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the gearbox in the Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla Model X plaid_1",
+              "question": "What is the gearbox in the Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_plaid_1",
+              "question": "What is the gearbox in the plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla_1",
+              "question": "What is the gearbox in the Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "single speed transmission",
+                  "answer_start": 702
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_kex egg Agera RS_1",
+              "question": "What is the quarter mile time of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Koenigsegg_1",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Kix egg_1",
+              "question": "What is the quarter mile time of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_conic egg_1",
+              "question": "What is the quarter mile time of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Type: three electric motors [117,119]_1",
+              "question": "What is the quarter mile time of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Capacity: [EMPTY]_1",
+              "question": "What is the quarter mile time of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Horsepower: 1,20 horsepower [141,142]_1",
+              "question": "What is the quarter mile time of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Weight: 2,468 kg [170,171]_1",
+              "question": "What is the quarter mile time of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Torque: 1,420 Newt M of torque [145,149]_1",
+              "question": "What is the quarter mile time of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Gearbox: single speed transmission [153,155]_1",
+              "question": "What is the quarter mile time of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Quarter Mile Time: 10.2 seconds [1635,1636]_1",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla Model X plaid_1",
+              "question": "What is the quarter mile time of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_plaid_1",
+              "question": "What is the quarter mile time of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla_1",
+              "question": "What is the quarter mile time of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "you want a car like that to frighten you so i ' m glad that i ' m in this plaid which isn ' t frightening at all the only thing that concerns me about it is if the battery gets a bit too cold then i slip out of drag race mode i completely agree with you i think if you ' re buying a hyper car it needs to be a little bit scary like what ' s the point otherwise however it also needs to be able to be what is effectively a fridge on wheels which is what i ' m driving now you ' ve got more power about a ton less weight the only disadvantage you have is that your rear wheel drive and i ' m all - wheel drive but every other metric you are winning so if you don ' t win you must have to view yourself or your car as the biggest loser ever fully aware of that i think i will struggle to win the drag race regardless i actually have one of those fridge on wheels it ' s a good family car actually you won ' t be the biggest loser ever because you own a conix egg and i don ' t so i ' ll still end up the loser let ' s do a sound check this makes no sound apart from it ' s slight woring that that ' s like the battery being cool i think cuz i ' m in drag mode can you make some noise with your car i mean that ' s old school conix isn ' t it ' s just pure internal combustion engine it sounds powerful it sounds like it ' s got well over th000 horsepower which it has it really does look and sound as you imagine it should but can it get off the line as it should as well so let ' s find out let ' s do this race three 2 [ music ] one it didn ' t like that one did it tom i ' ll just run it up and down sorry won ' t going to uh launch now bit like a bmw it ' s almost like kenx he have used the launch strategy from bmw whereas the it will fanny around sometimes and want going to launch mode and then you have to drive it up and down the runway to waste some fuel and then it lets you have it launch again they probably should have like followed porsche with the launch strategy where it just does it all day every day no problems at all or tesla sorry about that it ' s now definitely working and i ' m going to try it in manual 3 2 1 oh i can see inside let ' s go oh that gage oh",
+          "qas": [
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_kex egg Agera RS_467",
+              "question": "What is the engine type of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Koenigsegg_467",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Kix egg_467",
+              "question": "What is the engine type of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_conic egg_467",
+              "question": "What is the engine type of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the engine type of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Capacity: [EMPTY]_467",
+              "question": "What is the engine type of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the engine type of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the engine type of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the engine type of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the engine type of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the engine type of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla Model X plaid_467",
+              "question": "What is the engine type of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_plaid_467",
+              "question": "What is the engine type of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla_467",
+              "question": "What is the engine type of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_kex egg Agera RS_467",
+              "question": "What is the engine capacity of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Koenigsegg_467",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Kix egg_467",
+              "question": "What is the engine capacity of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_conic egg_467",
+              "question": "What is the engine capacity of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the engine capacity of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Capacity: [EMPTY]_467",
+              "question": "What is the engine capacity of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the engine capacity of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the engine capacity of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the engine capacity of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the engine capacity of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla Model X plaid_467",
+              "question": "What is the engine capacity of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_plaid_467",
+              "question": "What is the engine capacity of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla_467",
+              "question": "What is the engine capacity of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_kex egg Agera RS_467",
+              "question": "What is the horsepower of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Koenigsegg_467",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Kix egg_467",
+              "question": "What is the horsepower of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_conic egg_467",
+              "question": "What is the horsepower of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the horsepower of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Capacity: [EMPTY]_467",
+              "question": "What is the horsepower of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the horsepower of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the horsepower of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the horsepower of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the horsepower of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the horsepower of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla Model X plaid_467",
+              "question": "What is the horsepower of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_plaid_467",
+              "question": "What is the horsepower of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla_467",
+              "question": "What is the horsepower of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_kex egg Agera RS_467",
+              "question": "What is the weight of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Koenigsegg_467",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Kix egg_467",
+              "question": "What is the weight of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_conic egg_467",
+              "question": "What is the weight of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the weight of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Capacity: [EMPTY]_467",
+              "question": "What is the weight of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the weight of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the weight of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the weight of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the weight of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the weight of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla Model X plaid_467",
+              "question": "What is the weight of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_plaid_467",
+              "question": "What is the weight of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla_467",
+              "question": "What is the weight of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_kex egg Agera RS_467",
+              "question": "What is the torque of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Koenigsegg_467",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Kix egg_467",
+              "question": "What is the torque of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_conic egg_467",
+              "question": "What is the torque of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the torque of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Capacity: [EMPTY]_467",
+              "question": "What is the torque of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the torque of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the torque of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the torque of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the torque of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the torque of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla Model X plaid_467",
+              "question": "What is the torque of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_plaid_467",
+              "question": "What is the torque of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla_467",
+              "question": "What is the torque of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_kex egg Agera RS_467",
+              "question": "What is the gearbox in the kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Koenigsegg_467",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Kix egg_467",
+              "question": "What is the gearbox in the Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_conic egg_467",
+              "question": "What is the gearbox in the conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the gearbox in the Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Capacity: [EMPTY]_467",
+              "question": "What is the gearbox in the Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the gearbox in the Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the gearbox in the Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the gearbox in the Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the gearbox in the Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla Model X plaid_467",
+              "question": "What is the gearbox in the Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_plaid_467",
+              "question": "What is the gearbox in the plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla_467",
+              "question": "What is the gearbox in the Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_kex egg Agera RS_467",
+              "question": "What is the quarter mile time of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Koenigsegg_467",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Kix egg_467",
+              "question": "What is the quarter mile time of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_conic egg_467",
+              "question": "What is the quarter mile time of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Type: three electric motors [117,119]_467",
+              "question": "What is the quarter mile time of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Capacity: [EMPTY]_467",
+              "question": "What is the quarter mile time of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Horsepower: 1,20 horsepower [141,142]_467",
+              "question": "What is the quarter mile time of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Weight: 2,468 kg [170,171]_467",
+              "question": "What is the quarter mile time of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Torque: 1,420 Newt M of torque [145,149]_467",
+              "question": "What is the quarter mile time of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Gearbox: single speed transmission [153,155]_467",
+              "question": "What is the quarter mile time of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Quarter Mile Time: 10.2 seconds [1635,1636]_467",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla Model X plaid_467",
+              "question": "What is the quarter mile time of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_plaid_467",
+              "question": "What is the quarter mile time of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla_467",
+              "question": "What is the quarter mile time of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "[ music ] [ applause ] hello oh hello no something happened when i changed up a gear maybe i changed at the same time it tried to auto change if it auto changes why don ' t you just let it do it yourself for a launch i think it ' s better in manual i think the auto change is better for like a a highspeed rolling race you can ' t just go full manual there ' s not a button to press to go full manual yeah i mean maybe there is i ' ll try that this time and see i think if you were driving you would win well you want me to drive it do you want to drive it i don ' t know if i do it ' s a bit scary like isn ' t it yeah we could do one more and then if i ' m still behind you have a go oh maybe i know you ' re probably saying matt what you doing drive the conx egg drive the conx egg it ' s someone else ' s multi - million pound car i just don ' t think my balls are big enough and i ' ve driven the car so i ' ve ticked it see the thing is tom i think your launches are fine so if you just sort the gearbox thing out you know i don ' t think i ' m going to do any better it ' s all on me three two 1 do you know what tom i i just had a sick sense that that was going to happen then you had a six sent that i was going to it so what is it that causes that it ' s like if you haven ' t built up enough boost it doesn ' t like it and if you have built up too much it doesn ' t like it so you ' ve got to just time it perfectly yeah that ' s it i think i ' m slowly getting to grips with how it ' s working it ' s more like you have to have the revs really high not come off the brake too fast either oddly otherwise it cuts so oh bloody out it ' s now not giving me launch again classic all right i ' ll wait here and go my phone for a bit yeah cool thanks mate con exag technicians are just going to look at the engine warning light that i ' ve got to see if it ' s anything significant what do you reckon do you reckon it ' s going to be something significant or insignificant i ' m going ins significant for tom ' s [ music ] sake i think we ' re good cuz it ' s exhaust flaps so i '",
+          "qas": [
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_kex egg Agera RS_959",
+              "question": "What is the engine type of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Koenigsegg_959",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Kix egg_959",
+              "question": "What is the engine type of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_conic egg_959",
+              "question": "What is the engine type of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the engine type of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Capacity: [EMPTY]_959",
+              "question": "What is the engine type of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the engine type of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the engine type of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the engine type of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the engine type of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the engine type of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla Model X plaid_959",
+              "question": "What is the engine type of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_plaid_959",
+              "question": "What is the engine type of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla_959",
+              "question": "What is the engine type of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_kex egg Agera RS_959",
+              "question": "What is the engine capacity of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Koenigsegg_959",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Kix egg_959",
+              "question": "What is the engine capacity of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_conic egg_959",
+              "question": "What is the engine capacity of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the engine capacity of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Capacity: [EMPTY]_959",
+              "question": "What is the engine capacity of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the engine capacity of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the engine capacity of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the engine capacity of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the engine capacity of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla Model X plaid_959",
+              "question": "What is the engine capacity of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_plaid_959",
+              "question": "What is the engine capacity of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla_959",
+              "question": "What is the engine capacity of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_kex egg Agera RS_959",
+              "question": "What is the horsepower of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Koenigsegg_959",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Kix egg_959",
+              "question": "What is the horsepower of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_conic egg_959",
+              "question": "What is the horsepower of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the horsepower of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Capacity: [EMPTY]_959",
+              "question": "What is the horsepower of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the horsepower of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the horsepower of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the horsepower of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the horsepower of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the horsepower of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla Model X plaid_959",
+              "question": "What is the horsepower of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_plaid_959",
+              "question": "What is the horsepower of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla_959",
+              "question": "What is the horsepower of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_kex egg Agera RS_959",
+              "question": "What is the weight of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Koenigsegg_959",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Kix egg_959",
+              "question": "What is the weight of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_conic egg_959",
+              "question": "What is the weight of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the weight of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Capacity: [EMPTY]_959",
+              "question": "What is the weight of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the weight of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the weight of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the weight of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the weight of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the weight of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla Model X plaid_959",
+              "question": "What is the weight of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_plaid_959",
+              "question": "What is the weight of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla_959",
+              "question": "What is the weight of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_kex egg Agera RS_959",
+              "question": "What is the torque of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Koenigsegg_959",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Kix egg_959",
+              "question": "What is the torque of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_conic egg_959",
+              "question": "What is the torque of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the torque of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Capacity: [EMPTY]_959",
+              "question": "What is the torque of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the torque of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the torque of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the torque of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the torque of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the torque of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla Model X plaid_959",
+              "question": "What is the torque of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_plaid_959",
+              "question": "What is the torque of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla_959",
+              "question": "What is the torque of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_kex egg Agera RS_959",
+              "question": "What is the gearbox in the kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Koenigsegg_959",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Kix egg_959",
+              "question": "What is the gearbox in the Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_conic egg_959",
+              "question": "What is the gearbox in the conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the gearbox in the Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Capacity: [EMPTY]_959",
+              "question": "What is the gearbox in the Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the gearbox in the Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the gearbox in the Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the gearbox in the Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the gearbox in the Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla Model X plaid_959",
+              "question": "What is the gearbox in the Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_plaid_959",
+              "question": "What is the gearbox in the plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla_959",
+              "question": "What is the gearbox in the Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_kex egg Agera RS_959",
+              "question": "What is the quarter mile time of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Koenigsegg_959",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Kix egg_959",
+              "question": "What is the quarter mile time of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_conic egg_959",
+              "question": "What is the quarter mile time of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Type: three electric motors [117,119]_959",
+              "question": "What is the quarter mile time of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Capacity: [EMPTY]_959",
+              "question": "What is the quarter mile time of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Horsepower: 1,20 horsepower [141,142]_959",
+              "question": "What is the quarter mile time of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Weight: 2,468 kg [170,171]_959",
+              "question": "What is the quarter mile time of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Torque: 1,420 Newt M of torque [145,149]_959",
+              "question": "What is the quarter mile time of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Gearbox: single speed transmission [153,155]_959",
+              "question": "What is the quarter mile time of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Quarter Mile Time: 10.2 seconds [1635,1636]_959",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla Model X plaid_959",
+              "question": "What is the quarter mile time of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_plaid_959",
+              "question": "What is the quarter mile time of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla_959",
+              "question": "What is the quarter mile time of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "ll just turn it off and on again and we ' ll we ' ll go are you telling me tommy you ' ve got problems with your flaps i do have problems with my flaps mate yeah you ' re and your flaps your dodgy flaps dodgy dirty sealed unopening flaps 3 2 1 oh what game on oh no oh he ' s coming back come on come on tesla yes come on tesla o that was very interesting that was all right wasn ' t it you had a great start yeah did you have like power getting cut a little bit cuz you got off really good and then it yeah it was just losing traction traction control was flashing up a bit but definitely need it on cuz honestly it felt like it would go sideways without it let ' s do the thing so then what exactly happened well the slow motion action replay reveals that the tesla won by the narrowest of margins but both it and the kix egg crossed the line in 10. 2 seconds if you ' re changing your car then you got to check out car wag because there ' s nothing quite like knowing that you getting a great price both when selling your old car and finding a new one car makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past life changing now if you want to go a car while right now i ' ll put a link in the description of this video and the pin comment alternatively you can click on the pop out banner appearing in the top right hand cor on the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow okay now what we ' re going to do is a rolling race and the first rolling race we ' re going to do is actually over the quarter mile so we ' re going to roll into this around 10 m hour and we ' ll have the starter do the normal star when the star ' s hands go down we floor the throttle and just see who makes it to the quart mile first okay sounds good it ' s kind of like a rolling into a drag race not a drag race kind of thing tom just because of launch control in your car here we go here a star can i see him two one oh am i going to win this cu i ' m come past him he chang gear [ music ] if i beat him on this it ' s embarrassing have him on oh look at him come now [ applause ] though so",
+          "qas": [
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_kex egg Agera RS_1453",
+              "question": "What is the engine type of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Koenigsegg_1453",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Kix egg_1453",
+              "question": "What is the engine type of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_conic egg_1453",
+              "question": "What is the engine type of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the engine type of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the engine type of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the engine type of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the engine type of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the engine type of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the engine type of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the engine type of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla Model X plaid_1453",
+              "question": "What is the engine type of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_plaid_1453",
+              "question": "What is the engine type of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla_1453",
+              "question": "What is the engine type of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_kex egg Agera RS_1453",
+              "question": "What is the engine capacity of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Koenigsegg_1453",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Kix egg_1453",
+              "question": "What is the engine capacity of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_conic egg_1453",
+              "question": "What is the engine capacity of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the engine capacity of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the engine capacity of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the engine capacity of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the engine capacity of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the engine capacity of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the engine capacity of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla Model X plaid_1453",
+              "question": "What is the engine capacity of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_plaid_1453",
+              "question": "What is the engine capacity of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla_1453",
+              "question": "What is the engine capacity of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_kex egg Agera RS_1453",
+              "question": "What is the horsepower of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Koenigsegg_1453",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Kix egg_1453",
+              "question": "What is the horsepower of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_conic egg_1453",
+              "question": "What is the horsepower of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the horsepower of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the horsepower of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the horsepower of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the horsepower of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the horsepower of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the horsepower of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the horsepower of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla Model X plaid_1453",
+              "question": "What is the horsepower of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_plaid_1453",
+              "question": "What is the horsepower of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla_1453",
+              "question": "What is the horsepower of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_kex egg Agera RS_1453",
+              "question": "What is the weight of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Koenigsegg_1453",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Kix egg_1453",
+              "question": "What is the weight of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_conic egg_1453",
+              "question": "What is the weight of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the weight of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the weight of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the weight of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the weight of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the weight of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the weight of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the weight of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla Model X plaid_1453",
+              "question": "What is the weight of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_plaid_1453",
+              "question": "What is the weight of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla_1453",
+              "question": "What is the weight of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_kex egg Agera RS_1453",
+              "question": "What is the torque of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Koenigsegg_1453",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Kix egg_1453",
+              "question": "What is the torque of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_conic egg_1453",
+              "question": "What is the torque of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the torque of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the torque of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the torque of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the torque of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the torque of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the torque of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the torque of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla Model X plaid_1453",
+              "question": "What is the torque of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_plaid_1453",
+              "question": "What is the torque of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla_1453",
+              "question": "What is the torque of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_kex egg Agera RS_1453",
+              "question": "What is the gearbox in the kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Koenigsegg_1453",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Kix egg_1453",
+              "question": "What is the gearbox in the Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_conic egg_1453",
+              "question": "What is the gearbox in the conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the gearbox in the Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the gearbox in the Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the gearbox in the Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the gearbox in the Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the gearbox in the Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the gearbox in the Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla Model X plaid_1453",
+              "question": "What is the gearbox in the Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_plaid_1453",
+              "question": "What is the gearbox in the plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla_1453",
+              "question": "What is the gearbox in the Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_kex egg Agera RS_1453",
+              "question": "What is the quarter mile time of kex egg Agera RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Koenigsegg_1453",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Kix egg_1453",
+              "question": "What is the quarter mile time of Kix egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_conic egg_1453",
+              "question": "What is the quarter mile time of conic egg?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Type: three electric motors [117,119]_1453",
+              "question": "What is the quarter mile time of Engine Type: three electric motors [117,119]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Capacity: [EMPTY]_1453",
+              "question": "What is the quarter mile time of Engine Capacity: [EMPTY]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Horsepower: 1,20 horsepower [141,142]_1453",
+              "question": "What is the quarter mile time of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Weight: 2,468 kg [170,171]_1453",
+              "question": "What is the quarter mile time of Weight: 2,468 kg [170,171]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Torque: 1,420 Newt M of torque [145,149]_1453",
+              "question": "What is the quarter mile time of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Gearbox: single speed transmission [153,155]_1453",
+              "question": "What is the quarter mile time of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Quarter Mile Time: 10.2 seconds [1635,1636]_1453",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla Model X plaid_1453",
+              "question": "What is the quarter mile time of Tesla Model X plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_plaid_1453",
+              "question": "What is the quarter mile time of plaid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla_1453",
+              "question": "What is the quarter mile time of Tesla?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.2 seconds",
+                  "answer_start": 852
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "how was that that was all right i mean similar kind of thing i do think that you ' re a better drag racer and i think if if you were in this you would have transed me in that it was interesting watching your car you went off and then i came past you then towards the very end this thing was gaining at quite a speed it ' s just not enough room is it in the quarter mile once it ' s properly rolling like past 150 it ' s really starts ripping so let ' s move on to the normal rolling races over the half mile sounds good tom i ' ve got an idea what are we going to do is a rolling race we ' re going to start you ' re call in been second gear i ' ll i obviously don ' t have any years or you can get to whatever speed you want to feels comfortable right you ' re nice up boost and i ' ve got a feeling that i might take off before you the game is we ' re going to see what speed i ' m doing when you come pass me and i ' ll shout it out and you shout out what speed you ' re doing when you come past me so that ' s the game what speed are we both doing i like that plan yes given enough space i will come past you three 2 1 go oh [ applause ] well [ music ] [ applause ] pointless did i jump not especially so i wasn ' t expecting that i thought i ' d go pass you and then maybe you can pass you were just ahead yeah it was right on boost there in second oh when it ' s on boost my god that goes yeah it really does it ' s pretty mental once it ' s on boost well let ' s do it from third gear from 50 mph the standard car w test you might not be so boosty then 3 2 1 go oh [ music ] hello that was very different oh [ applause ] no oh no that shows you what a difference be on boost makes also i ' m an idiot and i left that window open bit of drag don ' t think it was the deciding factor probably just unpleasant i ' m happy to take any victory over a tesla pla you ' ve had one victory might be another victory coming up now though okay tom now we ' re going to do a break test from 100 mph when we reach the line slam on the brakes whichever car stops in the shortest distance wins fyi my car weighs 2. 5 tons which is a lot more than yours so yeah no excuses no excuses",
+          "qas": [
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_kex egg Agera RS_1938",
+              "question": "What is the engine type of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Koenigsegg_1938",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Kix egg_1938",
+              "question": "What is the engine type of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_conic egg_1938",
+              "question": "What is the engine type of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the engine type of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the engine type of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the engine type of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the engine type of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the engine type of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the engine type of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the engine type of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla Model X plaid_1938",
+              "question": "What is the engine type of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_plaid_1938",
+              "question": "What is the engine type of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla_1938",
+              "question": "What is the engine type of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_kex egg Agera RS_1938",
+              "question": "What is the engine capacity of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Koenigsegg_1938",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Kix egg_1938",
+              "question": "What is the engine capacity of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_conic egg_1938",
+              "question": "What is the engine capacity of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the engine capacity of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the engine capacity of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the engine capacity of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the engine capacity of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the engine capacity of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the engine capacity of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla Model X plaid_1938",
+              "question": "What is the engine capacity of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_plaid_1938",
+              "question": "What is the engine capacity of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla_1938",
+              "question": "What is the engine capacity of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_kex egg Agera RS_1938",
+              "question": "What is the horsepower of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Koenigsegg_1938",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Kix egg_1938",
+              "question": "What is the horsepower of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_conic egg_1938",
+              "question": "What is the horsepower of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the horsepower of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the horsepower of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the horsepower of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the horsepower of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the horsepower of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the horsepower of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the horsepower of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla Model X plaid_1938",
+              "question": "What is the horsepower of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_plaid_1938",
+              "question": "What is the horsepower of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla_1938",
+              "question": "What is the horsepower of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_kex egg Agera RS_1938",
+              "question": "What is the weight of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Koenigsegg_1938",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Kix egg_1938",
+              "question": "What is the weight of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_conic egg_1938",
+              "question": "What is the weight of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the weight of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the weight of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the weight of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the weight of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the weight of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the weight of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the weight of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla Model X plaid_1938",
+              "question": "What is the weight of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_plaid_1938",
+              "question": "What is the weight of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla_1938",
+              "question": "What is the weight of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_kex egg Agera RS_1938",
+              "question": "What is the torque of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Koenigsegg_1938",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Kix egg_1938",
+              "question": "What is the torque of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_conic egg_1938",
+              "question": "What is the torque of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the torque of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the torque of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the torque of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the torque of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the torque of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the torque of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the torque of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla Model X plaid_1938",
+              "question": "What is the torque of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_plaid_1938",
+              "question": "What is the torque of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla_1938",
+              "question": "What is the torque of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_kex egg Agera RS_1938",
+              "question": "What is the gearbox in the kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Koenigsegg_1938",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Kix egg_1938",
+              "question": "What is the gearbox in the Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_conic egg_1938",
+              "question": "What is the gearbox in the conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the gearbox in the Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the gearbox in the Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the gearbox in the Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the gearbox in the Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the gearbox in the Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the gearbox in the Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla Model X plaid_1938",
+              "question": "What is the gearbox in the Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_plaid_1938",
+              "question": "What is the gearbox in the plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla_1938",
+              "question": "What is the gearbox in the Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_kex egg Agera RS_1938",
+              "question": "What is the quarter mile time of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Koenigsegg_1938",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Kix egg_1938",
+              "question": "What is the quarter mile time of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_conic egg_1938",
+              "question": "What is the quarter mile time of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Type: three electric motors [117,119]_1938",
+              "question": "What is the quarter mile time of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Capacity: [EMPTY]_1938",
+              "question": "What is the quarter mile time of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Horsepower: 1,20 horsepower [141,142]_1938",
+              "question": "What is the quarter mile time of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Weight: 2,468 kg [170,171]_1938",
+              "question": "What is the quarter mile time of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Torque: 1,420 Newt M of torque [145,149]_1938",
+              "question": "What is the quarter mile time of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Gearbox: single speed transmission [153,155]_1938",
+              "question": "What is the quarter mile time of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Quarter Mile Time: 10.2 seconds [1635,1636]_1938",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla Model X plaid_1938",
+              "question": "What is the quarter mile time of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_plaid_1938",
+              "question": "What is the quarter mile time of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla_1938",
+              "question": "What is the quarter mile time of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "i think even even with me in it mine weighs less than 1500 now if you ' d rather watching the drag race with the conic egg then click on the pop out banner appearing in the top right hand corner of the screen or follow the qr code on screen now oh ow i did my back in pressing the pedal so hard so tom you won well done by half a car ' s length may have been slightly you know scared on the brakes there as well a little bit light perhaps still though you won and that ' s the main thing i absolutely smash these brakes and yeah teslas aren ' t known for their braking capabilities and there you go listen a huge thanks to tom for bringing his koex egg out to play with now if you want to watch some other stuff with him and maybe a drag race another drag race on his channel check out wanon okay we ' ve put a link in the description to this video go follow that anyway i hope you enjoyed the video if you did give it a like let me know what you think of the kix eg in the comments below would you have one of those or sheron now if you want to compare the car ' s time to everything else we ' ve ever drag raced then click on the box the car wire box to go check out the car drag race leaderboard and of course click on the video windows for some more videos see you next time",
+          "qas": [
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_kex egg Agera RS_2433",
+              "question": "What is the engine type of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Koenigsegg_2433",
+              "question": "What is the engine type of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Kix egg_2433",
+              "question": "What is the engine type of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_conic egg_2433",
+              "question": "What is the engine type of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the engine type of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the engine type of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the engine type of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the engine type of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the engine type of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the engine type of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the engine type of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla Model X plaid_2433",
+              "question": "What is the engine type of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_plaid_2433",
+              "question": "What is the engine type of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Type_Tesla_2433",
+              "question": "What is the engine type of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_kex egg Agera RS_2433",
+              "question": "What is the engine capacity of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Koenigsegg_2433",
+              "question": "What is the engine capacity of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Kix egg_2433",
+              "question": "What is the engine capacity of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_conic egg_2433",
+              "question": "What is the engine capacity of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the engine capacity of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the engine capacity of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the engine capacity of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the engine capacity of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the engine capacity of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the engine capacity of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla Model X plaid_2433",
+              "question": "What is the engine capacity of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_plaid_2433",
+              "question": "What is the engine capacity of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Engine Capacity_Tesla_2433",
+              "question": "What is the engine capacity of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_kex egg Agera RS_2433",
+              "question": "What is the horsepower of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Koenigsegg_2433",
+              "question": "What is the horsepower of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Kix egg_2433",
+              "question": "What is the horsepower of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_conic egg_2433",
+              "question": "What is the horsepower of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the horsepower of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the horsepower of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the horsepower of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the horsepower of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the horsepower of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the horsepower of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the horsepower of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla Model X plaid_2433",
+              "question": "What is the horsepower of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_plaid_2433",
+              "question": "What is the horsepower of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Horsepower_Tesla_2433",
+              "question": "What is the horsepower of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_kex egg Agera RS_2433",
+              "question": "What is the weight of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Koenigsegg_2433",
+              "question": "What is the weight of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Kix egg_2433",
+              "question": "What is the weight of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_conic egg_2433",
+              "question": "What is the weight of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the weight of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the weight of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the weight of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the weight of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the weight of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the weight of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the weight of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla Model X plaid_2433",
+              "question": "What is the weight of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_plaid_2433",
+              "question": "What is the weight of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Weight_Tesla_2433",
+              "question": "What is the weight of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_kex egg Agera RS_2433",
+              "question": "What is the torque of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Koenigsegg_2433",
+              "question": "What is the torque of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Kix egg_2433",
+              "question": "What is the torque of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_conic egg_2433",
+              "question": "What is the torque of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the torque of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the torque of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the torque of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the torque of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the torque of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the torque of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the torque of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla Model X plaid_2433",
+              "question": "What is the torque of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_plaid_2433",
+              "question": "What is the torque of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Torque_Tesla_2433",
+              "question": "What is the torque of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_kex egg Agera RS_2433",
+              "question": "What is the gearbox in the kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Koenigsegg_2433",
+              "question": "What is the gearbox in the Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Kix egg_2433",
+              "question": "What is the gearbox in the Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_conic egg_2433",
+              "question": "What is the gearbox in the conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the gearbox in the Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the gearbox in the Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the gearbox in the Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the gearbox in the Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the gearbox in the Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the gearbox in the Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla Model X plaid_2433",
+              "question": "What is the gearbox in the Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_plaid_2433",
+              "question": "What is the gearbox in the plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Gearbox_Tesla_2433",
+              "question": "What is the gearbox in the Tesla?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_kex egg Agera RS_2433",
+              "question": "What is the quarter mile time of kex egg Agera RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Koenigsegg_2433",
+              "question": "What is the quarter mile time of Koenigsegg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Kix egg_2433",
+              "question": "What is the quarter mile time of Kix egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_conic egg_2433",
+              "question": "What is the quarter mile time of conic egg?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Type: three electric motors [117,119]_2433",
+              "question": "What is the quarter mile time of Engine Type: three electric motors [117,119]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Engine Capacity: [EMPTY]_2433",
+              "question": "What is the quarter mile time of Engine Capacity: [EMPTY]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Horsepower: 1,20 horsepower [141,142]_2433",
+              "question": "What is the quarter mile time of Horsepower: 1,20 horsepower [141,142]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Weight: 2,468 kg [170,171]_2433",
+              "question": "What is the quarter mile time of Weight: 2,468 kg [170,171]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Torque: 1,420 Newt M of torque [145,149]_2433",
+              "question": "What is the quarter mile time of Torque: 1,420 Newt M of torque [145,149]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Gearbox: single speed transmission [153,155]_2433",
+              "question": "What is the quarter mile time of Gearbox: single speed transmission [153,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Quarter Mile Time: 10.2 seconds [1635,1636]_2433",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.2 seconds [1635,1636]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla Model X plaid_2433",
+              "question": "What is the quarter mile time of Tesla Model X plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_plaid_2433",
+              "question": "What is the quarter mile time of plaid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Koenigsegg Agera RS_Quarter Mile Time_Tesla_2433",
+              "question": "What is the quarter mile time of Tesla?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3770 @@
+{
+  "data": [
+    {
+      "title": "BMW X3 M50 v Porsche Macan v AMG GLC DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw x3 m50 v porsche macan v amg glc drag race _ transcript what will win in a drag race between the new bmw x3 m50, the porsche macan gts, and the mercedes mg glc 43? well, we ' re going to find out as i ' m going to race them over the standing quarter mile. i ' m not watson, and you ' re watching car wow. the bmw x3 m50 has a 3 l turbocharged straight six petrol engine that puts out 398 horsepower and 580 new m of torque. it drives all four wheels for an 8 - speed automatic gearbox with launch control. the car weighs in at £1, 980 kg and costs from £71, 000. the porsche macan gts has a 2.9 l twinturbo v6 that makes 440 horsepower and 550 new meters of torque that drives all four wheels for a 7 - speed automatic gearbox with launch control. it weighs in at 1, 960 kg and costs from £75, 000. the mercedes amg glc 43 coupe has a 2 l turbocharged 4 - cylinder petrol engine that puts out 421 horsepower and 500 new meters of torque. it sends power to all four wheels via a 9 - speed automatic gearbox with launch control. it weighs in at 1, 995 kg, cost from £78, 000. first thing we ' re going to do is do a sound check. so, i ' m going to rev up my bmw windows down. have a listen to this. yeah, that ' s all right. well, inside it is, but i think they ' re playing some like exhaust sounds through the speakers. what did it sound like from the outside, rory? > > sounds quite nice. bit of burble on the exhaust. yeah. yeah, i think it ' s decent for a semi - kmmed not x3m variant. > > variant. you ' re such a motoring journalist with your chat. um, we won ' t have motoring journalist chat from afy. what do you think? you ' re the owner of glc, so maybe you ' re a bit biased against this bmw, but be honest. > > if i ' m really, really honest from here, it sounded a bit like a diesel rowing up. > > classic response. wouldn ' t expect anything less. you are biased. let ' s have a listen to the porker. > > no",
+          "qas": [
+            {
+              "id": "BMW X3 M50_Engine Type_BMW X3 M50_1",
+              "question": "What is the engine type of BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L turbocharged straight six petrol engine",
+                  "answer_start": 328
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L turbocharged straight six petrol engine",
+                  "answer_start": 328
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L turbocharged straight six petrol engine",
+                  "answer_start": 328
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L turbocharged straight six petrol engine",
+                  "answer_start": 328
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW X3 M50_1",
+              "question": "What is the engine capacity of BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 330
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 330
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 330
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 330
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW X3 M50_1",
+              "question": "What is the horsepower of BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "398 horsepower",
+                  "answer_start": 388
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "398 horsepower",
+                  "answer_start": 388
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "398 horsepower",
+                  "answer_start": 388
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "398 horsepower",
+                  "answer_start": 388
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW X3 M50_1",
+              "question": "What is the weight of BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,980 kg",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,980 kg",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,980 kg",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "£1,980 kg",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW X3 M50_1",
+              "question": "What is the torque of BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "580 new m of torque.",
+                  "answer_start": 407
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "580 new m of torque.",
+                  "answer_start": 407
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "580 new m of torque.",
+                  "answer_start": 407
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "580 new m of torque.",
+                  "answer_start": 407
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW X3 M50_1",
+              "question": "What is the gearbox in the BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW X3 M50_1",
+              "question": "What is the quarter mile time of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche Macan GTS_1",
+              "question": "What is the engine type of Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L twinturbo V6",
+                  "answer_start": 593
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L twinturbo V6",
+                  "answer_start": 593
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L twinturbo V6",
+                  "answer_start": 593
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L twinturbo V6",
+                  "answer_start": 593
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche Macan GTS_1",
+              "question": "What is the engine capacity of Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L",
+                  "answer_start": 595
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L",
+                  "answer_start": 595
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L",
+                  "answer_start": 595
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.9 L",
+                  "answer_start": 595
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche Macan GTS_1",
+              "question": "What is the horsepower of Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "440 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "440 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "440 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "440 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche Macan GTS_1",
+              "question": "What is the weight of Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,960 kg",
+                  "answer_start": 771
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,960 kg",
+                  "answer_start": 771
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,960 kg",
+                  "answer_start": 771
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,960 kg",
+                  "answer_start": 771
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche Macan GTS_1",
+              "question": "What is the torque of Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new meters of torque",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new meters of torque",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new meters of torque",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 new meters of torque",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche Macan GTS_1",
+              "question": "What is the gearbox in the Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche Macan GTS_1",
+              "question": "What is the quarter mile time of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes AMG GLC 43_1",
+              "question": "What is the engine type of Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder petrol engine",
+                  "answer_start": 841
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_GLC 43_1",
+              "question": "What is the engine type of GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder petrol engine",
+                  "answer_start": 841
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_AMG_1",
+              "question": "What is the engine type of AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder petrol engine",
+                  "answer_start": 841
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_1",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder petrol engine",
+                  "answer_start": 841
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_1",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4-cylinder petrol engine",
+                  "answer_start": 841
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes AMG GLC 43_1",
+              "question": "What is the engine capacity of Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 839
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_GLC 43_1",
+              "question": "What is the engine capacity of GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 839
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_AMG_1",
+              "question": "What is the engine capacity of AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 839
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_1",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 839
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_1",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 839
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes AMG GLC 43_1",
+              "question": "What is the horsepower of Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "421 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_GLC 43_1",
+              "question": "What is the horsepower of GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "421 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_AMG_1",
+              "question": "What is the horsepower of AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "421 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_1",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "421 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_1",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "421 horsepower",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes AMG GLC 43_1",
+              "question": "What is the weight of Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg,",
+                  "answer_start": 1050
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_GLC 43_1",
+              "question": "What is the weight of GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg,",
+                  "answer_start": 1050
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_AMG_1",
+              "question": "What is the weight of AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg,",
+                  "answer_start": 1050
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_1",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg,",
+                  "answer_start": 1050
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_1",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg,",
+                  "answer_start": 1050
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes AMG GLC 43_1",
+              "question": "What is the torque of Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 new meters of torque.",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_GLC 43_1",
+              "question": "What is the torque of GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 new meters of torque.",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_AMG_1",
+              "question": "What is the torque of AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 new meters of torque.",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_1",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 new meters of torque.",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_1",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 new meters of torque.",
+                  "answer_start": 644
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes AMG GLC 43_1",
+              "question": "What is the gearbox in the Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_GLC 43_1",
+              "question": "What is the gearbox in the GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_AMG_1",
+              "question": "What is the gearbox in the AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_1",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_1",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes AMG GLC 43_1",
+              "question": "What is the quarter mile time of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_GLC 43_1",
+              "question": "What is the quarter mile time of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_AMG_1",
+              "question": "What is the quarter mile time of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_1",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_1",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "soft limiter and some pops and crackles. > > so far, i ' ll admit that is better than this. and definitely better than the new electric macan. > > definitely better than that one. yeah. > > afy, will you say anything good about that? > > 100 % better than the bmw. i heard the crackles and pops. right, put your money where your mouth is. let ' s hear your car, mate. yours is the worst. that ' s your own car. you bought that with your own money and it sounds the worst. didn ' t you expect the upgraded exhaust? the mercedes filters just don ' t do it any justice. bad luck. um, what do you think is going to happen in the race? right. because i ' ve got the least power. do you think i ' m going to still win? i think that bmws normally launch quite well once they ' ve figured themselves out and you ' ve pressed 80 buttons. the porsche also launches really, really well and it does have more power. so, i ' m going to back myself on this one and say i ' m going to win. > > afy, what are your thoughts? > > i think i ' ve got the porsche on this occasion. although i ' m in an amg, i think the porsche is going to probably have it because previously i ' ve watched them doing really well. > > okay, then do you think your car will be quicker than the bmw? it ' s got a lot more power. well, quite a bit more power. amg for the win. > > right, let ' s do it then. let ' s find out what the truth is. before we do, if you ' re thinking about selling your car, you can do it through car wow, right? all you have to do is upload some photos of your car, give a brief description, then dealers did all across the country will bid on it. it ' s super simple. you can do that now by click on the pop out banner, scanning the qr code or follow the link in the description or just simply google help me carow and we will help you sell your car. it ' s completely free. just worth doing. see what you can get for your car before you don ' t know, take it to a dealer or list it online or or whatever. you know what i mean",
+          "qas": [
+            {
+              "id": "BMW X3 M50_Engine Type_BMW X3 M50_408",
+              "question": "What is the engine type of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_408",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_408",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_408",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW X3 M50_408",
+              "question": "What is the engine capacity of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_408",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_408",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_408",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW X3 M50_408",
+              "question": "What is the horsepower of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_408",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_408",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_408",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW X3 M50_408",
+              "question": "What is the weight of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_408",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_408",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_408",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW X3 M50_408",
+              "question": "What is the torque of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_408",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_408",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_408",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW X3 M50_408",
+              "question": "What is the gearbox in the BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_408",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_408",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_408",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW X3 M50_408",
+              "question": "What is the quarter mile time of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_408",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_408",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_408",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche Macan GTS_408",
+              "question": "What is the engine type of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_408",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_408",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_408",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche Macan GTS_408",
+              "question": "What is the engine capacity of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_408",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_408",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_408",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche Macan GTS_408",
+              "question": "What is the horsepower of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_408",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_408",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_408",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche Macan GTS_408",
+              "question": "What is the weight of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_408",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_408",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_408",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche Macan GTS_408",
+              "question": "What is the torque of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_408",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_408",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_408",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche Macan GTS_408",
+              "question": "What is the gearbox in the Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_408",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_408",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_408",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche Macan GTS_408",
+              "question": "What is the quarter mile time of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_408",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_408",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_408",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes AMG GLC 43_408",
+              "question": "What is the engine type of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_GLC 43_408",
+              "question": "What is the engine type of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_AMG_408",
+              "question": "What is the engine type of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_408",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_408",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes AMG GLC 43_408",
+              "question": "What is the engine capacity of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_GLC 43_408",
+              "question": "What is the engine capacity of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_AMG_408",
+              "question": "What is the engine capacity of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_408",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_408",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes AMG GLC 43_408",
+              "question": "What is the horsepower of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_GLC 43_408",
+              "question": "What is the horsepower of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_AMG_408",
+              "question": "What is the horsepower of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_408",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_408",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes AMG GLC 43_408",
+              "question": "What is the weight of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_GLC 43_408",
+              "question": "What is the weight of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_AMG_408",
+              "question": "What is the weight of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_408",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_408",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes AMG GLC 43_408",
+              "question": "What is the torque of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_GLC 43_408",
+              "question": "What is the torque of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_AMG_408",
+              "question": "What is the torque of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_408",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_408",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes AMG GLC 43_408",
+              "question": "What is the gearbox in the Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_GLC 43_408",
+              "question": "What is the gearbox in the GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_AMG_408",
+              "question": "What is the gearbox in the AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_408",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_408",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes AMG GLC 43_408",
+              "question": "What is the quarter mile time of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_GLC 43_408",
+              "question": "What is the quarter mile time of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_AMG_408",
+              "question": "What is the quarter mile time of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_408",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_408",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "? let ' s get on with it. > > 2 ' s not even in that race. i ' m coming back. > > what ' s going on there? [ music ] oh, > > sorry guys. i missed it. [ music ] i don ' t care. i ' m winning. tell you what, afy was so quick. he he just disappeared, didn ' t he? he just went right ahead. disappeared into the horizon. no, he won. > > but between me and you, it was so close. > > yeah. i ' m not sure where he went, but um i can ' t believe you actually beat me at the end there. that ' s so depressing. mis launched so well like a porsche. and i just watched you come past me. i ' m not sure what ' s going on. > > i ' m not sure what ' s going on either. and i ' m not sure what ' s going on with afy. let ' s um see if he comes back from wherever he ' s just like rocketed off to. that was just insane. > > he got back before us as well, rory. that ' s impressive. so afie, it ' s one nil to you. > > thank you. i ' ll take that. let ' s do best two out of three. yeah. > > 3 2 1. [ music ] he ' s gone again. shorten the launch there. [ music ] can ' t beat him. this is so fast. this is different though. [ music ] [ applause ] > > stuart, can we just double check i didn ' t jump the start? > > oh, > > i went in this car thinking it would lose and everyone goes, \" matt chooses the fastest car. got the least horsepower. \" didn ' t think it would win. never driven these before. never raced them. > > is very very close. we are not 100 % sure either way. > > well, it doesn ' t really matter. afy won anyhow. so, um 2 - 0 to afy. what we ' re going to do is do best three out of five. is that okay? > > i promise i ' m going to behave next one. > > afy, is the launch control working okay in that one? > > yeah. no, i ' ve got it working. what",
+          "qas": [
+            {
+              "id": "BMW X3 M50_Engine Type_BMW X3 M50_838",
+              "question": "What is the engine type of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_838",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_838",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_838",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW X3 M50_838",
+              "question": "What is the engine capacity of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_838",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_838",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_838",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW X3 M50_838",
+              "question": "What is the horsepower of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_838",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_838",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_838",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW X3 M50_838",
+              "question": "What is the weight of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_838",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_838",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_838",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW X3 M50_838",
+              "question": "What is the torque of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_838",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_838",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_838",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW X3 M50_838",
+              "question": "What is the gearbox in the BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_838",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_838",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_838",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW X3 M50_838",
+              "question": "What is the quarter mile time of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_838",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_838",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_838",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche Macan GTS_838",
+              "question": "What is the engine type of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_838",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_838",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_838",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche Macan GTS_838",
+              "question": "What is the engine capacity of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_838",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_838",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_838",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche Macan GTS_838",
+              "question": "What is the horsepower of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_838",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_838",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_838",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche Macan GTS_838",
+              "question": "What is the weight of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_838",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_838",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_838",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche Macan GTS_838",
+              "question": "What is the torque of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_838",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_838",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_838",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche Macan GTS_838",
+              "question": "What is the gearbox in the Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_838",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_838",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_838",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche Macan GTS_838",
+              "question": "What is the quarter mile time of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_838",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_838",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_838",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes AMG GLC 43_838",
+              "question": "What is the engine type of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_GLC 43_838",
+              "question": "What is the engine type of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_AMG_838",
+              "question": "What is the engine type of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_838",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_838",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes AMG GLC 43_838",
+              "question": "What is the engine capacity of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_GLC 43_838",
+              "question": "What is the engine capacity of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_AMG_838",
+              "question": "What is the engine capacity of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_838",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_838",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes AMG GLC 43_838",
+              "question": "What is the horsepower of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_GLC 43_838",
+              "question": "What is the horsepower of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_AMG_838",
+              "question": "What is the horsepower of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_838",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_838",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes AMG GLC 43_838",
+              "question": "What is the weight of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_GLC 43_838",
+              "question": "What is the weight of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_AMG_838",
+              "question": "What is the weight of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_838",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_838",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes AMG GLC 43_838",
+              "question": "What is the torque of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_GLC 43_838",
+              "question": "What is the torque of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_AMG_838",
+              "question": "What is the torque of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_838",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_838",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes AMG GLC 43_838",
+              "question": "What is the gearbox in the Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_GLC 43_838",
+              "question": "What is the gearbox in the GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_AMG_838",
+              "question": "What is the gearbox in the AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_838",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_838",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes AMG GLC 43_838",
+              "question": "What is the quarter mile time of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_GLC 43_838",
+              "question": "What is the quarter mile time of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_AMG_838",
+              "question": "What is the quarter mile time of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_838",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_838",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "happened was i went in on it too early like a manual and then it timed out. > > afy, i have no idea what you ' re talking about. you ' ve won every single race. you don ' t need to do anything different at all. > > okay. > > 3 2 1 again. [ music ] > > bad stop. [ music ] oh. [ music ] [ applause ] > > oh, the joy. it ' s got to come in second all the time. i just would like to win for once. > > i launch perfectly then if i do say so myself. can ' t catch you > > afy. so, 3 - 0 to you. let ' s just for a little bit of fun, let a slower driver have a go in your car. > > let ' s go. > > all right. and afy, you ' ve put a cap on, mate. will that make you go quicker? > > i ' ve got a more aerodynamic head now. yeah, definitely. > > okay. good luck, afy. well, you ' ve been winning every race so far. uh, you ' re just going to win by a greater margin now. > > by a country mile? yeah, let ' s go. > > sounds different. sounds like he ' s doing an impression of nick. three, two, one. oh, he ' s ahead. what? oh, come on. yes. oh, come on. here we go. come on. [ music ] this is quicker. [ music ] i ' m going to beat the mercedes though. [ applause ] first things first, afrey, that ' s the first one you ' ve lost, but it ' s winner takes all in that race, i ' m afraid. so, the bmw won overall. nice try. porsche, me and you, just left simultaneously, and this just eased ahead. i think bmw are lying about the horsepower in this car. do you? > > i think they ' re lying about the horsepower of that car. it launches like an absolute. the only slight consolation is the fact that i have an alcantara steering wheel and they ' re the best things in the world. apart from that, yeah, i just can ' t beat you. but i did beat the mercedes. > > this final time you beat the mercedes. so afy, did he launch neck",
+          "qas": [
+            {
+              "id": "BMW X3 M50_Engine Type_BMW X3 M50_1258",
+              "question": "What is the engine type of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1258",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1258",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1258",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW X3 M50_1258",
+              "question": "What is the engine capacity of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1258",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1258",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1258",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW X3 M50_1258",
+              "question": "What is the horsepower of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1258",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1258",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1258",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW X3 M50_1258",
+              "question": "What is the weight of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1258",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1258",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1258",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW X3 M50_1258",
+              "question": "What is the torque of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1258",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1258",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1258",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW X3 M50_1258",
+              "question": "What is the gearbox in the BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1258",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1258",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1258",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW X3 M50_1258",
+              "question": "What is the quarter mile time of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1258",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1258",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1258",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche Macan GTS_1258",
+              "question": "What is the engine type of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1258",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1258",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1258",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche Macan GTS_1258",
+              "question": "What is the engine capacity of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1258",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1258",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1258",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche Macan GTS_1258",
+              "question": "What is the horsepower of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1258",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1258",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1258",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche Macan GTS_1258",
+              "question": "What is the weight of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1258",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1258",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1258",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche Macan GTS_1258",
+              "question": "What is the torque of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1258",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1258",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1258",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche Macan GTS_1258",
+              "question": "What is the gearbox in the Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1258",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1258",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1258",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche Macan GTS_1258",
+              "question": "What is the quarter mile time of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1258",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1258",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1258",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes AMG GLC 43_1258",
+              "question": "What is the engine type of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_GLC 43_1258",
+              "question": "What is the engine type of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_AMG_1258",
+              "question": "What is the engine type of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_1258",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_1258",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes AMG GLC 43_1258",
+              "question": "What is the engine capacity of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_GLC 43_1258",
+              "question": "What is the engine capacity of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_AMG_1258",
+              "question": "What is the engine capacity of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_1258",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_1258",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes AMG GLC 43_1258",
+              "question": "What is the horsepower of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_GLC 43_1258",
+              "question": "What is the horsepower of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_AMG_1258",
+              "question": "What is the horsepower of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_1258",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_1258",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes AMG GLC 43_1258",
+              "question": "What is the weight of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_GLC 43_1258",
+              "question": "What is the weight of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_AMG_1258",
+              "question": "What is the weight of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_1258",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_1258",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes AMG GLC 43_1258",
+              "question": "What is the torque of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_GLC 43_1258",
+              "question": "What is the torque of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_AMG_1258",
+              "question": "What is the torque of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_1258",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_1258",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes AMG GLC 43_1258",
+              "question": "What is the gearbox in the Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_GLC 43_1258",
+              "question": "What is the gearbox in the GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_AMG_1258",
+              "question": "What is the gearbox in the AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_1258",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_1258",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes AMG GLC 43_1258",
+              "question": "What is the quarter mile time of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_GLC 43_1258",
+              "question": "What is the quarter mile time of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_AMG_1258",
+              "question": "What is the quarter mile time of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_1258",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_1258",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "and neck with the porsche? pretty much. > > yes, that was a really good go. and um i ' ve got to give it to the bmw edge forward. > > cole, let ' s do the thing. so then what exactly happened? well, the bmw won. it completed the standing quarter mile in 12. 7 seconds. the porsche 12. 8 seconds and the mercedes was last with a time of 12. 9 seconds. now we ' re going to have a rolling race from 50 mph. we ' re going to do it in normal automatic mode, comfort mode, and we ' re going to race over the half mile. before we do this though, if you ' d like to see a great deal i found from one of these manufacturers and the saving, click on the pop out banner up there. scan the qr code on screen now. you ready, guys? so, just stay level with me. 3 2 1 go. [ music ] god, this took forever to kick down. come on, porsche. > > mercedes was neck and neck with me. let ' s go. oh, we ' re doing the bmw. [ applause ] this is the opposite of the drag race. porsche is moving. bmw, what happened? that was literally the opposite to the drag race. just completely different. slow kick down, went behind, stayed behind. and afy, you just like pulled past. > > now that was just a comeback for amg. > > how about you? you were ahead and stayed ahead, right? > > yeah. gearbox kicked down really nicely and then obviously yeah with the more power when on the roll i managed to stay ahead which was nice. yeah. > > okay, let ' s just go full manual mode sportier setting. let ' s actually sort the men from the boys. here we go. three 2 one go. come on. [ music ] come on bmw. come on. porsch is going. porsche is going. bmw, come on. come on. [ applause ] running past the mercedes. oh. [ music ] that was interesting cuz this time i managed to beat the mercedes but couldn ' t beat the porsche. > > yeah, actually that time afy went off first. so i think his like hybridization or whatever it ' s called um really helped him but i did come past them win in the end. so yeah, i ' m very happy. >",
+          "qas": [
+            {
+              "id": "BMW X3 M50_Engine Type_BMW X3 M50_1672",
+              "question": "What is the engine type of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1672",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1672",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_1672",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW X3 M50_1672",
+              "question": "What is the engine capacity of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1672",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1672",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_1672",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW X3 M50_1672",
+              "question": "What is the horsepower of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1672",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1672",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_1672",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW X3 M50_1672",
+              "question": "What is the weight of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1672",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1672",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_1672",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW X3 M50_1672",
+              "question": "What is the torque of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1672",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1672",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_1672",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW X3 M50_1672",
+              "question": "What is the gearbox in the BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1672",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1672",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_1672",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW X3 M50_1672",
+              "question": "What is the quarter mile time of BMW X3 M50?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.7 seconds.",
+                  "answer_start": 258
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1672",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.7 seconds.",
+                  "answer_start": 258
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1672",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.7 seconds.",
+                  "answer_start": 258
+                }
+              ]
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_1672",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.7 seconds.",
+                  "answer_start": 258
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche Macan GTS_1672",
+              "question": "What is the engine type of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1672",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1672",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_1672",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche Macan GTS_1672",
+              "question": "What is the engine capacity of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1672",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1672",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_1672",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche Macan GTS_1672",
+              "question": "What is the horsepower of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1672",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1672",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_1672",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche Macan GTS_1672",
+              "question": "What is the weight of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1672",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1672",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_1672",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche Macan GTS_1672",
+              "question": "What is the torque of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1672",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1672",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_1672",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche Macan GTS_1672",
+              "question": "What is the gearbox in the Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1672",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1672",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_1672",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche Macan GTS_1672",
+              "question": "What is the quarter mile time of Porsche Macan GTS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1672",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1672",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_1672",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 285
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes AMG GLC 43_1672",
+              "question": "What is the engine type of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_GLC 43_1672",
+              "question": "What is the engine type of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_AMG_1672",
+              "question": "What is the engine type of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_1672",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_1672",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes AMG GLC 43_1672",
+              "question": "What is the engine capacity of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_GLC 43_1672",
+              "question": "What is the engine capacity of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_AMG_1672",
+              "question": "What is the engine capacity of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_1672",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_1672",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes AMG GLC 43_1672",
+              "question": "What is the horsepower of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_GLC 43_1672",
+              "question": "What is the horsepower of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_AMG_1672",
+              "question": "What is the horsepower of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_1672",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_1672",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes AMG GLC 43_1672",
+              "question": "What is the weight of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_GLC 43_1672",
+              "question": "What is the weight of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_AMG_1672",
+              "question": "What is the weight of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_1672",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_1672",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes AMG GLC 43_1672",
+              "question": "What is the torque of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_GLC 43_1672",
+              "question": "What is the torque of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_AMG_1672",
+              "question": "What is the torque of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_1672",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_1672",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes AMG GLC 43_1672",
+              "question": "What is the gearbox in the Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_GLC 43_1672",
+              "question": "What is the gearbox in the GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_AMG_1672",
+              "question": "What is the gearbox in the AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_1672",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_1672",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes AMG GLC 43_1672",
+              "question": "What is the quarter mile time of Mercedes AMG GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds.",
+                  "answer_start": 340
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_GLC 43_1672",
+              "question": "What is the quarter mile time of GLC 43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds.",
+                  "answer_start": 340
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_AMG_1672",
+              "question": "What is the quarter mile time of AMG?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds.",
+                  "answer_start": 340
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_1672",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds.",
+                  "answer_start": 340
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_1672",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.9 seconds.",
+                  "answer_start": 340
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "> yeah, i did think we were closer to the porsche this time but yeah, the bmw just edged past. yay! second place. now we go with a break test from 100 miles an hour. the car that stops in the shortest distance wins. if you ' d rather watch another drag race, that ' s another bmw versus porsche versus mercedes thing. click on the pop out there. scan the qr code on screen now. if not, stay here for the brake test. you hear the code stamp on that brake. ooh, > > i didn ' t win that. what a win. > > you know what they say about bmw brakes. they ' re never as good, are they? > > no, i mean to be honest with you, i thought afy was going to beat me then, but just honestly the last split second he just rolled past. but we know porsche brakes are good, but bloody hell, those mercedes brakes are pretty good today. > > yeah, it stopped really well this one. > > well, i can ' t say the same. won the drag race, but everything else porsche won classic. hope you enjoyed the video. if you did, give it a like if you want to watch. > > i did call the porsche, didn ' t i? > > you didn ' t win the drag race, though. oh, no. you won the drag race many times. anyway, if you want to watch some other videos, click on the video windows. if you want to compare these cars quarter mile times to everything else we ' ve ever drag raced, click the carwo logo to check out the car wow drag race leaderboard. anyway, thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "BMW X3 M50_Engine Type_BMW X3 M50_2089",
+              "question": "What is the engine type of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_2089",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_2089",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Type_BMW_2089",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW X3 M50_2089",
+              "question": "What is the engine capacity of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_2089",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_2089",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Engine Capacity_BMW_2089",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW X3 M50_2089",
+              "question": "What is the horsepower of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_2089",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_2089",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Horsepower_BMW_2089",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW X3 M50_2089",
+              "question": "What is the weight of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_2089",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_2089",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Weight_BMW_2089",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW X3 M50_2089",
+              "question": "What is the torque of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_2089",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_2089",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Torque_BMW_2089",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW X3 M50_2089",
+              "question": "What is the gearbox in the BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_2089",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_2089",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Gearbox_BMW_2089",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW X3 M50_2089",
+              "question": "What is the quarter mile time of BMW X3 M50?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_2089",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_2089",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW X3 M50_Quarter Mile Time_BMW_2089",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche Macan GTS_2089",
+              "question": "What is the engine type of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_2089",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_2089",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Type_Porsche_2089",
+              "question": "What is the engine type of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche Macan GTS_2089",
+              "question": "What is the engine capacity of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_2089",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_2089",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Engine Capacity_Porsche_2089",
+              "question": "What is the engine capacity of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche Macan GTS_2089",
+              "question": "What is the horsepower of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_2089",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_2089",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Horsepower_Porsche_2089",
+              "question": "What is the horsepower of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche Macan GTS_2089",
+              "question": "What is the weight of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_2089",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_2089",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Weight_Porsche_2089",
+              "question": "What is the weight of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche Macan GTS_2089",
+              "question": "What is the torque of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_2089",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_2089",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Torque_Porsche_2089",
+              "question": "What is the torque of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche Macan GTS_2089",
+              "question": "What is the gearbox in the Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_2089",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_2089",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Gearbox_Porsche_2089",
+              "question": "What is the gearbox in the Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche Macan GTS_2089",
+              "question": "What is the quarter mile time of Porsche Macan GTS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_2089",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_2089",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Macan GTS_Quarter Mile Time_Porsche_2089",
+              "question": "What is the quarter mile time of Porsche?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes AMG GLC 43_2089",
+              "question": "What is the engine type of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_GLC 43_2089",
+              "question": "What is the engine type of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_AMG_2089",
+              "question": "What is the engine type of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_2089",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Type_Mercedes_2089",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes AMG GLC 43_2089",
+              "question": "What is the engine capacity of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_GLC 43_2089",
+              "question": "What is the engine capacity of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_AMG_2089",
+              "question": "What is the engine capacity of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_2089",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Engine Capacity_Mercedes_2089",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes AMG GLC 43_2089",
+              "question": "What is the horsepower of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_GLC 43_2089",
+              "question": "What is the horsepower of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_AMG_2089",
+              "question": "What is the horsepower of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_2089",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Horsepower_Mercedes_2089",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes AMG GLC 43_2089",
+              "question": "What is the weight of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_GLC 43_2089",
+              "question": "What is the weight of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_AMG_2089",
+              "question": "What is the weight of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_2089",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Weight_Mercedes_2089",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes AMG GLC 43_2089",
+              "question": "What is the torque of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_GLC 43_2089",
+              "question": "What is the torque of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_AMG_2089",
+              "question": "What is the torque of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_2089",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Torque_Mercedes_2089",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes AMG GLC 43_2089",
+              "question": "What is the gearbox in the Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_GLC 43_2089",
+              "question": "What is the gearbox in the GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_AMG_2089",
+              "question": "What is the gearbox in the AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_2089",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Gearbox_Mercedes_2089",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes AMG GLC 43_2089",
+              "question": "What is the quarter mile time of Mercedes AMG GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_GLC 43_2089",
+              "question": "What is the quarter mile time of GLC 43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_AMG_2089",
+              "question": "What is the quarter mile time of AMG?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_2089",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG GLC 43 coupe_Quarter Mile Time_Mercedes_2089",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

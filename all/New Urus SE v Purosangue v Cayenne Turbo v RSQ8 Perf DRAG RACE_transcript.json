@@ -1,0 +1,1879 @@
+{
+  "data": [
+    {
+      "title": "New Urus SE v Purosangue v Cayenne Turbo v RSQ8 Perf DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new urus se v purosangue v cayenne turbo v rsq8 perf drag race _ transcript what will win in a drag race between the new porsche cayen turbo e hybrid with gt package? long name. the new lamborghini urus se, the hybrid, the ferrari purus sanguay, and the audi rsq8 performance. well, we ' re going to find out by racing them over the standing quarter mile. i ' m matt watson, and you ' re watching carw wow. the audi rsq8 performance has a 4 liter twin turbo v8, 640 horsepower, 850 newton meters of torque, all - wheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 2, 275 kg and cost from 140, 000. the ferrari puranguay has a naturally aspirated 6.5 l v12 with 725 horsepower, 716 nm of torque, all - wheel drive, and an 8 - speed automatic gearbox with launch control. it weighs around 2, 150 kg and starts from £313, 000. the new lamborghini urus se has a 4 liter twin turbo v8 with an electric motor. it ' s a hybrid. there ' s 800 horsepower, 950 new m of torque, all - wheel drive, an 8 - speed automatic gearbox and launch control. it weighs around 2, 500 kg and cost him 28, 000. the porsche cayenne coupe turbo eh hybrid with gt pack has a 4 liter twin turbo v8 with an electric motor, 739 horsepower, 950 new meters of torque, all - wheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 2, 495 kg and costs from £166, 000. this can be a very interesting race because we ' ve got three vw group cars against ferrari. but ferraris are fast. i think it could be up to the task. but let ' s see what the driver of that bright blue lambo thinks. you ' re in another urus. you ' ve had uruses kind of from as long as i can remember really, but they ' re always slightly different. so, what what ' s this one? hi, matt. i ' m in the urus sa. obviously, it says se on the side, but they call it sa. it ' s the new hybrid. it ' s 800 brake horsepower. and i ' m here to do some damage. oh my",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 liter twin turbo V8 with an electric motor.",
+                  "answer_start": 884
+                }
+              ]
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 liter",
+                  "answer_start": 439
+                }
+              ]
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "739 horsepower,",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,495 kg",
+                  "answer_start": 1352
+                }
+              ]
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "950 new meters of torque,",
+                  "answer_start": 478
+                }
+              ]
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 537
+                }
+              ]
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_1",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 liter twin turbo V8 with an electric motor.",
+                  "answer_start": 884
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_1",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 liter",
+                  "answer_start": 439
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_1",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 horsepower,",
+                  "answer_start": 462
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_1",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,500 kg",
+                  "answer_start": 1086
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_1",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "950 new m of torque,",
+                  "answer_start": 975
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_1",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 537
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_1",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_1",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "naturally aspirated 6.5 L V12",
+                  "answer_start": 652
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_1",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 674
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_1",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "725 horsepower,",
+                  "answer_start": 689
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_1",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,150 kg",
+                  "answer_start": 818
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_1",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "716 Nm of torque,",
+                  "answer_start": 705
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_1",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 537
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_1",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_1",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 liter twin turbo V8",
+                  "answer_start": 437
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_1",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 liter",
+                  "answer_start": 439
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_1",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "640 horsepower,",
+                  "answer_start": 462
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_1",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,275 kg",
+                  "answer_start": 595
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_1",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 Newton meters of torque,",
+                  "answer_start": 478
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_1",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox",
+                  "answer_start": 537
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_1",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "god, you had a lot of coffee this morning, tommy. naturally aspirated v12. the only naturally aspirated car here, but you got four extra cylinders over everyone else. do you need any like electric hybrid boosting? i don ' t think you do, do you? uh, i don ' t think i do either, and i think i ' m lighter than everyone, so hopefully that helps in my favor. finally then, sam in the rsq8 down on power, but you have maximum skill cuz you ' re a racing driver. yeah, i can release the brake better than any man alive. oh, you ' re so sarcastic. let ' s start off with a sound check. so sam, can you depress the throttle better than any man alive now so we can hear the engine? soft, soft, soft. depress is correct. i thought so. tommy, let ' s listen to your v12. wow. i just realized all you guys have the same engine. i know it ' s not going to get better with the lamborgh. the lamborghini will be slightly better than the audi. go on, lambo. that actually scared me. i opened the window and i jumped. i ' ve got the burbles. this is going to sound like most of the porsches. so, a vacuum cleaner unless it ' s a gt car. but here we go. i mean, this is the same engine as yours, yanni. but how much better is your exhaust? 10 times better. thank you. now, did i tell you you can now buy used cars through carwow? you got a whole range of used cars. and i ' ve actually got a used version of one of these cars through carwow. put a link up there, right, and in the pin comment and in the description. so, click that link, follow the qr code, whatever, to go and find out about that used car. so, yeah, carw wow is now doing used cars. you can buy new, you can buy used, and of course, you can sell your car through car. we do the lot. and we do drag races. so, shall we drag race? that ' s what you came here for, isn ' t it, matt? by the way, yeah, this car is box fresh. i ' ve got 537 miles. i",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_395",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_395",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_395",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_395",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_395",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_395",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_395",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_395",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_395",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_395",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_395",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_395",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_395",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_395",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_395",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_395",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_395",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_395",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_395",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_395",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_395",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_395",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "assume that ' s enough. i ' ve checked to see if it goes in launch and it does. did you read the manual about the running period? yes. no. is there a running period? no. do you want to race? i sure do want to race. you know, when you like bought the car, were you gentle with the throttle or did you just like have a blast straight away? day one, you got to you got to give it a lot more at the start because then the car runs in faster and it feels faster. yeah. run it in fast, make it fast. that ' s right. uh before we start, let ' s just do a quick prediction of what we think is going to happen. sam, who do you think is going to win? me. confident racing driver. okay, tommy. uh me in my pro sang with a child seat in the back. yanni, i know what you ' re going to say. i ' m backing my own car. come in the urus. and you know what? i ' m backing this as well. i think this is going to win cuz you know porsche power. 3 2 1 or [ music ] well, i ' ll let those guys go first, shall i? let ' s abandon. let ' s not get ahead of ourselves. but do you know what, tommy? all the vw group vehicles launched perfectly, but the ferrari failed. or maybe you failed. you know, it ' s just an italian thing, you know, leaving you guys in suspense. so, the real reason is i have no clue. did you up a little bit? it went into launch, but when i uh put my foot on the accelerator, it just went to like 1, 000 rpm and so yeah. do you want to have a little launch to see if it actually launches? yeah, it launches fine now. yeah. yeah. when it ' s not racing, i think your car is frightened. it ' s outnumbered 3 to one. or it feels sorry for you guys all having the same car in different colors. that is true. at least yours is unique. mine had a gearbox fault coming up just saying it ' s overheated, but it seems to be all right now. and also with this, it ' s a bit different cuz it goes you got to put the launch in, it prepares, and then it goes into launch.",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_788",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_788",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_788",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_788",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_788",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_788",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_788",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_788",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_788",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_788",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_788",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_788",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_788",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_788",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_788",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_788",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_788",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_788",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_788",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_788",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_788",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_788",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "so, i ' ve got to try and work out the the timing cuz obviously it comes to me one before you. do you want it to come to you last then? is if yours is tricky because this is a porsche. it will just launch all day every day. even though it ' s the same car, they just make them better in germany than italy. it ' s not that it ' s tricky, it takes a bit longer to go into launch. it ' s preparing then it goes into launch. god, this is the biggest amount of pre - race preamble ever. should we should we just carry on as normal? two. oh, [ music ] wait. i didn ' t thumbs up. will, this is a joke. this is let ' s try again. i ' m going home. this is a porsche. this just does it normally. it ' s no problem with a porsche. that was driver error. it wasn ' t car error. that was starter error. i was busy like looking down, waiting for you. i thought you were fanning about trying to get your car working. but anyway, oh, here we go. hell, mine car was ready to launch. i ' m just going to go and unlaunch. listen, i ' m going for a piss. is it lunch time yet? can we have lunch? i know you so well. go to tommy. go to tommy. i don ' t know. but i ' m stupid. all right, let ' s do it, i think. 3 2 1 oh, where ' s that ferrari? [ music ] [ music ] porsche is gone. oh, that ' s interesting. what ' s happening behind shoot, this is quick. your brakes were on fire, yanni. i ' d go do some driving. well done, sam. good launch from you, mate. um, considering you ' re down on power to everyone else, you beat them, didn ' t you? apart from me. yeah. yeah, the audi came first and second. um, did it come last as well? the ferrari came last. but i want to check one thing and i ' m surprised sam and yanni hasn ' t called it yet. stuart, did i jump? yes, you did jump. yes, you jumped, mate. yes, you jumped. i jumped. okay, that race doesn ' t count. did sam jump",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1209",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_1209",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_1209",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_1209",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_1209",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_1209",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_1209",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_1209",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_1209",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_1209",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_1209",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_1209",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_1209",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_1209",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_1209",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_1209",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_1209",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_1209",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_1209",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_1209",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_1209",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_1209",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "as well? sam did not jump. consumate professional. that ' s why we pay you the i was going to say big bucks, but we don ' t. that ' s why we pay you some money to come along cuz you just nail it every time. we ' ll have a chat about money at lunchtime. matthew. 3 2 1. oh, we ' ve got a race on here. [ music ] we ' ll have a chat about money at lunchtime. matthew, come on. come on. oh, wow. they ' re all coming. come on, ferrari. we ' ll have a chat about money. but it ' s gapping him. come on, ferrari. whoa. here comes the ferrari. now, we ' ll have a chat about money. oh, [ music ] wa. what? i got a warning come up as your hands were going up. that was a wicked race. that was do you know [ music ] what? this is a joke. i saw the audi fail to launch. i thought, let me just keep going. oh, no. that was too good. that was too good a race and the time on this car was mega and that ferrari was pulling everyone back in. i think a bit more room you ' d have beaten me. yeah. yeah, definitely. i was getting there. sam, um, that ' s one race. okay. it ' s one nil to the porsche. let ' s have another go. you ' re not going to win anything anyway, sam. you ' re just there because we want to have you along in the video. i love the way everybody up and we keep rerunning the races and then this car actually has a problem and they ' re going to just run the race without it. unbelievable. that ' s a good point actually, sam. let ' s do it all again. so, that race is disqualified as well. so, we ' ve had about three or four races now and we haven ' t actually done a clean race. whoever wins wins. okay. and that ' s the result. i hope i get off good. you always get off good. you do. three, two, i ' m pushing. no, it ' s now decided to just push through its brakes. that ' s the joys of a zf 8 - speed gearbox. no real launch control. it ' s like,",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_1615",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_1615",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_1615",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_1615",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_1615",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_1615",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_1615",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_1615",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_1615",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_1615",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_1615",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_1615",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_1615",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_1615",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_1615",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_1615",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_1615",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_1615",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_1615",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_1615",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_1615",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_1615",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "why is it even saying launch when it ' s just like cruising forward? 10 : 00 and we haven ' t managed to get one drag race night. this is a joke. this is a shambles, isn ' t it? and these are supposed to be the easiest cars to drive. 3 2 1 oh no, i jumped. i jumped. i jumped. sake. i might have to sit this one out. i don ' t think i can do this. matt, do you want an adult to switch with you and push the brake pedal for you? yes, i do, actually. well, i ' ve done 541 miles now, so at least my mileage is going up. i love that. all that mileage is just launches. and for no actual completed drag race. tommy ' s just lost his mind in there, laughing his head off. i don ' t know why. so funny. listen, if you love drag racing, but you like shorter drag race videos, i ' ve got a new channel for you called carw wow drags. now, you can subscribe to it by clicking on the pop out banner, following the qr code or the link in the description, and we ' ll be uploading short form like kind of 3 to 5 minute long drag race videos. same kind of drag race videos you love, but shorter. three, two, one. i held that back. come on. and the out is winning. what? come on. [ music ] [ music ] oh, it ' s close. sam ' s launch is mad. this car is just not launching today. you had one good race and it ' s when sam ' s car didn ' t work. stewards, can we just check that sam didn ' t jump? if you didn ' t jump, you ' re you ' re on it. i i was a bit delayed cuz i was paranoid about jumping, but let ' s see how on it you were, sam. both sam and yanni jump. oh no, we haven ' t done a single race. and the best thing about this, i have no idea what ' s going to win. i have no idea cuz we haven ' t had a good start from anyone. this is just an absolute show. my launches are getting worse and worse. it ' s like i take my foot off the break and the the delay just changes. do you know what",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2025",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_2025",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_2025",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_2025",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_2025",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_2025",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_2025",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_2025",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_2025",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_2025",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_2025",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_2025",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_2025",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_2025",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_2025",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_2025",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_2025",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_2025",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_2025",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_2025",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_2025",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_2025",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "jump then? cuz we ' ll probably jump as well or someone will. you know, i saw this drag race and i thought this is easy. this is just easy to do. nice easy day. but this is turning into utter chaos. three, two, [ music ] one. that ' s better. or is that ferrari? oh, it ' s close. come on, ferrari. yes. i tell you about ferrari. oh, here comes the ferrari now. whoa. ferrari. ferrari. [ music ] do we just call that as a day? like i can ' t face doing it again. yeah, my launch went great though. typical. ferrari came second. had a good launch, but the porsche launch was just way better. i was bogging and sliding. sam, yeah, good launch. i could have been a touch delayed, but i wouldn ' t want to risk doing that again. that was pretty good. i think i think that ' s about the right result as well, don ' t you? we ' ll never know. let ' s do the thing anyway. yeah, i ' m not happy about that because i ' ve come last now and i never come last in any of the other races and for the first time i ' ve come last now. let ' s just go back to the line. i don ' t emotionally have another launch in me, i ' m afraid. i don ' t know if i do, but let ' s just find out. that ur should at least beat the rsq8. 3 2 1 here we go. oh, that ' s the launch. that ' s [ applause ] better. but the ferrari ' s not in it. is he going to come [ music ] through? come on, ferrari. look at the ferrari go. [ music ] okay. so, you did a bit better that time, didn ' t you, yan? yeah, i hope so. god knows what we ' re going to find out now anyway. okay. um, tommy, yours wasn ' t so good, was it? bogged down. i even let go of the brake early and i still left the line after everyone. and sam, that ' s the best launch this one ' s done, so i ' m happy. let ' s keep it. all those three cars perform slightly differently, whereas this porsche has just been performing the same over and over again. the only",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2445",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_2445",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_2445",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_2445",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_2445",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_2445",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_2445",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_2445",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_2445",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_2445",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_2445",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_2445",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_2445",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_2445",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_2445",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_2445",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_2445",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_2445",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_2445",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_2445",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_2445",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_2445",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "problem with the porsche has been me. that ' s very true. that ' s very true. it always at the front. okay, that ' s it then. good luck to the editor trying to make a good video out of that. so then, what exactly happened? well, the porsche won. it completed the standing quarter mile in 11. 4 seconds. next was the lamborghini just ahead of the audi. both cars crossed the line in 11. 5 seconds. in last place was the ferrari. it did the standing / 4 mile in 11. 6 seconds. before our next race, a little message that could well help you if you ' re looking to buy a used car, bike, or van anytime soon. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this volvo v90 on car vertical. it ' s got green tanks for odometer and finance for warnings for damage and theft. why? it was previously stolen and involved in an accident. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carow for 20 % off or by following the link in the description. now, back to the race. right now, we ' re going for a rolling race. we ' re going to put the cars in there like hybrid or normal or comfort mode. we ' re in automatic mode for the gearbox. imagine you ' re just cruising along 50 mph. then, all of a sudden, you want to race. so, i ' ll call it in 3 2 1. and then we ' re going to race the half mile and see which car is quickest. 3 2 1 go. blime me. where was my car? oh, it ' s a slow. that ' s [ music ] interesting. just how quick the rsq8 was. [ music ] i just don ' t understand it. that was the weirdest thing ever. that didn ' t play out how i thought it would at all. first of all, sam, were you in like comfort mode and automatic mode for the gearbox? cuz your car just shot off ahead of these hybrids, which was odd. i ' m pointing at e1 efficiency and it ' s all green. so, this",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_2860",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds.",
+                  "answer_start": 292
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_2860",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_2860",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_2860",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_2860",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_2860",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_2860",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_2860",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 386
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_2860",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_2860",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_2860",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_2860",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_2860",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_2860",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_2860",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.6 seconds.",
+                  "answer_start": 464
+                }
+              ]
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_2860",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_2860",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_2860",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_2860",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_2860",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_2860",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_2860",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.5 seconds.",
+                  "answer_start": 386
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "dropped 45 gears, took a lifetime, and then just took off. this took ages to kick down as well and everyone had took off. you were all like half a car length ahead of me. what happened to your car, yanny? it ' s like you lift off the accelerator, just hybrid, just slow. just didn ' t give me no sort of acceleration. just normal. yeah. i wonder if it just like reduces the power on hybrid mode for that. this porsche doesn ' t. it was pulling and it was so close between the three of us at the end. i think sam just beat us to the half mile, tommy. but between me and you, i ' m not sure. that looked like a hybrid, while these look like normal cars. that looked electric, actually, didn ' t it? it looked electric. that ' s why i was just like wondering if sam was just cheating, cuz sometimes he does cheat. let ' s do it in um sports this your corsera mode in manual. okay. three, two, one, go. that sport response then. [ music ] everything else just thrashed me. oh, i ' m losing [ music ] now. oh, the ferrari is the fastest. [ music ] [ applause ] that was a clear win for the ferrari. and you were in third gear. absolutely. yeah. just took off. the audi was so far behind then. it was like a complete reversal. yeah. but i guess that ' s just down to comfort and gearbox settings, isn ' t it? when it was just raw pace, we just saw this is lacking a couple hundred horsepower, isn ' t it? yeah. but i was surprised about the lamborghini. i mean, maybe because it ' s only done 500 miles, it needs to loosen up. i think we might have to get it back for another race. it seems okay. it definitely feels quicker than what it was, but who knows? right now, we ' re going to do brake test from 100 mph. when we reach the cones full emergency stop, car that stops in the shortest distance wins. now, if you ' d rather watch another drag race, click on the pop out banner up there. scan the qr code on screen. here we go. that ' s 100 [ applause ] mph. my foot is to the floor. [ music ] yes. do you know what the problem there is",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3279",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_3279",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_3279",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_3279",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_3279",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_3279",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_3279",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_3279",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_3279",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_3279",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_3279",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_3279",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_3279",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_3279",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_3279",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_3279",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_3279",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_3279",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_3279",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_3279",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_3279",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_3279",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ", yanni? what? wait. yeah. look at us. we ' re pretty much exact though. yeah, cuz our cars are pretty much exactly the same. i think you were just slightly behind me. i think you won. i think i came last. it ' s a brake test. who cares? a come on. don ' t be like that. listen, i hope you all enjoyed the video. if you did, give it a like. let me know which of these cars you ' d rather have in the comments below. and if you click on the carwow logo, you can head over to check out the carwow drag race leaderboard to compare these cars quarter mile times to everything else we ' ve ever drag race. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Type_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the engine type of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Engine Capacity_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the engine capacity of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Horsepower_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the horsepower of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Weight_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the weight of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Torque_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the torque of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Gearbox_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the gearbox in the Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_Quarter Mile Time_Porsche Cayenne Coupe Turbo E-Hybrid with GT pack_3697",
+              "question": "What is the quarter mile time of Porsche Cayenne Coupe Turbo E-Hybrid with GT pack?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Type_Lamborghini Urus SE_3697",
+              "question": "What is the engine type of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Engine Capacity_Lamborghini Urus SE_3697",
+              "question": "What is the engine capacity of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Horsepower_Lamborghini Urus SE_3697",
+              "question": "What is the horsepower of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Weight_Lamborghini Urus SE_3697",
+              "question": "What is the weight of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Torque_Lamborghini Urus SE_3697",
+              "question": "What is the torque of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Gearbox_Lamborghini Urus SE_3697",
+              "question": "What is the gearbox in the Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Urus SE_Quarter Mile Time_Lamborghini Urus SE_3697",
+              "question": "What is the quarter mile time of Lamborghini Urus SE?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Type_Ferrari Purosangue_3697",
+              "question": "What is the engine type of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Engine Capacity_Ferrari Purosangue_3697",
+              "question": "What is the engine capacity of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Horsepower_Ferrari Purosangue_3697",
+              "question": "What is the horsepower of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Weight_Ferrari Purosangue_3697",
+              "question": "What is the weight of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Torque_Ferrari Purosangue_3697",
+              "question": "What is the torque of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Gearbox_Ferrari Purosangue_3697",
+              "question": "What is the gearbox in the Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Purosangue_Quarter Mile Time_Ferrari Purosangue_3697",
+              "question": "What is the quarter mile time of Ferrari Purosangue?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Type_Audi RSQ8 performance_3697",
+              "question": "What is the engine type of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Engine Capacity_Audi RSQ8 performance_3697",
+              "question": "What is the engine capacity of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Horsepower_Audi RSQ8 performance_3697",
+              "question": "What is the horsepower of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Weight_Audi RSQ8 performance_3697",
+              "question": "What is the weight of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Torque_Audi RSQ8 performance_3697",
+              "question": "What is the torque of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Gearbox_Audi RSQ8 performance_3697",
+              "question": "What is the gearbox in the Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RSQ8 performance_Quarter Mile Time_Audi RSQ8 performance_3697",
+              "question": "What is the quarter mile time of Audi RSQ8 performance?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

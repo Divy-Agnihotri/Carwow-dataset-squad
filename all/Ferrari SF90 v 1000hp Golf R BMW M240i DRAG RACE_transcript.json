@@ -1,0 +1,1515 @@
+{
+  "data": [
+    {
+      "title": "Ferrari SF90 v 1000hp Golf R BMW M240i DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "ferrari sf90 v 1000hp golf r bmw m240i drag race _ transcript what will happen in a drag race between a bmw m240i and a volkswagen golf r? oh, and a ferrari sf90. well, i ' m going to find out by racing them all over a standing quarter mile. i ' m matt watson and you ' re watching car wow. now, this should seem like a foregone conclusion. we have the fastest supercar available today. next to me is a bmw m240i. next to me, the other side is a volkswagen golf r with some extra bits in a slightly raised bonnet. seems like a waste of everyone ' s time. let ' s find out a bit more about these cars because they smell rad. is that tom in the volkswagen golf? yes, it is. tell me about your car, tom, because normally you ' ve got like 300 horsepower. those things are. i don ' t think yours is standard, is it? not very much. it ' s got a full 2.5 l rs3 engine in it and running gear and a full frame turbo. rs3 engine. what? it ' s got a 400 horsepower. i ' ve got like 1000, this golf has 1,034 built by me, tuned by mrc tuning. okay, so that must mean the bmw is not standard either. we ' ve also got tom in that car as well. you ' re omniresent, tom. so this is my latest project car. fully built b-58, fullframe turbo, built engine, built gearbox, and it makes 1, 000 horsepower. so should be a good race. 1, 000 horsepower, 000 horsepower, 130 odd horsepower. but your lot are a lot newer and probably a lot faster than me. now, you ' re supposed to pick yourself up, not put yourself down. unless you ' re trying to play the underdog, which you might be. let ' s find out first, though, how these cars compare on sound. that ' s 8, 000 rpm up there. like that. that ' s better than the ferrari. let ' s have a listen to yours, tom. what the happened then? that ' s what we call the push to pass button, mate. hopefully that works today. is that just more boost? yeah, it ' s an anti - lag button more. so, i mean, obviously i more",
+          "qas": [
+            {
+              "id": "BMW M240i_Engine Type_BMW M240i_1",
+              "question": "What is the engine type of BMW M240i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "B-58,",
+                  "answer_start": 1202
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "B-58,",
+                  "answer_start": 1202
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "B-58,",
+                  "answer_start": 1202
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Engine Type_the BMW_1",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "B-58,",
+                  "answer_start": 1202
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW M240i_1",
+              "question": "What is the horsepower of BMW M240i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower.",
+                  "answer_start": 736
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower.",
+                  "answer_start": 736
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower.",
+                  "answer_start": 736
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Horsepower_the BMW_1",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower.",
+                  "answer_start": 736
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW M240i_1",
+              "question": "What is the gearbox in the BMW M240i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built gearbox,",
+                  "answer_start": 1239
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built gearbox,",
+                  "answer_start": 1239
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built gearbox,",
+                  "answer_start": 1239
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Gearbox_the BMW_1",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built gearbox,",
+                  "answer_start": 1239
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW M240i_1",
+              "question": "What is the quarter mile time of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_the BMW_1",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_1",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L RS3 engine",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Golf_1",
+              "question": "What is the engine type of Golf?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L RS3 engine",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L RS3 engine",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_the Volkswagen_1",
+              "question": "What is the engine type of the Volkswagen?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L RS3 engine",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_1",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Golf_1",
+              "question": "What is the engine capacity of Golf?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_the Volkswagen_1",
+              "question": "What is the engine capacity of the Volkswagen?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2.5 L",
+                  "answer_start": 845
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_1",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,034",
+                  "answer_start": 992
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Golf_1",
+              "question": "What is the horsepower of Golf?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,034",
+                  "answer_start": 992
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,034",
+                  "answer_start": 992
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_the Volkswagen_1",
+              "question": "What is the horsepower of the Volkswagen?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,034",
+                  "answer_start": 992
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_1",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Golf_1",
+              "question": "What is the quarter mile time of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_the Volkswagen_1",
+              "question": "What is the quarter mile time of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_1",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_1",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "take this on the drag strip when you got a prep track to get it off the line, but probably won ' t use that today cuz it ' ll spin its wheels. tom, can i hear your engine again? t, let ' s hear yours. sorry, tom. i think tom ' s is slightly better, isn ' t it? now, if you like drag races a bit more condensed, no, less of this chat, you should check out our new channel, car wow drags. okay, just scan the qr code on screen now. click on the pop out b. i ' ll put the link in the description. go subscribe there and you ' ll see some new content. you ' ll enjoy it. all right, you know what? let ' s compare the car stats. if you want to pause the video now, you can compare them side by side. let ' s race. [ music ] no chance bit sideways. oh, what? no. [ music ] what the whoa, they ' re all coming at [ music ] me. freaking bugger. didn ' t have the best launch there. went a bit squirrely. got beaten for sure by the bmw. golf was closing in fast. this can go quicker though. tom wriggley. i saw a lot of smoke coming off your tires on the launch when you were like way behind me and then you weren ' t way behind me. you were in front of me. a bit too much boost off the line. so, i won ' t boost it high this time. it ' s all right when it gets going. it gets moving, doesn ' t it? don ' t want to on your chips or anything, but this car didn ' t have its best launch. your tires have got the little white marks on them from where like the gases have passed out of them. tom parker, i think you probably had a bad launch there, mate. i was left and he was still sat on the line, but at the finish line, you were right up next to me. and i reckon like another 5 m on come past. well, let ' s go again anyway cuz i reckon i can do a better launch. you reckon you can? let ' s go [ music ] again. that golf is going. oh, the golf ' s coming now. is the bmw going to catch me? ah, beat you that time, tom wr",
+          "qas": [
+            {
+              "id": "BMW M240i_Engine Type_BMW M240i_400",
+              "question": "What is the engine type of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_BMW_400",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_this car_400",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_the BMW_400",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW M240i_400",
+              "question": "What is the horsepower of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW_400",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_this car_400",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_the BMW_400",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW M240i_400",
+              "question": "What is the gearbox in the BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW_400",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_this car_400",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_the BMW_400",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW M240i_400",
+              "question": "What is the quarter mile time of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW_400",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_this car_400",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_the BMW_400",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_400",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Golf_400",
+              "question": "What is the engine type of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_this car_400",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_the Volkswagen_400",
+              "question": "What is the engine type of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_400",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Golf_400",
+              "question": "What is the engine capacity of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_this car_400",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_the Volkswagen_400",
+              "question": "What is the engine capacity of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_400",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Golf_400",
+              "question": "What is the horsepower of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_this car_400",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_the Volkswagen_400",
+              "question": "What is the horsepower of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_400",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Golf_400",
+              "question": "What is the quarter mile time of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_this car_400",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_the Volkswagen_400",
+              "question": "What is the quarter mile time of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_400",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_400",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_this car_400",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_400",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "##iggley. not so smug now, are we? it ' s quite hard getting the launch dialed in here, but good fun. i ' m happy to be hanging it with a ferrari sf90. i ' ll be honest. you weren ' t as quick as last time. i ' m i ' m ignoring tom parker over there. he doesn ' t exist anymore. he ' s not here yet. we don ' t need to see you. wicked launch, tom. you are on the money. me tires are a bit warm now, so i might have got a bit of grip. let ' s do another race. this is going to be a decider between you two boys, i think. i ' m just here for a reference point. let ' s go again. maybe i ' ll win it. who knows? 3 2 1 fly me. i ' m getting absolutely creamed here. [ music ] come [ music ] on. jesus christ. i quite like being in second place after all. but no, no, i came last there. well and truly last. so you in second place, tom parker. got a great launch. hard just buggered off. i ' m just glad to be here. little guy from sheffield building thousand auto cars. tom wrigley, it all came together for you there. the launch was on time. the car hooked up. yeah, that that was pretty awesome to be fair. he might have loved it. i didn ' t love it so much. got absolutely humiliated here in my ferrari. well, not my ferrari, steve kira ferrari. but um people don ' t need to know that. so then what exactly happened? well, the bmw won. it completed the standing quarter mile in 9. 1 seconds. the volkswagen took 9. 5 seconds and the ferrari came last with a time of 9. 7 seconds. now we have a rolling race. we ' re going to do it for 50 m an hour. i want your car in just like a normal drive mode. so for me, i ' ve got it in sport mode. automatic for the gearbox, not manual. where did you guys just go? you just disappeared for a moment. what what happened? quickly go to the toilet and let it cool down a little bit. tom parker. i went to let my oil temp cool down and put some fuel in. were you going on very low fuel level? no.",
+          "qas": [
+            {
+              "id": "BMW M240i_Engine Type_BMW M240i_822",
+              "question": "What is the engine type of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_BMW_822",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_this car_822",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_the BMW_822",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW M240i_822",
+              "question": "What is the horsepower of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW_822",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_this car_822",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_the BMW_822",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW M240i_822",
+              "question": "What is the gearbox in the BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW_822",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_this car_822",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_the BMW_822",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW M240i_822",
+              "question": "What is the quarter mile time of BMW M240i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.1 seconds.",
+                  "answer_start": 1381
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW_822",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.1 seconds.",
+                  "answer_start": 1381
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_this car_822",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.1 seconds.",
+                  "answer_start": 1381
+                }
+              ]
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_the BMW_822",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.1 seconds.",
+                  "answer_start": 1381
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_822",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Golf_822",
+              "question": "What is the engine type of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_this car_822",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_the Volkswagen_822",
+              "question": "What is the engine type of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_822",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Golf_822",
+              "question": "What is the engine capacity of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_this car_822",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_the Volkswagen_822",
+              "question": "What is the engine capacity of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_822",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Golf_822",
+              "question": "What is the horsepower of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_this car_822",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_the Volkswagen_822",
+              "question": "What is the horsepower of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_822",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.5 seconds",
+                  "answer_start": 1415
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Golf_822",
+              "question": "What is the quarter mile time of Golf?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.5 seconds",
+                  "answer_start": 1415
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_this car_822",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.5 seconds",
+                  "answer_start": 1415
+                }
+              ]
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_the Volkswagen_822",
+              "question": "What is the quarter mile time of the Volkswagen?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.5 seconds",
+                  "answer_start": 1415
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_822",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.7 seconds.",
+                  "answer_start": 1469
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_822",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.7 seconds.",
+                  "answer_start": 1469
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_this car_822",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.7 seconds.",
+                  "answer_start": 1469
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_822",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.7 seconds.",
+                  "answer_start": 1469
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "so i ' ve got a full tank, but i don ' t know what the gauge is saying when it ' s got ethanol in it. it ' s on e85 and anything under half a tank it kind of splutters because it can ' t suck it into engine quick enough. and are you running e85 as well tom wrigley? yeah. always an ethanol for this sort of power. wow. okay, let ' s see this rolling race. see what happens. now, if you ' d like to see a great deal of one of these cars through car wow. click on the pop out up there or it ' s going to the qr code on screen. now, 3 2 1 go. bye - bye. two cars. [ music ] [ applause ] [ music ] oh, wait. oh, no. oh, double no. [ applause ] i thought my hybrid nurse was going to teach them a lesson, but no. tom wrigley, your car really shut off. did he use anti - lag or anything? no, mate. that was literally the most comfort it could be. really massive delay initially. i don ' t know what happened. i thought it went into limbo, but it didn ' t. and tom parker, you were behind for a while and then you came past. were you just in a whole heap of turbo lag? fit man geared up too early as well. it went down a gear and then it decided it wanted to boost and we just said bye - bye to this ferrari next to me. okay, let ' s run down again. we ' re going to put it in sportier setting and manual mode for the gearbox. okay. 3 2 1 go. oh, hybrid [ music ] power. oh, come on. been to the corn at [ music ] least. nope. [ music ] oh, we ' ve got that golf. but the golf is coming. it ' s not going to catch me. okay, tom parker, that wasn ' t great for you, was it? i on rolling launch for too long and then it bogged. oh dear. tom wriggley just gapped you really, didn ' t i? then mate, do you want another go, tom parker? of course. three, two, one, go. oh [ music ] yeah. it ' s closer this time. here comes the [ music ] goal. he got",
+          "qas": [
+            {
+              "id": "BMW M240i_Engine Type_BMW M240i_1238",
+              "question": "What is the engine type of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_BMW_1238",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_this car_1238",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_the BMW_1238",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW M240i_1238",
+              "question": "What is the horsepower of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW_1238",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_this car_1238",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_the BMW_1238",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW M240i_1238",
+              "question": "What is the gearbox in the BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW_1238",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_this car_1238",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_the BMW_1238",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW M240i_1238",
+              "question": "What is the quarter mile time of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW_1238",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_this car_1238",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_the BMW_1238",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_1238",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Golf_1238",
+              "question": "What is the engine type of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_this car_1238",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_the Volkswagen_1238",
+              "question": "What is the engine type of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_1238",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Golf_1238",
+              "question": "What is the engine capacity of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_this car_1238",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_the Volkswagen_1238",
+              "question": "What is the engine capacity of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_1238",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Golf_1238",
+              "question": "What is the horsepower of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_this car_1238",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_the Volkswagen_1238",
+              "question": "What is the horsepower of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_1238",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Golf_1238",
+              "question": "What is the quarter mile time of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_this car_1238",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_the Volkswagen_1238",
+              "question": "What is the quarter mile time of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_1238",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_1238",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_this car_1238",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_1238",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "me. [ music ] another win. you got big on your face. yeah, pretty much perfect to be fair. that then for me, tom parker, i could certainly hear your anti lag and some of your gear changes. i think you could have shifted a little bit earlier on two of them. a little bit. but all i ' ve got to say is what ' s the retail on one of those? more than you can afford, pal. ferrari. last challenge is the brake test. the ferrari has to win this. have you upgraded your brakes on that, tom wrigley? oh, from it, mate. i ' ve actually downgraded them. if you look at the rears, they ' re probably comparable to a bicycle. the brakes on the vw look better. they ' re like audi performance brakes or something. carbon ceramics front and rears. okay, so you should lose this. you ' ve been winning everything else. come on, tom parker. let ' s humiliate him. now, we ' re going to have a brake test from 100 mph. if you ' d rather watch another drag race, just click on the pop out banner up there. i ' ll follow the link in the description below. it ' s a really cool drag [ applause ] race. ah, beat him. i don ' t know if i have. i ' ve got a horrible feeling i ' ve lost this. at this point in time, you have won, tom wrigley. and i think you came second, tom parker. that ' ll do for me. but we don ' t know if you ' re both going to be disqualified. and we ' re going to look at that in the action replay. i can ' t tell now. we have a shot from the rear and we ' ll see if you break early. maybe i did. maybe i cheated and i still lost. we ' re going to find out now. well, the volkswagen did break early, but the bmw and ferrari were on the mark, which means the bmw won the brake test fair and square. i might have beaten the golf if tom parker hadn ' t cheated. well, there you go. a huge thank you to you, tom wriggley, for bringing your mad car down. a huge thank you to you, tom parker, for bringing your mad car down. really enjoyed racing you. didn ' t mind losing.",
+          "qas": [
+            {
+              "id": "BMW M240i_Engine Type_BMW M240i_1647",
+              "question": "What is the engine type of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_BMW_1647",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_this car_1647",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_the BMW_1647",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW M240i_1647",
+              "question": "What is the horsepower of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW_1647",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_this car_1647",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_the BMW_1647",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW M240i_1647",
+              "question": "What is the gearbox in the BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW_1647",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_this car_1647",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_the BMW_1647",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW M240i_1647",
+              "question": "What is the quarter mile time of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW_1647",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_this car_1647",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_the BMW_1647",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_1647",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Golf_1647",
+              "question": "What is the engine type of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_this car_1647",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_the Volkswagen_1647",
+              "question": "What is the engine type of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_1647",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Golf_1647",
+              "question": "What is the engine capacity of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_this car_1647",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_the Volkswagen_1647",
+              "question": "What is the engine capacity of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_1647",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Golf_1647",
+              "question": "What is the horsepower of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_this car_1647",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_the Volkswagen_1647",
+              "question": "What is the horsepower of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_1647",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Golf_1647",
+              "question": "What is the quarter mile time of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_this car_1647",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_the Volkswagen_1647",
+              "question": "What is the quarter mile time of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_1647",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_1647",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_this car_1647",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_1647",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "thank you very much for having us, matt. i really appreciate it. loved it. thank you very much. a thank you very much. now, if you want to compare these cars quart mile times to everything else we ' ve ever drag raced, just click on the carw logo to check out the carwow drag race leaderboard. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "BMW M240i_Engine Type_BMW M240i_2062",
+              "question": "What is the engine type of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_BMW_2062",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_this car_2062",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Engine Type_the BMW_2062",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW M240i_2062",
+              "question": "What is the horsepower of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_BMW_2062",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_this car_2062",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Horsepower_the BMW_2062",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW M240i_2062",
+              "question": "What is the gearbox in the BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_BMW_2062",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_this car_2062",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Gearbox_the BMW_2062",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW M240i_2062",
+              "question": "What is the quarter mile time of BMW M240i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_BMW_2062",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_this car_2062",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M240i_Quarter Mile Time_the BMW_2062",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Volkswagen Golf R_2062",
+              "question": "What is the engine type of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_Golf_2062",
+              "question": "What is the engine type of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_this car_2062",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Type_the Volkswagen_2062",
+              "question": "What is the engine type of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Volkswagen Golf R_2062",
+              "question": "What is the engine capacity of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_Golf_2062",
+              "question": "What is the engine capacity of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_this car_2062",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Engine Capacity_the Volkswagen_2062",
+              "question": "What is the engine capacity of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Volkswagen Golf R_2062",
+              "question": "What is the horsepower of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_Golf_2062",
+              "question": "What is the horsepower of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_this car_2062",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Horsepower_the Volkswagen_2062",
+              "question": "What is the horsepower of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Volkswagen Golf R_2062",
+              "question": "What is the quarter mile time of Volkswagen Golf R?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_Golf_2062",
+              "question": "What is the quarter mile time of Golf?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_this car_2062",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Volkswagen Golf R_Quarter Mile Time_the Volkswagen_2062",
+              "question": "What is the quarter mile time of the Volkswagen?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_2062",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_2062",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_this car_2062",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_2062",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

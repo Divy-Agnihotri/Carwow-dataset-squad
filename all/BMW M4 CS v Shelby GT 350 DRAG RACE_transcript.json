@@ -1,0 +1,1247 @@
+{
+  "data": [
+    {
+      "title": "BMW M4 CS v Shelby GT 350 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "bmw m4 cs v shelby gt 350 drag race _ transcript what we ' ll win in a drag race between the previous generation bmw m4cs and a previous generation shelby gt350 well we ' re going to find out i ' m matt watson and you ' re watching carwow the f82 bmw m4cs has a 3 l twin turbo straight 6 460 horsepower and 600 nt m rear wheel drive and a 7 - speed dual clutch auto with launch control it weighs 1, 580 kg and cost from £89, 000 back in 201 17 the shelby gt 350 has a 5.2 l natur aspirated v8 it ' s been tuned to 600 horsepower 597 newt m of torque his rear wheel drive has a six - speed manual with launch control it weighs 1, 680 kg and cost $ 61, 000 in 2019 so about £50, 000 right first thing we ' re going to do is compare how these two cars sound so straight 6 turbo versus natur rated v8 this car does have an aftermarket exhaust on it that one doesn ' t would it make a difference let ' s find out window ' s down wind down right here ' s my german straight 6 doesn ' t sound that good a standard so if your standard car can beat this modified car i ' ll be [ applause ] impressed has a mustang ever lost a sound check the americans are very good at at the old sound checks what beautiful noise what do you think is going to happen with this r so you ' ve got a manual and it ' s got a launch control setting which is weird because the automatic version of that car doesn ' t have launch control i ' ve got launch control but i have to have my traction control off to engage it whereas yours has to be on bizly yeah because i ' ve got three pedals traction control has to be on cuz it ' s not really launch control it ' s first gear and then it holds a certain like 4 and a half thousand so i can just dump the clutch so then it will need traction control well it ' be interesting to see how that plays out but these are two very powerful rear wheeel driver cars so obviously we need to war with their tires so um thanks to the owners of these cars so we ' ve got maximum driven plus and the guys at wow 350 we have their [ music ] permission i think you might be able to do it and stop in your box but i ' ve made life hard for you can you",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_1",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l twin turbo straight 6",
+                  "answer_start": 260
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_f82 BMW m4cs_1",
+              "question": "What is the engine type of f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l twin turbo straight 6",
+                  "answer_start": 260
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l twin turbo straight 6",
+                  "answer_start": 260
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_1",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 262
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_f82 BMW m4cs_1",
+              "question": "What is the engine capacity of f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 262
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 262
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_1",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "460 horsepower",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_f82 BMW m4cs_1",
+              "question": "What is the horsepower of f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "460 horsepower",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "460 horsepower",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_1",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,580 kg",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_f82 BMW m4cs_1",
+              "question": "What is the weight of f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,580 kg",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,580 kg",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_1",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 NT M",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_f82 BMW m4cs_1",
+              "question": "What is the torque of f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 NT M",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 NT M",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_1",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch Auto with launch control",
+                  "answer_start": 341
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_f82 BMW m4cs_1",
+              "question": "What is the gearbox in the f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch Auto with launch control",
+                  "answer_start": 341
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch Auto with launch control",
+                  "answer_start": 341
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_1",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_f82 BMW m4cs_1",
+              "question": "What is the quarter mile time of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_1",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V8",
+                  "answer_start": 466
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby_1",
+              "question": "What is the engine type of Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V8",
+                  "answer_start": 466
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_GT 350_1",
+              "question": "What is the engine type of GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L natur aspirated V8",
+                  "answer_start": 466
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_1",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 468
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby_1",
+              "question": "What is the engine capacity of Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 468
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_GT 350_1",
+              "question": "What is the engine capacity of GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 468
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_1",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 horsepower",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby_1",
+              "question": "What is the horsepower of Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 horsepower",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_GT 350_1",
+              "question": "What is the horsepower of GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 horsepower",
+                  "answer_start": 288
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_1",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,680 kg",
+                  "answer_start": 629
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby_1",
+              "question": "What is the weight of Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,680 kg",
+                  "answer_start": 629
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Weight_GT 350_1",
+              "question": "What is the weight of GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,680 kg",
+                  "answer_start": 629
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_1",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "597 Newt M of torque",
+                  "answer_start": 529
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby_1",
+              "question": "What is the torque of Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "597 Newt M of torque",
+                  "answer_start": 529
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Torque_GT 350_1",
+              "question": "What is the torque of GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "597 Newt M of torque",
+                  "answer_start": 529
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_1",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual with launch control",
+                  "answer_start": 583
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby_1",
+              "question": "What is the gearbox in the Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual with launch control",
+                  "answer_start": 583
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_GT 350_1",
+              "question": "What is the gearbox in the GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "six-speed manual with launch control",
+                  "answer_start": 583
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_1",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby_1",
+              "question": "What is the quarter mile time of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_GT 350_1",
+              "question": "What is the quarter mile time of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "actually drift through that gap i can ' t see the gap but i ' m going to presume yes are you sure there ' s not really any space there ' s room it ' ll be all right so listen if you crash you got to pay okay okay on your head be it i ' m nervous don ' t hurt [ applause ] me so this has got traction control on when traction control is off that ' s odd isn ' t it whereas bmw off was definitely off it was all very fine right let ' s just get on with the race i think your tires are warm mine are warm let ' s see what happens in a drag 3 2 1 like that [ applause ] ah i actually short shifted into third cuz i think it auto changes up when it does launch control but i wasn ' t sure so i i was change a second that i went to p i actually think it helped it ' s really tight gate in this so i kind of fluffed third to fifth so can we go again and just pretend it didn ' t happen no that is logged cuz i fluffed a gear change in the auto you fluffed in the manual we were a pair of fluffers we ' re always just fluffing each other it ' s one n to me we both fluffed okay fine but i i think that this is going to be better without launch control as well three 2 1 [ applause ] [ applause ] [ applause ] ah you launch better than their launch control no that was there that was the launch control one i want do one more now with it all off really you ' re not going to do better than that i was just say that ' s the best launch and i thought you had done that you ' re not going to do better i think i can do better he ' s not going to do better are you sure you want to do it again yeah okay 3 2 1 [ applause ] [ applause ] [ music ] [ applause ] [ applause ] there ' s a bit of a delay when you lift off the brake in this so i think you beat me off the line but i ' m not sure whether you did quite as good a run overall definitely better 100 % better so you are better than the launch control yeah because launch control only gives you just under 4, 000 and traction controls on you need more more than 4 and half thousand off the line and then you need some wheel spin so it just it ' s not that i ' m really good at it it",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_467",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_f82 BMW m4cs_467",
+              "question": "What is the engine type of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_467",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_467",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_f82 BMW m4cs_467",
+              "question": "What is the engine capacity of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_467",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_467",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_f82 BMW m4cs_467",
+              "question": "What is the horsepower of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_467",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_467",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_f82 BMW m4cs_467",
+              "question": "What is the weight of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_467",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_467",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_f82 BMW m4cs_467",
+              "question": "What is the torque of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_467",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_467",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_f82 BMW m4cs_467",
+              "question": "What is the gearbox in the f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_467",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_467",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_f82 BMW m4cs_467",
+              "question": "What is the quarter mile time of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_467",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_467",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby_467",
+              "question": "What is the engine type of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_GT 350_467",
+              "question": "What is the engine type of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_467",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby_467",
+              "question": "What is the engine capacity of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_GT 350_467",
+              "question": "What is the engine capacity of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_467",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby_467",
+              "question": "What is the horsepower of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_GT 350_467",
+              "question": "What is the horsepower of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_467",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby_467",
+              "question": "What is the weight of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_GT 350_467",
+              "question": "What is the weight of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_467",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby_467",
+              "question": "What is the torque of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_GT 350_467",
+              "question": "What is the torque of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_467",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby_467",
+              "question": "What is the gearbox in the Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_GT 350_467",
+              "question": "What is the gearbox in the GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_467",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby_467",
+              "question": "What is the quarter mile time of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_GT 350_467",
+              "question": "What is the quarter mile time of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "' s just this doesn ' t give enough revs and slip to allow it to be better but are you also really good at it i ' m okay at it it ' s modest so then what exactly happened well the bmw w it completed the standing quarter mile in 12. 3 seconds the shelby talk 12. 5 seconds but that was without launch control with launch control the shelby took 13. 1 seconds if you ' re changing your car then you got to check out car wre because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one kaai makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past lifechanging now if you want to go to car wre right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out bner appearing in the top right hand on on the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow now we have a rolling race and to make it fair i ' m going to let sam decide exactly the speed and the gear so what would you like to do sir you tell me that now when we ' re stationary i have no idea so i think let ' s go 35 in second gear 35 in second gear now before we actually do that though i ' ve speced up a really cool rear drive sports coupet on carw you want to see what the car is and the saving through car just click on the pop out banner ping in the top right hand corner of the screen i ' ll scan the qr code on screen now there ' s also a link in the description okay so configured the car and you ' ll be able to see what the saving is through car okay let ' s do it 3 2 1 go [ applause ] [ music ] come on come on come on gery come on [ music ] do you know what mate i don ' t think you could have picked a better speed or gear that was right in your sweet spot there how good was that i guess the only thing like had this been a good auto gearbox it would have destroyed you and had you been decent at changing gears i mean this is why you never made it as a racing driver you ' re just a little bit too weren ' t you correct yeah that ' s me racing",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_955",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_f82 BMW m4cs_955",
+              "question": "What is the engine type of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_955",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_955",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_f82 BMW m4cs_955",
+              "question": "What is the engine capacity of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_955",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_955",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_f82 BMW m4cs_955",
+              "question": "What is the horsepower of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_955",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_955",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_f82 BMW m4cs_955",
+              "question": "What is the weight of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_955",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_955",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_f82 BMW m4cs_955",
+              "question": "What is the torque of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_955",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_955",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_f82 BMW m4cs_955",
+              "question": "What is the gearbox in the f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_955",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_955",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.3 seconds",
+                  "answer_start": 232
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_f82 BMW m4cs_955",
+              "question": "What is the quarter mile time of f82 BMW m4cs?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.3 seconds",
+                  "answer_start": 232
+                }
+              ]
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_955",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.3 seconds",
+                  "answer_start": 232
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_955",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby_955",
+              "question": "What is the engine type of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_GT 350_955",
+              "question": "What is the engine type of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_955",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby_955",
+              "question": "What is the engine capacity of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_GT 350_955",
+              "question": "What is the engine capacity of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_955",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby_955",
+              "question": "What is the horsepower of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_GT 350_955",
+              "question": "What is the horsepower of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_955",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby_955",
+              "question": "What is the weight of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_GT 350_955",
+              "question": "What is the weight of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_955",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby_955",
+              "question": "What is the torque of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_GT 350_955",
+              "question": "What is the torque of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_955",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby_955",
+              "question": "What is the gearbox in the Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_GT 350_955",
+              "question": "What is the gearbox in the GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_955",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.5 seconds",
+                  "answer_start": 262
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby_955",
+              "question": "What is the quarter mile time of Shelby?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.5 seconds",
+                  "answer_start": 262
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_GT 350_955",
+              "question": "What is the quarter mile time of GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.5 seconds",
+                  "answer_start": 262
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "driver s i don ' t know i don ' t know which car would i was definitely reeling you back in but at first like in second gear this this started to spin its wheels up i think i won that you were pulling me in but then it leveled out towards the end didn ' t it we ' ll have to do a slow motion action replay see it car w there ' s your answer okay now we have a brake test for 100 mph we reach live for ver to stop the car that stops in the shortest distance when listen to that sound amazing if you ' d rather watch with the drag race with the bmw versus a4 v8 click on the pop out batter pi the top right hand corner of the screen or follow the qr code on screen now if not stay here for the brak test through 100 [ music ] no no no no no no no no no there ' s no way there ' s that much of a difference you want to go again i bloody think so i mean come [ music ] on huh oh we can ' t do that again this stops so good heavy v8 on the nose i don ' t know what what could be the reason knowing this is a gt500 or whatever it is 350 i reckon i ' ve got big chunky rears it ' s probably a good bit softer than that car so it ' s keeping the wheels on the ground longer it ' s probably about it really and it ' s got your strong right leg but anyway it is what it is so if you want to compare these cars c m times just click on the carre logo the little car box okay you can do that it ' s good to see how these cars compare to everything else with ever drag raced if you want watch some other videos click on the windows and if you haven ' t done so already make make sure you subscribe to this channel because we ' ve got some more drag races coming very shortly you don ' t want to miss them thanks for watching see you next time",
+          "qas": [
+            {
+              "id": "BMW M4 CS_Engine Type_BMW m4cs_1437",
+              "question": "What is the engine type of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_f82 BMW m4cs_1437",
+              "question": "What is the engine type of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Type_BMW_1437",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW m4cs_1437",
+              "question": "What is the engine capacity of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_f82 BMW m4cs_1437",
+              "question": "What is the engine capacity of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Engine Capacity_BMW_1437",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW m4cs_1437",
+              "question": "What is the horsepower of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_f82 BMW m4cs_1437",
+              "question": "What is the horsepower of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Horsepower_BMW_1437",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW m4cs_1437",
+              "question": "What is the weight of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_f82 BMW m4cs_1437",
+              "question": "What is the weight of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Weight_BMW_1437",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW m4cs_1437",
+              "question": "What is the torque of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_f82 BMW m4cs_1437",
+              "question": "What is the torque of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Torque_BMW_1437",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW m4cs_1437",
+              "question": "What is the gearbox in the BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_f82 BMW m4cs_1437",
+              "question": "What is the gearbox in the f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Gearbox_BMW_1437",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW m4cs_1437",
+              "question": "What is the quarter mile time of BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_f82 BMW m4cs_1437",
+              "question": "What is the quarter mile time of f82 BMW m4cs?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M4 CS_Quarter Mile Time_BMW_1437",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_1437",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby_1437",
+              "question": "What is the engine type of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_GT 350_1437",
+              "question": "What is the engine type of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_1437",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby_1437",
+              "question": "What is the engine capacity of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_GT 350_1437",
+              "question": "What is the engine capacity of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_1437",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby_1437",
+              "question": "What is the horsepower of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_GT 350_1437",
+              "question": "What is the horsepower of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_1437",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby_1437",
+              "question": "What is the weight of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_GT 350_1437",
+              "question": "What is the weight of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_1437",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby_1437",
+              "question": "What is the torque of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_GT 350_1437",
+              "question": "What is the torque of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_1437",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby_1437",
+              "question": "What is the gearbox in the Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_GT 350_1437",
+              "question": "What is the gearbox in the GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_1437",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby_1437",
+              "question": "What is the quarter mile time of Shelby?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_GT 350_1437",
+              "question": "What is the quarter mile time of GT 350?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2441 @@
+{
+  "data": [
+    {
+      "title": "Can a 1000hp BMW M3 beat a Ferrari SF90_transcript",
+      "paragraphs": [
+        {
+          "context": "can a 1000hp bmw m3 beat a ferrari sf90 _ transcript what will win in a drag race between a ferrari sf90, a mentally fast hybrid supercar, and a bmw m3 touring, which is a family estate car? oh, it does have a built engine and 1, 000 horsepower. well, we ' re going to find out by racing them over the standing quarter mile. i ' m watson, and you ' re watching car wow. this bmw m3 touring has been tuned by gtech motorworks. it has a fully built engine and gearbox and an upgraded exhaust. so, now makes 1, 000 horsepower and 1, 100 new meters of torque. it has all - wheel drive and an 8 - speed automatic gearbox with launch control. it weighs 1, 865 kg and costs 150, 000 including the upgrades. the ferrari sf90 spider has a 4 l twin turbo v8 with three electric motors, 1, 000 horsepower, 800 nm of torque, allwheel drive, and an 8 - speed automatic gearbox with launch control. it weighs around 1, 770 kg and this one costs £550, 000. do you know what? i ' m really excited about this cuz i ' ve got a feeling this is going to be the quickest bmw m3 touring i ' ve ever driven or probably ever going to drive. huge thanks to gtech motorworks and tom wrigley for lending us this car. we ' re going to see how it performs. let ' s have a little word with racing driver sam. hey sam, my car ' s heavier than yours. we ' ve got the same horsepower. i ' ve got more torque. what ' s going to happen? this is going to win. you ' re going to win. you ' re very confident. no excuses. you ' d like to get in early doors. this is going to win. that ' s another first for me, sam. you not even coming up with an excuse. so, you come up with excuses even when you ' re clearly in the quicker car. but not today. that ' s just as quick as this. but this is meant to be this. that ' s not meant to be that. this will win. and now he ' s just talking gibberish. i don ' t know what to do. what ' s happened to sam today? anyway, before we get into that, let ' s do the obligatory carwow sound check. windows",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_1",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built engine",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built engine",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_1",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built engine",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built engine",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_1",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "built engine",
+                  "answer_start": 210
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_1",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_1",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_1",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_1",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,865 kg",
+                  "answer_start": 650
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,865 kg",
+                  "answer_start": 650
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_1",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,865 kg",
+                  "answer_start": 650
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,865 kg",
+                  "answer_start": 650
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_1",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,865 kg",
+                  "answer_start": 650
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_1",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,100 new meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,100 new meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_1",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,100 new meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,100 new meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_1",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,100 new meters of torque.",
+                  "answer_start": 530
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_1",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_1",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_1",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_1",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_1",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_1",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_1",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8 with three electric motors,",
+                  "answer_start": 728
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_1",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8 with three electric motors,",
+                  "answer_start": 728
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_1",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8 with three electric motors,",
+                  "answer_start": 728
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_1",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_1",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_1",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_1",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_1",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_1",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 230
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_1",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg",
+                  "answer_start": 905
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_1",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg",
+                  "answer_start": 905
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_1",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg",
+                  "answer_start": 905
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_1",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Nm of torque,",
+                  "answer_start": 795
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_1",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Nm of torque,",
+                  "answer_start": 795
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_1",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Nm of torque,",
+                  "answer_start": 795
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_1",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_1",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_1",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 590
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_1",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_1",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "dying. [ music ] aftermarket exhaust and built engine. i ' m in heaven. that ' s why electric cars can never be as fun. correct. pops and bangs win everything. we know the rules. let ' s hear yours. you ' re going to lose. you ' ve lost. but just do it anyway. let ' s tick a box. nice flat plain crank, smooth rev, but pretty characterless, isn ' t it? yeah, it ' s missing the old ferrari engines, isn ' t it? do you know what the 296 sounds better? here ' s a listen to one of those. [ music ] see? anyway, let ' s get into the drag racing. before we do, if you like drag racing, but you like shorter drag races, less chat, you need to check out our new channel, carw wow drags. there we ' re uploading shortened versions of our drag race videos. go check it out. go subscribe there cuz there ' ll be videos that you won ' t have seen just because, you know, algorithm. now, let ' s go on with the race. but before we do, if you want to compare these car stats side by side, then all you have to do is pause the video now. now, before we race, sam, the truck that ' s built this engine right now, it ' s got everything done to it. it ' s got like forged pistons, forged head. it ' s it ' s all completely new, the engine pretty much. but one of the most interesting things is a billet intake manifold. and he says it ' s so thick with a separate chamber for the air to go in to keep it cool or whatever that even if i do a pull in this car and r it the runway, come back, open the bonnet, put my hand on the inlet manifold, it shouldn ' t burn my hand. i don ' t believe him. do you believe him? no. do you think i ' m stupid enough to try it though? yes. well, we ' ll do that in a moment. so, let ' s do the first drag race and then i ' m going to check the inlet manifold. see if my man ' s talking. bad guys are going for a sake. no, wait, wait. i ' m in the bmw. i should have the problem engaging launch control, especially as this is a tuned",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_418",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_418",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_418",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_418",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_418",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_418",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_418",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_418",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_418",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_418",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_418",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_418",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_418",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_418",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_418",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_418",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_418",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_418",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_418",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_418",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_418",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_418",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_418",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_418",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_418",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_418",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_418",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_418",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_418",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_418",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_418",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_418",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_418",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_418",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_418",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_418",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_418",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_418",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_418",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_418",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_418",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_418",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_418",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_418",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_418",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_418",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_418",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_418",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_418",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_418",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_418",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "car. but that ' s it. out of range, so i can ' t hear what nonsense he ' s saying. sam, what ' s going on? did your launch control not engage? no, it engages every time subject to the car being warm enough. the car is now warm enough and we are good to go. and i will proceed with winning this race. you probably will. come on, bmw team. come on, plucky underdog. lock your hands all you want. it won ' t help you go any faster. 3 2 1 come on. oh, look. oh, come on. oh, it skipped a gear a bit then, but this is so close. oh my. [ music ] come on. come on. it ' s pulling it back. [ music ] oh, i had my window open a little bit there. create a bit more drag. he won ' t appreciate that. and so maybe in the next one i ' ll beat him. mate, that was close. it was close, but your car is much longer. so, it kind of gives an optical illusion your bonnet was closer. what? shut your what? our bonnets start at the same point on the starting line. right. do you know what i got to do? intake test. let ' s head back down and see if i ' m going to burn my hand. i am 100 % behind you for this. lee, can you come up here in your ambulance, please? i ' m going to touch the inlet manifold and i might have severe burns. we ' re ready. wow. wa. that is amazing. that makes no sense. how it ' s smmyer time. three. he got a better launch than me. [ music ] got him. he ' s got no chance. [ applause ] [ music ] um, stuart, did i jump? i actually saw the hands going down as i was driving. yeah, you did. oh, sam, i ' m so eager. that was so quick. that was better than last time. oh, we had jumped. i jumped again. again, didn ' t i? yeah. marginally, but this backed out of its own launch, so it didn ' t shift up, steuart. um, did i jump that time? yes, you did. what ' s going on? what is it? what ' s going on? is it",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_839",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_839",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_839",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_839",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_839",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_839",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_839",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_839",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_839",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_839",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_839",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_839",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_839",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_839",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_839",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_839",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_839",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_839",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_839",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_839",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_839",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_839",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_839",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_839",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_839",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_839",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_839",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_839",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_839",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_839",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_839",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_839",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_839",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_839",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_839",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_839",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_839",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_839",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_839",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_839",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_839",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_839",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_839",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_839",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_839",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_839",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_839",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_839",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_839",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_839",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_839",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "me or is will being slower than normal? i ' m living rentree in his head. rentree. nick, can you start the race, please? will you sucked? don ' t blame me for your bad time. bill gave me 50 quid and told me to do a really terrible job and i ' d pick him up on the offer. oh no, you ' re playing with my head, nick. [ music ] oh, come on. it ' s coming past. [ music ] it is. it ' s going to come past. come on. come on. [ applause ] that was really close. what on earth? this thing. it ' s getting quicker. i think that was almost down to the timing of the gear change. these things are so close, aren ' t they? you had me on the line for sure cuz i still programmed into like will ' s slower launch. you ' re obviously got racing driver skills that you can just you can just perform every single time. this is going to be such a close decider. unless i have done so many false starts, we could call it quits here and you can just say you won. no. oh, brave gave him the opportunity. let ' s see what happens now. come on. [ music ] come on. come on, ferrari. woohoo. oh wow, that was close, but not close enough. ferrari wins, baby. this had a little falter on the launch. look, you can say flutters. you can say all excuses. i can have all my excuses. i ' ve got a big hardback book, which is on sale soon, by the way. but i think last race, that ' s it. winner takes all. that ' s rather sporting of you saying we don ' t have to do this. put my money where my mouth is moment, isn ' t it? oh crap. let ' s do that cuz it ' s so close between these two. 3 2 1 come on, ferrari. [ music ] [ music ] yes, it is most definitely time. if you know, you know. now, i don ' t want to be that guy, but i think you might have jumped. no, i didn ' t. if one of you did, both of you did. you both left at the same time. exactly. we ' ve checked it. yes. ha. but what i",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_1239",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_1239",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_1239",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_1239",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_1239",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_1239",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_1239",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_1239",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_1239",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_1239",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_1239",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_1239",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_1239",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_1239",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_1239",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_1239",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_1239",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_1239",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_1239",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_1239",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_1239",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_1239",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_1239",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_1239",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_1239",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_1239",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_1239",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_1239",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_1239",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_1239",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_1239",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_1239",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_1239",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_1239",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_1239",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_1239",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_1239",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_1239",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_1239",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_1239",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_1239",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_1239",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_1239",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_1239",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_1239",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_1239",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_1239",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_1239",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_1239",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_1239",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_1239",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "would say is that ' s had inconsistent launches, right? this has been on the button time after time after time. so, you know, i don ' t know. yeah, you did get the win on that one. well, you did give me the option of doing one last race and winner takes all. ultimately, it ' s two each, but technically because you gave me the option. thanks so much. you probably wish you hadn ' t been so ballsy, but there we go. yes, this has been not as consistent, but it ' s still consistently quick. we ' re just talking ten of a second. and the thing that ' s been most inconsistent, if we ' re honest about it, is the idiot piece of meat behind the wheel. there are two stupid lumps of meat behind two steering wheels here. so, yeah. do you know what? i quite like a draw. i think that ' s the the fairest best ending, isn ' t it? it ' s not a draw because he said um it was like um winter takes off and this is the result. so, then what exactly happened? well, the finish line camera showed that the bmw just beat the ferrari, but both cars completed the standing quarter mile in 9. 6 seconds. before our next race, a little message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is for you. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write off, stolen, or had its mileage changed. look at this porsche 911 on car vertical. it ' s got green ticks for odometer and legal status, but a damage warning. why? it was previously involved in an accident, suffering significant impact damage, and even had a broken suspension arm. so, when buying a used car, bike, or van, run a car vertical report using code carwow for 20 % off or by following the link in the description. now, back to the race. what we ' re going to do now is have a rolling race, 50 mph. we ' re going to have the cars in like their least sporty setting. mine is efficient. what ' s your least sporty setting? it ' s called ed. so, i guess it ' s efficient, dynamic. i don ' t know",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_1648",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_1648",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_1648",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_1648",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_1648",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_1648",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_1648",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_1648",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_1648",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_1648",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_1648",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_1648",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_1648",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_1648",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_1648",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_1648",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_1648",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_1648",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_1648",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_1648",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_1648",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_1648",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_1648",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_1648",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_1648",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_1648",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_1648",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_1648",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_1648",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_1648",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_1648",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_1648",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_1648",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_1648",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_1648",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_1648",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_1648",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_1648",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_1648",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_1648",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_1648",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_1648",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_1648",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_1648",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_1648",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_1648",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_1648",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_1648",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_1648",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_1648",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_1648",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 1077
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": ". are you sure that doesn ' t mean electric drive? don ' t you want hybrid mode? yeah, it is in e drive. it ' s in hybrid. it ' s in the lowest setting it can have. now, if you ' d like to see the price that i ' ve got one of these cars through on carwow, just click on the pop out banner or scan the qr code on screen now. there ' s a good deal on one. it could be new, it could be used, could be the ferrari, it could be the bmw. click the link, find out. 3 2 1 go. kick down. oh my god. what ' s his car doing? [ music ] i thought this would be like hanging and no boost, but not the case. [ applause ] [ music ] okay. so, my efficient mode didn ' t feel very efficient at all. i think i used quite a lot of fuel there. i don ' t think there was anything efficient about what you just did other than the way you got off the line. blime me. what happened to your car? literally nothing for about 9 years and then it decided to get on with it. let ' s run again. but sporty setting, manual mode, third gear, roll from 50. let ' s do it. i ' m so serious about this that i ' ve not got the air con on. you know, i ' m so competitive right now. that ' s why i kept on doing those false starts. so, just cool my pits down cuz they ' re getting a little bit watery. let ' s get in there. oh, i can only do the one side. i ' m going to have asymmetric sweating. three, two, one, go. come on. [ music ] i ' m bringing him back in. come on. come on. what? well, my goodness. your car shut off because of the hybrid system and then i was reeling you in. but i think i needed an extra 10 m to take you. i definitely crossed the line before you. but i couldn ' t believe the speed you were about to come past me at though. good god. this is so fast. like so fast. i was knocking on the door of 180 mph crossing that line and you were coming past me. i had to keep on looking where i was going. i wasn ' t looking down",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_2068",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_2068",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_2068",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_2068",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_2068",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_2068",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_2068",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_2068",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_2068",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_2068",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_2068",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_2068",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_2068",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_2068",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_2068",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_2068",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_2068",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_2068",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_2068",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_2068",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_2068",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_2068",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_2068",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_2068",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_2068",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_2068",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_2068",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_2068",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_2068",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_2068",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_2068",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_2068",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_2068",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_2068",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_2068",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_2068",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_2068",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_2068",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_2068",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_2068",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_2068",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_2068",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_2068",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_2068",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_2068",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_2068",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_2068",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_2068",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_2068",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_2068",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_2068",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "there. right, let ' s go with the final challenge. now, if you ' d rather watch another drag race with some tuned bmws, click on the pop out banner there. scan the qr code on screen now. if not, stay here for some braking testing. move my seat a bit more forward. god, these gear changes. unless you ' re fully on it. they ' re a little bit jerky. that ' s it. better now. it ' s got some torque. here ' s the line of truth. [ music ] oh yeah, you won quite by some significant margin. i think we need to upgrade the brakes further on this, don ' t we? yeah, i don ' t know. i won. it ' s ferrari in it. it ' s a supercar. this still at the end of the day is an estate. an estate that beat you in a drag race. forget about the brake test. who cares? actually, roll forward. let ' s count the car in length. i think it ' s going to be about three. that is one. that ' s two. getting on for three. anyway, thanks to the guys that lent us these cars. really appreciate it. steve kira with the sf90. thanks to gtech works and tom wrigley for lending us this. anyway, if you want to compare these cars quite more times to everything else we ' ve ever drag raced, just click on the car wow logo to check out the carwow drag race leaderboard. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW M3 Touring_2493",
+              "question": "What is the engine type of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_BMW_2493",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_M3 Touring_2493",
+              "question": "What is the engine type of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_this car_2493",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Engine Type_the BMW_2493",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW M3 Touring_2493",
+              "question": "What is the horsepower of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_BMW_2493",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_M3 Touring_2493",
+              "question": "What is the horsepower of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_this car_2493",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Horsepower_the BMW_2493",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW M3 Touring_2493",
+              "question": "What is the weight of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_BMW_2493",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_M3 Touring_2493",
+              "question": "What is the weight of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_this car_2493",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Weight_the BMW_2493",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW M3 Touring_2493",
+              "question": "What is the torque of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_BMW_2493",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_M3 Touring_2493",
+              "question": "What is the torque of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_this car_2493",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Torque_the BMW_2493",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW M3 Touring_2493",
+              "question": "What is the gearbox in the BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_BMW_2493",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_M3 Touring_2493",
+              "question": "What is the gearbox in the M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_this car_2493",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Gearbox_the BMW_2493",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW M3 Touring_2493",
+              "question": "What is the quarter mile time of BMW M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_BMW_2493",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_M3 Touring_2493",
+              "question": "What is the quarter mile time of M3 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_this car_2493",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M3 Touring_Quarter Mile Time_the BMW_2493",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90_2493",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari SF90 Spider_2493",
+              "question": "What is the engine type of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Type_Ferrari_2493",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90_2493",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari SF90 Spider_2493",
+              "question": "What is the engine capacity of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Engine Capacity_Ferrari_2493",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90_2493",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari SF90 Spider_2493",
+              "question": "What is the horsepower of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Horsepower_Ferrari_2493",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90_2493",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari SF90 Spider_2493",
+              "question": "What is the weight of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Weight_Ferrari_2493",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90_2493",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari SF90 Spider_2493",
+              "question": "What is the torque of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Torque_Ferrari_2493",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90_2493",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari SF90 Spider_2493",
+              "question": "What is the gearbox in the Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Gearbox_Ferrari_2493",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90_2493",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari SF90 Spider_2493",
+              "question": "What is the quarter mile time of Ferrari SF90 Spider?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90 Spider_Quarter Mile Time_Ferrari_2493",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

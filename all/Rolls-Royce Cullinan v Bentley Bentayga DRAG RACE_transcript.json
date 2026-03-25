@@ -1,0 +1,524 @@
+{
+  "data": [
+    {
+      "title": "Rolls-Royce Cullinan v Bentley Bentayga DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "rolls - royce cullinan v bentley bentayga drag race _ transcript what will win in a oh, that was salty. anyhow, what will win in a track race between a rolls - royce cullin black badge and a bentley bentega? this is one luxury suv drag race i ' ve been wanting to do for years. and here we are. i ' m going to race them over the standing quarter mile. i ' m matt watson and you ' re watching carwo and i ' ve got like road salt in my mouth. the rolls - royce cullinham black badge has a 6. 75 l twin turbo v12, 600 horsepower, 900 new meters of torque, all - wheel drive, and an 8 - speed automatic gearbox. it weighs 2, 660 kg, and new versions cost from around £380, 000. the bentley bentega has a 4 l twin turbo v8, 550 horsepower, 770 new m of torque, all - wheel drive, and an 8 - speed automatic gearbox. it weighs 2, 416 kg and the latest versions cost from £227, 000. now, ideally, i would have liked to have the w12 version of the bentega to race against this v12 rolls - royce. however, these cars actually closer matched in terms of performance. so, it ' s the right lineup. and still, we ' ve got bentley versus rolls - royce. now, obviously, i like the higher things in life. so, we ' ve got the right person to drive the bentley, someone who ' s more liable to slum than me. yanni, how you doing? i ' m okay. so you know underneath the skin that car there shares a lot of its parts with your lamborghini urus, right? i do know that. all from the vw group. so bedley bentega, porsche cayenne, urus and the audi q8. very, very similar. different tunings. what do you think of the interior of that compared to your urus? i ' m going to be honest with you. i don ' t like bentega or whatsoever. i don ' t like how it looks. i don ' t like the interior. i just don ' t like bentega at all. what do you think of cullinan? do you like cullinan? i prefer a cullen. i think it ' s a lot more luxury, but that rolls - royce bentley",
+          "qas": [
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Type_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the engine type of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.75 L twin turbo V12,",
+                  "answer_start": 487
+                }
+              ]
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Capacity_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the engine capacity of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.75 L",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Horsepower_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the horsepower of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 horsepower,",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Weight_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the weight of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,660 kg,",
+                  "answer_start": 621
+                }
+              ]
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Torque_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the torque of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "900 new meters of torque,",
+                  "answer_start": 527
+                }
+              ]
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Gearbox_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the gearbox in the Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox.",
+                  "answer_start": 583
+                }
+              ]
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Quarter Mile Time_Rolls-Royce Cullinan Black Badge_1",
+              "question": "What is the quarter mile time of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Type_Bentley Bentayga_1",
+              "question": "What is the engine type of Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8,",
+                  "answer_start": 700
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Engine Capacity_Bentley Bentayga_1",
+              "question": "What is the engine capacity of Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 700
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Horsepower_Bentley Bentayga_1",
+              "question": "What is the horsepower of Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 horsepower,",
+                  "answer_start": 511
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Weight_Bentley Bentayga_1",
+              "question": "What is the weight of Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,416 kg",
+                  "answer_start": 824
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Torque_Bentley Bentayga_1",
+              "question": "What is the torque of Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "770 new m of torque,",
+                  "answer_start": 735
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Gearbox_Bentley Bentayga_1",
+              "question": "What is the gearbox in the Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox.",
+                  "answer_start": 583
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Quarter Mile Time_Bentley Bentayga_1",
+              "question": "What is the quarter mile time of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "difference between the two, huge. i actually really like bentleys. i love their interiors. that ' s funny. i prefer the interior than in your lamborghini. just saying. i love criticizing other people ' s cars that i can ' t afford. old school bentley muller style. that was a thing that we used to do when we used to retrim our car. so, it ' s bentley muller style. bentley muller style. i think other brands have come and overtaken bentley now. okay, let ' s move on from the luxury and talk about the sound quality. so, i ' m going to rev up my v12. have a little listen to this. i don ' t even have a rev counter. i ' ve just got a power reserve meter which doesn ' t move when i ' m revving the engine. it ' s almost like he hasn ' t got a software emitter. everything sounds like it ' s coming from the front. doesn ' t actually sound like there ' s an exhaust. it just sounds like the engine ' s just going crazy. you got soft limiters and all sorts of stuff. i tell you what ' s incredible about this. you know when you rev a big engine, you get like the body moving and stuff. not with this. doesn ' t move. hardly moves. it ' s just so mellow. what i ' m going to do is put this coin on the engine. and now let ' s see how smooth it is. rev it. the coin is not falling over. okay, let ' s go on with the race. right, got my suspension in the low setting. i got my gearbox in low so it ' ll hold onto a low gear. i ' m all ready to go. come on, rolls - royce. beat the bentley. 3 2 1 o no. [ applause ] okay. oh, i ' m gone. [ applause ] he ain ' t pulling me back either. your face looks shocked, matt. i got spanked. best two out of three, but i don ' t think it ' s going to get any better for me. yeah, this just took off well. and i looked to see if you ' re coming to even catching me and it ' s like nah. what ' s the weight difference between the two? yours is 2. 4. mine ' s 2. 7. but i ' m in the car, so",
+          "qas": [
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Type_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the engine type of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Capacity_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the engine capacity of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Horsepower_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the horsepower of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Weight_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the weight of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Torque_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the torque of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Gearbox_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the gearbox in the Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Quarter Mile Time_Rolls-Royce Cullinan Black Badge_398",
+              "question": "What is the quarter mile time of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Type_Bentley Bentayga_398",
+              "question": "What is the engine type of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Capacity_Bentley Bentayga_398",
+              "question": "What is the engine capacity of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Horsepower_Bentley Bentayga_398",
+              "question": "What is the horsepower of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Weight_Bentley Bentayga_398",
+              "question": "What is the weight of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Torque_Bentley Bentayga_398",
+              "question": "What is the torque of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Gearbox_Bentley Bentayga_398",
+              "question": "What is the gearbox in the Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Quarter Mile Time_Bentley Bentayga_398",
+              "question": "What is the quarter mile time of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "obviously i even it out. ah. do i do best out of three? just cause. yeah, just cause. just lower my car. what i ' m going to also do is lower my spirit of ecstasy. that ' s going to give me one / 10enth of a second. here we go. come on, baby. 3 2 1 m off the line there. [ music ] [ applause ] another good launch. [ applause ] ah, you got a better launch that time. yeah, launch was quite good that time. you look really disappointed. did you think that was going to beat this? never in a million years. i might have a chance in one of the other challenges, but before that, this other thing. so then, what exactly happened? well, the bentley won. it completed the standing / 4er mile in 12. 5 seconds. the rolls - royce took 13 seconds. right now, we have a rolling race from 50 mph. the cars are in automatic mode because the rolls - royce has no manual gear selection, unlike the bentley. and have it in its like low mode. so, it ' ll hold on to its lower gear for as long as possible. but see, as i ' m going to floor the throttle, it doesn ' t really make any difference. anyway, he ' s going to run with his car in the b mode, which is like some kind of comfort automatic setting. then, we ' re going to race over the half mile. we ' re going to roll into it from 50 mph. now, before we do, right, i found a deal on a car that is pretty much the same underneath the skin as that bentley bentega. right, i ' ve configured the car myself. if you want to see what the car is and the saving, click on the pop out there, follow the qr code on screen now. alternatively, you can just follow the link in the description of this video. you ' ll be surprised. anyhow, are you going to be surprised about this race? let ' s find out. we ' re going to get into it. 3 2 1 go. kick down. oh, this kick down so well. come on, rolls. [ music ] [ applause ] here we go. come on. i ' m more excited now in this race. oh, i ' m not going to catch him. what do you think about that? surprised me",
+          "qas": [
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Type_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the engine type of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Capacity_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the engine capacity of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Horsepower_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the horsepower of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Weight_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the weight of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Torque_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the torque of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Gearbox_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the gearbox in the Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Quarter Mile Time_Rolls-Royce Cullinan Black Badge_821",
+              "question": "What is the quarter mile time of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "13 seconds.",
+                  "answer_start": 693
+                }
+              ]
+            },
+            {
+              "id": "Bentley Bentayga_Engine Type_Bentley Bentayga_821",
+              "question": "What is the engine type of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Capacity_Bentley Bentayga_821",
+              "question": "What is the engine capacity of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Horsepower_Bentley Bentayga_821",
+              "question": "What is the horsepower of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Weight_Bentley Bentayga_821",
+              "question": "What is the weight of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Torque_Bentley Bentayga_821",
+              "question": "What is the torque of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Gearbox_Bentley Bentayga_821",
+              "question": "What is the gearbox in the Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Quarter Mile Time_Bentley Bentayga_821",
+              "question": "What is the quarter mile time of Bentley Bentayga?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.5 seconds.",
+                  "answer_start": 693
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": ". i actually thought i was going to start pulling you back in and i wasn ' t. so basically that car is just better at launching because you got launch control. i haven ' t. do you want to try it from slightly slower? you can go manual mode and everything. let ' s just see. i don ' t want to break it to you. i don ' t have launch control in this car by the way. don ' t you? nope. i checked. are you sure? i asked knowledgeable rory and he said to me, \" there ' s no launch in this. \" i asked rory, \" bro, there ' s no launch. just jump out a sec. \" no, no, there ' s no launch. just show there ' s no launch. why you got to make me get out of the car? there ' s no launch, matt. watch. watch my smug face in 2 minutes. okay. right. so, sport. where ' s the stability control on this? sport mode. ready? i don ' t know what it ' s going to do. esc stability sport. look, it ' s not doing it. launch control. no, there wasn ' t. did it said it? look. no, there wasn ' t. don ' t try it. there it is. look, they got the gopro there, mate. so, don ' t try. bentley safe. showing it. no, it ' s showing it. look, launch control. told you. just let me know when you want to say sorry. don ' t need to. you should. be the big be the bigger man and just say i ' m sorry. you got it wrong. everyone could see that it clearly said launch. it said launch control, didn ' t it? we ' re going to do the same thing again. you can go in manual mode, second gear. you ready? we ' ll do it from about 30. here we go. 3 2 1 go. come on, roller. [ music ] it ' s close. got mad face m like this. he ' s got me this time. [ applause ] [ music ] oh, [ applause ] i ' m backing out cuz my car changed up right at the point where i said go. so, i ' m just going to do it again cuz it ' s going to be close. my car also changed up",
+          "qas": [
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Type_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the engine type of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Capacity_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the engine capacity of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Horsepower_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the horsepower of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Weight_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the weight of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Torque_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the torque of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Gearbox_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the gearbox in the Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Quarter Mile Time_Rolls-Royce Cullinan Black Badge_1240",
+              "question": "What is the quarter mile time of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Type_Bentley Bentayga_1240",
+              "question": "What is the engine type of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Capacity_Bentley Bentayga_1240",
+              "question": "What is the engine capacity of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Horsepower_Bentley Bentayga_1240",
+              "question": "What is the horsepower of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Weight_Bentley Bentayga_1240",
+              "question": "What is the weight of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Torque_Bentley Bentayga_1240",
+              "question": "What is the torque of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Gearbox_Bentley Bentayga_1240",
+              "question": "What is the gearbox in the Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Quarter Mile Time_Bentley Bentayga_1240",
+              "question": "What is the quarter mile time of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "at that point and i put it back into second gear. let ' s go. 3 2 1 go. i don ' t know about that. i ' m still going to catch him. is he coming back? i don ' t know. this is worse. [ applause ] i ' m not going to catch him, am i? oh, he ' s coming back. but he ' s not he ' s not getting enough. no, i ' m not sure about that. i think we need to redo that again, bro. okay, let ' s go. three, two, one, go. change it up and then down. we ' ll just leave the rolling race as it was. this is too hard to do. right now we have a brake test run from 100 mph. the car that stops in the shortest distance wins. and you know what? let ' s have this as the decider. you win the drag race. i won the rolling race. this is it. it ' s all down to the brake test. now, if you ' d rather watch another drag race with a cullin, click on the pop out bar or the link in the description below. if not, stay here for the bright test cuz here it is coming now. [ music ] clear lost a bit of sweet memories. damn. listen, i want to say huge thank you to clyson for lending us his bentega to drag race. really appreciate it. thank you, clive. if you want to check out what stock he ' s got available, it ' s a link in the description to this video. also, thank you to ex for lending us this car. really appreciate it, guys. is you can rent it from them. once again, link somewhere around the",
+          "qas": [
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Type_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the engine type of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Engine Capacity_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the engine capacity of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Horsepower_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the horsepower of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Weight_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the weight of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Torque_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the torque of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Gearbox_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the gearbox in the Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Rolls-Royce Cullinan Black Badge_Quarter Mile Time_Rolls-Royce Cullinan Black Badge_1652",
+              "question": "What is the quarter mile time of Rolls-Royce Cullinan Black Badge?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Type_Bentley Bentayga_1652",
+              "question": "What is the engine type of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Engine Capacity_Bentley Bentayga_1652",
+              "question": "What is the engine capacity of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Horsepower_Bentley Bentayga_1652",
+              "question": "What is the horsepower of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Weight_Bentley Bentayga_1652",
+              "question": "What is the weight of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Torque_Bentley Bentayga_1652",
+              "question": "What is the torque of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Gearbox_Bentley Bentayga_1652",
+              "question": "What is the gearbox in the Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Bentley Bentayga_Quarter Mile Time_Bentley Bentayga_1652",
+              "question": "What is the quarter mile time of Bentley Bentayga?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

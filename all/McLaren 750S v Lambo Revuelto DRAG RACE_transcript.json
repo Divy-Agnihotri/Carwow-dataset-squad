@@ -1,0 +1,3464 @@
+{
+  "data": [
+    {
+      "title": "McLaren 750S v Lambo Revuelto DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "mclaren 750s v lambo revuelto drag race _ transcript what will win in a drag race between a lamborghini rto and a mclaren 750s well we ' re going to find out cuz i ' m going to race them over the standing quarter mile i ' m matt watson and you ' re watching caro the lamborghini rwto has a 6.5 l natural aspirated v12 engine made to an electric motor together these drive the rear wheels vi an 8 - speed dual clutch automatic gearbox however the car has an additional two electric motors driving the front wheels giving it four - wheel drive and a total system output of 1, 5 horsepower and 1, 62 newt m of torque the car weighs in at 1, 772 kilos dry so with fluids it ' s just under 2 tons and it costs from £ 447, 000 the mclaren 750s has a 4 l twin turbo v8 which puts out 750 horsepower and 800 nm of torque it drives the rear wheels via 7 - speed dual clutch automatic gearbox the car weighs in at 1, 389 kg and cost from £54, 000 so y are you a little bit nervous i ' m always nervous when i ' m racing this car and mclaren ' s they ' re known for being fast and that does look fast but i ' ve never seen that one before yeah so there ' s a famous race of me and you competing in the previous generation cars aventor sv that you had the convertible and i was in a 720s and it was so quick i mean you got off first and then i came past and i won in the mclaren now you have beaten a ferrari 296 with your car but it was very close and i think one of these the mclaren 750 s which is an evolution of the 720s actually beat a ferrari 296 so everything is to play for if you ' re a betting man where would you put your pennies if this puts down its power it ' s going to win yeah but will it put its power down i assume that ' s real wheeel drive yeah exactly got to hook up and it ' s all going to be down to that cuz i know your car will hook up with it four - wheel drive right before we get into the race though let ' s have a little competition in some other areas first off let ' s have a little door comparison i ' m going to dem mind first let ' s have a look at yours reach across no i can ' t see you",
+          "qas": [
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini RTO_1",
+              "question": "What is the engine type of Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Revuelto_1",
+              "question": "What is the engine type of Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lambo_1",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini_1",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the engine type of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the engine type of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the engine type of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the engine type of Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the engine type of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the engine type of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren 750s_1",
+              "question": "What is the engine type of McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren_1",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_750s_1",
+              "question": "What is the engine type of 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini RTO_1",
+              "question": "What is the engine capacity of Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Revuelto_1",
+              "question": "What is the engine capacity of Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lambo_1",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini_1",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the engine capacity of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the engine capacity of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the engine capacity of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the engine capacity of Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the engine capacity of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren 750s_1",
+              "question": "What is the engine capacity of McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren_1",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_750s_1",
+              "question": "What is the engine capacity of 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini RTO_1",
+              "question": "What is the horsepower of Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Revuelto_1",
+              "question": "What is the horsepower of Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lambo_1",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini_1",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the horsepower of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the horsepower of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the horsepower of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the horsepower of Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the horsepower of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the horsepower of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren 750s_1",
+              "question": "What is the horsepower of McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren_1",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_750s_1",
+              "question": "What is the horsepower of 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 horsepower",
+                  "answer_start": 574
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini RTO_1",
+              "question": "What is the weight of Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Revuelto_1",
+              "question": "What is the weight of Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lambo_1",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini_1",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the weight of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the weight of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the weight of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the weight of Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the weight of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the weight of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren 750s_1",
+              "question": "What is the weight of McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren_1",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_750s_1",
+              "question": "What is the weight of 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,389 kg",
+                  "answer_start": 907
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini RTO_1",
+              "question": "What is the torque of Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Revuelto_1",
+              "question": "What is the torque of Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lambo_1",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini_1",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the torque of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the torque of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the torque of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the torque of Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the torque of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the torque of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren 750s_1",
+              "question": "What is the torque of McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren_1",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_750s_1",
+              "question": "What is the torque of 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 NM of torque",
+                  "answer_start": 796
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini RTO_1",
+              "question": "What is the gearbox in the Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Revuelto_1",
+              "question": "What is the gearbox in the Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lambo_1",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini_1",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the gearbox in the Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the gearbox in the Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the gearbox in the Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the gearbox in the Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the gearbox in the Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren 750s_1",
+              "question": "What is the gearbox in the McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren_1",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_750s_1",
+              "question": "What is the gearbox in the 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed dual clutch automatic gearbox",
+                  "answer_start": 398
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini RTO_1",
+              "question": "What is the quarter mile time of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Revuelto_1",
+              "question": "What is the quarter mile time of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lambo_1",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini_1",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Type: 4 L twin turbo V8 [154,158]_1",
+              "question": "What is the quarter mile time of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Capacity: 4 L [154,155]_1",
+              "question": "What is the quarter mile time of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Horsepower: 750 horsepower [114,115]_1",
+              "question": "What is the quarter mile time of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Weight: 1,389 kg [188,189]_1",
+              "question": "What is the quarter mile time of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Torque: 800 NM of torque [165,168]_1",
+              "question": "What is the quarter mile time of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Quarter Mile Time: 10.6 seconds [1395,1396]_1",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren 750s_1",
+              "question": "What is the quarter mile time of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren_1",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_750s_1",
+              "question": "What is the quarter mile time of 750s?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "need to do the other side come on and to be fair do you know what watch this i didn ' t have to take my oh can i lift it [ music ] oh so easy is it the open there we go hello you ' re all right and now let ' s do a sound check i ' ll go [ music ] first it ' s all right [ music ] average and finally that ' s proper italian sounding this is britain this this sounds like some kind of like clip from london doesn ' t it you can imagine the traffic yeah that ' s that ' s more kind of milan or [ music ] naples right let ' s go with the racing shut your door oh bugger now my back right going to warm up my tires should we go warm i need to warm up my tires in this you probably don ' t have to in yours always spin a mclaren [ music ] always this is weird this feels slower than a 720s i think you ' re going to absolutely batter me is that supposed to be faster than the 720s though i think so it ' s got 750 horsepower and the 720s has i have a guess c ' s in the name 719 720 i think they actually had more in reality but we do have 100 % fuel which probably isn ' t the best but oh well oh the book of excuses 3 2 [ applause ] [ music ] 1 oh he got me absolutely mulled me on the line could put the power down could you matthew no i ' ve got no [ music ] chance i ' m really surprised by that i ' m swear the 720s is quicker i guess you couldn ' t put the power down there could you i don ' t think it matters let ' s go best two out of three see if we can get a little bit closer to you okay then i ' m going to run closer to him you think that ' s going to make a difference yeah you would try anything matt i need every last bit of help and luck to do this 3 2 1 bed again [ music ] dr well done baby well done no when there is good and i can see him in my mirror which means he got [ applause ] dropped when i was practicing it hooked hooked hooked but each time i ' ve done it in the race it ' s just flopped completely so the car ' s not doing anything like it should do i ' m going to be honest with you when i saw you practice when i was turning around it didn ' t pull at all it looked like it",
+          "qas": [
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini RTO_462",
+              "question": "What is the engine type of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Revuelto_462",
+              "question": "What is the engine type of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lambo_462",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini_462",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the engine type of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the engine type of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the engine type of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the engine type of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the engine type of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the engine type of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren 750s_462",
+              "question": "What is the engine type of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren_462",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_750s_462",
+              "question": "What is the engine type of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini RTO_462",
+              "question": "What is the engine capacity of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Revuelto_462",
+              "question": "What is the engine capacity of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lambo_462",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini_462",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the engine capacity of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the engine capacity of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the engine capacity of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the engine capacity of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the engine capacity of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren 750s_462",
+              "question": "What is the engine capacity of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren_462",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_750s_462",
+              "question": "What is the engine capacity of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini RTO_462",
+              "question": "What is the horsepower of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Revuelto_462",
+              "question": "What is the horsepower of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lambo_462",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini_462",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the horsepower of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the horsepower of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the horsepower of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the horsepower of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the horsepower of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the horsepower of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren 750s_462",
+              "question": "What is the horsepower of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren_462",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_750s_462",
+              "question": "What is the horsepower of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini RTO_462",
+              "question": "What is the weight of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Revuelto_462",
+              "question": "What is the weight of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lambo_462",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini_462",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the weight of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the weight of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the weight of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the weight of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the weight of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the weight of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren 750s_462",
+              "question": "What is the weight of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren_462",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_750s_462",
+              "question": "What is the weight of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini RTO_462",
+              "question": "What is the torque of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Revuelto_462",
+              "question": "What is the torque of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lambo_462",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini_462",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the torque of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the torque of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the torque of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the torque of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the torque of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the torque of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren 750s_462",
+              "question": "What is the torque of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren_462",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_750s_462",
+              "question": "What is the torque of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini RTO_462",
+              "question": "What is the gearbox in the Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Revuelto_462",
+              "question": "What is the gearbox in the Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lambo_462",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini_462",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the gearbox in the Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the gearbox in the Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the gearbox in the Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the gearbox in the Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the gearbox in the Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren 750s_462",
+              "question": "What is the gearbox in the McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren_462",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_750s_462",
+              "question": "What is the gearbox in the 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini RTO_462",
+              "question": "What is the quarter mile time of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Revuelto_462",
+              "question": "What is the quarter mile time of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lambo_462",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini_462",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Type: 4 L twin turbo V8 [154,158]_462",
+              "question": "What is the quarter mile time of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Capacity: 4 L [154,155]_462",
+              "question": "What is the quarter mile time of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Horsepower: 750 horsepower [114,115]_462",
+              "question": "What is the quarter mile time of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Weight: 1,389 kg [188,189]_462",
+              "question": "What is the quarter mile time of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Torque: 800 NM of torque [165,168]_462",
+              "question": "What is the quarter mile time of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_462",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Quarter Mile Time: 10.6 seconds [1395,1396]_462",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren 750s_462",
+              "question": "What is the quarter mile time of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren_462",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_750s_462",
+              "question": "What is the quarter mile time of 750s?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "had that you know like what lambos usually have where it drops down it looked look really slow three out of five i want the car to at least do a decent run cuz it ' s off its pace i know it can go quicker cuz i ' ve timed it i ' m happy to give you one more race i ' m happy to make it 3 - 0 we could race till tomorrow mate you ain ' t catching me bit like the re on the sf90 there you go i said it before you said [ music ] it like really he just thinks there ' s something wrong he goes he can ' t get it to hold it on the brake no you ' re saying he shouldn ' t have it full full traction off matt the owner reckons mclaren like that car without all the full traction off so if you ' re running it with all the traction off maybe change it slightly yeah so i ' ve done all different ones and the best was with it off by a mile 3 2 1 [ applause ] [ music ] come come [ applause ] on no [ applause ] [ music ] chance this is getting slower h actually getting slower let me just try one more on my own man it looks so slow it it seems like it ' s like and then it goes and even then when it ' s going it doesn ' t seem to go like the 720 did oh well rolling he still he ' s launching it again this guy just going back to back with the launches matt it ' s like a whole second before i hear the revs kick in when you ' re pulling away so delayed what fuel have you got in it 999 oh from around the corner it ' s done 8 and 1 half th000 mil in another 40 mi it ' s going to say it needs a service anyway okay do you know what all these cars have too many bloody buttons right this is the button i want i ' m going to try this one now i didn ' t have the suspension in soft right i ' m going just one more launch very quickly is that like me not being in performance mode yeah let ' s see truck power train [ music ] no no different so then what exactly happened well the lamborghini won easily it completed the standing quarter mile in 10. 1 seconds the mclaren talk 10. 6 seconds want to sell your car quickly easily for a fair price then head to car w to have over 4, 000 trusted dealers ready to bid on it in an online auction first enter your car ' s registration",
+          "qas": [
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini RTO_955",
+              "question": "What is the engine type of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Revuelto_955",
+              "question": "What is the engine type of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lambo_955",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini_955",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the engine type of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the engine type of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the engine type of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the engine type of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the engine type of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the engine type of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren 750s_955",
+              "question": "What is the engine type of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren_955",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_750s_955",
+              "question": "What is the engine type of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini RTO_955",
+              "question": "What is the engine capacity of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Revuelto_955",
+              "question": "What is the engine capacity of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lambo_955",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini_955",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the engine capacity of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the engine capacity of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the engine capacity of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the engine capacity of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the engine capacity of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren 750s_955",
+              "question": "What is the engine capacity of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren_955",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_750s_955",
+              "question": "What is the engine capacity of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini RTO_955",
+              "question": "What is the horsepower of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Revuelto_955",
+              "question": "What is the horsepower of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lambo_955",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini_955",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the horsepower of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the horsepower of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the horsepower of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the horsepower of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the horsepower of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the horsepower of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren 750s_955",
+              "question": "What is the horsepower of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren_955",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_750s_955",
+              "question": "What is the horsepower of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini RTO_955",
+              "question": "What is the weight of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Revuelto_955",
+              "question": "What is the weight of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lambo_955",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini_955",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the weight of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the weight of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the weight of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the weight of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the weight of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the weight of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren 750s_955",
+              "question": "What is the weight of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren_955",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_750s_955",
+              "question": "What is the weight of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini RTO_955",
+              "question": "What is the torque of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Revuelto_955",
+              "question": "What is the torque of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lambo_955",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini_955",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the torque of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the torque of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the torque of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the torque of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the torque of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the torque of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren 750s_955",
+              "question": "What is the torque of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren_955",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_750s_955",
+              "question": "What is the torque of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini RTO_955",
+              "question": "What is the gearbox in the Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Revuelto_955",
+              "question": "What is the gearbox in the Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lambo_955",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini_955",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the gearbox in the Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the gearbox in the Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the gearbox in the Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the gearbox in the Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the gearbox in the Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren 750s_955",
+              "question": "What is the gearbox in the McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren_955",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_750s_955",
+              "question": "What is the gearbox in the 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini RTO_955",
+              "question": "What is the quarter mile time of Lamborghini RTO?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Revuelto_955",
+              "question": "What is the quarter mile time of Revuelto?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lambo_955",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini_955",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Type: 4 L twin turbo V8 [154,158]_955",
+              "question": "What is the quarter mile time of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Capacity: 4 L [154,155]_955",
+              "question": "What is the quarter mile time of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Horsepower: 750 horsepower [114,115]_955",
+              "question": "What is the quarter mile time of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Weight: 1,389 kg [188,189]_955",
+              "question": "What is the quarter mile time of Weight: 1,389 kg [188,189]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Torque: 800 NM of torque [165,168]_955",
+              "question": "What is the quarter mile time of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_955",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Quarter Mile Time: 10.6 seconds [1395,1396]_955",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren 750s_955",
+              "question": "What is the quarter mile time of McLaren 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren_955",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_750s_955",
+              "question": "What is the quarter mile time of 750s?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds",
+                  "answer_start": 1939
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "to get an instant approximate valuation then if you want to proceed give us some more details and upload some photo and we ' ll help you set a fair reserve price for your car that ' s the minimum amount you ' d be happy to sell it for once you ' ve done that we ' ll enter your car into an online auction when the auction ' s over we ' ll let you know the result and the dealer with the winning bid will be in touch to arrange easy payment and free collection of your car 93 % of sellers surveyed said they got the price they expected or more through carb the best bit is it ' s completely free i put a link in the description of this video and the ping comment to take you directly to carwow where over 4, 000 dealers are ready to bid on your car or you can just click on the pop out banner that should be appearing in the top right hand corner of the screen now alternatively just google help me carwow and we will help you sell your car quickly easily and for a fair price on with the video what mode would you like matthew auto mode for the gearbox and light chill settings so like comfort or whatever you call it so i ' m in comfort mode with everything from 50 mph i ' ll call it really 3 2 1 go it ' s okay just kick down do didn ' t drop down at all [ music ] may this is [ music ] point what happened to your car stayed in fourth gear didn ' t even drop down to third gear just stayed in form and just progressively just moved forward yeah i was rubbish i don ' t know why your car did that yeah this just yeah it was quick then let ' s go full sports setting and man way for the gearbox so to roll in 30 m an hour in second 3 2 1 go come on he ' s coming back here we go [ applause ] oh there we go there we go there we go oh that was close what sound was that oh go yeah i ' ll be honest one of my gear changes were probably a touch early but we ' re all good i had a similar thing but i don ' t think it made that much difference roll on from 50 third gear three 2 1 [ music ] go here he comes now come on what i found amazing is that your car ' s got this instant electric pickup yet this with its turbochargers was faster acting faster response it was it madness really and then you came past it was almost like the reverse of what i was expecting",
+          "qas": [
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini RTO_1442",
+              "question": "What is the engine type of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Revuelto_1442",
+              "question": "What is the engine type of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lambo_1442",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini_1442",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the engine type of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the engine type of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the engine type of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the engine type of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the engine type of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the engine type of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren 750s_1442",
+              "question": "What is the engine type of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren_1442",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_750s_1442",
+              "question": "What is the engine type of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini RTO_1442",
+              "question": "What is the engine capacity of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Revuelto_1442",
+              "question": "What is the engine capacity of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lambo_1442",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini_1442",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the engine capacity of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the engine capacity of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the engine capacity of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the engine capacity of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the engine capacity of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren 750s_1442",
+              "question": "What is the engine capacity of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren_1442",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_750s_1442",
+              "question": "What is the engine capacity of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini RTO_1442",
+              "question": "What is the horsepower of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Revuelto_1442",
+              "question": "What is the horsepower of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lambo_1442",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini_1442",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the horsepower of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the horsepower of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the horsepower of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the horsepower of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the horsepower of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the horsepower of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren 750s_1442",
+              "question": "What is the horsepower of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren_1442",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_750s_1442",
+              "question": "What is the horsepower of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini RTO_1442",
+              "question": "What is the weight of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Revuelto_1442",
+              "question": "What is the weight of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lambo_1442",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini_1442",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the weight of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the weight of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the weight of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the weight of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the weight of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the weight of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren 750s_1442",
+              "question": "What is the weight of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren_1442",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_750s_1442",
+              "question": "What is the weight of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini RTO_1442",
+              "question": "What is the torque of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Revuelto_1442",
+              "question": "What is the torque of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lambo_1442",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini_1442",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the torque of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the torque of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the torque of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the torque of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the torque of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the torque of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren 750s_1442",
+              "question": "What is the torque of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren_1442",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_750s_1442",
+              "question": "What is the torque of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini RTO_1442",
+              "question": "What is the gearbox in the Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Revuelto_1442",
+              "question": "What is the gearbox in the Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lambo_1442",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini_1442",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the gearbox in the Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the gearbox in the Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the gearbox in the Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the gearbox in the Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the gearbox in the Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren 750s_1442",
+              "question": "What is the gearbox in the McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren_1442",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_750s_1442",
+              "question": "What is the gearbox in the 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini RTO_1442",
+              "question": "What is the quarter mile time of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Revuelto_1442",
+              "question": "What is the quarter mile time of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lambo_1442",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini_1442",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Type: 4 L twin turbo V8 [154,158]_1442",
+              "question": "What is the quarter mile time of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Capacity: 4 L [154,155]_1442",
+              "question": "What is the quarter mile time of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Horsepower: 750 horsepower [114,115]_1442",
+              "question": "What is the quarter mile time of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Weight: 1,389 kg [188,189]_1442",
+              "question": "What is the quarter mile time of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Torque: 800 NM of torque [165,168]_1442",
+              "question": "What is the quarter mile time of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1442",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Quarter Mile Time: 10.6 seconds [1395,1396]_1442",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren 750s_1442",
+              "question": "What is the quarter mile time of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren_1442",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_750s_1442",
+              "question": "What is the quarter mile time of 750s?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "yeah cuz you always expect the turbo lag but there was no lag 100 mph breake test if you ' d rather watch the drug race then click on the popy banner up there for the link in the description below if not stay here for this oh oh his m p let ' s go soft on the suspension quickly here we are into the [ music ] line do you know what that is it ' s a clean sweep feels really really nice well done well done lamborghini well done okay so listen this car has heat in its tires now for sure do you want to do one more drag race just to rub salt into the wounds or i ' m going to run it on my own matt run it on your own mate i ' ll beat you five times it ' s like really was the point matt you must f i ' m one of them kids at school thinking oh no he made chicken sounds i don ' t care bro you still ain ' t going to do any [ music ] [ applause ] better made no difference oh you were right not to race it was exactly the same see told you wasting my tires true oh oh well anyway i hope you enjoyed the video if you did give it a like click on the video windows for watching some more videos big thanks to troy for lending us his car and if you want to see how these cars quart mile times compared to everything else yeah you know what to do click on the co logo for the co track race leader board thanks for watching ah you put that there",
+          "qas": [
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini RTO_1932",
+              "question": "What is the engine type of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Revuelto_1932",
+              "question": "What is the engine type of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lambo_1932",
+              "question": "What is the engine type of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Lamborghini_1932",
+              "question": "What is the engine type of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the engine type of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the engine type of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the engine type of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the engine type of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the engine type of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the engine type of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the engine type of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren 750s_1932",
+              "question": "What is the engine type of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_McLaren_1932",
+              "question": "What is the engine type of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Type_750s_1932",
+              "question": "What is the engine type of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini RTO_1932",
+              "question": "What is the engine capacity of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Revuelto_1932",
+              "question": "What is the engine capacity of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lambo_1932",
+              "question": "What is the engine capacity of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Lamborghini_1932",
+              "question": "What is the engine capacity of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the engine capacity of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the engine capacity of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the engine capacity of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the engine capacity of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the engine capacity of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the engine capacity of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the engine capacity of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren 750s_1932",
+              "question": "What is the engine capacity of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_McLaren_1932",
+              "question": "What is the engine capacity of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Engine Capacity_750s_1932",
+              "question": "What is the engine capacity of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini RTO_1932",
+              "question": "What is the horsepower of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Revuelto_1932",
+              "question": "What is the horsepower of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lambo_1932",
+              "question": "What is the horsepower of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Lamborghini_1932",
+              "question": "What is the horsepower of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the horsepower of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the horsepower of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the horsepower of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the horsepower of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the horsepower of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the horsepower of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the horsepower of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren 750s_1932",
+              "question": "What is the horsepower of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_McLaren_1932",
+              "question": "What is the horsepower of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Horsepower_750s_1932",
+              "question": "What is the horsepower of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini RTO_1932",
+              "question": "What is the weight of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Revuelto_1932",
+              "question": "What is the weight of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lambo_1932",
+              "question": "What is the weight of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Lamborghini_1932",
+              "question": "What is the weight of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the weight of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the weight of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the weight of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the weight of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the weight of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the weight of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the weight of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren 750s_1932",
+              "question": "What is the weight of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_McLaren_1932",
+              "question": "What is the weight of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Weight_750s_1932",
+              "question": "What is the weight of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini RTO_1932",
+              "question": "What is the torque of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Revuelto_1932",
+              "question": "What is the torque of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lambo_1932",
+              "question": "What is the torque of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Lamborghini_1932",
+              "question": "What is the torque of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the torque of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the torque of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the torque of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the torque of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the torque of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the torque of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the torque of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren 750s_1932",
+              "question": "What is the torque of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_McLaren_1932",
+              "question": "What is the torque of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Torque_750s_1932",
+              "question": "What is the torque of 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini RTO_1932",
+              "question": "What is the gearbox in the Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Revuelto_1932",
+              "question": "What is the gearbox in the Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lambo_1932",
+              "question": "What is the gearbox in the Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Lamborghini_1932",
+              "question": "What is the gearbox in the Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the gearbox in the Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the gearbox in the Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the gearbox in the Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the gearbox in the Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the gearbox in the Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the gearbox in the Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the gearbox in the Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren 750s_1932",
+              "question": "What is the gearbox in the McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_McLaren_1932",
+              "question": "What is the gearbox in the McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Gearbox_750s_1932",
+              "question": "What is the gearbox in the 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini RTO_1932",
+              "question": "What is the quarter mile time of Lamborghini RTO?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Revuelto_1932",
+              "question": "What is the quarter mile time of Revuelto?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lambo_1932",
+              "question": "What is the quarter mile time of Lambo?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Lamborghini_1932",
+              "question": "What is the quarter mile time of Lamborghini?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Type: 4 L twin turbo V8 [154,158]_1932",
+              "question": "What is the quarter mile time of Engine Type: 4 L twin turbo V8 [154,158]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Engine Capacity: 4 L [154,155]_1932",
+              "question": "What is the quarter mile time of Engine Capacity: 4 L [154,155]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Horsepower: 750 horsepower [114,115]_1932",
+              "question": "What is the quarter mile time of Horsepower: 750 horsepower [114,115]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Weight: 1,389 kg [188,189]_1932",
+              "question": "What is the quarter mile time of Weight: 1,389 kg [188,189]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Torque: 800 NM of torque [165,168]_1932",
+              "question": "What is the quarter mile time of Torque: 800 NM of torque [165,168]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Gearbox: 7-speed dual clutch automatic gearbox [83,87]_1932",
+              "question": "What is the quarter mile time of Gearbox: 7-speed dual clutch automatic gearbox [83,87]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_Quarter Mile Time: 10.6 seconds [1395,1396]_1932",
+              "question": "What is the quarter mile time of Quarter Mile Time: 10.6 seconds [1395,1396]?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren 750s_1932",
+              "question": "What is the quarter mile time of McLaren 750s?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_McLaren_1932",
+              "question": "What is the quarter mile time of McLaren?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Lamborghini Revuelto_Quarter Mile Time_750s_1932",
+              "question": "What is the quarter mile time of 750s?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

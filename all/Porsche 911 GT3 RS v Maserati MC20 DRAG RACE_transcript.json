@@ -1,0 +1,531 @@
+{
+  "data": [
+    {
+      "title": "Porsche 911 GT3 RS v Maserati MC20 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "porsche 911 gt3 rs v maserati mc20 drag race _ transcript what will win in a drag race between a maserati mc20 and a porsche 911 gt3 rs? well, we ' re going to find out cuz i ' m going to race them over the standing quarter mile. i ' m matt watson. you ' re watching car wow. so, let me tell you about this maserati. it ' s got a mid - mounted 3 l v6 engine, twin turbos, drives the rear wheels via an 8 - speed dual clutch automatic gearbox with launch control. the engine puts out 630 horsepower and 730 new meters of torque. the car weighs in at 1. 5 tons and starts from around £230, 000. though this one with all the equipment on it is £300, 000. let ' s find out about the 3 rs from its owner. hey tommy, how you doing? i ' m good, thank you. just enjoying this wonderful sunny day. yeah. yeah. well, we ' ve had a lot of good weather apart from last week when we booked the drag races. it said it was going to rain today, but so far we ' ve been lucky. and we don ' t want it wet because i think last time you raced that car, it was cold and you really struggled for traction, didn ' t you? yeah. but it ' s got new tires on the rear now, so hopefully it ' ll be a lot better. we ' ll probably have to do some tire warming to make sure that we have lots of grip because we want this to be a fair race. that car pretty much is matched for this one in terms of acceleration, but we shall see. give us the stats on your car. i don ' t know the stats on this car. i love it. do you want me to do the stats on your car? 520 horsepower, six engine, 4 l naturally aspirated 0 to 60 in 2. 5. that ' s a guess. that ' s a guess. that ' s wrong as well. what ' s the torque on the 3 rs? i can ' t remember. is it like 575 newton meters, rory? 465 nm. that ' s rubbish. turbos for the win. yeah, normally when i drive this car, i put my foot down. i ' m like, it feels slow. i usually know the stats, but i haven '",
+          "qas": [
+            {
+              "id": "Maserati MC20_Engine Type_Maserati MC20_1",
+              "question": "What is the engine type of Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "mid-mounted 3 L V6 engine, twin turbos,",
+                  "answer_start": 336
+                }
+              ]
+            },
+            {
+              "id": "Maserati MC20_Engine Capacity_Maserati MC20_1",
+              "question": "What is the engine capacity of Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 L",
+                  "answer_start": 344
+                }
+              ]
+            },
+            {
+              "id": "Maserati MC20_Horsepower_Maserati MC20_1",
+              "question": "What is the horsepower of Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower",
+                  "answer_start": 483
+                }
+              ]
+            },
+            {
+              "id": "Maserati MC20_Weight_Maserati MC20_1",
+              "question": "What is the weight of Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1.5 tons",
+                  "answer_start": 552
+                }
+              ]
+            },
+            {
+              "id": "Maserati MC20_Torque_Maserati MC20_1",
+              "question": "What is the torque of Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "730 new meters of torque.",
+                  "answer_start": 502
+                }
+              ]
+            },
+            {
+              "id": "Maserati MC20_Gearbox_Maserati MC20_1",
+              "question": "What is the gearbox in the Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "Maserati MC20_Quarter Mile Time_Maserati MC20_1",
+              "question": "What is the quarter mile time of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche 911 GT3 RS_1",
+              "question": "What is the engine type of Porsche 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L naturally aspirated",
+                  "answer_start": 1550
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche 911 GT3 RS_1",
+              "question": "What is the engine capacity of Porsche 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 1550
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche 911 GT3 RS_1",
+              "question": "What is the horsepower of Porsche 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "520 horsepower,",
+                  "answer_start": 1522
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche 911 GT3 RS_1",
+              "question": "What is the torque of Porsche 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "465 Nm.",
+                  "answer_start": 1740
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche 911 GT3 RS_1",
+              "question": "What is the quarter mile time of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "t trimmed this car in ages, and i was blindsided by you. but thanks. now, before we get on with the race, if you ' re thinking about selling your car, then you can do it through car wow. you just upload some photos, give a brief description, then dealers all across the country will bid on it. okay? super easy. it ' s free to use, and maybe you can recommend it to a friend if they ' re thinking about selling their car. if you ' re not to do it at a later date. just simply google help me car wow and we will help you sell your car. alternatively, if you want to check that service out right now, just click on the pop out banner or scan the qr code or follow the link in the description. for now though, we are going to compare the sounds of these two cars. so, windows dan, tommy, windows dan. [ music ] lots of washing sounds. you don ' t have a washing sound cuz you have no turbos. let ' s hear some naturally aspirated goodness. that sounds awesome. have you had an exhaust on that? it sounds different than mine did. no, i just drive my cars really hard. yeah. okay, point taken. oh, do it again. that sounded amazing. that ' s a win to you. easy win to you. shall we get on with the racing then, tommy? we ' ll go warm up our tires and we ' ll get back here and it ' ll be game on. let ' s do it. that car looks absolutely gorgeous, by the way. doesn ' t sound gorgeous, but it looks gorgeous. and we ' ll find out if it goes gorgeous in a minute. i think i might beat you, but we ' ll see. we ' ve had some cool cars racing here so far today, but that one sounds the best. i forgot how good this car sounds. oh my goodness. it ' s so good. i love it. i don ' t know why you don ' t drive it. i do drive it. i ' ve driven it quite a lot. i ' ve just decided to stop driving it cuz i might be selling it. oh, okay. how many miles has it done? 4, 600. i got heat for only doing 2, 700 in mine. i know. but you know what? people always just complain on the internet",
+          "qas": [
+            {
+              "id": "Maserati MC20_Engine Type_Maserati MC20_420",
+              "question": "What is the engine type of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Engine Capacity_Maserati MC20_420",
+              "question": "What is the engine capacity of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Horsepower_Maserati MC20_420",
+              "question": "What is the horsepower of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Weight_Maserati MC20_420",
+              "question": "What is the weight of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Torque_Maserati MC20_420",
+              "question": "What is the torque of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Gearbox_Maserati MC20_420",
+              "question": "What is the gearbox in the Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Quarter Mile Time_Maserati MC20_420",
+              "question": "What is the quarter mile time of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche 911 GT3 RS_420",
+              "question": "What is the engine type of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche 911 GT3 RS_420",
+              "question": "What is the engine capacity of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche 911 GT3 RS_420",
+              "question": "What is the horsepower of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche 911 GT3 RS_420",
+              "question": "What is the torque of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche 911 GT3 RS_420",
+              "question": "What is the quarter mile time of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". you can do what you want. it ' s your car. let ' s race. that ' s what we want to do right now. that ' s what we want. that ' s what you want. 3 2 1. [ music ] oh, hello. woo. more power. oh, turbo power. [ music ] it ' s like dropping in. i have no chance in this race because a parachute is attached to the back of my car. did you have some issues, tommy? yeah, just bogged down at the start. but that car, even though i started catching you a little bit, you just pulled away. that ' s power of turbos. it is the power of turbos, isn ' t it? let ' s do one more, though. let ' s give it another go. 3 2 1 oh, good launch together. he ' s ahead. [ music ] come on, bora. come on, ba. [ music ] come on, maserati. come on. no. no. [ music ] no, no, no. there ' s the turbos. come on, baby. come on. [ music ] bye - bye. you got a great launch, but turbo power did it, didn ' t it? yeah, i think i had you to 60 and then those turbos kicked in and just went past. oh dear. we decided to switch cars to see if i could make tommy ' s porsche go any quicker. 3 2 1 [ music ] that was weird. almost wheelid. where ' s this maserati? huh? this wasn ' t in launch. i don ' t think it just went. it was weird what it just did there. so, can we try that again? no, no, no, my friend. that is a 2 one. best three out of five. yeah. try and launch it again. so, you press launch left on the brake. is that it? yeah, that launched that time. okay. your car was quick. it ' s going to be game on. does the brake pedal always feel like this in this car? you mean horrible? yes. you come out of a porsche ride, which has some of the best feeling brakes of any car, into the maserati, which won ' t have had as much money spent on it developing the car. when you get used to them, they ' re okay,",
+          "qas": [
+            {
+              "id": "Maserati MC20_Engine Type_Maserati MC20_841",
+              "question": "What is the engine type of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Engine Capacity_Maserati MC20_841",
+              "question": "What is the engine capacity of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Horsepower_Maserati MC20_841",
+              "question": "What is the horsepower of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Weight_Maserati MC20_841",
+              "question": "What is the weight of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Torque_Maserati MC20_841",
+              "question": "What is the torque of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Gearbox_Maserati MC20_841",
+              "question": "What is the gearbox in the Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Quarter Mile Time_Maserati MC20_841",
+              "question": "What is the quarter mile time of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche 911 GT3 RS_841",
+              "question": "What is the engine type of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche 911 GT3 RS_841",
+              "question": "What is the engine capacity of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche 911 GT3 RS_841",
+              "question": "What is the horsepower of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche 911 GT3 RS_841",
+              "question": "What is the torque of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche 911 GT3 RS_841",
+              "question": "What is the quarter mile time of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "but they are at first a bit odd. yeah, it ' s really strange. 3 2 1 [ music ] come on. loads of tire spin. [ music ] come on. it ' s game on. [ music ] oh, yeah. here we go. here we go. it ' s game on. no. no. no. no. no. maserati power apparently. no, no, no, no. well, there we go, tommy. best three out of five. three to the maserati, one to the porsche. that was closer. that was yeah, it felt close. this had wheel spin. that just shot off when that launches. it ' s just like perfection. it ' s so good, isn ' t it? this hooks up like crazy. and when it goes into second gear, it like almost wheelies a bit cuz i notic you turn the suspension all the way down. so, it ' s super soft. so, boink. that ' s what you want to do to launch it. it ' s great. i love this car. you mad to sell it? i kind of was mad to sell mine as well. i know. but there ' s cool stuff coming, i guess. ooh. well, we have to watch the channel to find out, tommy. you sure do. go check out his channel. let ' s switch back, right? switch back into other cars and we will do some other racing. so then, what exactly happened? well, the maserati won. it completed the standing quarter mile in 11 seconds. the porsche took 11. 2 seconds. before our next race, a little message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is for you. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this range rover on car vertical. it ' s got green ticks for odometer and legal status, but a damage warning. why? it ' s previously been in not one, not two, but three separate accidents. you ' d never have known that without a car history check. so, when buying a used car, bike or van, run a car vertical report using code car wow for 20 %",
+          "qas": [
+            {
+              "id": "Maserati MC20_Engine Type_Maserati MC20_1239",
+              "question": "What is the engine type of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Engine Capacity_Maserati MC20_1239",
+              "question": "What is the engine capacity of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Horsepower_Maserati MC20_1239",
+              "question": "What is the horsepower of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Weight_Maserati MC20_1239",
+              "question": "What is the weight of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Torque_Maserati MC20_1239",
+              "question": "What is the torque of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Gearbox_Maserati MC20_1239",
+              "question": "What is the gearbox in the Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Quarter Mile Time_Maserati MC20_1239",
+              "question": "What is the quarter mile time of Maserati MC20?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11 seconds.",
+                  "answer_start": 1172
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche 911 GT3 RS_1239",
+              "question": "What is the engine type of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche 911 GT3 RS_1239",
+              "question": "What is the engine capacity of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche 911 GT3 RS_1239",
+              "question": "What is the horsepower of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche 911 GT3 RS_1239",
+              "question": "What is the torque of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche 911 GT3 RS_1239",
+              "question": "What is the quarter mile time of Porsche 911 GT3 RS?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 1172
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "off or by following the link in the description. now, back to the race. right now, we got a rolling race from 50 mph. the cars are in their sportier settings, but automatic mode for the gearbox. 3 2 1 go. porsche kick down much better than this pdk gearbox, but then more power. look at the turbo power. that ' s turbos. sounds good. well, at least it sounds nice in here. oh god, it ' s bumpy. i ' ve absolutely destroyed that porsche. okay. i mean, your gearbox kicked down quicker, but after that few yards, you were just done for. is that car supposed to be that fast? it feels faster than i thought it would be. it really does. yeah, it ' s a lot faster than i thought it would be. and from what i ' ve heard, it ' s a lot faster. but yeah, at least it looks nice. it ' s fast. just doesn ' t sound great. it actually sounds good here on the inside. let ' s do another rolling race. but i want you to pick the speed and the gear. second gear, 40 mph. sounds good. second gear 40. okay. 3 2 1 go. it ' s no good for him. oh, that was even worse. this is quake. this is that ' s even that ' s even worse. that was so bumpy. blime me. i thought it was going to be much closer than it is. this is just too quick, isn ' t it? yeah. i guess you were probably right on boost there. i think you couldn ' t have picked a worse gear or speed. that was terrible for me. i mean, i thought you were going to like just nip ahead like the throttle response and that is amazing. but this yeah, it was on it. there is something now that should play into your favor. let ' s do the brake test. you should win that. you ' re lighter. you got the arrow. maybe a bit downforce under the braking. porsche braking as well. let ' s do it. now, if you ' d rather watch another drag race with uh 911 gt3 rs, then click on the pop out banner or scan the qr code on screen now. not stay with me for this brake test. [ applause ] thank god i won something. oh, well, they might have tuned the",
+          "qas": [
+            {
+              "id": "Maserati MC20_Engine Type_Maserati MC20_1637",
+              "question": "What is the engine type of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Engine Capacity_Maserati MC20_1637",
+              "question": "What is the engine capacity of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Horsepower_Maserati MC20_1637",
+              "question": "What is the horsepower of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Weight_Maserati MC20_1637",
+              "question": "What is the weight of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Torque_Maserati MC20_1637",
+              "question": "What is the torque of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Gearbox_Maserati MC20_1637",
+              "question": "What is the gearbox in the Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Quarter Mile Time_Maserati MC20_1637",
+              "question": "What is the quarter mile time of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche 911 GT3 RS_1637",
+              "question": "What is the engine type of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche 911 GT3 RS_1637",
+              "question": "What is the engine capacity of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche 911 GT3 RS_1637",
+              "question": "What is the horsepower of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche 911 GT3 RS_1637",
+              "question": "What is the torque of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche 911 GT3 RS_1637",
+              "question": "What is the quarter mile time of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "engine, but they didn ' t tune the brakes, man. that porsche is just so good on the brakes, isn ' t it? yeah. you just can ' t when it comes to braking, porsche is just number one for me. yeah. so, so good. beautiful car. i think he ' s mad for selling it, but you ' ll be able to find out exactly what he ' s getting next by following his channel. okay. links in the description. now, if you want to compare these cars / 4 mile times to everything else we ' ve ever drag raced, then just click on the car wow logo. if you want to watch some other videos, click on the windows.",
+          "qas": [
+            {
+              "id": "Maserati MC20_Engine Type_Maserati MC20_2050",
+              "question": "What is the engine type of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Engine Capacity_Maserati MC20_2050",
+              "question": "What is the engine capacity of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Horsepower_Maserati MC20_2050",
+              "question": "What is the horsepower of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Weight_Maserati MC20_2050",
+              "question": "What is the weight of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Torque_Maserati MC20_2050",
+              "question": "What is the torque of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Gearbox_Maserati MC20_2050",
+              "question": "What is the gearbox in the Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Maserati MC20_Quarter Mile Time_Maserati MC20_2050",
+              "question": "What is the quarter mile time of Maserati MC20?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Type_Porsche 911 GT3 RS_2050",
+              "question": "What is the engine type of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Engine Capacity_Porsche 911 GT3 RS_2050",
+              "question": "What is the engine capacity of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Horsepower_Porsche 911 GT3 RS_2050",
+              "question": "What is the horsepower of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Torque_Porsche 911 GT3 RS_2050",
+              "question": "What is the torque of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 GT3 RS_Quarter Mile Time_Porsche 911 GT3 RS_2050",
+              "question": "What is the quarter mile time of Porsche 911 GT3 RS?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

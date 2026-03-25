@@ -1,0 +1,435 @@
+{
+  "data": [
+    {
+      "title": "New Porsche 911 v Shelby GT 350 DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new porsche 911 v shelby gt 350 drag race _ transcript can the new entry level porsche 911 carrera the least powerful 911 beat a shelby gt 350 in a drag race over the standing quarter mile even though this ford has way more horsepower germany versus america which will win we ' re going to find out cuz i ' m my w turn and you ' re watching carwow the porsche 911 carrera has a 3 l turbocharged flat 6 with 394 horsepower 450 nm of torque rear wheel drive and an 8speed dual clutch automatic gearbox with launch control it weighs 1, 520 kg and starts from just under £ 100, 000 the shelby gt 350 has a 5.2 l naturo aspirated v8 normally this puts out 526 horsepower and 582 newton m but this one ' s been tuned so it now has 600 horsepower and 597 nt m it sends power to the rear wheels virus 6 - speed manual gearbox with launch control which is odd the car weighs in at 1, 680 kg and cost the equivalent of around £50, 000 back in 2019 this drug race is going to be really interesting because what we ' ve got here is american muscle versus german performance i ' m not sure which way this is going to go really obviously we need a skill driver to drive that it ' s a manual it ' s front engine loads of power loads of performance rear wheel drive bit of a crappy day so we ' ve got racing driver sam so sam what we ' ve got here is me in a car with launch control and plenty of traction and a moderate amount of power then there ' s you in that muscle car with a manual gearbox and loads of power but also loads of skill what do you think is going to happen i don ' t know i don ' t like the launch control in this thing it ' s not great so we ' re going to do it with traction fully off because i can hold the clutch off the line i think i ' m probably going to get a slightly better jump than you but then that ' s clever pdk is going to manage to launch better than me i don ' t know we ' ll see well i ' m going to go for traction off as well but i do need to heat up my tires a little bit cuz i ' m at 4° which which isn ' t great but before we do that shall we should we do a sound check and this is going to be the first victory to you because this is what my porw sounds",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera_Engine Type_Porsche 911 Carrera_1",
+              "question": "What is the engine type of Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l turbocharged Flat 6",
+                  "answer_start": 376
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera_Engine Capacity_Porsche 911 Carrera_1",
+              "question": "What is the engine capacity of Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 378
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera_Horsepower_Porsche 911 Carrera_1",
+              "question": "What is the horsepower of Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "394 horsepower",
+                  "answer_start": 407
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera_Weight_Porsche 911 Carrera_1",
+              "question": "What is the weight of Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,520 kg",
+                  "answer_start": 533
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera_Torque_Porsche 911 Carrera_1",
+              "question": "What is the torque of Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "450 NM of torque",
+                  "answer_start": 422
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera_Gearbox_Porsche 911 Carrera_1",
+              "question": "What is the gearbox in the Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8speed dual clutch automatic gearbox",
+                  "answer_start": 463
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera_Quarter Mile Time_Porsche 911 Carrera_1",
+              "question": "What is the quarter mile time of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_1",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L naturo aspirated V8",
+                  "answer_start": 600
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_1",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "5.2 L",
+                  "answer_start": 602
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_1",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "600 horsepower",
+                  "answer_start": 651
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_1",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,680 kg",
+                  "answer_start": 875
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_1",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "597 NT M",
+                  "answer_start": 744
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_1",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6-speed manual gearbox",
+                  "answer_start": 797
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_1",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "like when i rev it up now before you rev that up i think we might have to tell the cameraman to put his fingers in his ears because go and do it your get chucked off this place because the noise rs with that thing that obviously has in tuned and uh one of the upgrades is the exhaust i mean that ' s how you get to 600 horsepower at that beast right i ' m going to go warm up my tires do you want to do yours or they warm anyway maybe a little [ music ] lap 3 2 1 smash him off the line he ' s got no chance [ music ] now he ' s just spinning up his wheels [ applause ] now this thing my quick [ music ] pause [ applause ] [ music ] traction yeah you just lit up your tires didn ' t you sam yeah i backed out of that cuz it was just smoking the tires up so we ' ll go again it just needs a little bit more warmth here i think okay go on then actually to tell you the truth it ' s running the other way is better it ' s much drier this is still wet here i think we run the other way right we decided to run in the opposite direction because the starting line was just too damp so want to give that mustang a good chance so let ' s go for it here we are 3 2 1 that was good [ applause ] [ music ] truction i still not got a chance [ music ] can you do it any better sam yeah i can go better than that that ' s already 2 n to me let ' s say three out of five just cuz i ' m kind but here we go good luck 3 2 [ music ] 1 this just hooks so perfectly then this is a good run for the porsche [ music ] the mustang is closer we ' re not close enough i ' ve got to say sam i think you did a pretty good job there that was mighty i ' m i ' m not doing any better than that oh my god though i ' ve got to hand it to this porsche this is the entry level car without a limited slip diff it ' s just set up for acceleration isn ' t it just the rear engine layout what ' s amazing this is so loud and powerful and loose and i ' ve got a gear shift and i ' m just watching you slowly pull away from me it ' s madness you know everyone from america is now writing in the comments about how you ' re a crap driver and you know i have",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera_Engine Type_Porsche 911 Carrera_473",
+              "question": "What is the engine type of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Engine Capacity_Porsche 911 Carrera_473",
+              "question": "What is the engine capacity of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Horsepower_Porsche 911 Carrera_473",
+              "question": "What is the horsepower of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Weight_Porsche 911 Carrera_473",
+              "question": "What is the weight of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Torque_Porsche 911 Carrera_473",
+              "question": "What is the torque of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Gearbox_Porsche 911 Carrera_473",
+              "question": "What is the gearbox in the Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Quarter Mile Time_Porsche 911 Carrera_473",
+              "question": "What is the quarter mile time of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_473",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_473",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_473",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_473",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_473",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_473",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_473",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "to say about that you ' re right he is crap he is racing driver sam it ' s just a madeup name is us to work in a chip shop anyway um let ' s move on so then what exactly happened while the porsche won it completed the standing quarter mile in 12. 3 seconds the shelby talk 12. 8 seconds if you ' re changing your car then you got to check out car because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one car makes all the stuff that ' s hard work about car changing like the haggling the no shows and the nasty surprise is a thing of the past life changing now if you want to go to car while right now i ' ll put a link in the description of this video and the ping comment alternatively you can click on the pop out bner appearing in the top right hand cor the screen now or scan the qr code on screen using your mobile phone to go directly there car change car wow right what we ' re going to do now is roll in to a drag race okay we ' re going to roll in first gear so he does not problems launching the car we ' re going to see what the performance is like there and you know what we ' re just going to continue to the half mile as well now before we do that that what i ' ve done is actually configured one of my favorite porsches through carwow leasy yes you can lease a car through carwow so if you want to find out what that car is and how much it costs per month click the link on the pop out banner or send the qr code on screen or you just go use the link in the description right okay now let ' s do this rolling race 3 2 [ applause ] 1 once again traction is really good on this have i got enough of a lead to be to the quarter mile he coming back now come [ music ] on oh can i be to the half mile i w to the cor here is coming now come on let me do it to the half mile come on [ music ] you were just constantly reeling me in reeling me and reeling me i can ' t even say it i ' m too excited you see all this 600 horsepower and it ' s just not putting it on the ground whereas that ' s being a porsche and putting all of it on the ground actually to be fair when i fw the thro o in first",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera_Engine Type_Porsche 911 Carrera_965",
+              "question": "What is the engine type of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Engine Capacity_Porsche 911 Carrera_965",
+              "question": "What is the engine capacity of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Horsepower_Porsche 911 Carrera_965",
+              "question": "What is the horsepower of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Weight_Porsche 911 Carrera_965",
+              "question": "What is the weight of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Torque_Porsche 911 Carrera_965",
+              "question": "What is the torque of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Gearbox_Porsche 911 Carrera_965",
+              "question": "What is the gearbox in the Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Quarter Mile Time_Porsche 911 Carrera_965",
+              "question": "What is the quarter mile time of Porsche 911 Carrera?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.3 seconds",
+                  "answer_start": 247
+                }
+              ]
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_965",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_965",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_965",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_965",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_965",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_965",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_965",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 277
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "it did spin its wheels cuz i ' ve got the stability control off let ' s run in second gear do a second gear roll on same thing again right but we ' ll do it from about 30 m hour i ' ll call it in okay see what happens then 3 2 1 [ music ] go can i beat to the cor mile he coming past [ applause ] now oh he ' s got me there we go america the sound of that is insane woohoo i think that get rid of the traction problems that just pulls doesn ' t it and it sounds amazing this is so good i could do this all day in this car we could do it all day but we might get banned cuz of the like the noise r so let ' s move on to the final challenge and i ' ll be amazed if you can beat me in this right now we have a break test from 100 mph the car that stops in the shortest distance wins the one that doesn ' t loses if you ' d rather watch another drag race with a porsche against an american muscle car click on the pop out banner follow the qr code on screen now if not stay here for the brake test [ music ] first of all i heard the car change down you did but i kept the clutch in the whole time so it ' s irrelevant that was just how my foot sits on the middle of the brake pedal it ' s just a habit but the clutch stayed in the whole time so there was no lifting of the clutch there was no engine braking that ' s just me being a habit mate i heard the end go r r that ' s how i knew you did it so the clut would have had to come out you what are you all about doesn ' t matter anyway you ' re still lost no no look i ' m on the break now and i ' m on the clutch look and i ' m breaking fully that ' s what i do it ' s just it ' s just a habit in my leg it ' s memory muscle muscle memory yeah muscle memory do you believe sam do you reckon he disengaged the clutch the whole time and he was just like he and towing without re - engaging the clutch formal protest do you believe him should we believe him let me know in the comments i don ' t believe him",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera_Engine Type_Porsche 911 Carrera_1447",
+              "question": "What is the engine type of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Engine Capacity_Porsche 911 Carrera_1447",
+              "question": "What is the engine capacity of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Horsepower_Porsche 911 Carrera_1447",
+              "question": "What is the horsepower of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Weight_Porsche 911 Carrera_1447",
+              "question": "What is the weight of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Torque_Porsche 911 Carrera_1447",
+              "question": "What is the torque of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Gearbox_Porsche 911 Carrera_1447",
+              "question": "What is the gearbox in the Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera_Quarter Mile Time_Porsche 911 Carrera_1447",
+              "question": "What is the quarter mile time of Porsche 911 Carrera?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Type_Shelby GT 350_1447",
+              "question": "What is the engine type of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Engine Capacity_Shelby GT 350_1447",
+              "question": "What is the engine capacity of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Horsepower_Shelby GT 350_1447",
+              "question": "What is the horsepower of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Weight_Shelby GT 350_1447",
+              "question": "What is the weight of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Torque_Shelby GT 350_1447",
+              "question": "What is the torque of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Gearbox_Shelby GT 350_1447",
+              "question": "What is the gearbox in the Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Shelby GT 350_Quarter Mile Time_Shelby GT 350_1447",
+              "question": "What is the quarter mile time of Shelby GT 350?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

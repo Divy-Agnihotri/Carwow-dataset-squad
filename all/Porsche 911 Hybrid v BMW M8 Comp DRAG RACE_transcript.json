@@ -1,0 +1,435 @@
+{
+  "data": [
+    {
+      "title": "Porsche 911 Hybrid v BMW M8 Comp DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "porsche 911 hybrid v bmw m8 comp drag race _ transcript what will win in a drag race between the new porsche 911 gts and a bmw m8 competition? well, we ' re going to find out by racing them over the standing quarter mile. i ' m matt watson. you ' re watching carware. the porsche 911 carrera ford gts hybrid has a 3.6 l flat 6 turbo with a new electric turbo and an electric motor. combined, you have 541 horsepower and 610 new m of torque. it also has all - wheel drive and an 8 - speed dual clutch automatic gearbox with launch control. it weighs 1, 645 kg and costs £139, 000. the bmw m8 competition has a 4.4 l twin turbo v8, 625 horsepower, 750 new m of torque, all - wheel drive, and an 8 - speed automatic gearbox, also with launch control. it weighs 1, 975 kg and costs from 137, 000. hello, nick. you all right? i ' m very good. yeah, looking forward to this one. you know what ' s not surprising? my car is more expensive than your car. yours is the top of the bmw coupe range. this is just midpoint porsche. yeah. and i ' ve got more power. and i bet i ' ve got more space in the back as well. although that ' s not strictly relevant today, is it? well, i ' m not sure actually cuz it ' s quite cramped in the back of those. but it ' s very cramped in the back of this. i forgot about the brake test. but yeah, that ' s not relevant today at all. your car is heavier and it has got more power, so things are going to even out. but i know that this new gts is so quick. it ' s kind of like a 997 turbo in terms of the performance. so, don ' t think that you ' ve won automatically just because you ' ve got two more cylinders, more capacity, and a load more horsepower and another turbo. oh, yeah. yeah, i ' ve only got one turbo, but my turbo is far superior than your two turbos cuz it ' s electronically controlled and hybrid system. sorry, i heard the uh heard the word hybrid and my eyes just closed. it ' s not for fuel economy or anything like that. it ' s just about performance. well, it ' s",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Type_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the engine type of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.6 L flat 6 turbo with a new electric turbo and an electric motor.",
+                  "answer_start": 312
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Capacity_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the engine capacity of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3.6 L",
+                  "answer_start": 314
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Horsepower_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the horsepower of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "541 horsepower",
+                  "answer_start": 401
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Weight_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the weight of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,645 kg",
+                  "answer_start": 552
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Torque_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the torque of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "610 new m of torque.",
+                  "answer_start": 420
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Gearbox_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the gearbox in the Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 480
+                }
+              ]
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Quarter Mile Time_Porsche 911 Carrera Ford GTS hybrid_1",
+              "question": "What is the quarter mile time of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_1",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8,",
+                  "answer_start": 609
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_1",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 609
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_1",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "625 horsepower,",
+                  "answer_start": 630
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_1",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,975 kg",
+                  "answer_start": 761
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_1",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "750 new m of torque,",
+                  "answer_start": 420
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_1",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox,",
+                  "answer_start": 697
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_1",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "actually they ' ve done it because of emissions, but they ' ve done something that not only reduces the emissions, but also delivers strong performance. anyway, should we do a sound check? i ' m going to go into sport mode and rev it up. actually, that doesn ' t sound great cuz there ' s a soft limiter. classic porsche. how to rev past the soft limiter. use the old launch control. that doesn ' t sound great either. yeah, it ' s not off to a great start, is it? but uh i have a horrible feeling mine ' s not going to sound too much better. it does sound better. not too much better, but definitely a bit better. it is a v8 after all, but uh only lets me rev to 5, 000 rpm. so, still a softy. now, if you want a porsche and you want to get it through carwow, you can now lease them through us. just click on the pop out banner or scan the qr code on screen now cuz what i ' ve done is found a really nice porsche leasing deal. should we get with the race? 3 2 [ music ] [ applause ] 1 sideways. come [ music ] [ applause ] on. still going [ applause ] fast. he ' s blooming got me. that ' s so annoying. [ applause ] i think i need to warm my tires up. my car probably stepped off the line, but i still came past you. yeah, had a nice bit of sideways action at the start of second gear there, at which point you came past. i might try the next one with sport traction instead of completely off. see if that helps. but you need it off completely for launch control to engage in that car. let ' s just go warm up our tires a little bit. yeah, that sounds more fun anyway. yeah, let ' s do [ music ] that. i think we ' re ready. all the faults popped up on my car then. some brake cooling system faults. i ' m just going to turn the car off. give it a moment. there we go. 3 2 1 i mean, i just totally hooked up. oh, that was a much better launch. well, i ' m not going to keep [ applause ] up, [ music ] bro. honestly, these door pockets, they ' re just good launch. brilliant launch. really good. not as good",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Type_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the engine type of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Capacity_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the engine capacity of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Horsepower_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the horsepower of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Weight_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the weight of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Torque_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the torque of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Gearbox_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the gearbox in the Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Quarter Mile Time_Porsche 911 Carrera Ford GTS hybrid_418",
+              "question": "What is the quarter mile time of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_418",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_418",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_418",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_418",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_418",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_418",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_418",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "as yours, annoyingly. i don ' t think you ' re ever going to win, are you? no. no. more power. can ' t overcome this much more weight and this much more porschess. anyway, it is what it is. so then, what exactly happened? well, the porsche won. it completed the standing / 4 mile in 10. 7 seconds. the bmw took 10. 8 seconds. if you ' re changing your car, then you got to check out carwow because there ' s nothing quite like knowing that you ' re getting a great price both when selling your old car and finding a new one. carwow makes all the stuff that ' s hard work about car changing like the haggling, the no - shows, and the nasty surprises a thing of the past. lifechanging. now, if you want to go to car wow right now, i ' ve put a link in the description of this video and the pin comment. alternatively, you can click on the pop out banner app in the top right hand corner of the screen now or scan the qr code on screen using your mobile phone to go directly there. car change car. wow. right now, we have a ride and race from 50 mph over the half mile. so, we ' re going to put the cars in their normal comfy setting and automatic mode for the gearboxes and we ' re going to race from 50 mph. before we do though, i found a great deal on that bmw m8 through carwow. if you want to see the saving, it ' ll blow your mind. click on the pop out button up there. scan the qr code on screen now to check out what it is. if not, stay here for the rolling race. let ' s do it. where am i? right. here we go. 3 2 1 go. oh, lovely [ applause ] pickup. this was slight kicking down. [ music ] like the hybrid in us were just jumping ahead but no goodbye matthew and that game over for me. tell you what, this car is being a little bit kind of faulty side. it ' s like fault fault speed limit display restricted fault. worry what ' s going on. blur. that might be because of the camera. um, the old speed limit sign restricted, but easy win, bmw. easy win. yeah, just big v8s doing what big v8s do and ride",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Type_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the engine type of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Capacity_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the engine capacity of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Horsepower_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the horsepower of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Weight_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the weight of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Torque_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the torque of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Gearbox_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the gearbox in the Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Quarter Mile Time_Porsche 911 Carrera Ford GTS hybrid_843",
+              "question": "What is the quarter mile time of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.7 seconds.",
+                  "answer_start": 287
+                }
+              ]
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_843",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_843",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_843",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_843",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_843",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_843",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_843",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.8 seconds.",
+                  "answer_start": 315
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "that wave of torque. let ' s try something else that i might win. don ' t get commenting going, \" oh, matt always has to win. \" i mean, i do always have to win. it ' s like this childish kind of thing that ' s just in me, i ' m afraid. now, let ' s have a rolling race from 50 mph in third gear, sportier setting. and i ' ve got something called sport response. so, i ' m going to press that button, too. 3 2 1 [ music ] go. oh, he ' s ahead of me now. but for how much [ applause ] longer? oh, come on, v8. yes. what? stop with us blindfolds. this car sounds good on the inside. ah, different story then, my friend. yeah. uh, i guess whatever sport response does, it does it very well. not a hope of overtaking you there, i ' m afraid. no, i actually think sports response is a little bit of a placebo effect cuz when you floor the throttle, this just gives you everything you need. right, that ' s that. oh, one more thing to do. brake test from 100 mph. when reach line full emergency stop car that stops in the shortest distance wins. if you ' d rather watch another drag race, then just click on the pop out banner, scan the qr code on screen. now, if you want to see what happens in this brake test, stay with me. we ' re going to do it right now. here it is. that ' s all my feet on the pedals. break so hard i lost my walkie. oh, nicholas, you lost again. it ' s a shame for you today. i quite like that musical interlude, but uh yeah, it doesn ' t make me feel any better about losing. that ' s a solid half car length, and uh this is a long car. sometimes length can go against you. now, if you want to compare these cars / 4 mile times to everything else we ' ve ever drag race, then just click on the little car logo and you can go to the car drag race leaderboard. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Type_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the engine type of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Engine Capacity_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the engine capacity of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Horsepower_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the horsepower of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Weight_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the weight of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Torque_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the torque of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Gearbox_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the gearbox in the Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Porsche 911 Carrera Ford GTS hybrid_Quarter Mile Time_Porsche 911 Carrera Ford GTS hybrid_1260",
+              "question": "What is the quarter mile time of Porsche 911 Carrera Ford GTS hybrid?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Type_BMW M8 Competition_1260",
+              "question": "What is the engine type of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Engine Capacity_BMW M8 Competition_1260",
+              "question": "What is the engine capacity of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Horsepower_BMW M8 Competition_1260",
+              "question": "What is the horsepower of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Weight_BMW M8 Competition_1260",
+              "question": "What is the weight of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Torque_BMW M8 Competition_1260",
+              "question": "What is the torque of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Gearbox_BMW M8 Competition_1260",
+              "question": "What is the gearbox in the BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M8 Competition_Quarter Mile Time_BMW M8 Competition_1260",
+              "question": "What is the quarter mile time of BMW M8 Competition?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

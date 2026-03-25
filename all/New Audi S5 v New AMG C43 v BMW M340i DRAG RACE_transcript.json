@@ -1,0 +1,1031 @@
+{
+  "data": [
+    {
+      "title": "New Audi S5 v New AMG C43 v BMW M340i DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "new audi s5 v new amg c43 v bmw m340i drag race _ transcript what will win in a drag race between the brand new audi s5 the new mercedes amg c43 and a bmw m340i while we ' re going to find out by racing them over the standing quarter mile i ' m matt watson and you ' re watching carwow the audi s5 has a 3 l turbocharged v6 with 367 horsepower and 550 newm of torque it drives all four wheels fire a 7 - speed automatic gearbox and the car weighs in at 1, 950 kilos the s5 star from just over £69, 000 this is actually a 2019 version of the bmw m340i but the stats are the same as the car that you can buy new now it has a 3 l turbocharged straight 6 with 374 horsepower and 500 newm of torque and it drives all four wheels for an 8speed automatic gearbox and the car weighs in at 1, 670 kilos this pre - facelift version of the m340i costs from just under £49, 000 back in 2019 however if you want a new one today it will cost you this much the mercedes amg c43 has a 2 l turbocharged 4 - cylinder petrol engine with 435 horsepower and 500 newm of torque it drives all four wheels v a 9speed automatic gearbox and the car weighs in at 1, 810 kilos starts from just over 67, 000 first thing i ' m going to do is compare the sand of these cars obviously we ' ve got a v6 a straight 6 and a a four cylinder ready for this up [ music ] it sounds like i ' m doing the vacuuming doesn ' t it cuz i got a soft limiter cuz now do they love a soft limiter re yours nicholas over in the [ music ] bmw okay you ' re quite a l didn ' t you sam yeah maybe not just a vacuum maybe a dyson like one of the expensive dyson maybe do you know that sounded good there ' s some noise from the exhaust there some pops and bangs it was all good let ' s have a listen to yours oh yeah cuz that sounds amazing soft limiter although it does sound good in race launch ready well let me do mine let me do mine let me do mine let me do mine let me do here we go here ' s mine wow the same in it it ' s just like doing me now there ' s something different about",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_1",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l turbocharged V6",
+                  "answer_start": 302
+                }
+              ]
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_1",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 304
+                }
+              ]
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_1",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "367 horsepower",
+                  "answer_start": 329
+                }
+              ]
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_1",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,950 kilos",
+                  "answer_start": 456
+                }
+              ]
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_1",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "550 newm of torque",
+                  "answer_start": 348
+                }
+              ]
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_1",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automatic gearbox",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_1",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_1",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L turbocharged 4- cylinder petrol Engine",
+                  "answer_start": 969
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_1",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2 L",
+                  "answer_start": 969
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_1",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "435 horsepower",
+                  "answer_start": 329
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_1",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,810 kilos",
+                  "answer_start": 1139
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_1",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 newm of torque",
+                  "answer_start": 348
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_1",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9speed automatic gearbox",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_1",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_1",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l turbocharged straight 6",
+                  "answer_start": 621
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_1",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 l",
+                  "answer_start": 304
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_1",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "374 horsepower",
+                  "answer_start": 329
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_1",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,670 kilos",
+                  "answer_start": 784
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_1",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "500 newm of torque",
+                  "answer_start": 348
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_1",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8speed automatic gearbox",
+                  "answer_start": 404
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_1",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "these cars do you know what it is sam your car is slightly different to mine and nick what is it it ' s a mercedes correct are you going to tell me that it ' s also white um now what is it think about the sound of the engines turbo no they ' ve all got turbos come on come on think four cylinders yours has four cylinders but bizarrely it has the most power sorry i don ' t understand what you mean means four cylinders has the most power right okay what over five cylinders no your car has four cylinders yet it has the most power out of the three cars here and are the cylinders part of the engine is that what this [ laughter ] is just shut up and drive nick you know what i mean don ' t you i hope so yeah six - cylinder here 6cylinder v6 in your car inline four in sams you got some hybrid gbin going on as well though haven ' t you i haven ' t got any of that speaking of cylinders i volvo t5 that was five cylinder right yeah yeah that was a cool engine that was a bit of a non - secretor but there we go thank you very much sam um once again just drive 3 2 1 oh this is so quick off the line excellent launch bmw woo ah where is your p mercedes he where is [ applause ] it oh that feels great oh she ' s coming back looks too little too late well i was impressed with the launch of this it ' s so good audi quattro just launches beautiful f sam you were a little bit slow off the line yeah and my foot was off the break when the hands got to the top so i ' ll just have to time it a bit better this is um it seems like a pretty slow shift to be honest that ' s this where this is losing out a bit i think i ' m glad he said slow shift i almost like misheard that anyway nick nick nick in the bmw play a wi like unbelievably easy for you it felt so undramatic in this car i fully expected to look to my left and see you guys ahead and i was mild ahead of you this engine this car such a good combination it really is it really is so do you know what i think we ' re going to do another race i ' m not sure that anyone ' s going to beat the bmw but it ' s going to be interesting to see if the mercedes can beat this audi 3 2 i was determined not to let it get ahead of me",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_445",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_445",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_445",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_445",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_445",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_445",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_445",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_445",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_445",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_445",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_445",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_445",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_445",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_445",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_445",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_445",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_445",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_445",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_445",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_445",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_445",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "matt definitely jumped you mak cu i jumped it but i didn ' t oh matt ' s doing better this time oh he ' s doing much better but but not getting up come on [ music ] baby pulling optimistic start matthew well i seem to go at the same time as the bmw but let ' s find out um steuart yes there was [ music ] a i knew it you psyched me out okay let ' s go let ' s go let ' s go let ' s go again rent free in your head matthew rent free did not some i ' m a little bit concerned that you may have a psychological advantage now so if you lose shame on you i also think this is actually faster this is better at launching for sure but that might be faster ah tension tension 3 2 1 oh i didn ' t jump that time that was [ music ] good oh matt ' s doing all right as well but no he ' s not quick [ music ] enough it ' s so tight it ' s just that jump [ applause ] lovely work do you have anything to say sam no i think that was as bang on as it could be i think that ' s just typical audi quattro just had that little 5 m jump on everything else don ' t say the afraid i can ' t do that for you she wasn ' t responding to something that i said that was too rude that the editor cut out honest don ' t use the j word cuz people will think that i did jump but i ' m going to give you an option sam you can ask for another student inquiry just in case but if i didn ' t jump you ' re going to have to do a [ music ] forfeit yeah that kind of they come in that ' s like for easy access come on let ' s get to the bushes i do not think you jumped i ' m saying the quattro just gets off the line those 5 mers better and then that was it but i think when we ' re rolling this is going to be quicker than you well we shall see nick any words from you that was a very good launch from both of us but bmw power is always more than they claim y smashed it i can do this all day this car loves it anyway yay second place i ' m going to celebrate that so then what exactly happened well the bmw won it completed the standing quarter m in 12. 5 seconds the audi took 12. 8 seconds and the mercedes was last crossing the line in 12. 9",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_927",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_927",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_927",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_927",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_927",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_927",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_927",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "12.8 seconds",
+                  "answer_start": 2048
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_927",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_927",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_927",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_927",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_927",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_927",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_927",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 seconds",
+                  "answer_start": 2020
+                }
+              ]
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_927",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_927",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_927",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_927",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_927",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_927",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_927",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "3 seconds",
+                  "answer_start": 2020
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "seconds now before we race i just want to point out that if you ' re thinking of selling your car you can do it through carw and have dealers all across the country bid on it super simple all you have to do is upload some photos of your car give a description and then it ' ll go into our online auction here ' s an example of a bmw 3 series which is up for auction currently on carw and you could have your car up for auction on carow as well it ' s the easy way to sell put a link in the description of this video and the pin comment and if you want to check that out right now you can also click on the pop out banner ping in the top right hand corner of the screen or scan the qr code on screen now okay now we have a rolling race so what we ' re going to do is put the cars in their comfort setting automatic mode for the gearbox going to roll into it 50 mph and race over the half mile but before we go i just want to like point something out you see my car is a hybrid to help boost efficiency and the long - term efficiency and economy on this car is 25. 6 miles to the gallon and this car has been driven by journalists so that ' s not too bad sam can you find out what the economy is on your car i mean while sam ' s trying to figure out that nick can you give us yours uh i ' ve got today ' s but i won ' t tell you because it ' s not very good i ' ll try and find longterm what they doing that i might go out and another a we it ' s a bit windy hopefully i won ' t get on my trousers oh i ' ve got mine um longterm is even worse than today ' s average fuel economy so whoever ' s car this is they like to drive it quickly 26 and a2 mpg wait a minute wait that is better than this bloody hybrid what ' s the point of a hybrid i ' ll have a we while sam ' s faffing about this is impossible genuinely can ' t find it your um display sam is probably set to like sport max pro uber quick so it will hide a lot of stuff no i put it into comfort mode but um it ' s just not giving me any useful information you on some nearly there i think i could have had time for a poo this camera is not helping i turned the radio on oh god nick need an adult and now the radio",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_1412",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_1412",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_1412",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_1412",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_1412",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_1412",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_1412",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_1412",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_1412",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_1412",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_1412",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_1412",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_1412",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_1412",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_1412",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_1412",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_1412",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_1412",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_1412",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_1412",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_1412",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "' s coming i didn ' t even turn the radio on this is like when uh when your grandparents ring you to say the dvd players sto working how lazy are you to drive to him need to get out of the car and now properly it ' s cold matt i don ' t want to get out of the car oh there we go don ' t make me do it have you got it no oh all right i would like to point out that nick is our tech guru so he not i ' d like to point out that sam just doesn ' t know anything about cars good well in that case i have very little to offer have you been on there yeah oh oh dear this is not going well is it should we just make up a number yeah and tell him it ' s 80 mpg seems as though we ' re doing 150 mp gallon it ' s quite good this car i see you put the radio back on radio smooth relax dab no uh i ' m going to reach over now come on in oh hello oh been there no this isn ' t this isn ' t going to be it is it go back to vehicle where was vehicle i don ' t know did you oh there go vehicle oh there hold on oh from start 9. 4 mpg 9. 4 mpg from start today there we go yeah is a long term we want a longterm one nick cuz basically today it ' s been ragged up and down here what from reset a th000 mpg that can ' t be right there you are we from reset we ' ve done a th000 mpg uh seems reasonable well done mercedes so it ' s worth downsizing cuz it ' s pretty blaming quick and it ' s insanely economical i think it ' s a world record bravo mercedes bravo have they not sold more of those cars i don ' t know anyway let ' s um let ' s bring that number down a bit by doing a half mile race that ' s enough chat now come on so 50 3 2 1 go pause but i ' ve system in the job come on come on merc i told you yeah ss floating oh comfortable comfortable and fast oh that beam is fast comfort is quick i noticed you were gloating as you went past me there samuel yeah you enjoyed that did you as i suspected this did feel faster than yours it ' s just you ' ve got the quattro goodness yeah so yours was faster to legal speeds just saying and i think the bmw was fas",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_1898",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_1898",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_1898",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_1898",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_1898",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_1898",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_1898",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_1898",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_1898",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_1898",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_1898",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_1898",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_1898",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_1898",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_1898",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_1898",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_1898",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_1898",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_1898",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_1898",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_1898",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "pretty much everywhere wasn ' t it nick yeah maybe it kicked down a little bit more slowly than your cars cuz i don ' t have that instant electric hybrid shove but it doesn ' t matter this thing ' s just going to win everything today i think but whoa whoa whoa back up back up back up cuz in the real world you know when you just need to nip ahead or something or overtake that little bit of extra hybrid shove is what matters so we could argue that the most important part of that race was the first like 2 or 3 seconds in which case the audi won so um so we just leave it there i really don ' t like this gearbox if you think yours mine kicked down before yours nick you a mistaken this this gearbox is very underwhelming with that in mind let ' s just go into manual mode same thing again but the sportiest settings okay now before we do the rolling race i ' ve actually got a great offer on one of these cars through carw if you want to see what the offer is and actually i ' ve speced up the car myself using the carw configurator you ' ll be able to see my exact spec of the car and the saving on it as well so to do that just click on the pop out b appearing in the top right hand corner of the screen or just follow the qr code on screen now there ' s also a link in the description as well if you want to check that out so manual mode sportiest setting let ' s get into dynamic where are you dynamic dynamic let ' s go this car actually auto changes up so this is going to be easy for me third gear roll on let ' s do it 3 2 1 go that ' s a good pickup yeah merc sam ' s finally got some legs now oh this is [ applause ] [ music ] interesting no oh i ' ve come past brilliant okay i ' m wholeheartedly disappointed with that there wasn ' t much in it to be fair at the beginning but wow the pickup on that mercedes once the gear boxes taking out the equation was really good but then what happened sam that even seemed more like drag than power that the beamer just pulled past me in the end but um i think again in the real world this was a bit quicker than that beamer really wasn ' t it yeah i ' ll give you that in in matt ' s new fangled 2 second drag race rule you definitely definitely would be quicker also i ' ve got",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_2373",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_2373",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_2373",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_2373",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_2373",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_2373",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_2373",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_2373",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_2373",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_2373",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_2373",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_2373",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_2373",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_2373",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_2373",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_2373",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_2373",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_2373",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_2373",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_2373",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_2373",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "a question for you sam is this not the real world or is it just some kind of matrix and we ' re in we ' re actually like just all asleep somewhere and it ' s all just a big visual hallucination well i mean nick started pulling past me when we were north of 128 m hour so i don ' t know how often that ' s going to happen i take your point shall we move on i think we should probably move on shouldn ' t we right now have a brake test from 100 mph so when we reached the live full emergency stop car that stops in the shortest distance wins if you want to see another drag race with some of these brands click on the pop out bner up there i ' ll follow the link in the description below if not you want to see what happens to the brake test stay here let ' s see if some cheats don ' t cheat some whoa oh [ laughter ] w oh my word what happened to your car sam it went so nose heavy the back was in the air and it started over steering under brakes and then the computer sorted itself out but my god i was breaking with two wheels for at least 50 m there i think nicholas yeah i i felt fairly controlled fairly comfortable in this car and then moby dick over there just went sailing past me well actually the real moby dick is thisy cuz it ' s considerably heavier than everything else it ' s 300 kilos heavier than your car and that weight seemed to help just push its tires into the concrete and it just hooked up i was impressed matt that ' s got nothing to do with braking weight will always lose in braking so pushing tires into concrete is nonsense but it ' s amazing that the car stopped like that with the extra weight anyway listen i just want to say a huge thanks to the guys at virtu motors for sorting out that mercedes really appreciate it you know what i have all the cars i like the look of it the most got to say that anyway listen if you want to compare these cars qu mile times to everything else we ' ve ever drag race click on the carwow logo now it ' s on screen and you ' ll be able to check out the carwow drag race leaderboard click on the video windows for some more videos and of course if you haven ' t done so already subscribe to this channel for some more drag racing action thanks for watching and i ' ll see you next time",
+          "qas": [
+            {
+              "id": "Audi S5_Engine Type_Audi S5_2851",
+              "question": "What is the engine type of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Engine Capacity_Audi S5_2851",
+              "question": "What is the engine capacity of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Horsepower_Audi S5_2851",
+              "question": "What is the horsepower of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Weight_Audi S5_2851",
+              "question": "What is the weight of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Torque_Audi S5_2851",
+              "question": "What is the torque of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Gearbox_Audi S5_2851",
+              "question": "What is the gearbox in the Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi S5_Quarter Mile Time_Audi S5_2851",
+              "question": "What is the quarter mile time of Audi S5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Type_Mercedes AMG C43_2851",
+              "question": "What is the engine type of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Engine Capacity_Mercedes AMG C43_2851",
+              "question": "What is the engine capacity of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Horsepower_Mercedes AMG C43_2851",
+              "question": "What is the horsepower of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Weight_Mercedes AMG C43_2851",
+              "question": "What is the weight of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Torque_Mercedes AMG C43_2851",
+              "question": "What is the torque of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Gearbox_Mercedes AMG C43_2851",
+              "question": "What is the gearbox in the Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG C43_Quarter Mile Time_Mercedes AMG C43_2851",
+              "question": "What is the quarter mile time of Mercedes AMG C43?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Type_BMW M340i_2851",
+              "question": "What is the engine type of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Engine Capacity_BMW M340i_2851",
+              "question": "What is the engine capacity of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Horsepower_BMW M340i_2851",
+              "question": "What is the horsepower of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Weight_BMW M340i_2851",
+              "question": "What is the weight of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Torque_BMW M340i_2851",
+              "question": "What is the torque of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Gearbox_BMW M340i_2851",
+              "question": "What is the gearbox in the BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M340i_Quarter Mile Time_BMW M340i_2851",
+              "question": "What is the quarter mile time of BMW M340i?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

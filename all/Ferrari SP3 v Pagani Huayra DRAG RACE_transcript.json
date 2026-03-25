@@ -1,0 +1,2059 @@
+{
+  "data": [
+    {
+      "title": "Ferrari SP3 v Pagani Huayra DRAG RACE_transcript",
+      "paragraphs": [
+        {
+          "context": "ferrari sp3 v pagani huayra drag race _ transcript what will win in a drag race between a ferrari sp3 and a pagani huayra? well, i ' m going to find out by racing them over the standing quarter mile. i ' m m watson and you ' re watching car wow. the ferrari daytona sp3 has a 6.5 l naturally aspirated v12, 840 horsepower, 697 new m of torque. it ' s rear wheel drive and uses a seven - speed dual clutch automatic gearbox with launch control. it weighs around 1, 600 kg and costs in excess of £4 million. the bagani wa roadster bc has a 6 l twin turbo v12, 802 horsepower, 1, 50 new m of torque, rear wheel drive, and a 7 - speed automated manual gearbox with launch control. it weighs around 1, 350 kg and costs in excess of 4 million. oh my god, i ' m sat in a very expensive car. and next to me, it ' s a very expensive car. both rear wheel drive, both have plenty of power. what is going to happen? let ' s have a chat with the driver of that car. hey sam, have you driven a pagani wira much? you know, every other week. this is my daily matt. you know, i ' ve driven an sp3 so often. i ' m quite bored of them now. i ' ve got about four at my disposal and i just thought i ' d bring the silver one today. yeah, they ' re just bang average these cars, but it ' s the end of the day. we ' ll get something done and put it in the bag. before we race, let ' s have a quick sound check. i think i ' m going to win this because ferrari v12. have a listen. oh [ music ] no. me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me me definitely. yeah, can ' t argue against a ferrari, can you? listen, i want to say a huge thanks to the guys that have lent us this car. also al",
+          "qas": [
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari SP3_1",
+              "question": "What is the engine type of Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12,",
+                  "answer_start": 274
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari Daytona SP3_1",
+              "question": "What is the engine type of Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12,",
+                  "answer_start": 274
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari_1",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12,",
+                  "answer_start": 274
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12,",
+                  "answer_start": 274
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_the Ferrari_1",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L naturally aspirated V12,",
+                  "answer_start": 274
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari SP3_1",
+              "question": "What is the engine capacity of Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 276
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari Daytona SP3_1",
+              "question": "What is the engine capacity of Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 276
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari_1",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 276
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 276
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_the Ferrari_1",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6.5 L",
+                  "answer_start": 276
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari SP3_1",
+              "question": "What is the horsepower of Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "840 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari Daytona SP3_1",
+              "question": "What is the horsepower of Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "840 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari_1",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "840 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "840 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_the Ferrari_1",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "840 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari SP3_1",
+              "question": "What is the weight of Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 464
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari Daytona SP3_1",
+              "question": "What is the weight of Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 464
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari_1",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 464
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 464
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_the Ferrari_1",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,600 kg",
+                  "answer_start": 464
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari SP3_1",
+              "question": "What is the torque of Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "697 new m of torque.",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari Daytona SP3_1",
+              "question": "What is the torque of Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "697 new m of torque.",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari_1",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "697 new m of torque.",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "697 new m of torque.",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_the Ferrari_1",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "697 new m of torque.",
+                  "answer_start": 323
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari SP3_1",
+              "question": "What is the gearbox in the Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari Daytona SP3_1",
+              "question": "What is the gearbox in the Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari_1",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_the Ferrari_1",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "seven-speed dual clutch automatic gearbox with launch control.",
+                  "answer_start": 385
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari SP3_1",
+              "question": "What is the quarter mile time of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari Daytona SP3_1",
+              "question": "What is the quarter mile time of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_the Ferrari_1",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra_1",
+              "question": "What is the engine type of Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L twin turbo V12,",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra Roadster BC_1",
+              "question": "What is the engine type of Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L twin turbo V12,",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani_1",
+              "question": "What is the engine type of Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L twin turbo V12,",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L twin turbo V12,",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_the Pagani_1",
+              "question": "What is the engine type of the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L twin turbo V12,",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra_1",
+              "question": "What is the engine capacity of Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra Roadster BC_1",
+              "question": "What is the engine capacity of Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani_1",
+              "question": "What is the engine capacity of Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_the Pagani_1",
+              "question": "What is the engine capacity of the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "6 L",
+                  "answer_start": 538
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra_1",
+              "question": "What is the horsepower of Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "802 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra Roadster BC_1",
+              "question": "What is the horsepower of Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "802 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani_1",
+              "question": "What is the horsepower of Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "802 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "802 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_the Pagani_1",
+              "question": "What is the horsepower of the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "802 horsepower,",
+                  "answer_start": 307
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra_1",
+              "question": "What is the weight of Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,350 kg",
+                  "answer_start": 697
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra Roadster BC_1",
+              "question": "What is the weight of Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,350 kg",
+                  "answer_start": 697
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani_1",
+              "question": "What is the weight of Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,350 kg",
+                  "answer_start": 697
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,350 kg",
+                  "answer_start": 697
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_the Pagani_1",
+              "question": "What is the weight of the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,350 kg",
+                  "answer_start": 697
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra_1",
+              "question": "What is the torque of Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,50 new m of torque,",
+                  "answer_start": 577
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra Roadster BC_1",
+              "question": "What is the torque of Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,50 new m of torque,",
+                  "answer_start": 577
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani_1",
+              "question": "What is the torque of Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,50 new m of torque,",
+                  "answer_start": 577
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,50 new m of torque,",
+                  "answer_start": 577
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_the Pagani_1",
+              "question": "What is the torque of the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,50 new m of torque,",
+                  "answer_start": 577
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra_1",
+              "question": "What is the gearbox in the Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automated manual gearbox with launch control.",
+                  "answer_start": 623
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra Roadster BC_1",
+              "question": "What is the gearbox in the Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automated manual gearbox with launch control.",
+                  "answer_start": 623
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani_1",
+              "question": "What is the gearbox in the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automated manual gearbox with launch control.",
+                  "answer_start": 623
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automated manual gearbox with launch control.",
+                  "answer_start": 623
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_the Pagani_1",
+              "question": "What is the gearbox in the the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "7-speed automated manual gearbox with launch control.",
+                  "answer_start": 623
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra_1",
+              "question": "What is the quarter mile time of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra Roadster BC_1",
+              "question": "What is the quarter mile time of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani_1",
+              "question": "What is the quarter mile time of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_the Pagani_1",
+              "question": "What is the quarter mile time of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "a city municipality and the tila swayan drag race strip. really appreciate it and supercar melus for sorting out this drag race. oh, and a big thanks to ryan from size x as well. should we get on with this race? ready to race? let ' s see if we can engage launch first. manual. manual. launch. launch control then. i am good. do you have launch? i do and it ' s wonderful. you have to turn absolutely everything off. so that ' s good. rather you than me. let ' s get our beautiful starter in. beautiful will, can you come and um do your best bit? 3 2 1, [ music ] right, will, i have a very short window. window or willie? what did you say? i have a very short what? willie, but it ' s extremely wide. is it wider than it ' s long? we say in ireland is indeed bigger sitting than you standing. too many of the jokes. 3 2 1. we ' re off. come on. [ music ] dropped it. where is he? no chance. [ music ] wow. [ music ] sam, why? ra, why? what happened? traction issue. do you want another guide? reckon you ' ll get it better? yeah, that was just cold tires. it will go better if the uh lovely gentleman who let us do this will let us. yes, it will go better. okay, i ' ll let you have one more go. best two out of three. that sentence makes no sense. what? two out of three. you said, \" oh, yeah. sorry. one more go. \" best two out of three. i ' ll shut up. this has got a lovely brown interior. was it cream before? yeah. oh my god. come on. you ' re a professional. 3 2 1. oh, close. [ music ] come on, ferrari. yes. [ music ] yeah, he ' s got traction issues. this is quick. it ' s mad how it puts down his power. really good. same machine. yeah, same issue. it ' s a4 million pound issue. do you know what we ' re going to four million? what? same here. snap. okay. right. what we ' ll do is the thing and then we will actually do something a little bit different. so, let ' s compare the times.",
+          "qas": [
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari SP3_429",
+              "question": "What is the engine type of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari Daytona SP3_429",
+              "question": "What is the engine type of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari_429",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_this car_429",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_the Ferrari_429",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari SP3_429",
+              "question": "What is the engine capacity of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari Daytona SP3_429",
+              "question": "What is the engine capacity of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari_429",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_this car_429",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_the Ferrari_429",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari SP3_429",
+              "question": "What is the horsepower of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari Daytona SP3_429",
+              "question": "What is the horsepower of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari_429",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_this car_429",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_the Ferrari_429",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari SP3_429",
+              "question": "What is the weight of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari Daytona SP3_429",
+              "question": "What is the weight of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari_429",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_this car_429",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_the Ferrari_429",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari SP3_429",
+              "question": "What is the torque of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari Daytona SP3_429",
+              "question": "What is the torque of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari_429",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_this car_429",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_the Ferrari_429",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari SP3_429",
+              "question": "What is the gearbox in the Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari Daytona SP3_429",
+              "question": "What is the gearbox in the Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari_429",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_this car_429",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_the Ferrari_429",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari SP3_429",
+              "question": "What is the quarter mile time of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari Daytona SP3_429",
+              "question": "What is the quarter mile time of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari_429",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_this car_429",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_the Ferrari_429",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra_429",
+              "question": "What is the engine type of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra Roadster BC_429",
+              "question": "What is the engine type of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani_429",
+              "question": "What is the engine type of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_this car_429",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_the Pagani_429",
+              "question": "What is the engine type of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra_429",
+              "question": "What is the engine capacity of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra Roadster BC_429",
+              "question": "What is the engine capacity of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani_429",
+              "question": "What is the engine capacity of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_this car_429",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_the Pagani_429",
+              "question": "What is the engine capacity of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra_429",
+              "question": "What is the horsepower of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra Roadster BC_429",
+              "question": "What is the horsepower of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani_429",
+              "question": "What is the horsepower of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_this car_429",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_the Pagani_429",
+              "question": "What is the horsepower of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra_429",
+              "question": "What is the weight of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra Roadster BC_429",
+              "question": "What is the weight of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani_429",
+              "question": "What is the weight of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_this car_429",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_the Pagani_429",
+              "question": "What is the weight of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra_429",
+              "question": "What is the torque of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra Roadster BC_429",
+              "question": "What is the torque of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani_429",
+              "question": "What is the torque of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_this car_429",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_the Pagani_429",
+              "question": "What is the torque of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra_429",
+              "question": "What is the gearbox in the Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra Roadster BC_429",
+              "question": "What is the gearbox in the Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani_429",
+              "question": "What is the gearbox in the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_this car_429",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_the Pagani_429",
+              "question": "What is the gearbox in the the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra_429",
+              "question": "What is the quarter mile time of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra Roadster BC_429",
+              "question": "What is the quarter mile time of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani_429",
+              "question": "What is the quarter mile time of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_this car_429",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_the Pagani_429",
+              "question": "What is the quarter mile time of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "so then what exactly happened? well, the ferrari won. it completed the standing quarter mile in 10. 6 seconds. the pagani took 11. 2 seconds. before our next race, a little message that could save you big time. if you ' re looking to buy a used car, bike, or van anytime soon, then this is for you. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write off, stolen, or had its mileage changed. look at this audi rs3 on carver vertical. it ' s got green ticks for odometer and legal status, but a damage warning. why? it was previously involved in an accident and was a cat site. you ' d never have known that without a car history check. so, when buying a used car, bike, or van, run a car vertical report using code carwow for 20 % off or by following the link in the description. now, back to the race. matt, what speed are you thinking? 20 km an hour. oh, christ. okay. will that not work? would you rather do something else? no. all my chips are now in the middle of the table. okay, let ' s do it. right, sam, what we going to do now is have a rolling race. we ' ll get our starter to start us and we ' ll keep going past the quarter mile and then onto the half mile. we ' ll see who wins. okay. if we must, we must. 3 2 1. [ music ] where ' s that? is he coming back? coming back. i don ' t think so. right. i tell you what, this had better traction management, didn ' t it? yeah. this is amazing. it ' s got loads of power. and to be fair, and it maybe if it had a better cycle on the tires, it would have done better, but you had the same amount of heat as i did, so fair is fair. okay, what i want you to do is stay level with me. then i ' m going to say break and we ' ll see which one stops in the shortest distance. okay, 3 2 1 break. well, i think there we go. i ' m just going to pull forward to get level with you and you ' ll see exactly how much more the ferrari outreach. half a car '",
+          "qas": [
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari SP3_829",
+              "question": "What is the engine type of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari Daytona SP3_829",
+              "question": "What is the engine type of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari_829",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_this car_829",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_the Ferrari_829",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari SP3_829",
+              "question": "What is the engine capacity of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari Daytona SP3_829",
+              "question": "What is the engine capacity of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari_829",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_this car_829",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_the Ferrari_829",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari SP3_829",
+              "question": "What is the horsepower of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari Daytona SP3_829",
+              "question": "What is the horsepower of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari_829",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_this car_829",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_the Ferrari_829",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari SP3_829",
+              "question": "What is the weight of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari Daytona SP3_829",
+              "question": "What is the weight of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari_829",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_this car_829",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_the Ferrari_829",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari SP3_829",
+              "question": "What is the torque of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari Daytona SP3_829",
+              "question": "What is the torque of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari_829",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_this car_829",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_the Ferrari_829",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari SP3_829",
+              "question": "What is the gearbox in the Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari Daytona SP3_829",
+              "question": "What is the gearbox in the Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari_829",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_this car_829",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_the Ferrari_829",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari SP3_829",
+              "question": "What is the quarter mile time of Ferrari SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds.",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari Daytona SP3_829",
+              "question": "What is the quarter mile time of Ferrari Daytona SP3?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds.",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari_829",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds.",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_this car_829",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds.",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_the Ferrari_829",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.6 seconds.",
+                  "answer_start": 100
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra_829",
+              "question": "What is the engine type of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra Roadster BC_829",
+              "question": "What is the engine type of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani_829",
+              "question": "What is the engine type of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_this car_829",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_the Pagani_829",
+              "question": "What is the engine type of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra_829",
+              "question": "What is the engine capacity of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra Roadster BC_829",
+              "question": "What is the engine capacity of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani_829",
+              "question": "What is the engine capacity of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_this car_829",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_the Pagani_829",
+              "question": "What is the engine capacity of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra_829",
+              "question": "What is the horsepower of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra Roadster BC_829",
+              "question": "What is the horsepower of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani_829",
+              "question": "What is the horsepower of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_this car_829",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_the Pagani_829",
+              "question": "What is the horsepower of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra_829",
+              "question": "What is the weight of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra Roadster BC_829",
+              "question": "What is the weight of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani_829",
+              "question": "What is the weight of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_this car_829",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_the Pagani_829",
+              "question": "What is the weight of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra_829",
+              "question": "What is the torque of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra Roadster BC_829",
+              "question": "What is the torque of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani_829",
+              "question": "What is the torque of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_this car_829",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_the Pagani_829",
+              "question": "What is the torque of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra_829",
+              "question": "What is the gearbox in the Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra Roadster BC_829",
+              "question": "What is the gearbox in the Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani_829",
+              "question": "What is the gearbox in the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_this car_829",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_the Pagani_829",
+              "question": "What is the gearbox in the the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra_829",
+              "question": "What is the quarter mile time of Pagani Huayra?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 131
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra Roadster BC_829",
+              "question": "What is the quarter mile time of Pagani Huayra Roadster BC?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 131
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani_829",
+              "question": "What is the quarter mile time of Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 131
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_this car_829",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 131
+                }
+              ]
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_the Pagani_829",
+              "question": "What is the quarter mile time of the Pagani?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.2 seconds.",
+                  "answer_start": 131
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "s length, i reckon. what do you think about that? yeah, this is really stiff, so i don ' t think that helped it. yeah, this did a really good job. really impressive. love it. want to say a huge thanks to everyone who ' s helped us out with this video. now, if you want to compare these cars quarter mile times to everything else we ' ve ever drag race, just click on the carw logo. thanks for watching and i ' ll see you next",
+          "qas": [
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari SP3_1247",
+              "question": "What is the engine type of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari Daytona SP3_1247",
+              "question": "What is the engine type of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_Ferrari_1247",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_this car_1247",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Type_the Ferrari_1247",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari SP3_1247",
+              "question": "What is the engine capacity of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari Daytona SP3_1247",
+              "question": "What is the engine capacity of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_Ferrari_1247",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_this car_1247",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Engine Capacity_the Ferrari_1247",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari SP3_1247",
+              "question": "What is the horsepower of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari Daytona SP3_1247",
+              "question": "What is the horsepower of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_Ferrari_1247",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_this car_1247",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Horsepower_the Ferrari_1247",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari SP3_1247",
+              "question": "What is the weight of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari Daytona SP3_1247",
+              "question": "What is the weight of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_Ferrari_1247",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_this car_1247",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Weight_the Ferrari_1247",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari SP3_1247",
+              "question": "What is the torque of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari Daytona SP3_1247",
+              "question": "What is the torque of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_Ferrari_1247",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_this car_1247",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Torque_the Ferrari_1247",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari SP3_1247",
+              "question": "What is the gearbox in the Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari Daytona SP3_1247",
+              "question": "What is the gearbox in the Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_Ferrari_1247",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_this car_1247",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Gearbox_the Ferrari_1247",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari SP3_1247",
+              "question": "What is the quarter mile time of Ferrari SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari Daytona SP3_1247",
+              "question": "What is the quarter mile time of Ferrari Daytona SP3?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_Ferrari_1247",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_this car_1247",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari Daytona SP3_Quarter Mile Time_the Ferrari_1247",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra_1247",
+              "question": "What is the engine type of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani Huayra Roadster BC_1247",
+              "question": "What is the engine type of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_Pagani_1247",
+              "question": "What is the engine type of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_this car_1247",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Type_the Pagani_1247",
+              "question": "What is the engine type of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra_1247",
+              "question": "What is the engine capacity of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani Huayra Roadster BC_1247",
+              "question": "What is the engine capacity of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_Pagani_1247",
+              "question": "What is the engine capacity of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_this car_1247",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Engine Capacity_the Pagani_1247",
+              "question": "What is the engine capacity of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra_1247",
+              "question": "What is the horsepower of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani Huayra Roadster BC_1247",
+              "question": "What is the horsepower of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_Pagani_1247",
+              "question": "What is the horsepower of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_this car_1247",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Horsepower_the Pagani_1247",
+              "question": "What is the horsepower of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra_1247",
+              "question": "What is the weight of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani Huayra Roadster BC_1247",
+              "question": "What is the weight of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_Pagani_1247",
+              "question": "What is the weight of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_this car_1247",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Weight_the Pagani_1247",
+              "question": "What is the weight of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra_1247",
+              "question": "What is the torque of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani Huayra Roadster BC_1247",
+              "question": "What is the torque of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_Pagani_1247",
+              "question": "What is the torque of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_this car_1247",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Torque_the Pagani_1247",
+              "question": "What is the torque of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra_1247",
+              "question": "What is the gearbox in the Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani Huayra Roadster BC_1247",
+              "question": "What is the gearbox in the Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_Pagani_1247",
+              "question": "What is the gearbox in the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_this car_1247",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Gearbox_the Pagani_1247",
+              "question": "What is the gearbox in the the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra_1247",
+              "question": "What is the quarter mile time of Pagani Huayra?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani Huayra Roadster BC_1247",
+              "question": "What is the quarter mile time of Pagani Huayra Roadster BC?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_Pagani_1247",
+              "question": "What is the quarter mile time of Pagani?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_this car_1247",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Pagani Huayra Roadster BC_Quarter Mile Time_the Pagani_1247",
+              "question": "What is the quarter mile time of the Pagani?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

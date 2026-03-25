@@ -1,0 +1,2886 @@
+{
+  "data": [
+    {
+      "title": "Can a NEW 1000hp BMW M5 beat a Ferrari SF90_transcript",
+      "paragraphs": [
+        {
+          "context": "can a new 1000hp bmw m5 beat a ferrari sf90 _ transcript what will win in a drag race between the new bmw m5 and a ferrari sf90? seems like a foregone conclusion, but it ' s not because this car has been tuned to a, 000 horsepower. we ' re going to find out what happens by racing them over the standing quarter mile. i ' m watson and you ' re watching car wow. this bmw m5 has been tuned by evolve. it ' s had an ecu tune, eventuri intake, downpipes, and an acraovich exhaust. so, it now makes 1, 020 horsepower and 1, 200 n meters of torque. it has all - wheel drive and an 8 - speed automatic gearbox with launch control. it weighs 2, 420 kg and costs 130, 000, including the upgrades. the ferrari sf90 has a 4 l twinturbo v8 mated to an electric motor driving the rear wheels by an 8 - speed dualclutch automatic gearbox. on the front axle, there ' s a further two electric motors. and overall, you have a combined system output of 1, 00 horsepower and 800 newton meters of torque. the car weighs in at 1, 770 kg, and this one costs $ 550, 000. so, sam, we both got 1, 000 horsepower. mine was attained at a much lower price than yours, but my car ' s a lot heavier. first of all, you look like the worst european diplomat i ' ve ever seen in my life. second thing is, stop talking about the same horsepower. you ' ve got more of torque. so, don ' t mind this extra weight, right? that ' s all mitigated by that torque. you think so? you reckon that ' s gonna i don ' t. it ' s power to weight ratio. that ' s what everyone talks about. it ' s not torque to weight ratio. what ' s the matter with you anyway? stop calling me a diplomat. i ' m not diplomatic in any way, shape, or form. and i ' m not just trying to get my excuses in early cuz actually there are your excuses. oh, you done it with the talk. of course. that was just so cool the way you slipped that in there. i didn ' t even realize you were making an excuse right from the get - go. also, you actually have more horsepower than me.",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_1",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,020 horsepower",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,020 horsepower",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_1",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,020 horsepower",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_1",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,020 horsepower",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_1",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,420 kg",
+                  "answer_start": 638
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,420 kg",
+                  "answer_start": 638
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Weight_my car_1",
+              "question": "What is the weight of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,420 kg",
+                  "answer_start": 638
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_1",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,420 kg",
+                  "answer_start": 638
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_1",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,200 N meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,200 N meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Torque_my car_1",
+              "question": "What is the torque of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,200 N meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_1",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,200 N meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_1",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 578
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 578
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_1",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 578
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_1",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 578
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_1",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_1",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_1",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_1",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8 mated to an electric motor",
+                  "answer_start": 710
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_1",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8 mated to an electric motor",
+                  "answer_start": 710
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_1",
+              "question": "What is the engine type of your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8 mated to an electric motor",
+                  "answer_start": 710
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_1",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8 mated to an electric motor",
+                  "answer_start": 710
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_1",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 712
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_1",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 712
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_1",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 712
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_1",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 712
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_1",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 216
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_1",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 216
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_1",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 216
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_1",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,000 horsepower",
+                  "answer_start": 216
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_1",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg,",
+                  "answer_start": 1010
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_1",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg,",
+                  "answer_start": 1010
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_1",
+              "question": "What is the weight of your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg,",
+                  "answer_start": 1010
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_1",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,770 kg,",
+                  "answer_start": 1010
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_1",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Newton meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_1",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Newton meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_1",
+              "question": "What is the torque of your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Newton meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_1",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "800 Newton meters of torque.",
+                  "answer_start": 520
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_1",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dualclutch automatic gearbox.",
+                  "answer_start": 790
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_1",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dualclutch automatic gearbox.",
+                  "answer_start": 790
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_1",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dualclutch automatic gearbox.",
+                  "answer_start": 790
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_1",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed dualclutch automatic gearbox.",
+                  "answer_start": 790
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_1",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_1",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_1",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_1",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "okay, so you are right. i ' ve got more horsepower, but a lot more weight. so, the power toweight ratios are this. now, if you want to compare the stats of the video side by side, just pause the video [ music ] now. actually, this car ' s a little bit lighter than stock. you see, as part of the tuning process, iran has fitted an a crap exhaust. it saves 16 kilos, but that ' s really important. so, that improves my power to weight ratio ever so slightly. the only problem is it ' s quite expensive. it costs £8, 000 and all the upgrades that iran has done on this car to get to 1, 000 horsepower from 730. guess how much it cost? i don ' t know. it ' s probably going to be 10 grand. is it something like that? pretty blooming close, actually. so, you can get it done for about £7, 000 cuz all you need to do it is an intake, an exhaust, and an ecu remap with a tune. that ' s it. so, are we allowed to do modifications now? i can do that much cheaper. rory, are you around? could you come here? i ' m going to do some weight saving. how you going to do some weight saving? you remove your chairs or something? well, i use my phone quite a bit. so, i bring a charger with me and i need a lot of charge. so, rory, would you mind taking my battery charger out, please? thank you so much. cheers, buddy. just leave it next to my car. and could you make what are you doing to you in there? why is he struggling? could you make sure it ' s topped up as well? what the oh, why do you charge your phone off one of those? no, that ' s it. thanks, rory. get proper like camera kit and stuff like that. so, minus labor, zero money, i just saved 15 kilos. but do you know how much rory costs to carry stuff around? that that ' s 10 grand right there. okay, let ' s stop this yapping. let ' s check out the sound of my weight saving a crapovich exhaust. can this car sound better than a ferrari? [ music ] i think it ' s going nowhere. we got this bmw. i do love",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_413",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_413",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_413",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_413",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_413",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_413",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_413",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_413",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_413",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_413",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_413",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_413",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_413",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_413",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_413",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_413",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_413",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_413",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_413",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_413",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_413",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_413",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_413",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_413",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_413",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_413",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_413",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_413",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_413",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_413",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_413",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_413",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_413",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_413",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_413",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_413",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_413",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_413",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_413",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_413",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_413",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_413",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_413",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_413",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_413",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_413",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_413",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_413",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "a bmw. it ' s up already. now, if you love these drag races, but you ' d like to watch a slightly shorter version of our drag races without all the yappy yap yap yap, then just click on the pop out banner or follow the link in the description of this video to subscribe to our new carwow drags channel where we ' re uploading shorter versions of our drag race videos. go subscribe now. you ' re going to enjoy it. right, let ' s get on with the racing cuz it ' s about time, isn ' t it? shall we warm up our tires or should we just get into it cold? let ' s get into it cold. i ' ve got to have some advantage. yes, let ' s go cold. what do you mean some advantage? you ' ve got more power, more torque. so, two things. first off, can you say thanks to steve ker for giving us that sf90? he gave it to us at 6 : 00 p. m. yesterday. okay. and also, i think you should probably just drive this to warm the gearbox up cuz it ' s been sat for a while. okay, you heard that advice. protest. thanks to steve kira. thanks, mate. legend steve is sorting us out with that. and yeah, sorry. i will warm up your gearbox. we like to take care of people ' s cars here on this channel. do you want to warm up your gearbox, but no warming up of the tires? just cruise down the runway. sam, come [ music ] on. before we actually do this, this is really interesting, right? because ages ago, i raced a bmw m5, which had been tuned by imran to 1, 000 horsepower. however, that needed a built engine, so it cost a lot more to get a, 000 horsepower. that car though was lighter than this. and it ' s going to be interesting to see how this compares because that car did a 9. 6 second / 4 mile, which is enough to beat that or enough to run it very, very close. so, how will this one do? how will the weight affect it? or will the hybrid system overcome that weight disadvantage? it ' s exciting. now, there ' s a way to launch these. you don ' t want to hold it on launch control for too long. 3 2",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_821",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_821",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_821",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_821",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_821",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_821",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_821",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_821",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_821",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_821",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_821",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_821",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_821",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_821",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_821",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_821",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_821",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_821",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_821",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_821",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_821",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_821",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_821",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_821",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_821",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_821",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_821",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_821",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_821",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_821",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_821",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_821",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_821",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_821",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_821",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_821",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_821",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_821",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_821",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_821",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_821",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_821",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_821",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_821",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_821",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_821",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_821",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_821",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "[ music ] 1. [ music ] oh. oh. [ music ] destroyed. oh, it ' s quicker than the standard car, but not quick enough for that. i didn ' t have that much tire spent considering these worlds were cold. neither did you. this spun up a fair bit, but i won. you know the rules. best two out of three. i ' m happy to win another two times. no problem at all. no, you only need to win one more time. that ' be three out of five. but yeah, if you want to do three out of five, let ' s do three out of five. you want to win another two times? let ' s do it. i was just preempting you wanting another go until you win. right, i ' m going to hold it on boost just a little bit longer this time. see if it helps. [ music ] [ music ] yeah. yeah. i think he had wheel spin the first time cuz that ' s shot off even more this [ applause ] [ music ] time. that was really interesting. so, this didn ' t launch as well that time. one, because i held it on boost longer, it actually seems to reduce the power for some reason. and i got more wheel spin even though my tires were warmer. yeah, you didn ' t get off the line as good as the first time. i turned everything off on this one and actually spun more but just went even better. so i think it was a mixture. i don ' t think it was that bad your launch. this just went another step better. no, it was it was point2 of a second slower. okay, that ' s pretty bad. anyway, it was best three out of five. you said it, so let ' s do it. 3 2 1 [ music ] [ music ] [ applause ] woohoo! destroying [ applause ] him. damn. [ applause ] [ music ] this didn ' t launch then. all right, go reset. do a nice slow cool down for it. one eternity later. 3 2 1 come on. oh, humiliation. [ music ] [ applause ] so much [ applause ] humiliation. i think that just about sums it up, doesn ' t it, sam? yeah, i mean, my launch could have been better. um, you had a perfect launch by the looks of that. it was on the",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_1236",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_1236",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_1236",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_1236",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_1236",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_1236",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_1236",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_1236",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_1236",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_1236",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_1236",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_1236",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_1236",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_1236",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_1236",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_1236",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_1236",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_1236",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_1236",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_1236",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_1236",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_1236",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_1236",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_1236",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_1236",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_1236",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_1236",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_1236",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_1236",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_1236",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_1236",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_1236",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_1236",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_1236",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_1236",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_1236",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_1236",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_1236",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_1236",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_1236",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_1236",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_1236",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_1236",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_1236",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_1236",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_1236",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_1236",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_1236",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "button and i just walked past you. it wasn ' t even as i caught you at the end. i just walked past you. yes, i didn ' t enjoy that much at all. oh well, let ' s do the thing. so then, what exactly happened? well, the ferrari won. it completed the standing quarter mile in 9. 6 seconds. the bmw took 10. 4 seconds. now, we ' re going to have a rolling race. and what we ' re going to do is roll in at 50 mph. we ' re going to race the 1 / 4 mile, then the half mile. we ' re going to have the cars in their hybrid modes. we should take off in electric power alone, then just get level with me. then we ' ll floor the throttle, see what happens, and see which car is the quickest. now, if you ' d like to check out a deal that ' s available on one of these cars through carwow, then just click on the pop out banner or scan the qr code on screen now to go check out the car and the deal. anyway, let ' s get on with this race. 3 2 1 go. i thought i ' d add him on that. i just didn ' t. [ music ] wa! [ applause ] [ applause ] wow! oh, this is the end. [ applause ] i thought this would be more hybridy than yours and that i benefit from like more electric punch, but no. i think this is physics and that car weighs as much as a planet. it ' s exactly that. and not even a small planet. it ' s kind of like jupiter. yes, it is a giant. can you feel its gravitational pull? it ' s actually causing tides, isn ' t it? it ' s the bmw m title. it is. sam, um, i ' m having such a bad time of this that i ' ve got an idea that might help me. i ' ve got to have some form of victory. so, what we got to do is go into electric only mode. and now, we ' re going to have a drag race over the quarter mile and the half mile, and we ' ll see which is the quickest. now, we ' re not allowed to let our engines kick in at all. so, you got to manage your throttle. just balance it so that your engine doesn ' t kick in",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_1658",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_1658",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_1658",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_1658",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_1658",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_1658",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_1658",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_1658",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_1658",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_1658",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_1658",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_1658",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_1658",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_1658",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_1658",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_1658",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_1658",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.4 seconds.",
+                  "answer_start": 303
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_1658",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.4 seconds.",
+                  "answer_start": 303
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_1658",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.4 seconds.",
+                  "answer_start": 303
+                }
+              ]
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_1658",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "10.4 seconds.",
+                  "answer_start": 303
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_1658",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_1658",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_1658",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_1658",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_1658",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_1658",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_1658",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_1658",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_1658",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_1658",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_1658",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_1658",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_1658",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_1658",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_1658",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_1658",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_1658",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_1658",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_1658",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_1658",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_1658",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_1658",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_1658",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_1658",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_1658",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_1658",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_1658",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 275
+                }
+              ]
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_1658",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9.6 seconds.",
+                  "answer_start": 275
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": ". if your engine kicks in, it ' s an instant disqualification. and let me guess, the winner of this wins everything. no, i ' m not that. i ' m not that mean. the winner of this wins this. 3 2 1. that pickup ' s really quite good. [ applause ] wow, that ' s pretty fast on electric power. where is that blooming [ applause ] ferrari? that ' s better. there we go. that ' s working. oh, it ' s just dropped all power. got speed limiter at 88. not quite. that ' s 50. that ' s good. this is really hard. okay, sam, i changed my mind. i ' ve just won the entire video. yeah, there ' s a shark. i haven ' t. but this is quick in electric only mode. it ' s a proper like plug - in hybrid. this is so, could you floor it and stay in electric? i ' ve got a meter and i can see if you hold on 100 too long, it ' ll probably kick in the engine, but i just was balancing it ever so slightly, but then it topped out at 88, but you were so far behind it didn ' t matter. so, this has got a hybrid meter as well, but if you go to the end of the meter, it ' ll kick in the engine, but if you accelerate too hard, it ' ll kick in the engine as well. so, it ' s doubly tricky in this. and anyway, it just wasn ' t as quick in electric only mode. not even close. and do you know what? you always say that electric propulsion is always way better than the internal combustion engine. so, you must be really disappointed. sam, i do love an electric car. so, yeah, this is really heartbreaking for me. okay, let ' s do a race that ' s a little fairer on you. this time, we ' re going to be in manual mode for the gearboxes. we ' re going to be in third gear. roll on from 50. 3 2 1 go. [ music ] it ' s fast, but it ' s not fast [ music ] enough. he ' s not loads ahead of me, but he is ahead. [ applause ] um, yeah, there ' s a theme here. and my weight is definitely a huge disadvantage, isn ' t it? yeah",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_2088",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_2088",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_2088",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_2088",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_2088",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_2088",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_2088",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_2088",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_2088",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_2088",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_2088",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_2088",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_2088",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_2088",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_2088",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_2088",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_2088",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_2088",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_2088",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_2088",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_2088",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_2088",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_2088",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_2088",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_2088",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_2088",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_2088",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_2088",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_2088",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_2088",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_2088",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_2088",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_2088",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_2088",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_2088",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_2088",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_2088",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_2088",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_2088",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_2088",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_2088",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_2088",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_2088",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_2088",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_2088",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_2088",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_2088",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_2088",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ", but you could see like this did pull away and then it leveled for a bit, didn ' t it? when that kind of was a rolling mass, it was just under its own goal there. when wind resistance is playing a part, then your weight advantage is kind of going against you, isn ' t it? cuz i ' ve got all that momentum behind me. it ' s like a wrecking ball. it ' s kind of a little bit like the scene in raiders of the lost arc, isn ' t it? that ' s what this car is. i ' m indie and you ' re the ball chasing me. exactly. no, i wasn ' t thinking of the melted face scene. no, not that one. so, what do you think of this as a platform for tuning? um, i don ' t think it ' s as good as the previous generation. the f90 was just amazing. this has now become an m7 more than an m5. and i think with the extra weight, we ' re never going to overcome that with extra power cuz it is slower than when you did the built engine on the m5. and i don ' t think it ' s as quick either as the 800 horsepower version. yes. i don ' t think so either, which is quite frustrating for us. it is. it ' s the same engine. why can ' t you just whack more power in? why can ' t we build this engine? we can, but again, it ' ll always be trying to overcome a 600 kg differential and you can ' t take the weight out of the car. what about in terms of like the gearbox and stuff if you did get it the engine up to what 1, 200 horsepower? yeah, you ' d have to build the gearbox as well. gearbox already maxed out. really? we can actually get more power out of this with the tune, but we ' re not doing it on purpose because we think something will break. okay. from a customer ' s point of view though, i can get a, 000 horsepower car by paying you seven grand. with the old m5, how much did i have to pay you to get a, 000 horsepower from an m5? so, if you want not good for your business. not great for his business. for a customer, if you want to say, \" i ' ve got a th00and horsepower car",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_2506",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_2506",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_2506",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_2506",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_2506",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_2506",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_2506",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_2506",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_2506",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_2506",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_2506",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_2506",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_2506",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_2506",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_2506",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_2506",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_2506",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_2506",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_2506",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_2506",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_2506",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_2506",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_2506",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_2506",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_2506",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_2506",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_2506",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_2506",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_2506",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_2506",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_2506",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_2506",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_2506",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_2506",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_2506",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_2506",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_2506",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_2506",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_2506",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_2506",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_2506",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_2506",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_2506",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_2506",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_2506",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_2506",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_2506",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_2506",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": ". \" yeah. bragging rights, right? when you ' re down the pub, how many people can say, \" i ' ve got 1, 000 horsepower. \" and it feels quicker than the standard car. it definitely does. and for seven grand, how much? seven grand on the old m5, what would that take you to horsepower? uh, about 800, which is the car that we drive. yeah. which is my car in the early stages. yeah. ah, so it ' s tough, isn ' t it? i think i would rather have the older car, actually. oh well. it is what it is. let ' s do a brake test. what do you think is going to happen now? um, it ' s going to lose. is it? it ' s so heavy. or am i going to have to pay you for some new brakes? it ' s got ceramics. it should be okay. it should be. we ' ll find out. when we reach the line full emergency stop, the car that stops in the shortest distance wins. if you ' d rather watch another drag race, in fact, the drag race with the old 1000 horsepower m5, click on the pop out b up there. scan the qr code on screen. if not, stay here for the brake test. full braking on all two feet. [ music ] i ' m literally look at the pressure i ' m putting on. i jumped on the pedal with both feet. were you changing down a gear when you were breaking? no. do you promise me? i promise. just to clarify makes no difference. then would you stop doing it? cuz i don ' t believe you. i tell you what would have been a problem with you. if you did jump on with both feet, you might have gone straight into abs. so it may have just peaked a bit too high on that pressure. mate, you tell me when we ' re on track to hit the brake pedal as hard as i can. yes, but when on track, are you coming to a complete stop? no, you won ' t. bye. how many car lengths is that? do you want to just drive level with me? one, two, three, four, five, six, and a bit. oh. oh well. well, there you go. listen, i hope you enjoyed the video. just want to say huge thanks to im",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_2935",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_2935",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_2935",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_2935",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_2935",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_2935",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_2935",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_2935",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_2935",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_2935",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_2935",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_2935",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_2935",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_2935",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_2935",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_2935",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_2935",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_2935",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_2935",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_2935",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_2935",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_2935",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_2935",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_2935",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_2935",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_2935",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_2935",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_2935",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_2935",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_2935",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_2935",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_2935",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_2935",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_2935",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_2935",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_2935",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_2935",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_2935",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_2935",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_2935",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_2935",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_2935",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_2935",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_2935",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_2935",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_2935",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_2935",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_2935",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "##man evolve and steve ker for lending us that car. if you want to watch some other videos, click on the windows. and if you click on the car logo, you can check out the carwow drag race leaderboard to see how these cars compare to everything else we ' ve ever drag raced. thanks for watching. i ' ll see you next",
+          "qas": [
+            {
+              "id": "BMW M5_Horsepower_BMW M5_3347",
+              "question": "What is the horsepower of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_this car_3347",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_my car_3347",
+              "question": "What is the horsepower of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Horsepower_the BMW_3347",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_BMW M5_3347",
+              "question": "What is the weight of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_this car_3347",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_my car_3347",
+              "question": "What is the weight of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Weight_the BMW_3347",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_BMW M5_3347",
+              "question": "What is the torque of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_this car_3347",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_my car_3347",
+              "question": "What is the torque of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Torque_the BMW_3347",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_BMW M5_3347",
+              "question": "What is the gearbox in the BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_this car_3347",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_my car_3347",
+              "question": "What is the gearbox in the my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Gearbox_the BMW_3347",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_BMW M5_3347",
+              "question": "What is the quarter mile time of BMW M5?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_this car_3347",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_my car_3347",
+              "question": "What is the quarter mile time of my car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5_Quarter Mile Time_the BMW_3347",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari SF90_3347",
+              "question": "What is the engine type of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_Ferrari_3347",
+              "question": "What is the engine type of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_your car_3347",
+              "question": "What is the engine type of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Type_the Ferrari_3347",
+              "question": "What is the engine type of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari SF90_3347",
+              "question": "What is the engine capacity of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_Ferrari_3347",
+              "question": "What is the engine capacity of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_your car_3347",
+              "question": "What is the engine capacity of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Engine Capacity_the Ferrari_3347",
+              "question": "What is the engine capacity of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari SF90_3347",
+              "question": "What is the horsepower of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_Ferrari_3347",
+              "question": "What is the horsepower of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_your car_3347",
+              "question": "What is the horsepower of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Horsepower_the Ferrari_3347",
+              "question": "What is the horsepower of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari SF90_3347",
+              "question": "What is the weight of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_Ferrari_3347",
+              "question": "What is the weight of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_your car_3347",
+              "question": "What is the weight of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Weight_the Ferrari_3347",
+              "question": "What is the weight of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari SF90_3347",
+              "question": "What is the torque of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_Ferrari_3347",
+              "question": "What is the torque of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_your car_3347",
+              "question": "What is the torque of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Torque_the Ferrari_3347",
+              "question": "What is the torque of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari SF90_3347",
+              "question": "What is the gearbox in the Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_Ferrari_3347",
+              "question": "What is the gearbox in the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_your car_3347",
+              "question": "What is the gearbox in the your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Gearbox_the Ferrari_3347",
+              "question": "What is the gearbox in the the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari SF90_3347",
+              "question": "What is the quarter mile time of Ferrari SF90?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_Ferrari_3347",
+              "question": "What is the quarter mile time of Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_your car_3347",
+              "question": "What is the quarter mile time of your car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Ferrari SF90_Quarter Mile Time_the Ferrari_3347",
+              "question": "What is the quarter mile time of the Ferrari?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

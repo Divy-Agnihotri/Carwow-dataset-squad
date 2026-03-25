@@ -1,0 +1,4321 @@
+{
+  "data": [
+    {
+      "title": "Fastest Estates DRAG RACE BMW M5 v Audi RS6 v AMG E63S_transcript",
+      "paragraphs": [
+        {
+          "context": "fastest estates drag race bmw m5 v audi rs6 v amg e63s _ transcript i ' ve got an awesome estate drag race for you. so, we ' ve got the mercedes amg e63s estate. we ' ve got the new bmw m5 touring and the good old audi rs6 avant. and i ' m going to race them over the standing quarter mile. i ' m m watson. you ' re watching car wow. the audi rs6 performance has a 4 l twinturbo v8, 630 horsepower, 850 n meters of torque, allwheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 275 kg, and cost from 120, 000. the bmw m5 touring has a 4.4 l twin turbo v8 with an electric motor, 727 horsepower, 1, 00 new m of torque, allwheel drive, and an 8 - speed automatic gearbox with launch control. it weighs 2, 475 kg and cost from £113, 000. the mercedes mg e63s estate has a 4 l twin turbo v8, 612 horsepower, 850 new m of torque, all - wheel drive, and a 9 - speed automatic gearbox with launch control. it weighs 1, 995 kg and back in 2020 cost from £100, 000. battle of the estates and the first time we ' ve got a bmw 5 series in it. this is a rare moment, nick, isn ' t it? yeah, a bit of a watershed moment this. how do you feel about it, racing driver sam? we thought we ' d put you in the new car for once, cuz everyone goes, \" matt, it ' s singing the fastest car. \" well, it ' s about time, really. you sound a bit different, sam. what ' s happened? well, just had some english lessons. did they teach you how to look younger as well, turns out, found some really nice anti - aging cream in boots the other day. so, sam, how do you think this is going to play out? bmw, the newest car, going to win, right? do you think? well, it is a little bit heavy, and i know i ' ve got a bit more power than both of you. it ' s just the tires that i ' m on as well. they ' re not so grippy unless they ' re above 30°. it ' s a bit cold outside.",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_1",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8,",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_1",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8,",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_1",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8,",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8,",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_1",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twinturbo V8,",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_1",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_1",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_1",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_1",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_1",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_1",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_1",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_1",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "630 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_1",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_1",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_1",
+              "question": "What is the weight of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_1",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_1",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 N meters of torque,",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_1",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 N meters of torque,",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_1",
+              "question": "What is the torque of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 N meters of torque,",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 N meters of torque,",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_1",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 N meters of torque,",
+                  "answer_start": 399
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_1",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_1",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_1",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_1",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_1",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_1",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_1",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_1",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_1",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8 with an electric motor,",
+                  "answer_start": 560
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8 with an electric motor,",
+                  "answer_start": 560
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8 with an electric motor,",
+                  "answer_start": 560
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_1",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L twin turbo V8 with an electric motor,",
+                  "answer_start": 560
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_1",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 562
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 562
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 562
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_1",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4.4 L",
+                  "answer_start": 562
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_1",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower,",
+                  "answer_start": 606
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower,",
+                  "answer_start": 606
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower,",
+                  "answer_start": 606
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_1",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "727 horsepower,",
+                  "answer_start": 606
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_1",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1",
+              "question": "What is the weight of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_1",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "2,475 kg",
+                  "answer_start": 730
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_1",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,00 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1",
+              "question": "What is the torque of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,00 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,00 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_1",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,00 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_1",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_1",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "8-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_1",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_1",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_1",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8,",
+                  "answer_start": 363
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_1",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8,",
+                  "answer_start": 363
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_1",
+              "question": "What is the engine type of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8,",
+                  "answer_start": 363
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_1",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L twin turbo V8,",
+                  "answer_start": 363
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_1",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_1",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_1",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_1",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "4 L",
+                  "answer_start": 365
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_1",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "612 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_1",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "612 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_1",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "612 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_1",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "612 horsepower,",
+                  "answer_start": 383
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_1",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg",
+                  "answer_start": 939
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_1",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg",
+                  "answer_start": 939
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_1",
+              "question": "What is the weight of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg",
+                  "answer_start": 939
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_1",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "1,995 kg",
+                  "answer_start": 939
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_1",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_1",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_1",
+              "question": "What is the torque of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_1",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "850 new m of torque,",
+                  "answer_start": 625
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_1",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_1",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_1",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_1",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "9-speed automatic gearbox with launch control.",
+                  "answer_start": 448
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_1",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_1",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_1",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_1",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "plenty of excuses there. clearly, you are racing driver sam. should we get on with the race? oh, before we do, let ' s do a sound check. so, sam, you probably win this. bmws always sound better than audi ' s. but here we go. this is my audi. that is a sporty setting as well. that ' s like full exhaust mode. go on, sam. you rev yours. [ applause ] [ music ] yeah, no soft limits for sam. it ' s one nil to you so far, but can the mercedes take your crown? go on. win to you, sam. will it be the same with the drag race? if you ' re the kind of person that wishes just get on with the blooming racing rather than all this chat, then we ' ve actually created a new channel just for you. it ' s called carw wow drags. and to subscribe to that, just click on the pop out banner or scan the qr code. now, there ' s also a link in the description because there we ' re uploading drag races which just have pure racing. no chat really. anyway, let ' s get on with this race. 2. oh, i was late off the launch. oh, audi rs6. yes. where did matt come from? that is ballistic. [ applause ] i ' m beating the mercedes, [ applause ] though. how good is his rs6 performance? audi is suspiciously fast. oh, i ' m done. [ applause ] oh my gosh, sam, you got beaten off the line. what was going on? where ' s your normal cat - like responses? for more protest, the camera was in my face, so i couldn ' t see the starter. i just had to go when you went. would definitely do a best two out of three. okay, give you all another chance. 3 2 1 oh, it ' s close now. oh, come on. quattro did it again. [ applause ] how was that r six quicker? how good is this? audi, they are both disappearing. [ applause ] not a hope, sam. i mean, we left the line together, but i saw your front wheels spin a bit. this just hooked and went, nick, what about your car? great initial launch and then changing into second, i had the same thing. felt the front wheels spin",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_401",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_401",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_401",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_401",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_401",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_401",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_401",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_401",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_401",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_401",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_401",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_401",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_401",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_401",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_401",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_401",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_401",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_401",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_401",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_401",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_401",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_401",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_401",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_401",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_401",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_401",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_401",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_401",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_401",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_401",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_401",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_401",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_401",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_401",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_401",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_401",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_401",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_401",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_401",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_401",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_401",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_401",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_401",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_401",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_401",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_401",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_401",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_401",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_401",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_401",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_401",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_401",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_401",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_401",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_401",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_401",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_401",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_401",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_401",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_401",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_401",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_401",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_401",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_401",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_401",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_401",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_401",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_401",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_401",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_401",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_401",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_401",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_401",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_401",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_401",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_401",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_401",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_401",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_401",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_401",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_401",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_401",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_401",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_401",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_401",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_401",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_401",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_401",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_401",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_401",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_401",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "a bit, but i don ' t think even if i had traction, i was never going to beat you guys. have you got your traction control all the way off? i have mine in esp sport. okay, so i ran mine traction all the way off. how about you, sam? just in sports mode. i need to heat up the front tires, though. well, why don ' t you do your usual thing, sam? go up down the runway and put some heat in the tires by braking. let ' s give it another go. let ' s do best three out of five. let ' s get let ' s give you all some more opportunity to win. right, this is it. they better perform this time. i ' ve given them enough chances. 2. oh, the mug ' s off this time. yeah. head of the bmw. and i ' m not anymore. this audi is just too good. formal protest. i had a delay. what do you mean by a delay? for some reason, it seems to launch bang on most of the time, but then it just doesn ' t another time. i don ' t know why it ' s doing it, but we need to go again. okay, best four out of seven. bloody hell, sam. you ' re really bad today. i promise it will win one. it will win one. i think this is the fastest audi rs6 i ' ve driven. just doing so well. three, two, one. oh, come on. that was a good [ music ] launch. oh, bit of a skip in to second gear. he had me off the line, but this is just mental. how is it still beating me? i ' m not going to do it. what on earth is going on? sam, you can ' t complain about that. you actually left a little bit ahead of me and this just came past. just hooked so well. what happened to your car? it ' s just that first 30 ft. the audi gets the legs on it and then this is just slowly creeping back on you. they ' re just not enough to get you unfortunately. i don ' t feel any creepage. i just feel like i ' m well ahead and it ' s game over right from the get - go. nick, nick, nick, what ' s happened? i don ' t know. the last couple of races have felt",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_806",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_806",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_806",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_806",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_806",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_806",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_806",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_806",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_806",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_806",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_806",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_806",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_806",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_806",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_806",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_806",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_806",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_806",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_806",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_806",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_806",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_806",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_806",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_806",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_806",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_806",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_806",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_806",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_806",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_806",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_806",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_806",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_806",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_806",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_806",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_806",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_806",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_806",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_806",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_806",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_806",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_806",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_806",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_806",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_806",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_806",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_806",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_806",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_806",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_806",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_806",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_806",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_806",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_806",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_806",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_806",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_806",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_806",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_806",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_806",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_806",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_806",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_806",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_806",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_806",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_806",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_806",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_806",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_806",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_806",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_806",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_806",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_806",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_806",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_806",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_806",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_806",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_806",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_806",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_806",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_806",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_806",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_806",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_806",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_806",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_806",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_806",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_806",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_806",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_806",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_806",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "exactly the same from my point of view. no matter what i do with the traction control, i get a bit of slip as i change it into second gear and then i can ' t keep up with you guys. but this car has the least power, the oldest. i ' m never going to win this race, am i? listen, i just want to point something out to everybody watching. now, normally people go, \" matt goes in the fastest car, always picks the fastest car, blah blah blah. \" we actually thought, didn ' t we earlier we ' re having a discussion, what do we think might be the fastest? we thought it would be the bmw cuz didn ' t it beat its competitors in saloon form? and so, we thought the bmw would probably win. and i was originally gonna drive the bmw, but i didn ' t. and i thought i ' ll just go in the audi. and you can ' t say i haven ' t given the bmw enough chances to win. we just got to end this somewhere, haven ' t we? so, i think that ' s a wrap on this. let ' s do the thing. so, then what exactly happened? well, the audi won. it completed the standing quarter mile in 11. 3 seconds. the bmw took 11. 4 seconds, while the mercedes crossed the line last with a time of 11. 7 seconds. before our next race, a little message that could well help you if you ' re looking to buy a used car, bike, or van anytime soon. we ' ve partnered with our friends at car vertical to give you a special offer to check that it ' s not a write - off, stolen, or had its mileage changed. look at this bmw 3 series on car vertical. it ' s got green ticks for odometer and finance, but a damage warning. why? it was previously involved in an accident and was a cat write off. you ' d never have known that without a car history check. so, when buying a used car, bike or van, run a car vertical report using code carwow for 20 % off or by following the link in the description. now, back to the race. now, we have a rolling race. but before we do, i ' ve actually found an offer on one of these cars through carwow if you want to find out which car it is and the offer so you",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_1228",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_1228",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_1228",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_1228",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_1228",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_1228",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_1228",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_1228",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_1228",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_1228",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_1228",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_1228",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_1228",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_1228",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_1228",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_1228",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_1228",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_1228",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_1228",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_1228",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_1228",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_1228",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_1228",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_1228",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_1228",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_1228",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_1228",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_1228",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_1228",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_1228",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_1228",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds.",
+                  "answer_start": 1055
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_1228",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds.",
+                  "answer_start": 1055
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_1228",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds.",
+                  "answer_start": 1055
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_1228",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds.",
+                  "answer_start": 1055
+                }
+              ]
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_1228",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.3 seconds.",
+                  "answer_start": 1055
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_1228",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1228",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_1228",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_1228",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_1228",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1228",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_1228",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_1228",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_1228",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1228",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_1228",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_1228",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_1228",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1228",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_1228",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_1228",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_1228",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1228",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_1228",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_1228",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_1228",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1228",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_1228",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_1228",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_1228",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds,",
+                  "answer_start": 1083
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1228",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds,",
+                  "answer_start": 1083
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_1228",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds,",
+                  "answer_start": 1083
+                }
+              ]
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_1228",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.4 seconds,",
+                  "answer_start": 1083
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_1228",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_1228",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_1228",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_1228",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_1228",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_1228",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_1228",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_1228",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_1228",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_1228",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_1228",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_1228",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_1228",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_1228",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_1228",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_1228",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_1228",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_1228",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_1228",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_1228",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_1228",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_1228",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_1228",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_1228",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_1228",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.7 seconds.",
+                  "answer_start": 1154
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_1228",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.7 seconds.",
+                  "answer_start": 1154
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_1228",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.7 seconds.",
+                  "answer_start": 1154
+                }
+              ]
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_1228",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": false,
+              "answers": [
+                {
+                  "text": "11.7 seconds.",
+                  "answer_start": 1154
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "can see what the saving is. click on the pop out banner up there or scan the qr code on screen now. so, in this rolling race, we ' re going to do from 50 mph over the quarter and the half mile. we are going to put the cars in like their normal like cruisy mode. so, normal drive for the automatic gearbox. let ' s get up to 50 mph and i ' ll call it in 3 2 1 go. yes. [ applause ] bye - bye. bye - bye, nick. hate it when he ' s so smug like that. that bmw has left the chat. [ applause ] [ applause ] no problem there. s. any excuses? none from my end. hybrid power definitely works, doesn ' t it? it does. so, not so good on the drag, but when you just need instant power, yes, it ' s worth the weight penalty, i ' d say. how about you, nick? we were close for a bit, but then this just started to gap you. yeah. and i think some of that was down to the gearbox. it felt like it took ages to kick down in here, but i ' m excited to see what happens next. i ' m just going to forget about sam. i think the real race is between you and me here. yeah. so, we ' ve got the real race. um, forget about sam. i always try to forget about sam. in fact, i forgot. so, what he looks like. i i was just about to say i say i started to say that to camera and you got you beat me. nick ' s mind is sharper than mine. that ' s what happens. he ' s off my age, you see. okay, we ' re going to have another rolling race, but this time we are going to be in the sportiest settings and manual mode for the gearboxes. how about you, sam? what settings are you going to be in for your bmw in its multitude of settings? i ' ve set up my m2 mode for maximum sport. so, i ' ve got the fastest shifting gearbox. i ' ve got the stiffer suspension and i ' ve got the most aggressive engine setting. you, nick, you ' re just in race, aren ' t you? i ' ll put the exhaust in noisy as well, just for good measure. that ' ll help. that ' ll",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_1658",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_1658",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_1658",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_1658",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_1658",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_1658",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_1658",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_1658",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_1658",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_1658",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_1658",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_1658",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_1658",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_1658",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_1658",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_1658",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_1658",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_1658",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_1658",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_1658",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_1658",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_1658",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_1658",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_1658",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_1658",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_1658",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_1658",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_1658",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_1658",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_1658",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_1658",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_1658",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_1658",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_1658",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_1658",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_1658",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_1658",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_1658",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_1658",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_1658",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_1658",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_1658",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_1658",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_1658",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_1658",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_1658",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_1658",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_1658",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_1658",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_1658",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_1658",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_1658",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_1658",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_1658",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_1658",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_1658",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_1658",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_1658",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_1658",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_1658",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_1658",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_1658",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_1658",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_1658",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_1658",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_1658",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_1658",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_1658",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_1658",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_1658",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_1658",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_1658",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_1658",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_1658",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_1658",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_1658",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_1658",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_1658",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_1658",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_1658",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_1658",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_1658",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_1658",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_1658",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_1658",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_1658",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_1658",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_1658",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_1658",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_1658",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_1658",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "give you just one extra mile an hour. three, two, one, go. [ applause ] not such a big gap this [ applause ] time, but definitely pulling. still an easy win. i ' m doing even worse this time. nick, you ' ve really been dirted with that car, haven ' t you? who ' d have thought that like getting an e63s would be like the poor choice? i remember when we first tested this car and it felt ballistic. and now the game has just moved on, hasn ' t it? i think you ' re right. like that e63 was just so quick like when we first started doing these drag races, but now that m5 and and what a switch as well. the audi was always the slowest, but the drag race it ' s won. is it my favorite? kind of. i ' ve got a soft spot for an rs6. anyway, it ' s not over yet. another challenge. didn ' t ask me how i did. i don ' t want to hear you being smug, that ' s all. oh, go on, sam. tell us what you think, loser. bye - bye, mate. um, we got to do a um brake test. no, you can. we ' ll come and catch up. don ' t worry. it ' s going to be from 100 mph and then we ' re going to do full emergency stop on the cone. now, if you ' d rather watch another drag race, click on the pop out banner up there or the qr code on screen now. if not, stay here for the brake test. oh, i ' m going to go to scotland. oh, sam, you weren ' t cheating by changing down gears. you know, you ' re not supposed to do that. no, wasn ' t doing that at all. who do you reckon won between us? i ' d like to have won because, you know, i like winning. but i think the audi has just about beaten me by nose. that ' s very unusual of you to actually concede so easily, sam. i had laser eye surgery as well, so i can actually see a little bit better than i usually can do. let me just double check. i ' m going to get out to look cuz i want to see what the margin is. but it ' s not much cuz i thought you",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_2081",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_2081",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_2081",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_2081",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_2081",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_2081",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_2081",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_2081",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_2081",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_2081",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_2081",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_2081",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_2081",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_2081",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_2081",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_2081",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_2081",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_2081",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_2081",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_2081",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_2081",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_2081",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_2081",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_2081",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_2081",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_2081",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_2081",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_2081",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_2081",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_2081",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_2081",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_2081",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_2081",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_2081",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_2081",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_2081",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_2081",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_2081",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_2081",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_2081",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_2081",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_2081",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_2081",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_2081",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_2081",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_2081",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_2081",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_2081",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_2081",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_2081",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_2081",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_2081",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_2081",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_2081",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_2081",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_2081",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_2081",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_2081",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_2081",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_2081",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_2081",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_2081",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_2081",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_2081",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_2081",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_2081",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_2081",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_2081",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_2081",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_2081",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_2081",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_2081",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_2081",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_2081",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_2081",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_2081",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_2081",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_2081",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_2081",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_2081",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_2081",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_2081",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_2081",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_2081",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_2081",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_2081",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_2081",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_2081",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_2081",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_2081",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_2081",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "context": "were actually going to win cuz you were a bit behind me. but then mine dug in at the last moment. yeah. do you know what sam? i almost forgot about nick cuz it ' s so far down the runway. what happened to you, mate? like i said, it ' s an older car and these brakes have been feeling a little bit spongy all day. and that was a very big stop and i went a very long way. and i ' m glad i didn ' t go any further because i ' ve just spotted some sheep over there. bit sketchy. listen, i just want to say a huge thank you to the person that lent us that e63s. really appreciate it. go follow them on instagram. if you want to compare these cars qual times to everything else we ' ve ever drag races, click on the car logo now to check out the carow drag race leaderboard. and i ' ll see you next time. and let ' s just hope sam stays as nice as he ' s been in this",
+          "qas": [
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Avant_2499",
+              "question": "What is the engine type of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi RS6 Performance_2499",
+              "question": "What is the engine type of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_Audi_2499",
+              "question": "What is the engine type of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_this car_2499",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Type_the Audi_2499",
+              "question": "What is the engine type of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Avant_2499",
+              "question": "What is the engine capacity of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi RS6 Performance_2499",
+              "question": "What is the engine capacity of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_Audi_2499",
+              "question": "What is the engine capacity of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_this car_2499",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Engine Capacity_the Audi_2499",
+              "question": "What is the engine capacity of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Avant_2499",
+              "question": "What is the horsepower of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi RS6 Performance_2499",
+              "question": "What is the horsepower of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_Audi_2499",
+              "question": "What is the horsepower of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_this car_2499",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Horsepower_the Audi_2499",
+              "question": "What is the horsepower of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Avant_2499",
+              "question": "What is the weight of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi RS6 Performance_2499",
+              "question": "What is the weight of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_Audi_2499",
+              "question": "What is the weight of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_this car_2499",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Weight_the Audi_2499",
+              "question": "What is the weight of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Avant_2499",
+              "question": "What is the torque of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi RS6 Performance_2499",
+              "question": "What is the torque of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_Audi_2499",
+              "question": "What is the torque of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_this car_2499",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Torque_the Audi_2499",
+              "question": "What is the torque of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Avant_2499",
+              "question": "What is the gearbox in the Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi RS6 Performance_2499",
+              "question": "What is the gearbox in the Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_Audi_2499",
+              "question": "What is the gearbox in the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_this car_2499",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Gearbox_the Audi_2499",
+              "question": "What is the gearbox in the the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Avant_2499",
+              "question": "What is the quarter mile time of Audi RS6 Avant?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi RS6 Performance_2499",
+              "question": "What is the quarter mile time of Audi RS6 Performance?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_Audi_2499",
+              "question": "What is the quarter mile time of Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_this car_2499",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Audi RS6 Performance_Quarter Mile Time_the Audi_2499",
+              "question": "What is the quarter mile time of the Audi?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW M5 Touring_2499",
+              "question": "What is the engine type of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_BMW_2499",
+              "question": "What is the engine type of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_this car_2499",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Type_the BMW_2499",
+              "question": "What is the engine type of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW M5 Touring_2499",
+              "question": "What is the engine capacity of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_BMW_2499",
+              "question": "What is the engine capacity of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_this car_2499",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Engine Capacity_the BMW_2499",
+              "question": "What is the engine capacity of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW M5 Touring_2499",
+              "question": "What is the horsepower of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_BMW_2499",
+              "question": "What is the horsepower of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_this car_2499",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Horsepower_the BMW_2499",
+              "question": "What is the horsepower of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW M5 Touring_2499",
+              "question": "What is the weight of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_BMW_2499",
+              "question": "What is the weight of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_this car_2499",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Weight_the BMW_2499",
+              "question": "What is the weight of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW M5 Touring_2499",
+              "question": "What is the torque of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_BMW_2499",
+              "question": "What is the torque of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_this car_2499",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Torque_the BMW_2499",
+              "question": "What is the torque of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW M5 Touring_2499",
+              "question": "What is the gearbox in the BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_BMW_2499",
+              "question": "What is the gearbox in the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_this car_2499",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Gearbox_the BMW_2499",
+              "question": "What is the gearbox in the the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW M5 Touring_2499",
+              "question": "What is the quarter mile time of BMW M5 Touring?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_BMW_2499",
+              "question": "What is the quarter mile time of BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_this car_2499",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "BMW M5 Touring_Quarter Mile Time_the BMW_2499",
+              "question": "What is the quarter mile time of the BMW?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes AMG E63S Estate_2499",
+              "question": "What is the engine type of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_Mercedes_2499",
+              "question": "What is the engine type of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_this car_2499",
+              "question": "What is the engine type of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Type_the Mercedes_2499",
+              "question": "What is the engine type of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes AMG E63S Estate_2499",
+              "question": "What is the engine capacity of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_Mercedes_2499",
+              "question": "What is the engine capacity of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_this car_2499",
+              "question": "What is the engine capacity of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Engine Capacity_the Mercedes_2499",
+              "question": "What is the engine capacity of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes AMG E63S Estate_2499",
+              "question": "What is the horsepower of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_Mercedes_2499",
+              "question": "What is the horsepower of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_this car_2499",
+              "question": "What is the horsepower of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Horsepower_the Mercedes_2499",
+              "question": "What is the horsepower of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes AMG E63S Estate_2499",
+              "question": "What is the weight of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_Mercedes_2499",
+              "question": "What is the weight of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_this car_2499",
+              "question": "What is the weight of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Weight_the Mercedes_2499",
+              "question": "What is the weight of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes AMG E63S Estate_2499",
+              "question": "What is the torque of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_Mercedes_2499",
+              "question": "What is the torque of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_this car_2499",
+              "question": "What is the torque of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Torque_the Mercedes_2499",
+              "question": "What is the torque of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes AMG E63S Estate_2499",
+              "question": "What is the gearbox in the Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_Mercedes_2499",
+              "question": "What is the gearbox in the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_this car_2499",
+              "question": "What is the gearbox in the this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Gearbox_the Mercedes_2499",
+              "question": "What is the gearbox in the the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes AMG E63S Estate_2499",
+              "question": "What is the quarter mile time of Mercedes AMG E63S Estate?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_Mercedes_2499",
+              "question": "What is the quarter mile time of Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_this car_2499",
+              "question": "What is the quarter mile time of this car?",
+              "is_impossible": true,
+              "answers": []
+            },
+            {
+              "id": "Mercedes AMG E63S Estate_Quarter Mile Time_the Mercedes_2499",
+              "question": "What is the quarter mile time of the Mercedes?",
+              "is_impossible": true,
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
