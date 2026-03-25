@@ -1,0 +1,31 @@
+Transcript Name: BMW M4 v Ariel Atom 4R DRAG RACE_transcript.txt
+
+Car 1: Ariel Atom 4R
+- Engine Type: 2 L turbocharged 4-cylinder engine [62,66]
+- Engine Capacity: 2 L [60,61]
+- Horsepower: 406 horsepower, [68,69]
+- Weight: 665 kg [89,90]
+- Torque: 500 Nm of torque, [70,73]
+- Gearbox: six-speed sequential gearbox with launch control. [80,85]
+- Quarter Mile Time: 11.1 seconds. [755,756]
+
+Car 1 Aliases:
+- aerial Atom 4R 
+- Atom 4R 
+- aerial 
+---
+Car 2: BMW M4 Competition
+- Engine Type: 3 liter twin turbo straight 6, [102,107]
+- Engine Capacity: 3 liter [103,104]
+- Horsepower: 530 horsepower, [68,69]
+- Weight: 1,775 kg [131,132]
+- Torque: 650 Newton meters, [111,113]
+- Gearbox: 8-speed automatic gearbox with launch control. [121,126]
+- Quarter Mile Time: 11.2 seconds. [755,756]
+
+Car 2 Aliases:
+- BMW M4 competition 
+- BMW M4 Competition 
+- BMW 
+- M4 
+---

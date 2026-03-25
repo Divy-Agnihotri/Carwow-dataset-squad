@@ -1,0 +1,37 @@
+Transcript Name: New AMG C63 v Audi RS7 Performance DRAG RACE_transcript
+
+---
+
+Car 1: Mercedes c63s
+
+- Engine Type: 2 L single turbo petrol engine [121,126]
+- Engine Capacity: 2 L [121,122]
+- Horsepower: 476 horsepower [129,130]
+- Weight: 2.2 tons [222,223]
+- Torque: 1,20 newm of torque [157,160]
+- Gearbox: 9-speed automatic gearbox [168,170]
+- Quarter Mile Time: 11.5 seconds [919,920]
+
+---
+
+Car 1 Aliases:
+- Mercedes c63s 
+- Mercedes 
+- AMG 
+---
+Car 2: Audi RS7 performance
+
+- Engine Type: 4 L twin turbo V8 [304,308]
+- Engine Capacity: 4 L [304,305]
+- Horsepower: 630 horsepower [129,130]
+- Weight: 2,65 kilo [336,337]
+- Torque: 850 Newton M of torque [311,315]
+- Gearbox: [EMPTY]
+- Quarter Mile Time: 11.3 seconds [913,914]
+
+---
+
+Car 2 Aliases:
+- Audi RS7 performance 
+- Audi 
+---

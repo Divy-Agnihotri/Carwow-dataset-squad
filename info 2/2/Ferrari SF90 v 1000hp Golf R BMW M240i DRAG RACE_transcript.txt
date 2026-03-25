@@ -1,0 +1,47 @@
+Transcript Name: Ferrari SF90 v 1000hp Golf R BMW M240i DRAG RACE_transcript
+
+Car 1: BMW M240i
+- Engine Type: B-58, [253,253]
+- Engine Capacity: [empty]
+- Horsepower: 1,000 horsepower. [152,153]
+- Weight: [empty]
+- Torque: [empty]
+- Gearbox: built gearbox, [258,259]
+- Quarter Mile Time: 9.1 seconds. [1119,1120]
+
+Car 1 Aliases:
+- BMW M240i 
+- BMW 
+- this car 
+- the BMW 
+---
+Car 2: Volkswagen Golf R
+- Engine Type: 2.5 L RS3 engine [176,179]
+- Engine Capacity: 2.5 L [176,177]
+- Horsepower: 1,034 [209,209]
+- Weight: [empty]
+- Torque: [empty]
+- Gearbox: [empty]
+- Quarter Mile Time: 9.5 seconds [1125,1126]
+
+Car 2 Aliases:
+- Volkswagen Golf R 
+- Golf 
+- this car 
+- the Volkswagen 
+---
+Car 3: Ferrari SF90
+- Engine Type: [empty]
+- Engine Capacity: [empty]
+- Horsepower: [empty]
+- Weight: [empty]
+- Torque: [empty]
+- Gearbox: [empty]
+- Quarter Mile Time: 9.7 seconds. [1137,1138]
+
+Car 3 Aliases:
+- Ferrari SF90 
+- Ferrari 
+- this car 
+- the Ferrari 
+---

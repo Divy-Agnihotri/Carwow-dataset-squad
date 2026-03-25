@@ -1,0 +1,40 @@
+Transcript Name: Porsche 911 Turbo S v SLEEPER Skoda Superb DRAG RACE_transcript
+
+---
+
+Car 1: Porsche 996 911 Turbo S
+
+- Engine Type: 3.6 L twin turbo Flat 6 [74,79]
+- Engine Capacity: 3.6 L [75,76]
+- Horsepower: 450 horsepower [84,85]
+- Weight: 1,600 kg [221,222]
+- Torque: 620 newm of torque [87,90]
+- Gearbox: 5-speed automatic gearbox [100,102]
+- Quarter Mile Time: 12.2 seconds [1084,1085]
+
+---
+
+Car 1 Aliases:
+- Porche 91 turbo 
+- Porsche 
+- porker 
+- 911 Turbo 
+---
+Car 2: Skoda Superb
+
+- Engine Type: 2 L turbocharged 4-cylinder engine [132,136]
+- Engine Capacity: 2 L [130,131]
+- Horsepower: 477 horsepower [84,85]
+- Weight: 1,600 kg [221,222]
+- Torque: 661 Newt M of torque [195,199]
+- Gearbox: 7-speed dual clutch automatic gearbox [209,213]
+- Quarter Mile Time: 12.4 seconds [1084,1085]
+
+---
+
+Car 2 Aliases:
+- scoda super 
+- scoda 
+- scoda 
+- scoda 
+---

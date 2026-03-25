@@ -1,0 +1,48 @@
+Transcript Name: BMW X3 M50 v Porsche Macan v AMG GLC DRAG RACE_transcript.txt
+
+Car 1: BMW X3 M50
+- Engine Type: 3 L turbocharged straight six petrol engine [75,81]
+- Engine Capacity: 3 L [76,77]
+- Horsepower: 398 horsepower [86,87]
+- Weight: £1,980 kg [102, 103]
+- Torque: 580 new m of torque. [89,93]
+- Gearbox: 8-speed automatic gearbox with launch control. [102,107]
+- Quarter Mile Time: 12.7 seconds. [1728,1729]
+
+Car 1 Aliases:
+- BMW X3 M50 
+- BMW 
+- BMW 
+- BMW 
+---
+Car 2: Porsche Macan GTS
+- Engine Type: 2.9 L twinturbo V6 [127,130]
+- Engine Capacity: 2.9 L [128,129]
+- Horsepower: 440 horsepower [134,135]
+- Weight: 1,960 kg [162,163]
+- Torque: 550 new meters of torque [137,141]
+- Gearbox: 7-speed automatic gearbox with launch control. [102,107]
+- Quarter Mile Time: 12.8 seconds [1733,1734]
+
+Car 2 Aliases:
+- Porsche Macan GTS 
+- Porsche 
+- Porsche 
+- Porsche 
+---
+Car 3: Mercedes AMG GLC 43 coupe
+- Engine Type: 2 L turbocharged 4-cylinder petrol engine [178,183]
+- Engine Capacity: 2 L [177,178]
+- Horsepower: 421 horsepower [134,135]
+- Weight: 1,995 kg, [218,219]
+- Torque: 500 new meters of torque. [137,141]
+- Gearbox: 9-speed automatic gearbox with launch control. [102,107]
+- Quarter Mile Time: 12.9 seconds. [1745,1746]
+
+Car 3 Aliases:
+- Mercedes AMG GLC 43 
+- GLC 43 
+- AMG 
+- Mercedes 
+- Mercedes 
+---

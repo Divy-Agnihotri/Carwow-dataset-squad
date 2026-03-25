@@ -1,0 +1,36 @@
+Transcript Name: V10 Dodge Viper v V8 Challenger DRAG RACE_transcript
+
+---
+
+Car 1: Dodge Viper GTS Mark I
+
+- Engine Type: 8 L natur aspirated V10 [70,74]
+- Engine Capacity: 8 L [70,71]
+- Horsepower: 456 horsepower [78,79]
+- Weight: 1,595 kg [104,105]
+- Torque: 664 Newt M of torque [81,85]
+- Gearbox: six-speed manual gearbox [95,97]
+- Quarter Mile Time: 12.7 seconds [1128,1129]
+
+---
+
+Car 1 Aliases:
+- Dodge Viper GTS Mark I 
+- Viper 
+- Dodge 
+---
+Car 2: Dodge Challenger RT Scat Pack
+
+- Engine Type: 6.4 L V8 [135,137]
+- Engine Capacity: 6.4 L [135,136]
+- Horsepower: 492 horsepower [78,79]
+- Weight: 1,957 kg [164,165]
+- Torque: 644 NM of torque [142,145]
+- Gearbox: 8-speed automatic gearbox [155,157]
+- Quarter Mile Time: 13.1 seconds [1134,1135]
+
+---
+
+Car 2 Aliases:
+- Dodge Challenger 
+- Challenger 

@@ -1,0 +1,45 @@
+Transcript Name: Lamborghini Revuelto v Ferrari 296 SF90 DRAG RACE_transcript
+
+Car 1: Lamborghini Revuelto
+
+- Engine Type: 6.5 L natural aspirated V12 [308,312]
+- Engine Capacity: 6.5 L [309,310]
+- Horsepower: 1,5 horsepower [361,362]
+- Weight: 1,772 kilos dry [373,375]
+- Torque: 1, 162 newm of torque [364,368]
+- Gearbox: 8-speed dual clutch automatic gearbox [282,286]
+- Quarter Mile Time: 10.2 seconds [1264,1265]
+
+Car 1 Aliases:
+- Lamborghini RTO 
+- Revuelto 
+- Lamborghini 
+- Lambo 
+Car 2: Ferrari 296
+
+- Engine Type: 3 l twin turbo V6 M to an electric motor [252,261]
+- Engine Capacity: 3 l [253,254]
+- Horsepower: 830 horsepower [266,267]
+- Weight: 1,470 kilos dry [291,293]
+- Torque: 740 NTM of torque [269,272]
+- Gearbox: 8-speed dual clutch automatic gearbox [282,286]
+- Quarter Mile Time: 10.2 seconds [1264,1265]
+
+Car 2 Aliases:
+- Ferrari 296 
+- 296 
+- Ferrari 
+Car 3: Ferrari SF90
+
+- Engine Type: 4 L twin turbo V8 M to an electric motor [253,262]
+- Engine Capacity: 4 L [1826,1827]
+- Horsepower: 1,000 horsepower [1874,1875]
+- Weight: 1,570 kilos dry [291,293]
+- Torque: 800 NT M of torque [1877,1881]
+- Gearbox: 8-speed dual clutch automatic gearbox [282,286]
+- Quarter Mile Time: 9.8 seconds [3306,3307]
+
+Car 3 Aliases:
+- Ferrari sf90 
+- sf90 
+- Ferrari 

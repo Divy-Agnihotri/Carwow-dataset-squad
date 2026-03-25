@@ -1,0 +1,38 @@
+Transcript Name: TUNED Dodge Viper v Ford Mustang DRAG RACE_transcript
+
+---
+
+Car 1: Ford Mustang GT CS850
+
+- Engine Type: 5 L supercharged V8 [77,80]
+- Engine Capacity: 5 L [78,79]
+- Horsepower: 850 horsepower [31,32]
+- Weight: 1,900 kg. [142,143]
+- Torque: 92 Newton meters of torque. [113,117]
+- Gearbox: six-speed manual gearbox, [131,133]
+- Quarter Mile Time: 12.6 seconds [2416,2417]
+
+---
+
+Car 1 Aliases:
+- Ford Mustang 
+- Mustang 
+- Ford 
+---
+Car 2: Dodge Viper GTC
+
+- Engine Type: 4 L naturally aspirated V10 [164,168]
+- Engine Capacity: 8.4 L [2068,2069]
+- Horsepower: 710 horsepower [31,32]
+- Weight: 1,560 kg. [213,214]
+- Torque: 786 new m of torque. [187,191]
+- Gearbox: six-speed manual gearbox, [131,133]
+- Quarter Mile Time: 12.3 seconds. [2410,2411]
+
+---
+
+Car 2 Aliases:
+- Dodge Viper GTC 
+- Viper 
+- Dodge 
+---

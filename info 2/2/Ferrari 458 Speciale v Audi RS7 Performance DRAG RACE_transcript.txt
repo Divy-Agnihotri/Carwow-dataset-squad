@@ -1,0 +1,47 @@
+Transcript Name: Ferrari 458 Speciale v Audi RS7 Performance DRAG RACE_transcript
+
+Car 1: Ferrari 458 Speciale
+- Engine Type: 4.5 L natur aspirated V8 [111,115]
+- Engine Capacity: 4.5 L [112,113]
+- Horsepower: 605 horsepower [120,121]
+- Weight: 1,395 kilos [147,148]
+- Torque: 540 newm of torque [123,126]
+- Gearbox: 7-speed dual clutch automatic gearbox [136,140]
+- Quarter Mile Time: 11.6 seconds [1220,1221]
+
+Car 1 Aliases:
+- Ferrari 458 Speciale 
+- Ferrari 
+- this 
+- my car 
+- the Ferrari 
+---
+Car 2: Audi RS7
+- Engine Type: 4 L twin turbo V8 [162,166]
+- Engine Capacity: 4 L [162,163]
+- Horsepower: 630 horsepower [120,121]
+- Weight: 2,065 kilos [197,198]
+- Torque: 850 NT M of torque [171,175]
+- Gearbox: 8-speed automatic gearbox with a torque converter [184,190]
+- Quarter Mile Time: 11.3 seconds [1214,1215]
+
+Car 2 Aliases:
+- Audi RS7 
+- Audi 
+- this 
+- the RS7 
+---
+Car 3: Audi S3
+- Engine Type: 2 L 4-cylinder turbocharged [213,216]
+- Engine Capacity: 2 L [211,212]
+- Horsepower: 630 horsepower [120,121]
+- Weight: 1,610 kg [250,251]
+- Torque: 420 new M of torque [223,227]
+- Gearbox: 7-speed dual clutch automatic gearbox with launch control [236,243]
+- Quarter Mile Time: 12.9 seconds [1226,1227]
+
+Car 3 Aliases:
+- Audi S3 
+- this 
+- the S3 
+---

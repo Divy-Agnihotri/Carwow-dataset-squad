@@ -1,0 +1,30 @@
+Transcript Name: BMW M4 CS v M8 Competition DRAG RACE_transcript.txt
+
+Car 1: BMW M4 CS
+- Engine Type: 3 L twinturbo straight 6, [59,63]
+- Engine Capacity: 3 L [60,61]
+- Horsepower: 550 horsepower, [65,66]
+- Weight: 1,760 kg [89,90]
+- Torque: 650 new m of torque, [67,71]
+- Gearbox: 8-speed automatic gearbox with launch control. [79,84]
+- Quarter Mile Time: 10.8 seconds. [911,912]
+
+Car 1 Aliases:
+- BMW M4 CS 
+- M4 CS 
+- M4 CS 
+---
+Car 2: BMW M8 Competition
+- Engine Type: 4.4 L twinturbo V8, [102,105]
+- Engine Capacity: 4.4 L [102,103]
+- Horsepower: 625 horsepower, [65,66]
+- Weight: 1,975 kg [131,132]
+- Torque: 750 N meters of torque, [108,112]
+- Gearbox: 8-speed automatic gearbox [80,82]
+- Quarter Mile Time: 10.8 seconds. [911,912]
+
+Car 2 Aliases:
+- BMW M8 Competition 
+- M8 Competition 
+- M8 
+---

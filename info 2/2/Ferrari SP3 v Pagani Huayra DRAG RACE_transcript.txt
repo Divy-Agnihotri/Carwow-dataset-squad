@@ -1,0 +1,34 @@
+Transcript Name: Ferrari SP3 v Pagani Huayra DRAG RACE_transcript
+
+Car 1: Ferrari Daytona SP3
+- Engine Type: 6.5 L naturally aspirated V12, [58,62]
+- Engine Capacity: 6.5 L [59,60]
+- Horsepower: 840 horsepower, [64,65]
+- Weight: 1,600 kg [94,95]
+- Torque: 697 new m of torque. [66,70]
+- Gearbox: seven-speed dual clutch automatic gearbox with launch control. [81,88]
+- Quarter Mile Time: 10.6 seconds. [846,847]
+
+Car 1 Aliases:
+- Ferrari SP3 
+- Ferrari Daytona SP3 
+- Ferrari 
+- this car 
+- the Ferrari 
+---
+Car 2: Pagani Huayra Roadster BC
+- Engine Type: 6 L twin turbo V12, [110,114]
+- Engine Capacity: 6 L [110,111]
+- Horsepower: 802 horsepower, [64,65]
+- Weight: 1,350 kg [141,142]
+- Torque: 1,50 new m of torque, [118,122]
+- Gearbox: 7-speed automated manual gearbox with launch control. [129,135]
+- Quarter Mile Time: 11.2 seconds. [852,853]
+
+Car 2 Aliases:
+- Pagani Huayra 
+- Pagani Huayra Roadster BC 
+- Pagani 
+- this car 
+- the Pagani 
+---

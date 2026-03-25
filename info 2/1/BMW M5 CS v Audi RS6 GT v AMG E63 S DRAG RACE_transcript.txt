@@ -1,0 +1,47 @@
+Transcript Name: BMW M5 CS v Audi RS6 GT v AMG E63 S DRAG RACE_transcript.txt
+
+Car 1: Audi RS6 GT
+- Engine Type: 4 L twin turbo V8 [77,81]
+- Engine Capacity: 4 L [77,78]
+- Horsepower: 630 horsepower [83,84]
+- Weight: 2,75 kg. [112,113]
+- Torque: 850 new m of torque. [86,90]
+- Gearbox: 8-speed automatic gearbox, [102,104]
+- Quarter Mile Time: 11.3 seconds [2398,2399]
+
+Car 1 Aliases:
+- Audi RS6 GT 
+- RS6 GT 
+- Audi 
+- RS6 
+---
+Car 2: BMW M5 CS
+- Engine Type: 4.4 L twin turbo V8 [77,81]
+- Engine Capacity: 4.4 L [140,141]
+- Horsepower: 635 horsepower [83,84]
+- Weight: £1,825 kg, [160, 161]
+- Torque: 750 new m of torque. [86,90]
+- Gearbox: 8-speed automatic gearbox, [102,104]
+- Quarter Mile Time: 11 seconds [2398,2399]
+
+Car 2 Aliases:
+- BMW M5 CS 
+- M5 CS 
+- M5 
+- BMW 
+- Beamer 
+---
+Car 3: Mercedes AMG E63S
+- Engine Type: 4 L twin turbo V8 [77,81]
+- Engine Capacity: 4 L [77,78]
+- Horsepower: 612 horsepower [83,84]
+- Weight: 1,990 kilos. [240,241]
+- Torque: 850 new m of torque. [86,90]
+- Gearbox: 9-speed multiclutch automatic gearbox. [230,233]
+- Quarter Mile Time: 11.5 seconds. [2398,2399]
+
+Car 3 Aliases:
+- Mercedes MG E63S 
+- E63S 
+- Mercedes 
+---

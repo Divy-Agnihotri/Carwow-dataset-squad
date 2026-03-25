@@ -1,0 +1,32 @@
+Transcript Name: Lamborghini Urus v RS7 Performance DRAG RACE_transcript
+
+Car 1: Lamborghini Urus
+
+- Engine Type: 4 L twinturbo V8 [61,64]
+- Engine Capacity: 4 L [61,62]
+- Horsepower: 650 horsepower [68,69]
+- Weight: 2.2 tons. [99,100]
+- Torque: 850 new m of torque. [71,75]
+- Gearbox: 8-speed torque converter automatic gearbox, [86,90]
+- Quarter Mile Time: 11.6 seconds. [988,989]
+
+Car 1 Aliases:
+- Lamborghini Urus 
+- Urus 
+- Lambo Urus 
+- Lamborghini 
+Car 2: Audi RS7 Performance
+
+- Engine Type: same engine as the Lamborghini, [116,120]
+- Engine Capacity: [EMPTY]
+- Horsepower: 630 horsepower [68,69]
+- Weight: 2,65 kg. [157,158]
+- Torque: 850 new m of torque. [71,75]
+- Gearbox: 8-speed torque converter, automatic gearbox, [87,91]
+- Quarter Mile Time: 11.4 seconds. [981,982]
+
+Car 2 Aliases:
+- RS7 Performance 
+- Audi RS7 Performance 
+- RS7 
+- Audi 

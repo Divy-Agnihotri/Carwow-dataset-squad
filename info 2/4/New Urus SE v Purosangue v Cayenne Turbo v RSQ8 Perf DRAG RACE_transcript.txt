@@ -1,0 +1,76 @@
+Transcript Name: New Urus SE v Purosangue v Cayenne Turbo v RSQ8 Perf DRAG RACE_transcript
+
+---
+
+Car 1: Porsche Cayenne Coupe Turbo E-Hybrid with GT pack
+
+- Engine Type: 4 liter twin turbo V8 with an electric motor. [170,178]
+- Engine Capacity: 4 liter [86,87]
+- Horsepower: 739 horsepower, [133,134]
+- Weight: 2,495 kg [264,265]
+- Torque: 950 new meters of torque, [93,97]
+- Gearbox: 8-speed automatic gearbox [106,108]
+- Quarter Mile Time: 11.4 seconds. [2919,2920]
+
+---
+
+Car 1 Aliases:
+- Porsche Cayen Turbo E Hybrid with GT package 
+- Porsche 
+- Cayenne Coupe Turbo Eh Hybrid with GT pack 
+- Porsche 
+---
+Car 2: Lamborghini Urus SE
+
+- Engine Type: 4 liter twin turbo V8 with an electric motor. [170,178]
+- Engine Capacity: 4 liter [86,87]
+- Horsepower: 800 horsepower, [91,92]
+- Weight: 2,500 kg [212,213]
+- Torque: 950 new m of torque, [190,194]
+- Gearbox: 8-speed automatic gearbox [106,108]
+- Quarter Mile Time: 11.5 seconds. [2937,2938]
+
+---
+
+Car 2 Aliases:
+- Lamborghini Urus SE 
+- Lambo 
+- Urus 
+- Urus SA 
+- Lamborgh 
+---
+Car 3: Ferrari Purosangue
+
+- Engine Type: naturally aspirated 6.5 L V12 [126,130]
+- Engine Capacity: 6.5 L [129,130]
+- Horsepower: 725 horsepower, [133,134]
+- Weight: 2,150 kg [157,158]
+- Torque: 716 Nm of torque, [135,138]
+- Gearbox: 8-speed automatic gearbox [106,108]
+- Quarter Mile Time: 11.6 seconds. [2954,2955]
+
+---
+
+Car 3 Aliases:
+- Ferrari Purus Sanguay 
+- Ferrari 
+- Pro Sang 
+- Ferrari 
+---
+Car 4: Audi RSQ8 performance
+
+- Engine Type: 4 liter twin turbo V8 [85,89]
+- Engine Capacity: 4 liter [86,87]
+- Horsepower: 640 horsepower, [91,92]
+- Weight: 2,275 kg [115,116]
+- Torque: 850 Newton meters of torque, [93,97]
+- Gearbox: 8-speed automatic gearbox [106,108]
+- Quarter Mile Time: 11.5 seconds. [2937,2938]
+
+---
+
+Car 4 Aliases:
+- Audi RSQ8 performance 
+- RSQ8 
+- Audi 
+---

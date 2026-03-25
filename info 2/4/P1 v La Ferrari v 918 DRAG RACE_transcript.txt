@@ -1,0 +1,55 @@
+Transcript Name: P1 v La Ferrari v 918 DRAG RACE_transcript
+
+---
+
+Car 1: McLaren P1
+
+- Engine Type: 3.8 8 L twin turbo V8 with an electric motor, [74,83]
+- Engine Capacity: 3.8 8 L [64, 66]
+- Horsepower: 916 horsepower, [85,86]
+- Weight: 1,500 kilos, [109,110]
+- Torque: 900 Newton meters, [87,89]
+- Gearbox: 7-speed dual clutch automatic gearbox [97,101]
+- Quarter Mile Time: 10.5 seconds [852,853]
+
+---
+
+Car 1 Aliases:
+- McLaren P1 
+- P1 
+- McLaren 
+---
+Car 2: Porsche 918 Spider
+
+- Engine Type: 4.6 L naturally aspirated V8 with two electric motors, [124,132]
+- Engine Capacity: 4.6 L [125,126]
+- Horsepower: 887 horsepower, [134,135]
+- Weight: 1,600 kilos [156,157]
+- Torque: 1,280 Nm [137,138]
+- Gearbox: 7-speed dual clutch automatic [97,100]
+- Quarter Mile Time: 10.2 seconds. [846,847]
+
+---
+
+Car 2 Aliases:
+- Porsche 918 Spider 
+- Porsche 
+- 918 
+---
+Car 3: LaFerrari Aperta
+
+- Engine Type: 6.3 L naturally aspirated V12 with an electric motor, [125,133]
+- Engine Capacity: 6.3 L [172,173]
+- Horsepower: 963 horsepower, [85,86]
+- Weight: 1,600 kg [204,205]
+- Torque: 900 new meters, [87,89]
+- Gearbox: seven-speed dual clutch automatic [97,100]
+- Quarter Mile Time: 11.1 seconds. [862,863]
+
+---
+
+Car 3 Aliases:
+- Laferrari Aperta 
+- Ferrari 
+- La Ferrari 
+- Ferrari 

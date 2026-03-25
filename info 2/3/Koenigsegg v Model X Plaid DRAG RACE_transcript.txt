@@ -1,0 +1,31 @@
+Transcript Name: Koenigsegg v Model X Plaid DRAG RACE_transcript
+
+Car 1: Koenigsegg Agera RS
+
+- Engine Type: 5 L twin turbo V8 [59,63]
+- Engine Capacity: 5 L [59,60]
+- Horsepower: 1,360 horsepower [68,69]
+- Weight: 1,395 kg [103,104]
+- Torque: 1, 1570 newm of torque [71,75]
+- Gearbox: 7-speed dual clutch automatic gearbox [89,93]
+- Quarter Mile Time: 10.2 seconds [1635,1636]
+
+Car 1 Aliases:
+- kex egg Agera RS 
+- Koenigsegg 
+- Kix egg 
+- conic egg 
+Car 2: Tesla Model X Plaid
+
+- Engine Type: three electric motors [117,119]
+- Engine Capacity: [EMPTY]
+- Horsepower: 1,20 horsepower [141,142]
+- Weight: 2,468 kg [170,171]
+- Torque: 1,420 Newt M of torque [145,149]
+- Gearbox: single speed transmission [153,155]
+- Quarter Mile Time: 10.2 seconds [1635,1636]
+
+Car 2 Aliases:
+- Tesla Model X plaid 
+- plaid 
+- Tesla 

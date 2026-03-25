@@ -1,0 +1,40 @@
+Transcript Name: New Porsche 911 v Shelby GT 350 DRAG RACE_transcript
+
+---
+
+Car 1: Porsche 911 Carrera
+
+- Engine Type: 3 l turbocharged Flat 6 [77,81]
+- Engine Capacity: 3 l [78,79]
+- Horsepower: 394 horsepower [84,85]
+- Weight: 1,520 kg [106,107]
+- Torque: 450 NM of torque [86,89]
+- Gearbox: 8speed dual clutch automatic gearbox [95,99]
+- Quarter Mile Time: 12.3 seconds [1020,1021]
+
+---
+
+Car 1 Aliases:
+- Porsche 911 
+- Porsche 911 Carrera 
+- Porsche 
+- this Porsche 
+---
+Car 2: Shelby GT 350
+
+- Engine Type: 5.2 L naturo aspirated V8 [121,125]
+- Engine Capacity: 5.2 L [122,123]
+- Horsepower: 600 horsepower [131,132]
+- Weight: 1,680 kg [179,180]
+- Torque: 597 NT M [151,153]
+- Gearbox: 6-speed manual gearbox [164,166]
+- Quarter Mile Time: 12.8 seconds [1026,1027]
+
+---
+
+Car 2 Aliases:
+- Shelby GT 350 
+- Ford 
+- muscle car 
+- Mustang 
+---

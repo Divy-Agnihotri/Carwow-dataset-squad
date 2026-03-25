@@ -1,0 +1,48 @@
+Transcript Name: BMW M5 Touring v Panamera Turbo v RS6 Perf DRAG RACE_transcript.txt
+
+Car 1: Audi RS6 performance
+- Engine Type: 4 L twin turbo V8 [84,88]
+- Engine Capacity: 4 L [84,85]
+- Horsepower: 630 horsepower, [108,109]
+- Weight: 2.1 tons. [122,123]
+- Torque: 850 new meters of torque, [110,114]
+- Gearbox: 8-speed automatic gearbox with launch control. [96,101]
+- Quarter Mile Time: 11.4 seconds. [1672,1673]
+
+Car 1 Aliases:
+- Audi RS6 performance 
+- RS6 
+- Audi 
+- RS6 
+---
+Car 2: Porsche Panamera Turbo SE hybrid
+- Engine Type: [Empty]
+- Engine Capacity: [Empty]
+- Horsepower: 782 horsepower [176,177]
+- Weight: 2,360 kilos. [262,263]
+- Torque: 1,000 Newton meters. [192,194]
+- Gearbox: PDK gearbox. [516,517]
+- Quarter Mile Time: 10.8 seconds. [1648,1649]
+
+Car 2 Aliases:
+- Porsche Panamera Turbo SE hybrid 
+- Porsche 
+- Panamera 
+- Porsche 
+- Panamera 
+---
+Car 3: BMW M5 Touring
+- Engine Type: 4.4 L twin turbo V8, [84,88]
+- Engine Capacity: 4.4 L [449,450]
+- Horsepower: 727 horsepower [176,177]
+- Weight: 2.5 tons. [464,465]
+- Torque: 1,000 new m of torque. [439,443]
+- Gearbox: 8-speed automatic gearbox [97,99]
+- Quarter Mile Time: 11.4 seconds. [1672,1673]
+
+Car 3 Aliases:
+- BMW M5 Touring 
+- BMW 
+- BMW 
+- M5 
+---

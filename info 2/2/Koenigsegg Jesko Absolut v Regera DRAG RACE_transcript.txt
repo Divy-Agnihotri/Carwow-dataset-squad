@@ -1,0 +1,32 @@
+Transcript Name: Koenigsegg Jesko Absolut v Regera DRAG RACE_transcript
+
+Car 1: Koenigsegg Jesko Absolut
+- Engine Type: 5 L twin turbo V8 [90,94]
+- Engine Capacity: 5 L [90,91]
+- Horsepower: 1,600 horsepower [101,102]
+- Weight: 1,390 kg [134,135]
+- Torque: and500 new m of torque. [103,107]
+- Gearbox: 9-speed multi-clutch automatic gearbox [101, 104]
+- Quarter Mile Time: 8.9 seconds. [1499,1500]
+
+Car 1 Aliases:
+- Koenigsegg Jesko Absolut 
+- Koenigsegg 
+- this car 
+- the Jesko 
+---
+Car 2: Koenigsegg Regera
+- Engine Type: 5 L twin turbo V8 [90,94]
+- Engine Capacity: 5 L [90,91]
+- Horsepower: 1500 horsepower [101,102]
+- Weight: 1,590 kg [238,239]
+- Torque: 2,000 new meters of torque. [179,183]
+- Gearbox: single speed torque converter gearbox. [194,198]
+- Quarter Mile Time: 10.2 seconds. [1505,1506]
+
+Car 2 Aliases:
+- Koenigsegg Regera 
+- Koenigsegg 
+- this car 
+- the Regera 
+---

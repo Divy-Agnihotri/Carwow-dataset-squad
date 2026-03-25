@@ -1,0 +1,32 @@
+Transcript Name: Can a 1000hp BMW M3 beat a Ferrari SF90_transcript
+
+Car 1: BMW M3 Touring
+- Engine Type: built engine [44,45]
+- Engine Capacity: [empty]
+- Horsepower: 1,000 horsepower [48,49]
+- Weight: 1,865 kg [131,132]
+- Torque: 1,100 new meters of torque. [107,111]
+- Gearbox: 8-speed automatic gearbox with launch control. [121,126]
+- Quarter Mile Time: 9.6 seconds. [1868,1869]
+
+Car 1 Aliases:
+- BMW M3 Touring 
+- BMW 
+- M3 Touring 
+- this car 
+- the BMW 
+---
+Car 2: Ferrari SF90 Spider
+- Engine Type: 4 L twin turbo V8 with three electric motors, [145,153]
+- Engine Capacity: 4 L [146,147]
+- Horsepower: 1,000 horsepower [48,49]
+- Weight: 1,770 kg [178,179]
+- Torque: 800 Nm of torque, [158,161]
+- Gearbox: 8-speed automatic gearbox with launch control. [121,126]
+- Quarter Mile Time: 9.6 seconds. [1868,1869]
+
+Car 2 Aliases:
+- Ferrari SF90 
+- Ferrari SF90 Spider 
+- Ferrari 
+---

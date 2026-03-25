@@ -1,0 +1,38 @@
+Transcript Name: New Mustang V8 v BMW M2 DRAG RACE_transcript
+
+---
+
+Car 1: BMW M2
+
+- Engine Type: 3 L twin turbo straight 6 [75,80]
+- Engine Capacity: 3 L [76,77]
+- Horsepower: 480 horsepower [85,86]
+- Weight: 1,85 kg. [112,113]
+- Torque: 600 new m of torque. [88,92]
+- Gearbox: 8-speed automatic gearbox [104,106]
+- Quarter Mile Time: 11.9 seconds. [3033,3034]
+
+---
+
+Car 1 Aliases:
+- BMW M2 
+- M2 
+- BMW 
+---
+Car 2: Ford Mustang
+
+- Engine Type: 5 L naturally aspirated V8 [124,128]
+- Engine Capacity: 5 L [125,126]
+- Horsepower: 486 horsepower [85,86]
+- Weight: 1.7 tons. [172,173]
+- Torque: 567 new m of torque, [88,92]
+- Gearbox: [EMPTY]
+- Quarter Mile Time: 13.6 seconds. [3039,3040]
+
+---
+
+Car 2 Aliases:
+- Mustang GT 
+- Mustang 
+- Ford 
+---

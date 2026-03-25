@@ -1,0 +1,39 @@
+Transcript Name: Tuned BMW X3M v Lambo Aventador SVJ DRAG RACE_transcript
+
+---
+
+Car 1: Lamborghini Aventador SVJ
+
+- Engine Type: 6.5 L naturally aspirated 60°ree V12. [148,153]
+- Engine Capacity: 6.5 L [149,150]
+- Horsepower: 760 horsepower [51,52]
+- Weight: [EMPTY]
+- Torque: 720 Nm of torque. [161,164]
+- Gearbox: single clutch ISR transmission, [186,189]
+- Quarter Mile Time: 10.7 seconds. [1572,1573]
+
+---
+
+Car 1 Aliases:
+- Lamborghini Aventador SVJ 
+- SVJ 
+- Lamborghini 
+- Lambo 
+---
+Car 2: BMW X3M
+
+- Engine Type: 3 L straight 6 twin turbo. [263,268]
+- Engine Capacity: 3 L [263,264]
+- Horsepower: 730 horsepower [51,52]
+- Weight: [EMPTY]
+- Torque: 880 Nm of torque. [161,164]
+- Gearbox: ECU remap for the gearbox. [317,321]
+- Quarter Mile Time: 10.9 seconds. [1578,1579]
+
+---
+
+Car 2 Aliases:
+- BMW X3M 
+- X3M 
+- BMW 
+---

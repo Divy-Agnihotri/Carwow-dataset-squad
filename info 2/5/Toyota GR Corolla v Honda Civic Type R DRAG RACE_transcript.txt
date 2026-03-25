@@ -1,0 +1,38 @@
+Transcript Name: Toyota GR Corolla v Honda Civic Type R DRAG RACE_transcript
+
+---
+
+Car 1: Honda Civic Type R
+
+- Engine Type: 2 L turbocharged 4-cylinder petrol engine [66,71]
+- Engine Capacity: 2 L [65,66]
+- Horsepower: 329 horsepower [74,75]
+- Weight: 1,429 kg [100,101]
+- Torque: 420 new m of torque. [77,81]
+- Gearbox: six-speed manual gearbox. [93,95]
+- Quarter Mile Time: 14.3 seconds. [1620,1621]
+
+---
+
+Car 1 Aliases:
+- Civic Type R 
+- Honda 
+- Civic 
+---
+Car 2: Toyota GR Corolla
+
+- Engine Type: 1.6 L turbocharged 3-cylinder petrol engine [67,72]
+- Engine Capacity: 1.6 L [114,115]
+- Horsepower: 304 horsepower [74,75]
+- Weight: 1,475 kg [149,150]
+- Torque: 370 new m of torque. [77,81]
+- Gearbox: six-speed manual gearbox. [93,95]
+- Quarter Mile Time: 14 seconds. [1620,1621]
+
+---
+
+Car 2 Aliases:
+- Toyota GR Corolla 
+- GR 
+- Toyota 
+---

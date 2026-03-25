@@ -1,0 +1,33 @@
+Transcript Name: BMW M4 v 500hp Diesel Nitrous M4 DRAG RACE_transcript.txt
+
+Car 1: F82 BMW M4
+- Engine Type: 3 L twinturbo straight 6 engine [80,85]
+- Engine Capacity: 3 L [80,81]
+- Horsepower: 431 horsepower [87,88]
+- Weight: 1,600 kg [117,118]
+- Torque: 550 new m of torque. [90,94]
+- Gearbox: seven-speed automatic gearbox with launch control. [107,112]
+- Quarter Mile Time: 12.4 seconds. [917,918]
+
+Car 1 Aliases:
+- F82 M4 
+- F82 BMW M4 
+- M4 
+---
+Car 2: Diesel powered F82 M4 (tuned)
+- Engine Type: 3 L twin turbo straight. [79,83]
+- Engine Capacity: 3 L [80,81]
+- Horsepower: 485 [251,251]
+- Weight: [Empty]
+- Torque: 1,000 new meters of torque. [362,366]
+- Gearbox: [Empty]
+- Quarter Mile Time: 12.2 seconds. [917,918]
+
+Car 2 Aliases:
+- diesel powered F82 M4 
+- diesel powered M4 
+- tune diesel 
+- G82 M4 
+- G82 BMW M4 
+- M4 
+---

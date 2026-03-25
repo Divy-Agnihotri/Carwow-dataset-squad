@@ -1,0 +1,35 @@
+Transcript Name: Can I beat a V12 Ferrari in a Kia_transcript
+
+Car 1: Kia EV6 GT
+- Engine Type: motor on the front axle, one on the rear. [84,92]
+- Engine Capacity: [empty]
+- Horsepower: 640 horsepower, [101,102]
+- Weight: 2.2 tons. [158,159]
+- Torque: 770 Newton meters of torque. [117,121]
+- Gearbox: [empty]
+- Quarter Mile Time: 11.4 seconds. [1666,1667]
+
+Car 1 Aliases:
+- Kia EV6 GT 
+- Kia 
+- this thing 
+- my car 
+- Mine 
+- the Kia 
+---
+Car 2: Ferrari Purosangue
+- Engine Type: 6.5 L naturally aspirated V12 engine. [219,224]
+- Engine Capacity: 6.5 L [220,221]
+- Horsepower: 700 horsepower. [289,290]
+- Weight: [empty]
+- Torque: 716 Nm of torque [293,296]
+- Gearbox: two gearboxes. [301,302]
+- Quarter Mile Time: 11.5 seconds. [1645,1646]
+
+Car 2 Aliases:
+- Ferrari Purosangue 
+- Ferrari 
+- your Ferrari 
+- Yours 
+- the Ferrari 
+---

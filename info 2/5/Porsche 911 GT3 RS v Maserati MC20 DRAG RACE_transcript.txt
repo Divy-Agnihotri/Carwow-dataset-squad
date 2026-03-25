@@ -1,0 +1,40 @@
+Transcript Name: Porsche 911 GT3 RS v Maserati MC20 DRAG RACE_transcript
+
+---
+
+Car 1: Maserati MC20
+
+- Engine Type: mid-mounted 3 L V6 engine, twin turbos, [76,82]
+- Engine Capacity: 3 L [77,78]
+- Horsepower: 630 horsepower [103,104]
+- Weight: 1.5 tons [117,118]
+- Torque: 730 new meters of torque. [106,110]
+- Gearbox: 8-speed dual clutch automatic gearbox with launch control. [90,97]
+- Quarter Mile Time: 11 seconds. [1492,1493]
+
+---
+
+Car 1 Aliases:
+- Maserati 
+- MC20 
+- Maserati 
+- car 
+---
+Car 2: Porsche 911 GT3 RS
+
+- Engine Type: 4 L naturally aspirated [335,338]
+- Engine Capacity: 4 L [335,336]
+- Horsepower: 520 horsepower, [331,332]
+- Weight: [EMPTY]
+- Torque: 465 Nm. [382,383]
+- Gearbox: [EMPTY]
+- Quarter Mile Time: 11.2 seconds. [1492,1493]
+
+---
+
+Car 2 Aliases:
+- Porsche 
+- 911 GT3 RS 
+- 3 RS 
+- Porsche 
+---

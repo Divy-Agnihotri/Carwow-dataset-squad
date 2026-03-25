@@ -1,0 +1,40 @@
+Transcript Name: Porsche 911 Hybrid v BMW M8 Comp DRAG RACE_transcript
+
+---
+
+Car 1: Porsche 911 Carrera Ford GTS hybrid
+
+- Engine Type: 3.6 L flat 6 turbo with a new electric turbo and an electric motor. [64,77]
+- Engine Capacity: 3.6 L [65,66]
+- Horsepower: 541 horsepower [82,83]
+- Weight: 1,645 kg [112,113]
+- Torque: 610 new m of torque. [85,89]
+- Gearbox: 8-speed dual clutch automatic gearbox with launch control. [100,107]
+- Quarter Mile Time: 10.7 seconds. [901,902]
+
+---
+
+Car 1 Aliases:
+- Porsche 911 GTS 
+- Porsche 
+- GTS 
+- Porsche 
+- Porsche 
+---
+Car 2: BMW M8 Competition
+
+- Engine Type: 4.4 L twin turbo V8, [124,128]
+- Engine Capacity: 4.4 L [124,125]
+- Horsepower: 625 horsepower, [129,130]
+- Weight: 1,975 kg [154,155]
+- Torque: 750 new m of torque, [85,89]
+- Gearbox: 8-speed automatic gearbox, [144,146]
+- Quarter Mile Time: 10.8 seconds. [907,908]
+
+---
+
+Car 2 Aliases:
+- BMW M8 competition 
+- BMW 
+- M8 
+---

@@ -1,0 +1,49 @@
+Transcript Name: Koenigsegg Jesko v Lambo Revuelto v 1000hp BMW M3 DRAG RACE_transcript
+
+Car 1: Lamborghini Roalto
+
+- Engine Type: 6.5 L naturally aspirated V12 with three electric motors, [72,80]
+- Engine Capacity: 6.5 L [73,74]
+- Horsepower: 1,15 horsepower [100,101]
+- Weight: 1,872 kilos [126,127]
+- Torque: 1 62 new m of torque. [102,107]
+- Gearbox: 8-speed dual clutch automatic gearbox [113,117]
+- Quarter Mile Time: 9.8 seconds [1403,1404]
+
+Car 1 Aliases:
+- Lambo Revuelto 
+- Lamborghini 
+- Revuelto 
+Car 2: Koenig Jesco Attack
+
+- Engine Type: 5 L twin turbo V8 [140,144]
+- Engine Capacity: 5 L [140,141]
+- Horsepower: 1,280 horsepower [100,101]
+- Weight: 1,420 kg [184,185]
+- Torque: 1,000 Nm of torque [150,153]
+- Gearbox: N-speed multiclutch automatic gearbox [172,175]
+- Quarter Mile Time: 9.9 seconds. [1415,1416]
+
+Car 2 Aliases:
+- Koisgco Attack 
+- Koenigsegg 
+- Koigse egg 
+- Yesco 
+- Koix 
+- Koigg 
+- cone exit 
+Car 3: BMW M3 Touring
+
+- Engine Type: fully built 3 L twinturbo straight 6 [203,209]
+- Engine Capacity: 3 L [206,207]
+- Horsepower: 1,00 horsepower [100,101]
+- Weight: 1,865 kg [246,247]
+- Torque: 1,100 Nm of torque. [150,153]
+- Gearbox: 8-speed automatic gearbox [235,237]
+- Quarter Mile Time: 9.5 seconds. [1397,1398]
+
+Car 3 Aliases:
+- BMW M3 
+- BMW 
+- M3 
+- M3 Touring 

@@ -1,0 +1,30 @@
+Transcript Name: McLaren P1 v McLaren 750S DRAG RACE_transcript
+
+Car 1: McLaren P1
+
+- Engine Type: 3.8 8 L twinturbo V8, [513,517]
+- Engine Capacity: 3.8 8 L [456, 458]
+- Horsepower: 916 horsepower, [519,520]
+- Weight: 1,490 kg. [550,551]
+- Torque: 900 Nm. [522,523]
+- Gearbox: 7speed automatic [534,535]
+- Quarter Mile Time: 10.1 seconds. [2435,2436]
+
+Car 1 Aliases:
+- McLaren P1 
+- P1 
+- McLaren 
+Car 2: McLaren 750S
+
+- Engine Type: 4 L twin turbo V8 [74,78]
+- Engine Capacity: 4 L [74,75]
+- Horsepower: 750 horsepower [95,96]
+- Weight: 1,440 kilos [111,112]
+- Torque: 800 new m of torque. [100,104]
+- Gearbox: 7-speed dual clutch automatic gearbox. [87,91]
+- Quarter Mile Time: 10.3 seconds. [2435,2436]
+
+Car 2 Aliases:
+- McLaren 750S 
+- 750S 
+- McLaren 

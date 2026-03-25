@@ -1,0 +1,30 @@
+Transcript Name: BMW M4 CS v Shelby GT 350 DRAG RACE_transcript.txt
+
+Car 1: BMW M4 CS
+- Engine Type: 3 l twin turbo straight 6 [57,62]
+- Engine Capacity: 3 l [58,59]
+- Horsepower: 460 horsepower [64,65]
+- Weight: 1,580 kg [87,88]
+- Torque: 600 NT M [67,69]
+- Gearbox: 7-speed dual clutch Auto with launch control [76,82]
+- Quarter Mile Time: 12.3 seconds [1008,1009]
+
+Car 1 Aliases:
+- BMW m4cs 
+- f82 BMW m4cs 
+- BMW 
+---
+Car 2: Shelby GT 350
+- Engine Type: 5.2 L natur aspirated V8 [103,107]
+- Engine Capacity: 5.2 L [104,105]
+- Horsepower: 600 horsepower [64,65]
+- Weight: 1,680 kg [138,139]
+- Torque: 597 Newt M of torque [117,121]
+- Gearbox: six-speed manual with launch control [130,134]
+- Quarter Mile Time: 12.5 seconds [1014,1015]
+
+Car 2 Aliases:
+- Shelby GT 350 
+- Shelby 
+- GT 350 
+---

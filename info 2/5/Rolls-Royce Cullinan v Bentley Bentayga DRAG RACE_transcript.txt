@@ -1,0 +1,41 @@
+Transcript Name: Rolls-Royce Cullinan v Bentley Bentayga DRAG RACE_transcript
+
+---
+
+Car 1: Rolls-Royce Cullinan Black Badge
+
+- Engine Type: 6.75 L twin turbo V12, [104,108]
+- Engine Capacity: 6.75 L [86, 87]
+- Horsepower: 600 horsepower, [110,111]
+- Weight: 2,660 kg, [131,132]
+- Torque: 900 new meters of torque, [112,116]
+- Gearbox: 8-speed automatic gearbox. [125,127]
+- Quarter Mile Time: 13 seconds. [964,965]
+
+---
+
+Car 1 Aliases:
+- Rolls-Royce Cullin black badge 
+- Cullinan 
+- Rolls-Royce 
+- Rolls-Royce 
+- Cullin 
+---
+Car 2: Bentley Bentayga
+
+- Engine Type: 4 L twin turbo V8, [146,150]
+- Engine Capacity: 4 L [146,147]
+- Horsepower: 550 horsepower, [110,111]
+- Weight: 2,416 kg [172,173]
+- Torque: 770 new m of torque, [153,157]
+- Gearbox: 8-speed automatic gearbox. [125,127]
+- Quarter Mile Time: 12.5 seconds. [964,965]
+
+---
+
+Car 2 Aliases:
+- Bentley Bentega 
+- Bentega 
+- Bentley 
+- Bentley 
+---

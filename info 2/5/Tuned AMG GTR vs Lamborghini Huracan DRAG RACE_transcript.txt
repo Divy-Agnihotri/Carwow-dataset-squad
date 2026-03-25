@@ -1,0 +1,40 @@
+Transcript Name: Tuned AMG GTR vs Lamborghini Huracan DRAG RACE_transcript
+
+---
+
+Car 1: Mercedes AMG GTR
+
+- Engine Type: 4 L twin turbo V8, [74,78]
+- Engine Capacity: 4 L [74,75]
+- Horsepower: 756 horsepower [115,116]
+- Weight: 1,550 kg [152,153]
+- Torque: 1,120 new m of torque. [119,123]
+- Gearbox: seven-speed dual clutch automatic gearbox with launch control. [137,144]
+- Quarter Mile Time: 11.5 seconds. [1865,1866]
+
+---
+
+Car 1 Aliases:
+- AMG GTR 
+- GTR 
+- AMG 
+- Mercedes 
+---
+Car 2: Lamborghini Huracan Evo rear-wheel drive Spider
+
+- Engine Type: 5.2 L naturally aspirated V10 [176,180]
+- Engine Capacity: 5.2 L [177,178]
+- Horsepower: 610 horsepower [115,116]
+- Weight: 1,600 kg [216,217]
+- Torque: 560 Nm of torque. [188,191]
+- Gearbox: seven-speed dual clutch automatic gearbox with launch control. [137,144]
+- Quarter Mile Time: 11.7 seconds. [1871,1872]
+
+---
+
+Car 2 Aliases:
+- Lamborghini Huracan Spider Evo 
+- Lamborghini 
+- Lambo 
+- Lamborghini 
+---

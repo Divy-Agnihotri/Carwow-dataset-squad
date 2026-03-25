@@ -1,0 +1,58 @@
+Transcript Name: AMG G63 v V8 Defender Octa DRAG RACE_transcript.txt
+
+Car 1: Land Rover Defender Octa
+- Engine Type: 4.4 liter twin turbo V8 [125,129]
+- Engine Capacity: 4.4 liter [126,127]
+- Horsepower: 635 horsepower [72,73]
+- Weight: 2510 kg [162,163]
+- Torque: 750 Newton meters of torque. [75,79]
+- Gearbox: 8-speed automatic gearbox. [92,94]
+- Quarter Mile Time: 12.9 seconds, [705,706]
+
+Car 1 Aliases:
+- Land Rover Defender Octa 
+- Defender Octa 
+- Octa 
+---
+Car 2: Land Rover Defender (supercharged)
+- Engine Type: 5 L supercharged V8 [66,69]
+- Engine Capacity: 5 L [67,68]
+- Horsepower: 525 horsepower [72,73]
+- Weight: 2,600 kg. [102,103]
+- Torque: 625 new meters of torque. [75,79]
+- Gearbox: 8-speed automatic gearbox. [92,94]
+- Quarter Mile Time: 13.7 seconds. [714,715]
+
+Car 2 Aliases:
+- Land Rover Defender 
+- old supercharged Defender 
+- Land Rover 
+---
+Car 3: Mercedes AMG G63
+- Engine Type: 4 liter twin turbo V8 [125,129]
+- Engine Capacity: 4 liter [126,127]
+- Horsepower: 585 horsepower [72,73]
+- Weight: 2550 kg [162,163]
+- Torque: 850 Nm of torque. [1328,1331]
+- Gearbox: 9-speed automatic gearbox. [92,94]
+- Quarter Mile Time: 12.8 seconds. [3658,3659]
+
+Car 3 Aliases:
+- Mercedes MG G63 
+- G63 
+- Mercedes 
+---
+Car 4: Ariel Nomad
+- Engine Type: 2.3 L turbocharged 4-cylinder petrol engine [3189,3194]
+- Engine Capacity: 2.3 L [3187,3188]
+- Horsepower: 310 horsepower [135,136]
+- Weight: £715 kg [3226,3227]
+- Torque: 580 Nm of torque. [1328,1331]
+- Gearbox: six-speed manual gearbox with launch control. [3215,3220]
+- Quarter Mile Time: 12.6 seconds. [3638,3639]
+
+Car 4 Aliases:
+- aerial Nomad 
+- Nomad 
+- aerial 
+---

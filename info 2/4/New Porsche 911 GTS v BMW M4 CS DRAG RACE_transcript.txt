@@ -1,0 +1,43 @@
+Transcript Name: New Porsche 911 GTS v BMW M4 CS DRAG RACE_transcript
+
+---
+
+Car 1: Porsche 911 Carrera 4 GTS
+
+- Engine Type: 3.6 L turbocharged flat 6, [64,68]
+- Engine Capacity: 3.6 L [65,66]
+- Horsepower: 541 horsepower, [70,71]
+- Weight: 1,645 kg [92,93]
+- Torque: 610 new m of torque, [72,76]
+- Gearbox: 8-speed automatic gearbox [83,85]
+- Quarter Mile Time: 10.7 seconds. [1322,1323]
+
+---
+
+Car 1 Aliases:
+- Porsche 911 GTS 
+- Porsche 911 Carrera 4 GTS 
+- Porsche 
+- 911 
+- flat 6 
+- this Porsche 
+---
+Car 2: BMW M4 CS
+
+- Engine Type: 3 L twin turbo straight 6, [103,108]
+- Engine Capacity: 3 L [104,105]
+- Horsepower: 550 horsepower, [70,71]
+- Weight: 1,760 kg [132,133]
+- Torque: 650 new m of torque, [72,76]
+- Gearbox: 8-speed automatic gearbox [83,85]
+- Quarter Mile Time: 10.7 seconds. [1322,1323]
+
+---
+
+Car 2 Aliases:
+- BMW M4CS 
+- M4 CS 
+- M4CS 
+- BMW 
+- M4 
+---

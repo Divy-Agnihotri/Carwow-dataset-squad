@@ -1,0 +1,39 @@
+Transcript Name: Mercedes-AMG GT v Hyundai IONIQ 5 N DRAG RACE_transcript
+
+---
+
+Car 1: Hyundai Ioniq 5 N
+
+- Engine Type: two electric motors [78,80]
+- Engine Capacity: [EMPTY]
+- Horsepower: 650 horsepower [101,102]
+- Weight: 2.2 tons [116,117]
+- Torque: 740 NT M of to [104,108]
+- Gearbox: [EMPTY]
+- Quarter Mile Time: 11.4 seconds [894,895]
+
+---
+
+Car 1 Aliases:
+- hyai ionic 5n 
+- hyai 
+- electric car 
+- H ey 
+---
+Car 2: Mercedes-AMG GT coupe 63
+
+- Engine Type: [EMPTY]
+- Engine Capacity: [EMPTY]
+- Horsepower: 585 horsepower [101,102]
+- Weight: 2 tons [116,117]
+- Torque: 800 NT M of torque [249,253]
+- Gearbox: 9-speed automatic gearbox [260,262]
+- Quarter Mile Time: 11.4 seconds [894,895]
+
+---
+
+Car 2 Aliases:
+- Mercedes mg GT coupe 63 
+- AMG 
+- Mercedes 
+---

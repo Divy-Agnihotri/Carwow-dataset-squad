@@ -1,0 +1,31 @@
+Transcript Name: Lambo Revuelto v Aventador SVJ DRAG RACE_transcript
+
+Car 1: Lamborghini Revuelto
+
+- Engine Type: 6.5 L natural aspirated V12 engine M to an electric motor [85,95]
+- Engine Capacity: 6.5 L [86,87]
+- Horsepower: 1,5 horsepower [132,133]
+- Weight: 1,772 kilos dry [145,147]
+- Torque: 1,62 newm of torque [136,139]
+- Gearbox: 8-speed dual clutch automatic gearbox [105,109]
+- Quarter Mile Time: 10 seconds [1886,1887]
+
+Car 1 Aliases:
+- Lamborghini ralo 
+- Revuelto 
+- ralo 
+- Lamborghini 
+Car 2: Lamborghini Aventador SVJ
+
+- Engine Type: 6.5 L natur aspirated V12 [86,90]
+- Engine Capacity: 6.5 L [86,87]
+- Horsepower: 770 horsepower [191,192]
+- Weight: 1,525 K dry [221,223]
+- Torque: 720 n m of torque [194,198]
+- Gearbox: 7-speed single clutch robotized manual gearbox [208,213]
+- Quarter Mile Time: 10.7 seconds [1886,1887]
+
+Car 2 Aliases:
+- Lamborghini Aventador svj 
+- svj 
+- Aventador svj 

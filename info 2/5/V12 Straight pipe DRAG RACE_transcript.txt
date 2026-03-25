@@ -1,0 +1,71 @@
+Transcript Name: V12 Straight pipe DRAG RACE_transcript
+
+---
+
+Car 1: Lamborghini Aventador SV
+
+- Engine Type: 6.5 L naturally aspirated V12 [108,112]
+- Engine Capacity: 6.5 L [109,110]
+- Horsepower: 750 horsepower [114,115]
+- Weight: 1,600 kg [139,140]
+- Torque: 690 NM of torque [116,119]
+- Gearbox: 7-speed robotized manual gearbox with launch control [127,133]
+- Quarter Mile Time: 10.9 seconds [1262,1263]
+
+---
+
+Car 1 Aliases:
+- Lamborghini Aventador SV 
+- Aventador 
+- Lambo 
+---
+Car 2: Lamborghini Revuelto
+
+- Engine Type: 6.5 L natur aspirated V12 plus a hybrid system with three electric motors [154,166]
+- Engine Capacity: 6.5 L [109,110]
+- Horsepower: 1,5 horsepower [114,115]
+- Weight: 1900 kg [202,203]
+- Torque: 162 Newt M of torque [175,179]
+- Gearbox: 8-speed dual clutch automatic gear box with launch control [187,195]
+- Quarter Mile Time: 10.1 seconds [1262,1263]
+
+---
+
+Car 2 Aliases:
+- Lamborghini roal 
+- Revuelto
+---
+Car 3: Ferrari 812 Superfast
+
+- Engine Type: 6.5 L naturally aspirated V12 [108,112]
+- Engine Capacity: 6.5 L [109,110]
+- Horsepower: 800 horsepower [114,115]
+- Weight: 1,600 kg [139,140]
+- Torque: 718 NM of torque [224,227]
+- Gearbox: 7-speed dual clutch automatic gearbox with launch control [188,195]
+- Quarter Mile Time: 10.8 seconds [1262,1263]
+
+---
+
+Car 3 Aliases:
+- Ferrari 8812 super fast 
+- Ferrari 
+- 812 
+---
+Car 4: Porsche 911 GT3
+
+- Engine Type: 4 L naturo aspirated Flat 6 [262,267]
+- Engine Capacity: 4 L [263,264]
+- Horsepower: 510 horsepower [114,115]
+- Weight: 1,400 kg [296,297]
+- Torque: 470 newm of tourque [271,274]
+- Gearbox: 7-speed pdk dual clutch automatic gearbox with launch control [187,195]
+- Quarter Mile Time: 11.7 seconds [1262,1263]
+
+---
+
+Car 4 Aliases:
+- porsche1 GT3 
+- Porsche 
+- GT3 
+---

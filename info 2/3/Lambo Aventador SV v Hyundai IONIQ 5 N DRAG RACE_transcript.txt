@@ -1,0 +1,32 @@
+Transcript Name: Lambo Aventador SV v Hyundai IONIQ 5 N DRAG RACE_transcript
+
+Car 1: Hyundai IONIQ 5 N
+
+- Engine Type: two electric motors [81,83]
+- Engine Capacity: [EMPTY]
+- Horsepower: 650 horsepower [88,89]
+- Weight: 2.2 tons [102,103]
+- Torque: 770 newm of torque [90,93]
+- Gearbox: [EMPTY]
+- Quarter Mile Time: 11.3 seconds [1340,1341]
+
+Car 1 Aliases:
+- Hyandai ionic 5n 
+- Hyundai ionic 5n 
+- ionic n 
+- high and ey 
+Car 2: Lamborghini Aventador SV
+
+- Engine Type: 6.5 L naturally aspirated V12 [264,268]
+- Engine Capacity: 6.5 L [264,265]
+- Horsepower: 750 horsepower [88,89]
+- Weight: 1525 [290,290]
+- Torque: 690 Newton M [274,276]
+- Gearbox: 7speed automatic gearbox [284,286]
+- Quarter Mile Time: 10.9 seconds [1332,1333]
+
+Car 2 Aliases:
+- Lamborghini Aventador SV 
+- Lambo 
+- Aventador SV 
+- Lamborghini 

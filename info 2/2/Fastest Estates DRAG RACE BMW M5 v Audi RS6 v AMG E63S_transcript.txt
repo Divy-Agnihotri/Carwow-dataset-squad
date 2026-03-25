@@ -1,0 +1,48 @@
+Transcript Name: Fastest Estates DRAG RACE BMW M5 v Audi RS6 v AMG E63S_transcript
+
+Car 1: Audi RS6 Performance
+- Engine Type: 4 L twinturbo V8, [82,85]
+- Engine Capacity: 4 L [82,83]
+- Horsepower: 630 horsepower, [86,87]
+- Weight: 2,475 kg [152,153]
+- Torque: 850 N meters of torque, [88,92]
+- Gearbox: 8-speed automatic gearbox with launch control. [98,103]
+- Quarter Mile Time: 11.3 seconds. [1454,1455]
+
+Car 1 Aliases:
+- Audi RS6 Avant 
+- Audi RS6 Performance 
+- Audi 
+- this car 
+- the Audi 
+---
+Car 2: BMW M5 Touring
+- Engine Type: 4.4 L twin turbo V8 with an electric motor, [119,127]
+- Engine Capacity: 4.4 L [120,121]
+- Horsepower: 727 horsepower, [129,130]
+- Weight: 2,475 kg [152,153]
+- Torque: 1,00 new m of torque, [132,136]
+- Gearbox: 8-speed automatic gearbox with launch control. [98,103]
+- Quarter Mile Time: 11.4 seconds, [1460,1461]
+
+Car 2 Aliases:
+- BMW M5 Touring 
+- BMW 
+- this car 
+- the BMW 
+---
+Car 3: Mercedes AMG E63S Estate
+- Engine Type: 4 L twin turbo V8, [81,85]
+- Engine Capacity: 4 L [82,83]
+- Horsepower: 612 horsepower, [86,87]
+- Weight: 1,995 kg [195,196]
+- Torque: 850 new m of torque, [132,136]
+- Gearbox: 9-speed automatic gearbox with launch control. [98,103]
+- Quarter Mile Time: 11.7 seconds. [1474,1475]
+
+Car 3 Aliases:
+- Mercedes AMG E63S Estate 
+- Mercedes 
+- this car 
+- the Mercedes 
+---

@@ -1,0 +1,33 @@
+Transcript Name: Koenigsegg Regera v Agera RST DRAG RACE_transcript
+
+Car 1: Koenigsegg Reggera
+
+- Engine Type: 5 L twin turbo V8 running on E85 fuel plus three electric motors [199,211]
+- Engine Capacity: 5 L [200,201]
+- Horsepower: 1500 horsepower [219,220]
+- Weight: 1,590 kg [282,283]
+- Torque: 2,000 Newton meters of torque. [223,227]
+- Gearbox: single speed torque converter gearbox. [238,242]
+- Quarter Mile Time: 10.3 seconds. [1420,1421]
+
+Car 1 Aliases:
+- Koigseg Reggera 
+- Reggera 
+- Koigseg 
+- Reggera 
+Car 2: Koenigsegg Aggera RS
+
+- Engine Type: 5 L twin turbo V8 running on E85 fuel [199,207]
+- Engine Capacity: 5 L [200,201]
+- Horsepower: 1,360 horsepower [328,329]
+- Weight: 1,395 kg [360,361]
+- Torque: 1570 Nm of torque. [331,334]
+- Gearbox: seven-speed dual clutch automatic gearbox [347,351]
+- Quarter Mile Time: 10.4 seconds. [1427,1428]
+
+Car 2 Aliases:
+- Koigseg Aggera RS 
+- Aggera RS 
+- Aggera 
+- Koenix 
+- Agera RS 

@@ -1,0 +1,32 @@
+Transcript Name: Ferrari V12 vs NISMO V6 DRAG RACE_transcript
+
+Car 1: Nissan GTR Nismo
+- Engine Type: 3.8 L twin turbo V6 [95,99]
+- Engine Capacity: 3.8 L [96,97]
+- Horsepower: 600 horsepower [104,105]
+- Weight: 1,725 kg [133,134]
+- Torque: 652 new M of torque [107,111]
+- Gearbox: six-speed dual clutch automatic gearbox [121,125]
+- Quarter Mile Time: 10.6 seconds [1307,1308]
+
+Car 1 Aliases:
+- Nissan GTR Nismo 
+- Nissan 
+- this car 
+- the Nissan 
+---
+Car 2: Ferrari 812 Superfast
+- Engine Type: 6.5 L natural aspirated V12 [166,170]
+- Engine Capacity: 6.5 L [167,168]
+- Horsepower: 800 horsepower [104,105]
+- Weight: 1,630 kg [205,206]
+- Torque: 78 new M of torque [107,111]
+- Gearbox: 7-speed dual clutch automatic gearbox [121,125]
+- Quarter Mile Time: 10.7 seconds [1313,1314]
+
+Car 2 Aliases:
+- Ferrari 812 Superfast 
+- Ferrari 
+- this car 
+- the Ferrari 
+---

@@ -1,0 +1,56 @@
+Transcript Name: New BMW M5 v RS6 Perf v AMG GT 63 DRAG RACE_transcript
+
+---
+
+Car 1: BMW M5
+
+- Engine Type: 4.4 L twin turbocharged V8 [79,83]
+- Engine Capacity: 4.4 L [80,81]
+- Horsepower: 727 h power [100,102]
+- Weight: 2,435 kg [132,133]
+- Torque: 1,000 newm of torque [105,108]
+- Gearbox: 8-speed automatic gearbox [120,122]
+- Quarter Mile Time: 11.3 seconds [1908,1909]
+
+---
+
+Car 1 Aliases:
+- BMW M5 
+- BMW 
+- M5 
+---
+Car 2: Audi RS6 performance
+
+- Engine Type: 4 L twin turbo V8 [152,156]
+- Engine Capacity: 4 L [152,153]
+- Horsepower: 630 horsepower [160,161]
+- Weight: 2,7 5 kilos [189,191]
+- Torque: 850 new M of torque [163,167]
+- Gearbox: 8-speed automatic gearbox [120,122]
+- Quarter Mile Time: 11.4 seconds [1922,1923]
+
+---
+
+Car 2 Aliases:
+- Audi RS6 performance 
+- Audi 
+- RS6 
+---
+Car 3: Mercedes AMG GT four-door 63s
+
+- Engine Type: 4 L twin turbo V8 [152,156]
+- Engine Capacity: 4 L [152,153]
+- Horsepower: 639 horsepower [160,161]
+- Weight: 2,135 kg [247,248]
+- Torque: 900 newm of torque [105,108]
+- Gearbox: 9-speed automatic gearbox [120,122]
+- Quarter Mile Time: 11.4 seconds [1922,1923]
+
+---
+
+Car 3 Aliases:
+- Mercedes mg gt63 four-door s 
+- Mercedes AMG GT four-door 63s 
+- AMG 
+- Mercedes 
+---

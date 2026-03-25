@@ -1,0 +1,46 @@
+Transcript Name: Honda S2000 v Supercharged GT86 MX-5 DRAG RACE_transcript
+
+Car 1: Mazda MX5
+- Engine Type: 2 L 4-cylinder petrol engine [115,119]
+- Engine Capacity: 2 L [113,114]
+- Horsepower: 260 horsepower [123,124]
+- Weight: 1,132 kilos [174,175]
+- Torque: 280 newon M of torque [151,155]
+- Gearbox: six-speed manual gearbox [167,169]
+- Quarter Mile Time: 14.6 seconds [1401,1402]
+
+Car 1 Aliases:
+- Mazda MX5 
+- MX5 
+- this car 
+- the Mazda 
+---
+Car 2: Toyota GT86
+- Engine Type: 2 L 4-cylinder petrol engine [115,119]
+- Engine Capacity: 2 L [113,114]
+- Horsepower: 280 horsepower [123,124]
+- Weight: 1,270 kilos [245,246]
+- Torque: 300 NM of torque [223,226]
+- Gearbox: six-speed manual transmission [238,240]
+- Quarter Mile Time: 15 seconds [1406,1407]
+
+Car 2 Aliases:
+- Toyota GT86 
+- GT86 
+- this car 
+- the Toyota 
+---
+Car 3: Honda S2000
+- Engine Type: 2 L 4-cylinder petrol engine [115,119]
+- Engine Capacity: 2 L [113,114]
+- Horsepower: 240 horsepower [123,124]
+- Weight: 1,270 kilos [245,246]
+- Torque: 207 n m of torque [275,279]
+- Gearbox: six-speed manual gearbox [167,169]
+- Quarter Mile Time: 15.6 seconds [1401,1402]
+
+Car 3 Aliases:
+- Honda S2000 
+- Honda 
+- this car 
+- the Honda 

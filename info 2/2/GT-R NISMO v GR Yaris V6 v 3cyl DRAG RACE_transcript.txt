@@ -1,0 +1,32 @@
+Transcript Name: GT-R NISMO v GR Yaris V6 v 3cyl DRAG RACE_transcript
+
+Car 1: Nissan GTR Nismo
+- Engine Type: 3.8 L twin turbo V6 [97,101]
+- Engine Capacity: 3.8 L [98,99]
+- Horsepower: 600 horsepower [67,68]
+- Weight: 1,725 kg [135,136]
+- Torque: 652 Newton met of torque [109,113]
+- Gearbox: six-speed dual clutch automatic gearbox [123,127]
+- Quarter Mile Time: 10.9 seconds [1134,1135]
+
+Car 1 Aliases:
+- Nissan GTR Nismo 
+- Nissan 
+- this car 
+- the Nissan 
+---
+Car 2: Toyota GR Yaris
+- Engine Type: 1.6 L turbocharged 3-cylinder petrol engine [158,163]
+- Engine Capacity: 1.6 L [156,157]
+- Horsepower: 630 horsepower [67,68]
+- Weight: 1,280 kg [218,219]
+- Torque: 430 newm of torque [170,173]
+- Gearbox: 7-speed sequential manual transmission [208,211]
+- Quarter Mile Time: 11.1 seconds [1140,1141]
+
+Car 2 Aliases:
+- Toyota GR Yaris 
+- Toyota 
+- this car 
+- the Toyota 
+---

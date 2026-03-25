@@ -1,0 +1,58 @@
+Transcript Name: New Audi S5 v New AMG C43 v BMW M340i DRAG RACE_transcript
+
+---
+
+Car 1: Audi S5
+
+- Engine Type: 3 l turbocharged V6 [68,71]
+- Engine Capacity: 3 l [69,70]
+- Horsepower: 367 horsepower [74,75]
+- Weight: 1,950 kilos [100,101]
+- Torque: 550 newm of torque [77,80]
+- Gearbox: 7-speed automatic gearbox [90,92]
+- Quarter Mile Time: 12.8 seconds [1399,1400]
+
+---
+
+Car 1 Aliases:
+- Audi S5 
+- S5 
+- Audi 
+- Quattro 
+---
+Car 2: Mercedes AMG C43
+
+- Engine Type: 2 L turbocharged 4- cylinder petrol Engine [208,214]
+- Engine Capacity: 2 L [208,209]
+- Horsepower: 435 horsepower [74,75]
+- Weight: 1,810 kilos [241,242]
+- Torque: 500 newm of torque [77,80]
+- Gearbox: 9speed automatic gearbox [90,92]
+- Quarter Mile Time: 3 seconds [1393,1394]
+
+---
+
+Car 2 Aliases:
+- Mercedes AMG c43 
+- Mercedes 
+- AMG 
+- Merc 
+---
+Car 3: BMW M340i
+
+- Engine Type: 3 l turbocharged straight 6 [137,141]
+- Engine Capacity: 3 l [69,70]
+- Horsepower: 374 horsepower [74,75]
+- Weight: 1,670 kilos [169,170]
+- Torque: 500 newm of torque [77,80]
+- Gearbox: 8speed automatic gearbox [90,92]
+- Quarter Mile Time: 3 seconds [1393,1394]
+
+---
+
+Car 3 Aliases:
+- BMW m340i 
+- BMW 
+- m340i 
+- Beamer 
+---

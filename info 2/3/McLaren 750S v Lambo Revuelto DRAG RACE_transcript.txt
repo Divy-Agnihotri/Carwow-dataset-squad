@@ -1,0 +1,31 @@
+Transcript Name: McLaren 750S v Lambo Revuelto DRAG RACE_transcript
+
+Car 1: Lamborghini Revuelto
+
+- Engine Type: 6.5 L natural aspirated V12 engine made to an electric motor [61,71]
+- Engine Capacity: 6.5 L [62,63]
+- Horsepower: 1,5 horsepower [114,115]
+- Weight: 1,772 kilos dry [129,131]
+- Torque: 1,62 Newt M of torque [118,122]
+- Gearbox: 8-speed dual clutch automatic gearbox [83,87]
+- Quarter Mile Time: 10.1 seconds [1395,1396]
+
+Car 1 Aliases:
+- Lamborghini RTO 
+- Revuelto 
+- Lambo 
+- Lamborghini 
+Car 2: McLaren 750S
+
+- Engine Type: 4 L twin turbo V8 [154,158]
+- Engine Capacity: 4 L [154,155]
+- Horsepower: 750 horsepower [114,115]
+- Weight: 1,389 kg [188,189]
+- Torque: 800 NM of torque [165,168]
+- Gearbox: 7-speed dual clutch automatic gearbox [83,87]
+- Quarter Mile Time: 10.6 seconds [1395,1396]
+
+Car 2 Aliases:
+- McLaren 750s 
+- McLaren 
+- 750s 

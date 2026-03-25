@@ -1,0 +1,30 @@
+Transcript Name: McLaren P1 v Ferrari 296 DRAG RACE_transcript
+
+Car 1: McLaren P1
+
+- Engine Type: 3.8 twinturbo V8 hybrid with a little bit of electric. [201,210]
+- Engine Capacity: 3.8 [169, 169]
+- Horsepower: 916 horsepower, [215,216]
+- Weight: 1490 kg. [231,232]
+- Torque: 900 Newton meters, [86,88]
+- Gearbox: seven-speed, dual clutch auto, [225,228]
+- Quarter Mile Time: 10.1 seconds. [1217,1218]
+
+Car 1 Aliases:
+- McLaren P1 
+- P1 
+- McLaren 
+Car 2: Ferrari 296 GTB
+
+- Engine Type: 3 L twin turbo V6 mated to electric motor [70,78]
+- Engine Capacity: 3 L [71,72]
+- Horsepower: 830 horsepower [83,84]
+- Weight: £1,570 kilos [111,112]
+- Torque: 740 Newton meters of torque. [86,90]
+- Gearbox: 8-speed dual clutch automatic gearbox. [100,104]
+- Quarter Mile Time: 10.1 seconds. [1217,1218]
+
+Car 2 Aliases:
+- Ferrari 296 GTB 
+- Ferrari 
+- 296 

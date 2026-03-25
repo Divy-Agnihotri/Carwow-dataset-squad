@@ -1,0 +1,32 @@
+Transcript Name: Lambo Huracan v Porsche 911 GT3 RS DRAG RACE_transcript
+
+Car 1: Porsche 911 GT3 RS
+
+- Engine Type: 4 L natur aspirated flat six [57,62]
+- Engine Capacity: 4 L [58,59]
+- Horsepower: 525 horsepower [67,68]
+- Weight: 1,450 kg [94,95]
+- Torque: 465 newm of torque [70,73]
+- Gearbox: 7-speed pdk automatic gearbox [84,87]
+- Quarter Mile Time: 11.2 seconds [1570,1571]
+
+Car 1 Aliases:
+- por 91 GT3 RS 
+- GT3 RS 
+- Porsche 
+- 911 GT3 RS 
+Car 2: Lamborghini Huracan Sterrato
+
+- Engine Type: 5.2 L natur aspirated V10 [109,113]
+- Engine Capacity: 5.2 L [110,111]
+- Horsepower: 610 horsepower [118,119]
+- Weight: 1,470 kilos [144,145]
+- Torque: 560 newm of torque [70,73]
+- Gearbox: 7-speed dual clutch automatic gearbox [133,137]
+- Quarter Mile Time: 10.9 seconds [1564,1565]
+
+Car 2 Aliases:
+- Lamborghini Hurrican Stato 
+- Stato 
+- Lambo 
+- Lamborghini 

@@ -1,0 +1,29 @@
+Transcript Name: Audi RS7 Performance v IONIQ 5 N DRAG RACE_transcript.txt
+
+Car 1: Audi RS7 Performance
+- Engine Type: 4 L twin turbo V8 [61,65]
+- Engine Capacity: 4 L [61,62]
+- Horsepower: 630 horsepower [67,68]
+- Weight: 265 kilos [91,92]
+- Torque: 850 n m of torque [70,74]
+- Gearbox: 8-speed automatic gearbox [84,86]
+- Quarter Mile Time: 11.3 seconds [968,969]
+
+Car 1 Aliases:
+- Audi RS7 performance 
+- Audi R7 performance 
+- RS7 
+---
+Car 2: Hyundai Ioniq 5 N
+- Engine Type: two electric motors [104,106]
+- Engine Capacity: [Empty]
+- Horsepower: 650 horsepower [67,68]
+- Weight: 2235 kilos [131,132]
+- Torque: 770 newm of torque [124,127]
+- Gearbox: [Empty]
+- Quarter Mile Time: 11.3 seconds [968,969]
+
+Car 2 Aliases:
+- hyai ionic 5n 
+- Hyandai ronic 5n 
+- high and ey 

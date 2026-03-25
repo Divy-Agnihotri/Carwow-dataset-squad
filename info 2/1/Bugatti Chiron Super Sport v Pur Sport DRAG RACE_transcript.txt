@@ -1,0 +1,30 @@
+Transcript Name: Bugatti Chiron Super Sport v Pur Sport DRAG RACE_transcript.txt
+
+Car 1: Bugatti Chiron Super Sport
+- Engine Type: 8 L quadturbo W16 [65,68]
+- Engine Capacity: 8 L [65,66]
+- Horsepower: 1600 horsepower, [70,71]
+- Weight: 1,995 kgs [95,96]
+- Torque: 1,600 new m of torque, [73,77]
+- Gearbox: seven-speed dual clutch automatic with launch control. [83,89]
+- Quarter Mile Time: 9.7 seconds. [898,899]
+
+Car 1 Aliases:
+- Bugatti Chiron Super Sport 
+- Bugatti Chiron Super Sport 
+- Super Sport 
+---
+Car 2: Bugatti Chiron Pur Sport
+- Engine Type: 8 liter quad turbo W160. [112,116]
+- Engine Capacity: 8 liter [112,113]
+- Horsepower: 1500 horsepower, [70,71]
+- Weight: 1,945 kilos. [171,172]
+- Torque: 1,600 Newton meters of torque [124,128]
+- Gearbox: 7-speed dual clutch automatic gearbox. [145,149]
+- Quarter Mile Time: 9.4 seconds. [891,892]
+
+Car 2 Aliases:
+- Bugatti Chiron persport 
+- Bugatti Shiron Purport 
+- Pur Sport 
+---

@@ -1,0 +1,74 @@
+Transcript Name: New VW Golf R v BMW M135 v Audi S3 v AMG A35 DRAG RACE_transcript
+
+---
+
+Car 1: Volkswagen Golf R
+
+- Engine Type: 2 L 4cylinder turbocharged petrol engine [86,91]
+- Engine Capacity: 2 L [87,88]
+- Horsepower: 333 horsepower [96,97]
+- Weight: 1,548 kg [127,128]
+- Torque: 4 420 n m of torque [99,104]
+- Gearbox: 7speed dual clutch automatic gearbox [116,120]
+- Quarter Mile Time: 12.8 seconds [2777,2778]
+
+---
+
+Car 1 Aliases:
+- Volkswagen Golf R 
+- Golf R 
+- golf 
+---
+Car 2: BMW M135
+
+- Engine Type: 2 L 4 cylinder turbocharged petrol engine [86,92]
+- Engine Capacity: 2 L [87,88]
+- Horsepower: 300 horsepower [96,97]
+- Weight: 1,550 kg [179,180]
+- Torque: 400 newm of torque [153,156]
+- Gearbox: 7-speed dual clutch automatic gearbox [116,120]
+- Quarter Mile Time: 13.3 seconds [2803,2804]
+
+---
+
+Car 2 Aliases:
+- BMW m135 
+- BMW 
+- m135 
+- Beamer 
+---
+Car 3: Audi S3
+
+- Engine Type: 2 L 4-cylinder turbocharged petrol engine [86,91]
+- Engine Capacity: 2 L [87,88]
+- Horsepower: 333 horsepower [96,97]
+- Weight: 1,535 kg [240,241]
+- Torque: 420 new M of torque [100,104]
+- Gearbox: 7-speed dual clutch automatic gearbox [116,120]
+- Quarter Mile Time: 12.9 seconds [2783,2784]
+
+---
+
+Car 3 Aliases:
+- Audi S3 
+- S3 
+- Audi 
+---
+Car 4: Mercedes AMG A35
+
+- Engine Type: 2 L 4cylinder turbocharge petrol engine [86,91]
+- Engine Capacity: 2 L [87,88]
+- Horsepower: 306 horsepower [96,97]
+- Weight: 1,495 kilos [296,297]
+- Torque: 400 NT M of torque [100,104]
+- Gearbox: 8-speed dual clutch automatic gearbox [116,120]
+- Quarter Mile Time: 13.2 seconds [2788,2789]
+
+---
+
+Car 4 Aliases:
+- Mercedes AMG A35 
+- Mercedes 
+- AMG 
+- Merc 
+---
