@@ -2,12 +2,6 @@
 
 ---
 
-# 🚨🚨🚨 MORE CODE COMING SOON 🚨🚨🚨
-
-## ⚠️ Additional parts of this project will be uploaded as I get time. Stay tuned for updates!
-
----
-
 This repository contains a fully custom-built Question Answering (QA) dataset focused on **car drag race data**, designed for fine-tuning BERT-based models (e.g., RoBERTa, BERT, DistilBERT).
 
 The dataset is built from **YouTube transcripts**, processed and transformed into **SQuAD v2.0 format**, and further converted into a **Hugging Face Arrow dataset** for seamless training.
